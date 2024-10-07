@@ -5,4 +5,4 @@
 q: mb also include it for concepts varying from concrete to abstract.
 example what color do you associate with the right. 
 
-q: mb use word embeddings 
+q: mb use word embeddings  a
