@@ -1,0 +1,5 @@
+Question: {question}
+
+Answer: {answer}
+
+Is this answer true or false for this question? You must choose either True or False.

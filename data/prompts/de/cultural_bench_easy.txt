@@ -1,0 +1,3 @@
+Um die folgende Multiple-Choice-Frage zu beantworten, sollten Sie nur eine Option aus A, B, C, D auswählen. Anweisung: Sie müssen eine Option aus A, B, C, D auswählen. Geben Sie nichts anderes aus.
+
+Frage: {question}

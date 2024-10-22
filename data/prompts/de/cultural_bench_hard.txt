@@ -1,0 +1,5 @@
+Frage: {question}
+
+Antwort: {answer}
+
+Ist diese Antwort auf diese Frage richtig oder falsch? Sie müssen entweder „Richtig“ oder „Falsch“ auswählen.

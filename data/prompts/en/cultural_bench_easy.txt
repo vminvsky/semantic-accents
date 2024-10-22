@@ -1,0 +1,3 @@
+To answer the following multiple-choice question, you should choose one option only among A,B,C,D. Instruction: You must select one option among A,B,C,D. Do not output any other things.
+
+Question: {question}
