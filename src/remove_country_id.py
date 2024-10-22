@@ -5,9 +5,13 @@ import backoff
 import pandas as pd
 from datasets import load_dataset
 
+from dotenv import load_dotenv
+
+load_dotenv()
+
 # Set up the OpenAI Azure async client
 client = openai.AsyncAzureOpenAI(
-    api_key="e36dea00403e498382f4f606c027e4c9",
+    api_key=os.getenv("OPENAI_API_KEY"),
     azure_endpoint="https://api-ai-sandbox.princeton.edu",
     api_version="2024-02-01"
 )
