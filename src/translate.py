@@ -42,9 +42,11 @@ def process_question(question: str, language: str):
 
 # Main async function to handle the dataset and API calls
 async def main():
-    debug = True 
-    MODEL_NAME = 'GPT-4o' # "Meta-Llama-3-1-70B-Instruct-htzs", 'GPT-4o'
+    debug = False
+    MODEL_NAME = 'gpt-4o' # "Meta-Llama-3-1-70B-Instruct-htzs", 'GPT-4o'
     data_dir = f'data/cultural_bench/{MODEL_NAME}'
+    if not os.path.exists(data_dir):
+        raise ValueError(f"First create the prompt_no_country dataset.")
     cols_to_translate_over = ['prompt_question', 'prompt_no_country', 
                               'prompt_option_a', 'prompt_option_b', 
                               'prompt_option_c', 'prompt_option_d']
@@ -53,7 +55,7 @@ async def main():
     for i, country in enumerate(['Germany', 'Japan', 'Russia']):
         data = pd.read_json(os.path.join(data_dir, 'no_country.jsonl'), lines=True)
         if debug: 
-            data = data.head(50)
+            data = data.head(20)
         for col in cols_to_translate_over:
             # Cap the number of concurrent requests
             lang_name = country_languages[country][0]

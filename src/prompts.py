@@ -55,6 +55,7 @@ class CulturalBenchDataset(Dataset):
             return prompt
 
     def _easy_formatting(self, row):
+        # formats a row depending on the necessary stuff
         prompt_template = self.prompt_template
 
         if self.include_country is True:
@@ -74,10 +75,12 @@ class CulturalBenchDataset(Dataset):
         return prompt, answer, country, question_idx
 
     def _return_options(self, row):
+        # converts option cols to list, simply silly helper
         options = [row[self.col_mapping[f'option_{option}']] for option in ['a', 'b', 'c', 'd']]
         return options
     
     def _add_options(self, prompt, options):
+        # adds options to the prompt in the correct format
         return prompt + '\n' + '\n'.join([f"{char}: {option}" for char, option in zip(self.options, options)])
 
     def _create_col_mapping(self):
