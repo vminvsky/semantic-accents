@@ -1,0 +1,1162 @@
+{"logprobs": {"D": -0.45331636, "A": -2.0596836, "Die": -2.3017795, "Ant": -2.6439846, "C": -3.9160697}, "answer": "C", "country": "Netherlands", "question_idx": 0}
+{"logprobs": {"A": -0.4186018, "Ant": -1.8706949, "D": -2.537176, "C": -3.0897806, "B": -3.6422079}, "answer": "B", "country": "South Korea", "question_idx": 1}
+{"logprobs": {"B": -0.5979211, "C": -1.7092149, "Die": -2.6092565, "D": -2.8439233, "A": -2.8524644}, "answer": "B", "country": "Nigeria", "question_idx": 2}
+{"logprobs": {"B": -1.3015633, "Ich": -2.1504784, "C": -2.371336, "A": -2.4468803, "Ent": -2.5781593}, "answer": "C", "country": "Spain", "question_idx": 3}
+{"logprobs": {"B": -0.011892447, "Die": -5.117239, "Ant": -5.7607193, "Ich": -6.6571903, "Me": -7.8167324}, "answer": "A", "country": "Morocco", "question_idx": 4}
+{"logprobs": {"B": -0.68852925, "A": -1.6779225, "Die": -1.9500134, "C": -2.5405152, "D": -2.5526383}, "answer": "C", "country": "India", "question_idx": 5}
+{"logprobs": {"A": -0.22162074, "Ant": -3.2084162, "Die": -3.2844183, "B": -3.3681052, "Um": -3.4125178}, "answer": "A", "country": "United Kingdom", "question_idx": 6}
+{"logprobs": {"B": -0.7222836, "C": -1.4452641, "A": -2.617532, "Ich": -2.8491871, "Me": -2.871442}, "answer": "B", "country": "Vietnam", "question_idx": 7}
+{"logprobs": {"A": -0.4504952, "Die": -1.3176694, "Ant": -2.9566388, "Option": -3.6214414, "Um": -4.8466}, "answer": "A", "country": "Malaysia", "question_idx": 8}
+{"logprobs": {"A": -0.14876327, "Die": -2.8211055, "Ant": -2.9089255, "Um": -4.8026443, "B": -4.981853}, "answer": "A", "country": "Malaysia", "question_idx": 9}
+{"logprobs": {"B": -0.35076022, "A": -2.3940876, "C": -2.7358444, "Ich": -3.6177566, "Die": -3.754998}, "answer": "D", "country": "Chile", "question_idx": 10}
+{"logprobs": {"C": -0.35585135, "A": -1.48298, "Ant": -3.5693753, "Die": -3.6891434, "B": -4.629588}, "answer": "C", "country": "Zimbabwe", "question_idx": 11}
+{"logprobs": {"B": -0.21268748, "C": -2.2713633, "A": -3.3561678, "Die": -3.9558802, "D": -4.582694}, "answer": "C", "country": "Egypt", "question_idx": 12}
+{"logprobs": {"A": -0.027359987, "Ant": -4.395442, "B": -4.577792, "Die": -5.841199, "Um": -8.18193}, "answer": "A", "country": "India", "question_idx": 14}
+{"logprobs": {"Um": -0.99751014, "A": -1.865617, "Die": -2.0100834, "Es": -2.6440613, "Da": -2.699609}, "answer": "A", "country": "Japan", "question_idx": 15}
+{"logprobs": {"A": -0.14073198, "B": -2.8495295, "Die": -3.568289, "D": -4.0455647, "C": -4.612221}, "answer": "C", "country": "Iran", "question_idx": 16}
+{"logprobs": {"B": -0.2784232, "C": -1.7673453, "A": -3.8449535, "Die": -4.0144634, "Ant": -4.6917152}, "answer": "C", "country": "South Korea", "question_idx": 17}
+{"logprobs": {"C": -0.3818502, "D": -1.7455645, "A": -3.0828543, "B": -3.4211855, "Die": -4.161002}, "answer": "A", "country": "Philippines", "question_idx": 18}
+{"logprobs": {"C": -0.011088148, "Die": -4.974189, "Ant": -5.6336756, "Ich": -8.115182, "Um": -9.943164}, "answer": "C", "country": "Iran", "question_idx": 20}
+{"logprobs": {"B": -0.46107993, "Die": -2.1669133, "C": -2.2984078, "Ich": -3.5218842, "Da": -3.5321934}, "answer": "C", "country": "Israel", "question_idx": 21}
+{"logprobs": {"B": -0.75214976, "D": -0.88169116, "Die": -2.4893591, "Ant": -4.2305374, "A": -4.6404457}, "answer": "A", "country": "Nigeria", "question_idx": 22}
+{"logprobs": {"A": -0.3286882, "Die": -1.7295537, "Ant": -2.6804814, "B": -4.8730435, "C": -5.1375737}, "answer": "B", "country": "Bangladesh", "question_idx": 23}
+{"logprobs": {"A": -1.0112675, "B": -1.5778245, "Die": -1.9310349, "D": -1.9651021, "C": -2.1251497}, "answer": "D", "country": "Lebanon", "question_idx": 24}
+{"logprobs": {"A": -1.1612161, "C": -1.8425726, "Ant": -2.3348422, "B": -2.5085826, "Die": -2.7026496}, "answer": "A", "country": "Ukraine", "question_idx": 25}
+{"logprobs": {"A": -0.06846006, "Ant": -3.4658408, "B": -4.6915507, "D": -4.9473453, "Die": -5.0406394}, "answer": "A", "country": "Philippines", "question_idx": 27}
+{"logprobs": {"A": -0.008378998, "Ant": -5.5207443, "Die": -6.1883316, "B": -6.909958, "C": -7.708641}, "answer": "A", "country": "Czech Republic", "question_idx": 28}
+{"logprobs": {"C": -0.31276917, "B": -2.003731, "A": -3.03805, "D": -3.3657877, "Die": -3.4857142}, "answer": "C", "country": "Vietnam", "question_idx": 29}
+{"logprobs": {"C": -0.13253108, "D": -3.1661005, "Die": -3.9691057, "B": -4.0137453, "Ich": -4.69596}, "answer": "A", "country": "Italy", "question_idx": 30}
+{"logprobs": {"C": -0.29262966, "A": -1.9389119, "Die": -3.290938, "Ant": -3.828772, "Ich": -4.057135}, "answer": "A", "country": "Spain", "question_idx": 31}
+{"logprobs": {"A": -0.20603837, "B": -2.2383204, "Die": -3.2066126, "Ant": -3.7872152, "C": -4.6716394}, "answer": "A", "country": "Indonesia", "question_idx": 32}
+{"logprobs": {"A": -0.040876407, "Die": -3.5976734, "Ant": -5.109663, "B": -5.701195, "Option": -7.0975914}, "answer": "A", "country": "Indonesia", "question_idx": 33}
+{"logprobs": {"A": -0.009720434, "Ant": -5.063805, "Die": -5.96497, "Option": -7.8613515, "Ich": -9.407001}, "answer": "A", "country": "Indonesia", "question_idx": 34}
+{"logprobs": {"B": -0.13911842, "C": -2.1875365, "Die": -4.6950436, "Ich": -5.702505, "Ant": -6.4255733}, "answer": "A", "country": "Lebanon", "question_idx": 35}
+{"logprobs": {"A": -0.47832054, "D": -2.459869, "Ant": -2.5723853, "Die": -2.6499496, "B": -2.7917209}, "answer": "D", "country": "Lebanon", "question_idx": 36}
+{"logprobs": {"A": -0.044280373, "Die": -3.4642022, "Ant": -4.8017764, "Option": -6.3417106, "B": -7.8472247}, "answer": "A", "country": "Lebanon", "question_idx": 37}
+{"logprobs": {"A": -0.016269904, "Ant": -4.515402, "Die": -5.8639126, "C": -6.7966385, "B": -7.507574}, "answer": "A", "country": "Ukraine", "question_idx": 38}
+{"logprobs": {"B": -1.0113354, "A": -1.0694828, "C": -1.6281185, "Ant": -3.3669205, "D": -3.6594105}, "answer": "D", "country": "Japan", "question_idx": 39}
+{"logprobs": {"A": -0.0050037825, "Ant": -5.414695, "Die": -7.960967, "Option": -9.601695, "Sch": -10.4669695}, "answer": "A", "country": "France", "question_idx": 40}
+{"logprobs": {"A": -0.10667591, "B": -3.3576734, "Ant": -3.403982, "C": -4.8723965, "Ich": -5.284237}, "answer": "A", "country": "Zimbabwe", "question_idx": 41}
+{"logprobs": {"A": -0.014324271, "Ant": -4.698015, "Die": -6.003256, "B": -7.356989, "Option": -7.4323883}, "answer": "A", "country": "Zimbabwe", "question_idx": 42}
+{"logprobs": {"B": -0.0017361094, "Ant": -7.654757, "Ich": -7.889569, "C": -8.309834, "Die": -8.553804}, "answer": "B", "country": "Mexico", "question_idx": 43}
+{"logprobs": {"A": -0.0144102955, "Ant": -4.632273, "Die": -5.5878034, "Option": -8.11009, "Ich": -9.067112}, "answer": "A", "country": "Vietnam", "question_idx": 44}
+{"logprobs": {"A": -0.030691594, "Ant": -3.9457211, "Die": -4.6461473, "Um": -7.5761113, "Option": -8.233789}, "answer": "A", "country": "Saudi Arabia", "question_idx": 45}
+{"logprobs": {"A": -0.0024317862, "Ant": -6.8575344, "Die": -7.1090794, "B": -8.719721, "Ich": -9.393454}, "answer": "A", "country": "Bangladesh", "question_idx": 46}
+{"logprobs": {"A": -0.5845402, "D": -0.86995965, "Ant": -4.95317, "C": -5.184943, "Die": -5.2477007}, "answer": "A", "country": "Czech Republic", "question_idx": 47}
+{"logprobs": {"A": -0.15829712, "C": -2.55415, "Ant": -3.5359998, "Die": -4.253678, "D": -4.899569}, "answer": "D", "country": "France", "question_idx": 48}
+{"logprobs": {"A": -0.06801155, "B": -3.5160286, "Ant": -3.8622391, "Die": -5.646524, "C": -5.752477}, "answer": "C", "country": "Nepal", "question_idx": 49}
+{"logprobs": {"D": -0.9633893, "B": -1.3357419, "A": -2.068143, "C": -2.0933485, "Die": -3.1351442}, "answer": "C", "country": "Morocco", "question_idx": 50}
+{"logprobs": {"Er": -0.4601046, "Es": -1.4349848, "B": -3.7210052, "Die": -3.8501785, "Diese": -4.0098767}, "answer": "D", "country": "South Korea", "question_idx": 51}
+{"logprobs": {"B": -0.0077954177, "A": -6.5062904, "Ant": -6.7494373, "Es": -6.776106, "Die": -6.883497}, "answer": "B", "country": "Romania", "question_idx": 52}
+{"logprobs": {"B": -0.06273008, "A": -3.500621, "C": -4.4885955, "Ant": -5.221475, "D": -5.5424285}, "answer": "B", "country": "Netherlands", "question_idx": 53}
+{"logprobs": {"B": -0.019479616, "C": -4.5284348, "D": -5.4595013, "A": -6.133381, "Ich": -7.288025}, "answer": "C", "country": "Japan", "question_idx": 54}
+{"logprobs": {"B": -0.010934274, "Die": -5.2875743, "Ant": -6.357019, "Um": -6.653604, "Ich": -7.0482783}, "answer": "B", "country": "Netherlands", "question_idx": 55}
+{"logprobs": {"B": -0.007721033, "Die": -5.013916, "Ant": -7.084793, "Ich": -10.060741, "Bitte": -10.723276}, "answer": "B", "country": "Egypt", "question_idx": 56}
+{"logprobs": {"D": -1.0318952, "B": -1.2040563, "Die": -2.3149362, "Es": -2.7852445, "Um": -3.3991475}, "answer": "C", "country": "Egypt", "question_idx": 57}
+{"logprobs": {"A": -0.30572313, "Die": -2.7476978, "Ant": -2.9345207, "Es": -2.9756336, "C": -3.1711216}, "answer": "A", "country": "Germany", "question_idx": 58}
+{"logprobs": {"C": -0.2637452, "Die": -2.30519, "B": -3.0126982, "Um": -3.8640032, "Es": -4.056102}, "answer": "C", "country": "Czech Republic", "question_idx": 59}
+{"logprobs": {"A": -0.006383876, "Ant": -5.415024, "Die": -7.3283405, "Option": -7.896473, "B": -7.9246483}, "answer": "A", "country": "Pakistan", "question_idx": 60}
+{"logprobs": {"D": -0.16297646, "A": -2.8389428, "B": -3.6663125, "Ant": -4.0127573, "Ich": -4.4209166}, "answer": "A", "country": "Indonesia", "question_idx": 61}
+{"logprobs": {"Es": -1.1033146, "A": -1.4262898, "Um": -2.1066353, "Die": -2.4839642, "Da": -2.744941}, "answer": "C", "country": "Brazil", "question_idx": 62}
+{"logprobs": {"A": -0.0012020161, "Ant": -7.135279, "B": -8.95809, "Die": -9.31101, "Option": -10.174963}, "answer": "A", "country": "Russia", "question_idx": 63}
+{"logprobs": {"A": -1.0941358, "Es": -1.6597657, "Um": -1.7590833, "B": -2.4227338, "Die": -2.6426873}, "answer": "A", "country": "Nigeria", "question_idx": 65}
+{"logprobs": {"A": -0.14396082, "Ant": -2.641794, "B": -3.6845376, "C": -4.667574, "Die": -4.845455}, "answer": "A", "country": "Mexico", "question_idx": 66}
+{"logprobs": {"A": -0.18646386, "Ant": -3.0558372, "B": -3.1889243, "C": -3.219911, "Die": -3.7075133}, "answer": "A", "country": "Nepal", "question_idx": 67}
+{"logprobs": {"A": -0.007949772, "Ant": -5.0672894, "Die": -7.1854343, "Option": -7.7402363, "B": -9.128111}, "answer": "A", "country": "Taiwan", "question_idx": 68}
+{"logprobs": {"C": -0.083521925, "Die": -3.6228895, "Ich": -4.569556, "Es": -4.583173, "Ant": -4.9506693}, "answer": "C", "country": "Spain", "question_idx": 69}
+{"logprobs": {"A": -0.95697945, "B": -1.2315614, "Die": -2.2842405, "C": -2.3339384, "D": -2.408594}, "answer": "B", "country": "Iran", "question_idx": 70}
+{"logprobs": {"B": -0.011003371, "Die": -5.1123524, "Ant": -6.510193, "C": -6.8053646, "Ich": -7.28895}, "answer": "A", "country": "Hong Kong", "question_idx": 71}
+{"logprobs": {"A": -0.0174575, "Die": -4.626739, "Ant": -5.019201, "B": -8.390198, "Option": -8.841557}, "answer": "B", "country": "Brazil", "question_idx": 72}
+{"logprobs": {"A": -0.38938633, "Die": -1.7776386, "Um": -3.327161, "Es": -3.372697, "B": -4.221696}, "answer": "A", "country": "Peru", "question_idx": 74}
+{"logprobs": {"C": -0.20232469, "A": -2.3193119, "B": -3.265992, "Die": -4.280204, "Ich": -4.554248}, "answer": "B", "country": "Singapore", "question_idx": 75}
+{"logprobs": {"C": -0.010105587, "Die": -5.680943, "A": -6.227099, "Ant": -6.5668454, "Ich": -6.9332566}, "answer": "C", "country": "Iran", "question_idx": 76}
+{"logprobs": {"A": -0.026382169, "Ant": -4.5253997, "Die": -4.88891, "Um": -5.520328, "Me": -6.9170566}, "answer": "A", "country": "Israel", "question_idx": 78}
+{"logprobs": {"B": -0.020460369, "A": -4.6112943, "Die": -4.9239774, "Ant": -5.8940587, "Ich": -9.796885}, "answer": "A", "country": "Taiwan", "question_idx": 79}
+{"logprobs": {"C": -0.5194984, "Die": -1.8010211, "A": -2.0853152, "B": -2.895843, "D": -3.063518}, "answer": "C", "country": "Iran", "question_idx": 81}
+{"logprobs": {"B": -0.04318188, "Die": -3.2888312, "Ich": -6.6456866, "Ant": -6.820373, "C": -7.575542}, "answer": "C", "country": "Lebanon", "question_idx": 82}
+{"logprobs": {"C": -0.8224176, "A": -0.8300203, "Die": -2.622539, "B": -3.7611232, "Ant": -4.1106563}, "answer": "C", "country": "Turkey", "question_idx": 83}
+{"logprobs": {"C": -0.030332236, "Die": -4.2151065, "Ich": -5.365642, "Um": -5.6155295, "Ant": -6.2679324}, "answer": "A", "country": "Netherlands", "question_idx": 84}
+{"logprobs": {"B": -0.8273132, "C": -1.1392925, "A": -2.7505615, "Die": -2.847224, "Ant": -2.8990943}, "answer": "A", "country": "Indonesia", "question_idx": 85}
+{"logprobs": {"C": -0.008485268, "Die": -5.540588, "Ant": -6.0715117, "Ich": -6.936792, "A": -7.613811}, "answer": "D", "country": "Brazil", "question_idx": 86}
+{"logprobs": {"B": -0.04537969, "Die": -4.3193493, "D": -4.486746, "Ant": -5.055031, "A": -5.2113285}, "answer": "D", "country": "United Kingdom", "question_idx": 87}
+{"logprobs": {"B": -0.36397684, "A": -1.547355, "C": -3.5732093, "Ant": -3.5844207, "Die": -3.7500281}, "answer": "A", "country": "Saudi Arabia", "question_idx": 88}
+{"logprobs": {"A": -0.8663253, "B": -1.7018604, "Es": -2.4695206, "Ant": -2.5853767, "Ich": -2.9867687}, "answer": "D", "country": "Ukraine", "question_idx": 89}
+{"logprobs": {"A": -0.3241981, "D": -2.052914, "Die": -2.3226912, "C": -3.642031, "B": -4.3261914}, "answer": "A", "country": "Japan", "question_idx": 90}
+{"logprobs": {"B": -0.018326692, "A": -4.9670057, "Ich": -5.725997, "Die": -6.128457, "C": -6.8156004}, "answer": "C", "country": "Japan", "question_idx": 91}
+{"logprobs": {"Die": -0.7930459, "C": -1.0591267, "A": -2.26958, "Ant": -3.023059, "B": -4.472556}, "answer": "C", "country": "Japan", "question_idx": 92}
+{"logprobs": {"A": -0.21338022, "Ant": -2.4590259, "D": -3.2050223, "C": -3.9531226, "Die": -4.176105}, "answer": "C", "country": "Peru", "question_idx": 93}
+{"logprobs": {"B": -0.04106018, "Die": -3.4460723, "Ant": -5.2873425, "Um": -6.9433827, "Ich": -7.166432}, "answer": "B", "country": "Bangladesh", "question_idx": 94}
+{"logprobs": {"Die": -1.4113107, "A": -1.6500611, "D": -1.7816453, "Es": -2.0754495, "Ich": -2.7721105}, "answer": "B", "country": "Spain", "question_idx": 95}
+{"logprobs": {"D": -0.057620842, "A": -3.9932535, "C": -4.1683865, "Ant": -5.344734, "Ich": -5.50255}, "answer": "C", "country": "Saudi Arabia", "question_idx": 96}
+{"logprobs": {"A": -0.015578167, "Ant": -4.472026, "Die": -6.139331, "Option": -7.4161615, "Ich": -8.5891485}, "answer": "D", "country": "Ukraine", "question_idx": 97}
+{"logprobs": {"B": -0.05027474, "A": -3.8697252, "Ant": -4.591878, "Die": -5.089061, "C": -6.164006}, "answer": "B", "country": "Bangladesh", "question_idx": 98}
+{"logprobs": {"B": -0.0067083854, "Die": -5.991112, "A": -6.4806333, "Ant": -7.077065, "D": -7.2203603}, "answer": "A", "country": "Philippines", "question_idx": 99}
+{"logprobs": {"C": -0.5031511, "A": -1.3812735, "D": -2.8297312, "Die": -3.1581385, "Ant": -4.092226}, "answer": "C", "country": "Philippines", "question_idx": 100}
+{"logprobs": {"C": -0.2834861, "A": -1.7086227, "Die": -3.5033042, "Ant": -4.929398, "Ich": -5.0638375}, "answer": "C", "country": "Philippines", "question_idx": 101}
+{"logprobs": {"B": -0.29266906, "A": -1.9139478, "C": -3.3837526, "Die": -4.0064487, "Ant": -4.2140217}, "answer": "A", "country": "Netherlands", "question_idx": 102}
+{"logprobs": {"D": -0.041508, "B": -4.0204625, "A": -4.980519, "C": -5.2372994, "Die": -5.347649}, "answer": "B", "country": "New Zealand", "question_idx": 103}
+{"logprobs": {"B": -0.11889531, "A": -2.8629577, "Die": -4.0688677, "C": -4.123378, "Ant": -4.539443}, "answer": "A", "country": "Poland", "question_idx": 104}
+{"logprobs": {"B": -0.15772764, "A": -2.3892398, "C": -3.7508101, "Die": -4.499082, "Ant": -4.7130065}, "answer": "B", "country": "Argentina", "question_idx": 105}
+{"logprobs": {"B": -0.001485224, "Die": -6.941154, "Ant": -8.163016, "A": -9.467307, "Ich": -9.777879}, "answer": "B", "country": "Argentina", "question_idx": 107}
+{"logprobs": {"C": -0.93849254, "Die": -1.3258216, "Ich": -2.9207866, "Ent": -3.042853, "Ant": -3.0566547}, "answer": "A", "country": "China", "question_idx": 108}
+{"logprobs": {"C": -1.5392447, "B": -1.5493708, "Die": -1.568572, "A": -1.6077127, "D": -1.993041}, "answer": "D", "country": "Iran", "question_idx": 109}
+{"logprobs": {"C": -0.79315585, "D": -1.1704714, "A": -2.2512763, "Die": -2.5314867, "B": -3.1341174}, "answer": "A", "country": "Iran", "question_idx": 110}
+{"logprobs": {"C": -0.022291932, "Ant": -5.014888, "A": -5.2300463, "Die": -5.698041, "Ich": -6.255847}, "answer": "B", "country": "Nigeria", "question_idx": 111}
+{"logprobs": {"A": -0.24108309, "Ant": -2.3348446, "B": -3.3523674, "C": -3.8249245, "Bitte": -4.2824593}, "answer": "A", "country": "Germany", "question_idx": 112}
+{"logprobs": {"B": -0.08530173, "Ich": -4.079927, "C": -4.3154826, "Um": -4.4424853, "Die": -4.640302}, "answer": "A", "country": "Peru", "question_idx": 113}
+{"logprobs": {"B": -0.76352865, "C": -1.0703466, "Die": -2.5008485, "A": -3.51251, "Um": -3.83506}, "answer": "A", "country": "Peru", "question_idx": 114}
+{"logprobs": {"C": -0.030567892, "Die": -4.7657385, "Es": -5.2964087, "Ich": -5.751132, "A": -5.8634996}, "answer": "C", "country": "Peru", "question_idx": 115}
+{"logprobs": {"C": -0.066464625, "Die": -3.1246846, "Ich": -5.168807, "Ant": -5.472541, "Fr": -5.7212324}, "answer": "C", "country": "Zimbabwe", "question_idx": 116}
+{"logprobs": {"A": -0.024190206, "Ant": -4.537458, "Die": -5.416656, "Um": -5.42213, "Ich": -6.823812}, "answer": "A", "country": "South Africa", "question_idx": 117}
+{"logprobs": {"B": -0.021459885, "A": -4.7958226, "C": -4.960097, "Die": -6.2507463, "Ich": -6.9110684}, "answer": "A", "country": "Japan", "question_idx": 118}
+{"logprobs": {"B": -0.0011892797, "Ant": -7.6791716, "Die": -7.749196, "A": -9.015109, "Ich": -9.685832}, "answer": "A", "country": "South Korea", "question_idx": 119}
+{"logprobs": {"A": -0.2729943, "B": -2.6342556, "C": -2.7082512, "Die": -2.9773667, "Ant": -3.7487519}, "answer": "A", "country": "South Africa", "question_idx": 120}
+{"logprobs": {"B": -0.001949464, "Ant": -7.2318096, "Die": -7.6196976, "A": -8.321627, "Ich": -8.765966}, "answer": "B", "country": "Lebanon", "question_idx": 121}
+{"logprobs": {"D": -0.18105736, "A": -2.3611054, "C": -3.8700166, "B": -3.8974366, "Die": -4.146294}, "answer": "B", "country": "Lebanon", "question_idx": 122}
+{"logprobs": {"A": -0.46681094, "Die": -2.6756732, "Es": -3.002011, "C": -3.0525444, "Ant": -3.112313}, "answer": "D", "country": "Iran", "question_idx": 123}
+{"logprobs": {"C": -0.010168611, "A": -5.2537293, "Ant": -5.9081903, "Die": -6.947022, "Ich": -7.802508}, "answer": "C", "country": "Philippines", "question_idx": 124}
+{"logprobs": {"C": -0.03562584, "Die": -3.5471978, "Um": -6.5088277, "A": -6.5372605, "Ant": -6.9554887}, "answer": "A", "country": "Nigeria", "question_idx": 125}
+{"logprobs": {"D": -0.020115644, "Die": -4.93592, "Ant": -4.9983454, "A": -6.076421, "Ich": -7.1619177}, "answer": "A", "country": "Brazil", "question_idx": 126}
+{"logprobs": {"B": -0.62551534, "A": -1.773661, "C": -2.0758862, "D": -2.8094563, "Ant": -2.885737}, "answer": "D", "country": "Turkey", "question_idx": 127}
+{"logprobs": {"B": -0.036080144, "Die": -4.6589518, "Ant": -4.7184744, "A": -4.721114, "C": -6.235347}, "answer": "B", "country": "Turkey", "question_idx": 129}
+{"logprobs": {"B": -0.58109045, "C": -2.1612945, "D": -2.4676204, "Die": -2.5379786, "A": -2.561998}, "answer": "D", "country": "Turkey", "question_idx": 130}
+{"logprobs": {"C": -0.36776274, "A": -1.905616, "D": -2.2978776, "Die": -3.9456303, "B": -4.439479}, "answer": "D", "country": "Spain", "question_idx": 131}
+{"logprobs": {"C": -0.10192859, "A": -3.5608158, "B": -3.7559643, "Die": -3.9924755, "Ant": -4.221592}, "answer": "A", "country": "Hong Kong", "question_idx": 132}
+{"logprobs": {"A": -0.695406, "D": -2.0345364, "Die": -2.154152, "B": -2.8027534, "Ant": -2.9151192}, "answer": "D", "country": "Czech Republic", "question_idx": 133}
+{"logprobs": {"A": -1.248169, "C": -1.2913074, "Ant": -2.3177872, "Um": -2.8544636, "Ich": -2.9411812}, "answer": "A", "country": "Germany", "question_idx": 134}
+{"logprobs": {"D": -0.15870936, "Die": -2.9011238, "A": -3.7788513, "Um": -4.3842974, "Ant": -4.4702406}, "answer": "D", "country": "Saudi Arabia", "question_idx": 135}
+{"logprobs": {"A": -0.4416236, "B": -1.8594111, "C": -2.1296425, "Ant": -3.8667793, "D": -4.392601}, "answer": "B", "country": "Saudi Arabia", "question_idx": 136}
+{"logprobs": {"B": -0.016343674, "Ant": -5.52795, "Ich": -5.701589, "A": -6.3549685, "C": -6.4406466}, "answer": "A", "country": "South Korea", "question_idx": 137}
+{"logprobs": {"Es": -1.3500146, "A": -1.4801949, "Ich": -2.3222322, "Diese": -2.3480482, "Die": -2.3525648}, "answer": "A", "country": "Nigeria", "question_idx": 138}
+{"logprobs": {"C": -1.1830003, "A": -1.2066286, "B": -1.5381429, "Die": -1.9473321, "D": -4.2057896}, "answer": "B", "country": "India", "question_idx": 139}
+{"logprobs": {"A": -1.7827878, "B": -2.0687795, "D": -2.0978684, "Ich": -2.1342683, "C": -2.1600366}, "answer": "B", "country": "Netherlands", "question_idx": 140}
+{"logprobs": {"D": -0.06383799, "Ant": -3.8262053, "A": -4.1725245, "Die": -4.387189, "Ich": -5.525386}, "answer": "A", "country": "United States", "question_idx": 141}
+{"logprobs": {"A": -0.15722996, "Die": -2.1632152, "Ant": -4.1538367, "C": -5.0279937, "B": -6.0592284}, "answer": "A", "country": "Iran", "question_idx": 142}
+{"logprobs": {"A": -0.17726883, "Die": -2.2897508, "Ant": -2.9727151, "Option": -4.715624, "Um": -8.37908}, "answer": "A", "country": "South Africa", "question_idx": 143}
+{"logprobs": {"A": -0.16600458, "B": -2.478024, "Die": -3.87044, "Ant": -3.9285035, "Ich": -4.768744}, "answer": "A", "country": "Hong Kong", "question_idx": 145}
+{"logprobs": {"C": -0.008851158, "A": -5.516776, "Ant": -6.076951, "B": -6.9109774, "Die": -7.5768366}, "answer": "A", "country": "Argentina", "question_idx": 146}
+{"logprobs": {"A": -0.010409896, "Ant": -4.9069533, "Die": -6.7593455, "B": -7.943458, "Ich": -8.123247}, "answer": "A", "country": "Argentina", "question_idx": 147}
+{"logprobs": {"A": -0.08524667, "B": -2.6843028, "Ant": -4.975364, "Die": -5.5163875, "C": -7.6282554}, "answer": "A", "country": "Egypt", "question_idx": 148}
+{"logprobs": {"B": -0.01780349, "Die": -4.873944, "Ant": -5.6143327, "C": -6.308871, "A": -6.374039}, "answer": "D", "country": "Brazil", "question_idx": 149}
+{"logprobs": {"C": -0.9159446, "A": -1.4050422, "Die": -2.1515937, "B": -2.738933, "Um": -3.4877315}, "answer": "A", "country": "Hong Kong", "question_idx": 150}
+{"logprobs": {"Es": -0.45596728, "Diese": -2.259701, "Ich": -2.847874, "Ent": -3.1297686, "Die": -3.3160784}, "answer": "A", "country": "United States", "question_idx": 151}
+{"logprobs": {"D": -0.278436, "B": -2.6285126, "Die": -2.8069336, "C": -3.4421914, "Es": -4.064031}, "answer": "C", "country": "Mexico", "question_idx": 152}
+{"logprobs": {"B": -0.34599134, "A": -1.700104, "Die": -2.5442317, "Ant": -3.8730986, "Um": -6.0453377}, "answer": "A", "country": "United Kingdom", "question_idx": 153}
+{"logprobs": {"B": -0.04303573, "Die": -4.2752075, "Ich": -5.0999317, "Ant": -5.2781963, "A": -5.43651}, "answer": "B", "country": "Brazil", "question_idx": 154}
+{"logprobs": {"A": -0.014785868, "Ant": -4.9994106, "Die": -5.693041, "D": -6.784235, "B": -7.0848083}, "answer": "D", "country": "Taiwan", "question_idx": 155}
+{"logprobs": {"C": -0.6695709, "D": -1.1860065, "Die": -2.7410717, "A": -3.127367, "Ant": -3.2737236}, "answer": "D", "country": "Italy", "question_idx": 156}
+{"logprobs": {"C": -0.034322422, "A": -4.56191, "Die": -4.873363, "Ant": -5.3470607, "Ich": -5.6130996}, "answer": "A", "country": "Italy", "question_idx": 157}
+{"logprobs": {"C": -0.7344132, "B": -1.1653137, "A": -1.8667717, "Ant": -3.767933, "Ich": -4.4693737}, "answer": "A", "country": "Italy", "question_idx": 158}
+{"logprobs": {"C": -0.28532076, "A": -1.8364263, "Die": -3.784985, "B": -3.9605947, "Ant": -4.0010552}, "answer": "A", "country": "Italy", "question_idx": 159}
+{"logprobs": {"A": -1.0683541, "B": -1.1508164, "C": -1.6201081, "Ant": -2.7565598, "Die": -3.2999482}, "answer": "A", "country": "Peru", "question_idx": 160}
+{"logprobs": {"Es": -0.752547, "Da": -2.0637958, "Ich": -2.186097, "Ent": -2.295348, "Sorry": -3.2668712}, "answer": "D", "country": "South Africa", "question_idx": 161}
+{"logprobs": {"A": -0.061260883, "Ant": -3.3579834, "B": -4.321345, "C": -4.888865, "Die": -6.851725}, "answer": "A", "country": "Germany", "question_idx": 162}
+{"logprobs": {"D": -0.0057957163, "A": -6.3574953, "Die": -6.4083776, "C": -7.1709127, "B": -7.7579584}, "answer": "A", "country": "China", "question_idx": 163}
+{"logprobs": {"A": -0.31284633, "D": -1.8512203, "B": -2.9324028, "C": -3.3889115, "Die": -4.7080755}, "answer": "A", "country": "Iran", "question_idx": 164}
+{"logprobs": {"A": -0.10711887, "Ant": -3.7510626, "B": -3.778477, "C": -4.302222, "Es": -4.4656644}, "answer": "A", "country": "Indonesia", "question_idx": 165}
+{"logprobs": {"C": -0.4627232, "B": -1.6704412, "A": -2.1058755, "Die": -3.5942369, "Ant": -3.9316583}, "answer": "A", "country": "Thailand", "question_idx": 166}
+{"logprobs": {"B": -0.0017702584, "Die": -6.727757, "Ant": -7.7082524, "Ich": -10.318876, "Option": -11.013731}, "answer": "B", "country": "Pakistan", "question_idx": 167}
+{"logprobs": {"B": -0.03724347, "C": -3.9863725, "A": -5.6778607, "Ant": -5.7869573, "Die": -5.813231}, "answer": "A", "country": "Saudi Arabia", "question_idx": 169}
+{"logprobs": {"D": -0.6516131, "A": -1.440996, "C": -2.3444881, "B": -2.6233807, "Ant": -3.247284}, "answer": "A", "country": "Saudi Arabia", "question_idx": 170}
+{"logprobs": {"C": -0.051463805, "Die": -3.534559, "Ant": -4.040603, "Ich": -7.053573, "A": -7.1929145}, "answer": "C", "country": "Saudi Arabia", "question_idx": 171}
+{"logprobs": {"B": -0.8412199, "C": -1.281434, "Die": -1.6840086, "A": -2.795371, "D": -3.493308}, "answer": "B", "country": "Saudi Arabia", "question_idx": 172}
+{"logprobs": {"B": -0.16293828, "A": -2.6399338, "C": -2.8751938, "Die": -4.5566053, "Ant": -5.0422354}, "answer": "B", "country": "Iran", "question_idx": 173}
+{"logprobs": {"A": -0.004821227, "Ant": -6.1223083, "Die": -6.5156646, "Um": -8.2636385, "B": -8.62655}, "answer": "A", "country": "Argentina", "question_idx": 174}
+{"logprobs": {"B": -0.20827773, "C": -1.8185434, "Ant": -4.816434, "Die": -5.0324755, "D": -5.5987215}, "answer": "A", "country": "Argentina", "question_idx": 175}
+{"logprobs": {"A": -0.038654927, "Ant": -3.2962482, "Option": -7.723965, "Die": -8.153739, "Fr": -9.842183}, "answer": "A", "country": "Argentina", "question_idx": 176}
+{"logprobs": {"B": -0.06517758, "C": -3.9863145, "Die": -4.340013, "Ich": -4.6440997, "A": -5.01111}, "answer": "B", "country": "Australia", "question_idx": 177}
+{"logprobs": {"A": -0.004762499, "Ant": -5.551325, "Die": -7.3965187, "Option": -8.975044, "C": -11.007633}, "answer": "A", "country": "Australia", "question_idx": 178}
+{"logprobs": {"C": -0.011867246, "Die": -5.6112514, "Ich": -5.6214995, "Ant": -6.628553, "Um": -7.374931}, "answer": "C", "country": "Argentina", "question_idx": 179}
+{"logprobs": {"A": -0.104079075, "B": -2.9958694, "Ant": -3.5605743, "C": -4.8433714, "Die": -4.9548006}, "answer": "B", "country": "Argentina", "question_idx": 180}
+{"logprobs": {"Es": -1.3181363, "B": -1.4650003, "Um": -2.1923313, "Ich": -2.3076077, "Da": -2.659317}, "answer": "A", "country": "Argentina", "question_idx": 181}
+{"logprobs": {"B": -0.28694966, "A": -2.2543035, "C": -2.6465344, "D": -3.8022428, "Die": -4.081969}, "answer": "A", "country": "Turkey", "question_idx": 182}
+{"logprobs": {"Die": -0.39992946, "C": -2.324328, "B": -2.3684468, "A": -2.3740678, "Ant": -3.688046}, "answer": "D", "country": "Germany", "question_idx": 183}
+{"logprobs": {"A": -0.012354123, "Ant": -5.502249, "B": -5.5302773, "D": -6.8861446, "Die": -6.8955574}, "answer": "A", "country": "Germany", "question_idx": 184}
+{"logprobs": {"A": -1.0828823, "C": -1.3124584, "Die": -2.7348428, "Ant": -2.858357, "B": -2.9159837}, "answer": "A", "country": "Mexico", "question_idx": 185}
+{"logprobs": {"A": -0.7183863, "C": -1.2545744, "B": -1.9089552, "Ant": -3.4285169, "D": -3.567965}, "answer": "A", "country": "Lebanon", "question_idx": 186}
+{"logprobs": {"D": -0.5051374, "C": -1.6849489, "Ant": -2.6801214, "Die": -2.9251604, "B": -3.123105}, "answer": "D", "country": "France", "question_idx": 187}
+{"logprobs": {"B": -0.020266475, "Die": -4.2402773, "Ant": -5.86448, "A": -6.272954, "Ich": -8.250915}, "answer": "B", "country": "Nigeria", "question_idx": 188}
+{"logprobs": {"B": -0.084509455, "A": -3.7058969, "Die": -4.181233, "Es": -4.9117227, "C": -4.981486}, "answer": "A", "country": "Argentina", "question_idx": 189}
+{"logprobs": {"D": -0.9017755, "A": -1.1178609, "C": -1.6602708, "Die": -3.7969418, "Ant": -3.9945679}, "answer": "C", "country": "Argentina", "question_idx": 190}
+{"logprobs": {"B": -0.09847062, "Die": -3.3349724, "Ich": -4.52116, "Ant": -4.592762, "Um": -4.6228504}, "answer": "A", "country": "Japan", "question_idx": 191}
+{"logprobs": {"Die": -0.80004203, "B": -1.6917466, "A": -2.0005102, "C": -2.6400118, "Ant": -3.2206774}, "answer": "A", "country": "South Africa", "question_idx": 192}
+{"logprobs": {"C": -0.319882, "B": -1.9546534, "A": -3.0797505, "Die": -3.2735734, "D": -3.8051953}, "answer": "A", "country": "Zimbabwe", "question_idx": 193}
+{"logprobs": {"C": -0.37748, "A": -1.6422238, "B": -2.9026742, "D": -3.4556623, "Ant": -3.9446378}, "answer": "A", "country": "Mexico", "question_idx": 194}
+{"logprobs": {"A": -0.38284224, "Die": -1.8750966, "D": -2.6620266, "B": -3.1118805, "C": -3.963815}, "answer": "B", "country": "Mexico", "question_idx": 195}
+{"logprobs": {"A": -0.050862145, "Ant": -4.299855, "B": -4.581958, "C": -5.293536, "Die": -5.300191}, "answer": "A", "country": "Mexico", "question_idx": 196}
+{"logprobs": {"Die": -0.7880459, "C": -1.4364548, "B": -1.9822254, "A": -2.5826416, "Ke": -3.7878342}, "answer": "D", "country": "Philippines", "question_idx": 198}
+{"logprobs": {"D": -0.36774382, "A": -1.6496347, "Die": -3.4313996, "B": -3.6060975, "C": -3.6408627}, "answer": "A", "country": "Peru", "question_idx": 199}
+{"logprobs": {"B": -0.044665534, "A": -3.2951443, "Die": -6.303149, "C": -6.6551847, "Ant": -6.831279}, "answer": "A", "country": "Romania", "question_idx": 200}
+{"logprobs": {"A": -0.88605875, "B": -1.2341843, "D": -1.7342796, "C": -2.5634556, "Ant": -3.5732498}, "answer": "D", "country": "Turkey", "question_idx": 201}
+{"logprobs": {"B": -0.24050672, "Die": -1.6993767, "Ant": -4.160442, "Option": -5.4685206, "Um": -5.6714664}, "answer": "B", "country": "Japan", "question_idx": 202}
+{"logprobs": {"D": -1.3364011, "C": -1.42371, "A": -1.5595227, "Die": -1.7738782, "B": -2.273529}, "answer": "C", "country": "Iran", "question_idx": 203}
+{"logprobs": {"C": -0.04835069, "Die": -3.2259345, "Ant": -5.064922, "Option": -8.128343, "A": -8.262994}, "answer": "C", "country": "Nepal", "question_idx": 204}
+{"logprobs": {"C": -0.046536632, "Die": -3.7434742, "Ant": -3.938329, "Option": -7.3048754, "A": -7.4401693}, "answer": "C", "country": "India", "question_idx": 205}
+{"logprobs": {"B": -0.69718057, "C": -1.7952545, "A": -1.814656, "D": -2.5497596, "Ant": -3.555207}, "answer": "A", "country": "South Africa", "question_idx": 206}
+{"logprobs": {"A": -0.0541596, "Ant": -3.202086, "Die": -5.7661347, "B": -6.51331, "Um": -6.9595304}, "answer": "D", "country": "South Africa", "question_idx": 207}
+{"logprobs": {"C": -0.4302265, "B": -1.0947983, "Die": -5.572524, "Ich": -5.969617, "Sorry": -6.320468}, "answer": "D", "country": "South Africa", "question_idx": 208}
+{"logprobs": {"B": -0.6883248, "A": -1.3634099, "C": -2.4206667, "Ant": -3.2366037, "Ich": -3.3825274}, "answer": "A", "country": "Egypt", "question_idx": 209}
+{"logprobs": {"C": -0.024015767, "Die": -4.7491784, "Ant": -5.3922906, "Ich": -5.548619, "A": -5.6278005}, "answer": "C", "country": "New Zealand", "question_idx": 210}
+{"logprobs": {"A": -0.070719235, "Ant": -4.0068555, "Die": -4.384583, "B": -4.471791, "Um": -4.677323}, "answer": "B", "country": "Russia", "question_idx": 212}
+{"logprobs": {"C": -0.13900566, "A": -2.3136692, "Ant": -4.869009, "Die": -4.9217644, "B": -5.1727047}, "answer": "B", "country": "Spain", "question_idx": 213}
+{"logprobs": {"A": -0.04611724, "Die": -3.79849, "Ant": -4.0751033, "C": -6.725837, "B": -7.295791}, "answer": "A", "country": "Japan", "question_idx": 214}
+{"logprobs": {"A": -0.18872404, "C": -2.1947474, "Die": -3.7872024, "Ant": -4.0290427, "Um": -5.510322}, "answer": "C", "country": "Romania", "question_idx": 215}
+{"logprobs": {"A": -0.3419212, "B": -2.146769, "C": -2.725222, "Die": -3.2056527, "Ant": -3.6093907}, "answer": "A", "country": "Nepal", "question_idx": 216}
+{"logprobs": {"A": -0.0038172954, "Ant": -5.993647, "Die": -7.2887864, "D": -8.716731, "B": -8.945062}, "answer": "A", "country": "Philippines", "question_idx": 218}
+{"logprobs": {"B": -0.0037089812, "Die": -6.1286917, "Ant": -7.628228, "Ich": -7.9571867, "A": -8.301646}, "answer": "A", "country": "Philippines", "question_idx": 219}
+{"logprobs": {"A": -1.1033628, "Die": -1.3550165, "B": -1.4601533, "C": -2.1528318, "Ant": -3.1718385}, "answer": "A", "country": "Russia", "question_idx": 220}
+{"logprobs": {"C": -1.139739, "A": -1.3454103, "B": -2.0513258, "Es": -2.668395, "Ant": -2.8764105}, "answer": "B", "country": "South Korea", "question_idx": 222}
+{"logprobs": {"C": -1.306306, "B": -1.3671523, "D": -1.5358459, "Ant": -2.4103327, "Die": -2.484376}, "answer": "A", "country": "United Kingdom", "question_idx": 223}
+{"logprobs": {"A": -0.42567435, "C": -1.9594764, "D": -2.753086, "B": -3.2179623, "Ich": -3.7899723}, "answer": "D", "country": "Russia", "question_idx": 224}
+{"logprobs": {"D": -0.74689096, "Option": -1.9227333, "A": -1.993145, "Ant": -2.629818, "Die": -3.4584026}, "answer": "A", "country": "South Africa", "question_idx": 225}
+{"logprobs": {"A": -0.7731526, "C": -1.2004864, "B": -2.9178345, "Die": -3.0223897, "Es": -3.1606953}, "answer": "A", "country": "Argentina", "question_idx": 226}
+{"logprobs": {"Die": -0.94331634, "B": -1.2870911, "C": -1.6345624, "D": -2.6684446, "A": -3.0375757}, "answer": "C", "country": "Brazil", "question_idx": 227}
+{"logprobs": {"B": -0.26103958, "A": -1.9099272, "Ant": -3.6219633, "Die": -4.1164455, "C": -4.520006}, "answer": "A", "country": "Nepal", "question_idx": 228}
+{"logprobs": {"C": -0.74905163, "A": -0.96845585, "Die": -2.357839, "B": -3.3449435, "D": -4.9935565}, "answer": "C", "country": "Morocco", "question_idx": 229}
+{"logprobs": {"Option": -0.5430885, "Ant": -1.7764106, "A": -1.9476943, "C": -3.3733191, "B": -3.4694152}, "answer": "A", "country": "India", "question_idx": 230}
+{"logprobs": {"C": -0.5972962, "Es": -2.059279, "Die": -2.8189912, "Ich": -2.90914, "A": -3.1564183}, "answer": "A", "country": "Singapore", "question_idx": 231}
+{"logprobs": {"D": -0.23149702, "C": -2.4773028, "Die": -2.587618, "A": -3.8282454, "B": -3.995272}, "answer": "B", "country": "Hong Kong", "question_idx": 232}
+{"logprobs": {"A": -0.07704435, "Ant": -3.9971817, "Die": -4.073735, "Es": -4.697301, "C": -4.820878}, "answer": "A", "country": "Hong Kong", "question_idx": 233}
+{"logprobs": {"A": -0.95624757, "D": -1.450249, "C": -1.9704173, "B": -2.5137274, "Ant": -2.725962}, "answer": "A", "country": "Netherlands", "question_idx": 234}
+{"logprobs": {"A": -0.8092625, "C": -0.83255124, "Ant": -2.5417664, "Die": -3.5122616, "Ich": -5.601613}, "answer": "A", "country": "India", "question_idx": 235}
+{"logprobs": {"B": -0.6314471, "A": -1.8055174, "D": -2.1236517, "E": -2.6204398, "C": -2.8804553}, "answer": "B", "country": "Spain", "question_idx": 236}
+{"logprobs": {"C": -1.176253, "B": -1.3258692, "Die": -2.2409425, "A": -2.86031, "Ich": -2.899901}, "answer": "C", "country": "Vietnam", "question_idx": 237}
+{"logprobs": {"A": -0.24967803, "C": -2.2064195, "B": -3.025271, "Die": -4.1813493, "Ant": -4.32202}, "answer": "A", "country": "Morocco", "question_idx": 238}
+{"logprobs": {"B": -0.43540832, "A": -1.1640632, "Ant": -4.1291165, "Ich": -5.0205007, "C": -5.2147202}, "answer": "A", "country": "Morocco", "question_idx": 239}
+{"logprobs": {"A": -0.02165974, "Ant": -4.092392, "Die": -6.396467, "Ich": -7.1673546, "Es": -7.5524445}, "answer": "A", "country": "Spain", "question_idx": 240}
+{"logprobs": {"A": -0.29651457, "Die": -2.0391235, "Ant": -2.602707, "Um": -4.0176926, "B": -4.318493}, "answer": "A", "country": "Germany", "question_idx": 241}
+{"logprobs": {"Die": -0.65279675, "C": -1.6909323, "A": -1.9669218, "B": -2.2443323, "Ant": -3.8350897}, "answer": "A", "country": "Canada", "question_idx": 242}
+{"logprobs": {"A": -0.00973106, "Ant": -5.002348, "Die": -6.252737, "Option": -7.8484154, "B": -8.284878}, "answer": "B", "country": "South Korea", "question_idx": 243}
+{"logprobs": {"A": -0.14119685, "Ant": -2.7215724, "Die": -3.0928912, "B": -5.44371, "Option": -5.509561}, "answer": "A", "country": "Nigeria", "question_idx": 244}
+{"logprobs": {"A": -0.13397475, "Ant": -3.0397022, "Die": -3.7430866, "C": -3.9737747, "B": -4.2294297}, "answer": "C", "country": "Mexico", "question_idx": 245}
+{"logprobs": {"B": -0.8683598, "A": -1.4852326, "C": -2.3747933, "Ant": -2.4640305, "Ich": -2.850139}, "answer": "A", "country": "Germany", "question_idx": 246}
+{"logprobs": {"A": -0.030997604, "Die": -4.1925807, "B": -5.3498282, "Ich": -6.0311866, "Ant": -6.3265834}, "answer": "A", "country": "Spain", "question_idx": 247}
+{"logprobs": {"B": -0.0011136624, "A": -7.8854465, "Die": -8.098452, "Ant": -8.487293, "Ich": -9.394739}, "answer": "B", "country": "Philippines", "question_idx": 249}
+{"logprobs": {"A": -0.020340059, "Ant": -4.6772633, "Die": -4.7804813, "B": -7.159626, "Option": -7.575693}, "answer": "A", "country": "Philippines", "question_idx": 250}
+{"logprobs": {"C": -0.0050366446, "Die": -6.2354407, "Ant": -6.6667476, "A": -7.199064, "B": -7.5126185}, "answer": "C", "country": "Philippines", "question_idx": 251}
+{"logprobs": {"B": -1.4100734, "C": -1.5229617, "A": -1.7685672, "Ant": -2.0076437, "Die": -2.2912836}, "answer": "C", "country": "Russia", "question_idx": 252}
+{"logprobs": {"B": -0.8578215, "C": -0.8670245, "A": -2.4437304, "Ich": -4.008569, "D": -4.294591}, "answer": "A", "country": "Russia", "question_idx": 253}
+{"logprobs": {"A": -0.11043777, "Die": -3.217093, "Ant": -3.769959, "B": -4.1849732, "C": -4.423619}, "answer": "A", "country": "Turkey", "question_idx": 254}
+{"logprobs": {"C": -0.3402659, "A": -2.328719, "B": -2.8032062, "Ant": -2.9523761, "Ich": -3.7614505}, "answer": "D", "country": "Lebanon", "question_idx": 255}
+{"logprobs": {"A": -0.10500281, "Die": -3.2372832, "B": -3.512464, "D": -3.9437613, "C": -4.8348784}, "answer": "C", "country": "Nigeria", "question_idx": 256}
+{"logprobs": {"A": -0.18745553, "Ant": -2.3637347, "Die": -2.9227157, "Option": -3.8155837, "Um": -7.8322806}, "answer": "A", "country": "Poland", "question_idx": 257}
+{"logprobs": {"A": -0.36414766, "Ant": -1.5562387, "Die": -3.2790914, "C": -4.1986356, "Um": -4.8424497}, "answer": "A", "country": "Egypt", "question_idx": 258}
+{"logprobs": {"A": -0.024679737, "Ant": -4.188046, "Die": -5.705546, "Ich": -6.6207776, "Um": -6.7760053}, "answer": "C", "country": "Egypt", "question_idx": 259}
+{"logprobs": {"B": -0.9514865, "A": -1.2427673, "C": -1.9319, "D": -2.6691055, "Ich": -3.567831}, "answer": "D", "country": "Italy", "question_idx": 260}
+{"logprobs": {"C": -0.023811959, "A": -4.3039193, "Ant": -5.586325, "Die": -5.884791, "B": -6.2221456}, "answer": "C", "country": "Italy", "question_idx": 261}
+{"logprobs": {"C": -0.657506, "B": -1.4441481, "A": -1.5971365, "Ant": -4.483014, "Ich": -4.526437}, "answer": "C", "country": "Italy", "question_idx": 262}
+{"logprobs": {"C": -0.62938845, "B": -1.2403198, "A": -2.81776, "D": -2.8958354, "Ant": -3.271173}, "answer": "A", "country": "Singapore", "question_idx": 263}
+{"logprobs": {"B": -1.2362132, "C": -1.386951, "A": -1.5892406, "Ich": -2.5964637, "Ant": -3.1243663}, "answer": "A", "country": "Taiwan", "question_idx": 264}
+{"logprobs": {"A": -0.48816252, "D": -1.9904761, "B": -2.4133887, "C": -2.989904, "Ant": -3.0538974}, "answer": "A", "country": "South Korea", "question_idx": 265}
+{"logprobs": {"B": -0.0037184847, "Die": -6.4481916, "Ant": -7.1865606, "C": -7.3939238, "Ich": -8.098727}, "answer": "A", "country": "Bangladesh", "question_idx": 266}
+{"logprobs": {"A": -0.013136579, "Ant": -5.414292, "Die": -5.5218053, "B": -5.7406583, "C": -7.187554}, "answer": "A", "country": "France", "question_idx": 267}
+{"logprobs": {"A": -0.95074654, "B": -1.3201618, "C": -2.6428509, "D": -2.7900715, "Die": -2.9418411}, "answer": "D", "country": "South Korea", "question_idx": 268}
+{"logprobs": {"B": -0.013538169, "C": -5.169842, "Die": -6.433853, "Ant": -6.605175, "Ich": -6.6827087}, "answer": "A", "country": "Czech Republic", "question_idx": 269}
+{"logprobs": {"B": -0.12835255, "C": -2.3405662, "Die": -4.6400485, "A": -5.31706, "Ant": -5.623325}, "answer": "C", "country": "Pakistan", "question_idx": 270}
+{"logprobs": {"B": -0.45957467, "Die": -1.2757998, "D": -3.3344202, "A": -3.7073164, "C": -3.82977}, "answer": "B", "country": "India", "question_idx": 271}
+{"logprobs": {"B": -0.1882358, "A": -2.4942641, "C": -3.3977962, "Ant": -4.1627517, "Ich": -4.662584}, "answer": "A", "country": "India", "question_idx": 272}
+{"logprobs": {"D": -0.48888314, "A": -1.2492172, "C": -3.370204, "Ant": -3.4175425, "B": -4.2358427}, "answer": "D", "country": "Italy", "question_idx": 273}
+{"logprobs": {"C": -1.6163638, "Um": -1.6261408, "A": -1.7766211, "D": -2.5665133, "Ich": -2.653784}, "answer": "D", "country": "Philippines", "question_idx": 274}
+{"logprobs": {"Es": -1.571476, "Um": -1.66465, "Ent": -1.7547245, "Da": -1.911808, "Ich": -2.4963398}, "answer": "C", "country": "Mexico", "question_idx": 275}
+{"logprobs": {"A": -0.014366932, "Ant": -4.574218, "Die": -5.595813, "Option": -9.474137, "B": -10.801906}, "answer": "A", "country": "Poland", "question_idx": 276}
+{"logprobs": {"C": -0.01668007, "Die": -5.2412286, "Ant": -5.4029794, "B": -5.800036, "Ich": -6.7061276}, "answer": "A", "country": "Vietnam", "question_idx": 277}
+{"logprobs": {"B": -0.07760067, "A": -3.0571444, "D": -4.861841, "Ant": -5.1318283, "Die": -5.727556}, "answer": "C", "country": "South Korea", "question_idx": 278}
+{"logprobs": {"B": -1.5337584, "Die": -1.8433688, "A": -2.45101, "Um": -2.4759772, "Es": -2.4987109}, "answer": "B", "country": "Philippines", "question_idx": 279}
+{"logprobs": {"A": -1.584652, "Es": -2.0287495, "Um": -2.033451, "Ich": -2.2011013, "B": -2.5001354}, "answer": "D", "country": "Lebanon", "question_idx": 280}
+{"logprobs": {"D": -0.7201976, "Die": -1.5432758, "A": -2.0146103, "Ant": -2.4790974, "B": -3.3595428}, "answer": "A", "country": "Thailand", "question_idx": 281}
+{"logprobs": {"B": -0.80741405, "A": -1.401557, "Die": -1.8896627, "C": -2.5081282, "D": -3.684987}, "answer": "A", "country": "China", "question_idx": 282}
+{"logprobs": {"B": -0.5786457, "A": -1.1021919, "C": -3.5040646, "Es": -3.6817493, "Die": -4.1136646}, "answer": "C", "country": "Zimbabwe", "question_idx": 283}
+{"logprobs": {"A": -0.2108521, "C": -2.4308438, "B": -3.1931424, "Ant": -4.213284, "Die": -4.4789166}, "answer": "A", "country": "Zimbabwe", "question_idx": 284}
+{"logprobs": {"B": -0.17221245, "A": -1.9339751, "Ant": -5.5960903, "Die": -5.742449, "C": -6.0151978}, "answer": "B", "country": "Czech Republic", "question_idx": 285}
+{"logprobs": {"B": -0.0617429, "Ich": -3.71702, "Um": -4.9513035, "Die": -5.0742226, "C": -5.2551003}, "answer": "A", "country": "Spain", "question_idx": 286}
+{"logprobs": {"B": -0.7603536, "C": -1.1934209, "A": -1.8262239, "D": -3.8018785, "Ant": -4.015372}, "answer": "B", "country": "Hong Kong", "question_idx": 287}
+{"logprobs": {"C": -0.8283736, "A": -1.6901958, "Die": -1.7000167, "B": -1.9204357, "D": -3.3028}, "answer": "C", "country": "Spain", "question_idx": 288}
+{"logprobs": {"C": -0.8472638, "A": -1.4556851, "D": -2.0080113, "B": -2.8111138, "Ant": -2.917029}, "answer": "A", "country": "France", "question_idx": 289}
+{"logprobs": {"A": -0.015763815, "Ant": -5.432203, "C": -5.5749145, "Die": -5.796615, "B": -6.89854}, "answer": "A", "country": "Poland", "question_idx": 290}
+{"logprobs": {"A": -0.044373203, "Ant": -4.402762, "Die": -4.4203706, "Es": -4.86562, "B": -6.016974}, "answer": "A", "country": "Zimbabwe", "question_idx": 291}
+{"logprobs": {"A": -0.3178022, "B": -1.6558855, "Die": -3.7084482, "C": -3.89702, "Ant": -4.2626266}, "answer": "B", "country": "Zimbabwe", "question_idx": 292}
+{"logprobs": {"A": -0.055088207, "Ant": -3.4910376, "Die": -4.075632, "Option": -5.786804, "Fr": -7.451479}, "answer": "A", "country": "South Africa", "question_idx": 293}
+{"logprobs": {"C": -0.6521137, "B": -1.1596916, "Die": -2.0976646, "Ich": -4.396037, "A": -4.6411886}, "answer": "C", "country": "Zimbabwe", "question_idx": 294}
+{"logprobs": {"B": -0.024861738, "Die": -3.8552585, "Ant": -6.0412364, "Option": -7.695068, "Ich": -8.942992}, "answer": "B", "country": "Mexico", "question_idx": 295}
+{"logprobs": {"A": -0.5196743, "C": -1.6265583, "Ant": -2.5078506, "Die": -2.9712868, "B": -3.2251835}, "answer": "A", "country": "Mexico", "question_idx": 296}
+{"logprobs": {"A": -0.8304268, "C": -1.718351, "Die": -1.8114411, "B": -2.2438998, "D": -2.3114467}, "answer": "B", "country": "Chile", "question_idx": 297}
+{"logprobs": {"B": -0.29521644, "D": -2.564807, "Die": -2.6220465, "C": -3.0676394, "Ant": -3.3554525}, "answer": "D", "country": "South Korea", "question_idx": 298}
+{"logprobs": {"B": -1.4938735, "D": -1.5477675, "A": -1.5764712, "C": -1.811962, "Ant": -2.261013}, "answer": "A", "country": "Chile", "question_idx": 299}
+{"logprobs": {"C": -0.0050345063, "Die": -5.9749575, "Ant": -6.7896605, "Ich": -8.04387, "A": -8.280559}, "answer": "A", "country": "Poland", "question_idx": 300}
+{"logprobs": {"C": -0.0046052802, "Ant": -6.4706736, "A": -6.6316576, "Die": -6.9285936, "Ich": -7.965041}, "answer": "C", "country": "Vietnam", "question_idx": 301}
+{"logprobs": {"A": -0.044618685, "Die": -3.9933891, "D": -4.9741306, "Ant": -5.247946, "B": -5.4460583}, "answer": "A", "country": "Vietnam", "question_idx": 302}
+{"logprobs": {"C": -0.53776693, "B": -1.6008868, "A": -1.8297439, "Die": -3.9778266, "Ant": -4.4132}, "answer": "B", "country": "China", "question_idx": 303}
+{"logprobs": {"C": -0.4542641, "D": -2.1526723, "A": -2.2097058, "B": -2.7505136, "Ich": -3.723414}, "answer": "A", "country": "Saudi Arabia", "question_idx": 305}
+{"logprobs": {"A": -0.18904214, "Ant": -2.714219, "B": -2.9351416, "Ich": -4.4094343, "C": -4.4539175}, "answer": "D", "country": "Poland", "question_idx": 307}
+{"logprobs": {"Ant": -0.99536395, "D": -1.417958, "A": -2.2445877, "Die": -2.4610965, "Option": -2.488114}, "answer": "A", "country": "Iran", "question_idx": 308}
+{"logprobs": {"B": -0.008826811, "Die": -5.5903125, "C": -6.4776664, "Ant": -6.886907, "A": -6.947492}, "answer": "B", "country": "Singapore", "question_idx": 309}
+{"logprobs": {"A": -1.380251, "alle": -2.3209896, "B": -2.7795696, "der": -2.8174057, "Bitte": -2.9915047}, "answer": "A", "country": "Egypt", "question_idx": 310}
+{"logprobs": {"s": -0.03385108, "e": -4.7770877, "um": -4.796184, "ein": -6.0547824, "w": -6.4355063}, "answer": "A", "country": "Egypt", "question_idx": 311}
+{"logprobs": {"B": -0.002126234, "Die": -6.6075816, "Ant": -8.527235, "Ich": -8.633011, "Um": -9.3988285}, "answer": "B", "country": "India", "question_idx": 312}
+{"logprobs": {"B": -0.23595855, "A": -2.4529157, "Ant": -3.7195706, "C": -4.3266225, "D": -4.3788724}, "answer": "B", "country": "Germany", "question_idx": 313}
+{"logprobs": {"A": -0.7938519, "C": -1.4336987, "B": -1.9367676, "D": -2.0567112, "Die": -3.452692}, "answer": "A", "country": "Germany", "question_idx": 314}
+{"logprobs": {"A": -0.026442995, "D": -4.3932796, "B": -4.869163, "Ant": -5.7294497, "Die": -6.7595115}, "answer": "A", "country": "South Africa", "question_idx": 315}
+{"logprobs": {"A": -0.0110643245, "Ant": -5.149851, "Die": -5.9042625, "D": -6.76651, "Option": -7.970459}, "answer": "A", "country": "United Kingdom", "question_idx": 316}
+{"logprobs": {"B": -0.11648408, "A": -3.6369252, "C": -4.0428185, "D": -4.152592, "Ich": -4.35418}, "answer": "D", "country": "Russia", "question_idx": 317}
+{"logprobs": {"D": -1.2901638, "C": -1.3687236, "A": -1.4512699, "Ant": -2.6058414, "Die": -2.7111194}, "answer": "B", "country": "China", "question_idx": 318}
+{"logprobs": {"B": -0.075809024, "A": -3.9675689, "Ich": -4.4925323, "Es": -4.6121325, "Die": -4.7377925}, "answer": "A", "country": "Argentina", "question_idx": 319}
+{"logprobs": {"B": -0.3376401, "C": -1.4170945, "A": -4.1416316, "Die": -4.326326, "Ant": -4.7151446}, "answer": "B", "country": "Argentina", "question_idx": 320}
+{"logprobs": {"A": -0.017852323, "Die": -4.6879077, "Ant": -5.2111716, "B": -6.711225, "Option": -7.51592}, "answer": "A", "country": "South Korea", "question_idx": 322}
+{"logprobs": {"A": -0.29727155, "C": -2.0523775, "B": -2.4672792, "Ant": -4.204132, "Die": -4.4725304}, "answer": "C", "country": "Bangladesh", "question_idx": 323}
+{"logprobs": {"B": -0.009994292, "A": -6.187998, "C": -6.2622986, "Ant": -6.320732, "Die": -6.641878}, "answer": "D", "country": "Hong Kong", "question_idx": 324}
+{"logprobs": {"B": -0.07263942, "Die": -3.344118, "Der": -4.523958, "Ich": -5.0545273, "C": -5.7506638}, "answer": "B", "country": "Ukraine", "question_idx": 325}
+{"logprobs": {"C": -0.6412351, "D": -1.5201948, "A": -1.8997133, "B": -2.6784265, "Ant": -3.8121946}, "answer": "D", "country": "Ukraine", "question_idx": 326}
+{"logprobs": {"D": -0.61297905, "A": -1.6337501, "Um": -2.4468966, "Da": -3.0384398, "Die": -3.6519117}, "answer": "C", "country": "Chile", "question_idx": 327}
+{"logprobs": {"B": -0.09556816, "A": -2.7088647, "C": -4.8274426, "Ant": -4.9697404, "Die": -5.059489}, "answer": "A", "country": "Philippines", "question_idx": 328}
+{"logprobs": {"C": -0.60372674, "B": -1.4820493, "Die": -2.387466, "D": -2.9526515, "A": -3.9391208}, "answer": "B", "country": "Turkey", "question_idx": 329}
+{"logprobs": {"Es": -1.2239825, "A": -1.7700487, "Die": -1.9601542, "Ant": -2.7335439, "B": -2.9420476}, "answer": "A", "country": "Hong Kong", "question_idx": 330}
+{"logprobs": {"B": -0.210199, "A": -2.048862, "Die": -3.3988662, "Ant": -4.655067, "Ich": -5.133798}, "answer": "B", "country": "Hong Kong", "question_idx": 332}
+{"logprobs": {"A": -0.12595534, "Ant": -2.8008249, "B": -3.2931173, "C": -4.8695774, "D": -5.186758}, "answer": "A", "country": "France", "question_idx": 333}
+{"logprobs": {"B": -0.016565174, "C": -5.0926666, "Ant": -5.8699093, "Die": -6.100992, "A": -6.1128635}, "answer": "C", "country": "Bangladesh", "question_idx": 334}
+{"logprobs": {"B": -0.117873624, "A": -2.8543906, "Die": -4.246099, "C": -4.402368, "Ant": -4.5984817}, "answer": "B", "country": "South Africa", "question_idx": 335}
+{"logprobs": {"D": -0.36739907, "A": -1.7175807, "Die": -3.369249, "Ich": -3.8974893, "Um": -4.067604}, "answer": "D", "country": "South Africa", "question_idx": 336}
+{"logprobs": {"B": -0.83233523, "C": -2.065047, "A": -2.3071582, "Die": -2.5576732, "Um": -2.6077507}, "answer": "A", "country": "South Africa", "question_idx": 337}
+{"logprobs": {"B": -0.5042387, "A": -2.0032277, "Ich": -2.9038415, "Die": -3.1987138, "Es": -3.214045}, "answer": "B", "country": "Philippines", "question_idx": 338}
+{"logprobs": {"A": -0.08297183, "B": -3.3072283, "Ant": -4.035792, "C": -4.2090344, "Die": -5.320008}, "answer": "A", "country": "Thailand", "question_idx": 339}
+{"logprobs": {"B": -0.16538216, "A": -2.6013334, "C": -3.301647, "D": -4.24835, "Ant": -4.7680607}, "answer": "B", "country": "Hong Kong", "question_idx": 340}
+{"logprobs": {"A": -0.13917091, "Ant": -3.344785, "C": -3.4485753, "Die": -3.4906209, "B": -3.6591141}, "answer": "A", "country": "Thailand", "question_idx": 341}
+{"logprobs": {"B": -0.028741779, "Die": -4.591749, "A": -4.6158085, "Ich": -5.7920265, "C": -7.0955143}, "answer": "B", "country": "Thailand", "question_idx": 342}
+{"logprobs": {"C": -0.47268522, "B": -1.6532406, "A": -1.9940265, "D": -3.707951, "Ant": -4.3722787}, "answer": "C", "country": "Germany", "question_idx": 343}
+{"logprobs": {"B": -0.081412844, "A": -2.6663527, "Die": -5.4776664, "Ant": -5.7600856, "Ich": -7.679523}, "answer": "A", "country": "Indonesia", "question_idx": 344}
+{"logprobs": {"B": -0.31611386, "A": -1.5146307, "D": -3.8414054, "Ant": -4.6056743, "C": -4.9494147}, "answer": "A", "country": "Zimbabwe", "question_idx": 345}
+{"logprobs": {"B": -0.0025139505, "Die": -6.916975, "Ant": -6.9868164, "A": -8.041948, "Ich": -9.462805}, "answer": "B", "country": "China", "question_idx": 346}
+{"logprobs": {"A": -0.012925612, "Ant": -4.494884, "Die": -6.5440936, "Option": -9.358544, "Fr": -9.9817705}, "answer": "A", "country": "China", "question_idx": 347}
+{"logprobs": {"B": -0.008858955, "Ant": -6.0043044, "Die": -6.2420745, "D": -6.3719916, "A": -7.292661}, "answer": "A", "country": "Hong Kong", "question_idx": 348}
+{"logprobs": {"A": -0.57572776, "B": -1.7243521, "C": -1.8505061, "Ant": -3.0253394, "D": -3.9453928}, "answer": "A", "country": "Hong Kong", "question_idx": 349}
+{"logprobs": {"C": -0.9705475, "A": -1.4950645, "D": -1.6731021, "B": -2.133416, "Ant": -3.5894191}, "answer": "A", "country": "India", "question_idx": 350}
+{"logprobs": {"C": -0.25148782, "Die": -2.515648, "A": -3.2222328, "Es": -4.0009556, "Ich": -4.001299}, "answer": "A", "country": "South Africa", "question_idx": 351}
+{"logprobs": {"B": -0.7705147, "D": -1.5938675, "C": -1.8517182, "A": -2.6152127, "Ant": -3.4593346}, "answer": "B", "country": "Hong Kong", "question_idx": 352}
+{"logprobs": {"A": -0.17470674, "Ant": -3.1527493, "Die": -3.2037194, "D": -3.3098328, "B": -4.1346335}, "answer": "A", "country": "Israel", "question_idx": 353}
+{"logprobs": {"B": -1.4710643, "C": -1.7328632, "Ich": -2.0542972, "A": -2.1218975, "Es": -2.337546}, "answer": "A", "country": "Russia", "question_idx": 354}
+{"logprobs": {"A": -1.2883686, "D": -1.3065284, "C": -1.5678676, "Die": -1.9555591, "B": -2.4691472}, "answer": "B", "country": "Italy", "question_idx": 355}
+{"logprobs": {"C": -0.07015206, "D": -4.1303616, "A": -4.2214146, "Die": -4.394066, "B": -4.840769}, "answer": "A", "country": "Mexico", "question_idx": 356}
+{"logprobs": {"B": -0.9135977, "A": -1.1134135, "C": -2.2463346, "Die": -3.1918473, "Ich": -3.5421758}, "answer": "A", "country": "Mexico", "question_idx": 357}
+{"logprobs": {"C": -0.71123105, "Die": -1.4283388, "B": -1.6486204, "A": -3.3865373, "D": -3.7134988}, "answer": "D", "country": "Mexico", "question_idx": 358}
+{"logprobs": {"A": -0.00881287, "Ant": -5.1953936, "Die": -7.2060175, "D": -7.624728, "B": -7.6396704}, "answer": "A", "country": "South Africa", "question_idx": 360}
+{"logprobs": {"A": -0.01080268, "Ant": -5.2294345, "Die": -5.719108, "Ich": -7.924354, "Um": -7.9857707}, "answer": "A", "country": "Italy", "question_idx": 361}
+{"logprobs": {"A": -0.008858249, "Ant": -4.96752, "Die": -7.5603795, "C": -8.193118, "B": -8.399095}, "answer": "A", "country": "United Kingdom", "question_idx": 362}
+{"logprobs": {"B": -0.51313955, "Die": -1.3145177, "C": -3.499048, "Ich": -3.9599245, "A": -4.068207}, "answer": "B", "country": "Spain", "question_idx": 363}
+{"logprobs": {"D": -0.3831907, "A": -2.152865, "C": -2.289475, "B": -2.8958402, "Die": -4.380156}, "answer": "C", "country": "Bangladesh", "question_idx": 364}
+{"logprobs": {"C": -0.48906884, "A": -1.4993132, "B": -2.573242, "Ant": -3.5215166, "Die": -3.785404}, "answer": "A", "country": "Bangladesh", "question_idx": 365}
+{"logprobs": {"Es": -1.21021, "Da": -2.1817217, "Ent": -2.2800093, "A": -2.367053, "Diese": -2.4283876}, "answer": "A", "country": "Bangladesh", "question_idx": 366}
+{"logprobs": {"Es": -1.4245406, "Ich": -1.715171, "Diese": -2.4391413, "Um": -2.5095053, "Ent": -2.6079855}, "answer": "B", "country": "Mexico", "question_idx": 367}
+{"logprobs": {"A": -1.1465293, "C": -1.3037673, "B": -1.4490825, "Ant": -2.6356192, "Ich": -3.7201948}, "answer": "C", "country": "Germany", "question_idx": 368}
+{"logprobs": {"C": -0.11304899, "Die": -3.1222234, "A": -3.5088372, "Ant": -4.59001, "Ich": -4.826548}, "answer": "D", "country": "Turkey", "question_idx": 369}
+{"logprobs": {"A": -0.028830849, "Die": -4.333036, "D": -4.9496512, "C": -5.6937804, "Ant": -5.9082923}, "answer": "A", "country": "Australia", "question_idx": 370}
+{"logprobs": {"B": -0.11612232, "A": -2.5587206, "Ant": -4.7449217, "Die": -4.8158007, "C": -5.273637}, "answer": "B", "country": "Malaysia", "question_idx": 371}
+{"logprobs": {"A": -0.011657057, "Die": -5.3130107, "Ant": -5.454782, "B": -7.0040984, "C": -7.469749}, "answer": "A", "country": "Spain", "question_idx": 372}
+{"logprobs": {"B": -0.28865367, "Die": -2.7504246, "A": -2.9101403, "C": -3.0259774, "Ant": -3.7631447}, "answer": "B", "country": "Nigeria", "question_idx": 373}
+{"logprobs": {"A": -0.05578463, "Ant": -3.5465398, "Die": -4.335646, "C": -6.3915505, "B": -6.4427724}, "answer": "A", "country": "Ukraine", "question_idx": 374}
+{"logprobs": {"Die": -0.8201623, "B": -1.1437669, "A": -2.1785607, "C": -2.405827, "Ant": -3.602221}, "answer": "A", "country": "Thailand", "question_idx": 375}
+{"logprobs": {"B": -0.005495207, "A": -5.5886097, "Ant": -7.386009, "Die": -7.9616547, "Ich": -8.021631}, "answer": "B", "country": "Thailand", "question_idx": 376}
+{"logprobs": {"A": -0.10962285, "B": -2.6858692, "Ant": -4.3818226, "Die": -4.776903, "Ich": -5.215004}, "answer": "A", "country": "Thailand", "question_idx": 377}
+{"logprobs": {"A": -0.02369659, "Die": -4.253858, "D": -5.554071, "Ant": -5.936338, "B": -6.435804}, "answer": "A", "country": "India", "question_idx": 378}
+{"logprobs": {"A": -0.0047807614, "Ant": -5.500865, "Die": -7.3839426, "Option": -11.407811, "B": -11.887849}, "answer": "A", "country": "India", "question_idx": 379}
+{"logprobs": {"A": -0.53551674, "Um": -1.9845371, "Die": -2.9521294, "Ich": -3.0958462, "Es": -3.2646294}, "answer": "B", "country": "Egypt", "question_idx": 380}
+{"logprobs": {"A": -0.48279977, "C": -1.8408511, "B": -2.372433, "D": -3.0128272, "Ant": -3.5801966}, "answer": "C", "country": "China", "question_idx": 381}
+{"logprobs": {"A": -0.04653367, "Die": -4.0911293, "B": -4.2519627, "Ant": -4.9314613, "Ich": -6.756323}, "answer": "A", "country": "Turkey", "question_idx": 382}
+{"logprobs": {"A": -0.18801093, "B": -2.3628194, "Ant": -3.1222723, "Die": -4.438219, "Es": -5.149555}, "answer": "A", "country": "Egypt", "question_idx": 383}
+{"logprobs": {"C": -0.25853783, "A": -2.118239, "B": -3.5280862, "Ant": -3.6950154, "Ich": -4.159497}, "answer": "B", "country": "Egypt", "question_idx": 384}
+{"logprobs": {"A": -0.004945666, "Ant": -5.537924, "Die": -7.1644382, "C": -9.761946, "B": -10.527962}, "answer": "A", "country": "Mexico", "question_idx": 385}
+{"logprobs": {"A": -0.012879951, "Ant": -5.037561, "Die": -5.8467937, "B": -6.01201, "Ich": -8.407944}, "answer": "A", "country": "China", "question_idx": 386}
+{"logprobs": {"A": -0.015976775, "Ant": -4.571273, "Die": -5.398734, "Option": -7.578864, "Ich": -9.282609}, "answer": "A", "country": "Chile", "question_idx": 387}
+{"logprobs": {"C": -0.5637867, "B": -1.1049263, "A": -3.2137196, "Die": -3.5136597, "D": -4.272689}, "answer": "A", "country": "Chile", "question_idx": 388}
+{"logprobs": {"A": -0.630238, "D": -1.2413068, "B": -2.5803914, "C": -2.6557775, "Ant": -4.2971444}, "answer": "A", "country": "Italy", "question_idx": 390}
+{"logprobs": {"B": -0.23949887, "A": -1.8807895, "Ant": -3.9999683, "C": -4.0171614, "Ich": -5.258851}, "answer": "A", "country": "China", "question_idx": 391}
+{"logprobs": {"B": -0.47473356, "A": -1.0691168, "C": -4.2256927, "Die": -5.0638256, "D": -5.392479}, "answer": "A", "country": "Germany", "question_idx": 392}
+{"logprobs": {"A": -0.55838126, "B": -1.1192257, "C": -2.8910058, "Die": -4.4853277, "Ant": -4.533271}, "answer": "A", "country": "Czech Republic", "question_idx": 393}
+{"logprobs": {"A": -0.010990525, "Ant": -5.606211, "B": -5.825728, "Die": -6.1371655, "Option": -7.797751}, "answer": "A", "country": "Poland", "question_idx": 394}
+{"logprobs": {"A": -0.007868167, "C": -6.295853, "Die": -6.3532643, "Ant": -7.104689, "D": -7.132939}, "answer": "A", "country": "France", "question_idx": 395}
+{"logprobs": {"A": -0.019843375, "B": -4.786741, "Ant": -5.101829, "C": -5.786447, "Die": -7.1139293}, "answer": "A", "country": "China", "question_idx": 396}
+{"logprobs": {"B": -0.020216351, "C": -4.1631856, "A": -6.7854886, "D": -6.96637, "Ant": -7.2515473}, "answer": "B", "country": "Egypt", "question_idx": 397}
+{"logprobs": {"B": -0.6706807, "A": -1.0201375, "Ant": -3.3520906, "Ich": -3.5244005, "C": -3.9098337}, "answer": "A", "country": "Netherlands", "question_idx": 399}
+{"logprobs": {"B": -0.0031180605, "Ant": -6.6586204, "A": -7.804403, "Ich": -7.9525104, "Die": -8.075619}, "answer": "A", "country": "Thailand", "question_idx": 400}
+{"logprobs": {"B": -0.3679433, "A": -1.9481835, "Es": -2.8064733, "Die": -3.405974, "C": -3.8595796}, "answer": "B", "country": "Thailand", "question_idx": 401}
+{"logprobs": {"A": -0.011618424, "Ant": -4.696254, "Die": -6.5964937, "Option": -7.4695425, "Um": -9.486379}, "answer": "A", "country": "Germany", "question_idx": 402}
+{"logprobs": {"A": -0.7912043, "B": -0.9280947, "Um": -3.022804, "Die": -3.1703775, "Es": -4.348665}, "answer": "A", "country": "Thailand", "question_idx": 403}
+{"logprobs": {"C": -0.039815716, "Ant": -4.1517544, "Die": -4.218645, "A": -5.2758446, "Ich": -6.5124817}, "answer": "C", "country": "Iran", "question_idx": 404}
+{"logprobs": {"B": -0.031631283, "A": -4.535738, "C": -5.1116123, "Ant": -5.13402, "Die": -5.797888}, "answer": "D", "country": "United Kingdom", "question_idx": 405}
+{"logprobs": {"B": -0.13699627, "A": -2.581729, "C": -3.8652945, "Ant": -4.6820784, "Ich": -5.036193}, "answer": "B", "country": "Poland", "question_idx": 406}
+{"logprobs": {"A": -0.6374846, "C": -0.8371611, "Ant": -3.7412138, "Die": -5.3357096, "Ich": -5.7264204}, "answer": "A", "country": "Netherlands", "question_idx": 407}
+{"logprobs": {"C": -0.65370196, "D": -0.88200015, "Die": -3.521351, "A": -3.8495562, "Ant": -4.9747868}, "answer": "A", "country": "India", "question_idx": 408}
+{"logprobs": {"C": -0.04325449, "A": -4.416185, "Die": -4.669475, "Ich": -5.168903, "Ant": -5.4959006}, "answer": "B", "country": "Indonesia", "question_idx": 409}
+{"logprobs": {"A": -0.09678814, "Ant": -3.7172697, "Die": -3.7942693, "B": -3.8781698, "C": -4.1344104}, "answer": "B", "country": "South Africa", "question_idx": 410}
+{"logprobs": {"A": -0.2246058, "Um": -2.0633738, "Ant": -3.4858572, "Die": -3.5978777, "Ich": -5.545454}, "answer": "A", "country": "South Africa", "question_idx": 411}
+{"logprobs": {"Es": -1.0120025, "Da": -1.7083507, "Ent": -2.097568, "Ich": -2.128059, "Als": -2.498653}, "answer": "A", "country": "Morocco", "question_idx": 412}
+{"logprobs": {"A": -0.08001792, "Die": -3.4352424, "Ant": -4.3402567, "D": -4.7043066, "B": -5.152379}, "answer": "A", "country": "Morocco", "question_idx": 413}
+{"logprobs": {"D": -0.9478489, "Die": -1.2790009, "C": -1.9205357, "B": -1.9588162, "Ant": -3.5814395}, "answer": "C", "country": "Singapore", "question_idx": 414}
+{"logprobs": {"F": -1.0515205, "trad": -1.3115703, "fest": -1.4910136, "gro": -2.4219255, "op": -3.5701456}, "answer": "A", "country": "Turkey", "question_idx": 415}
+{"logprobs": {"A": -0.5681105, "C": -1.0739737, "B": -3.1273375, "Ant": -3.7040415, "D": -4.9366713}, "answer": "A", "country": "Netherlands", "question_idx": 416}
+{"logprobs": {"C": -0.6033118, "A": -1.2924025, "D": -2.2879794, "Die": -3.1879122, "Ant": -3.6526186}, "answer": "D", "country": "Morocco", "question_idx": 417}
+{"logprobs": {"A": -0.025441132, "Die": -4.0428495, "Ant": -5.3900633, "Option": -7.499526, "Um": -7.6159754}, "answer": "A", "country": "United Kingdom", "question_idx": 418}
+{"logprobs": {"A": -0.6281654, "D": -0.8531906, "Ant": -4.427207, "Die": -4.5860643, "Um": -5.4938974}, "answer": "D", "country": "Netherlands", "question_idx": 419}
+{"logprobs": {"A": -0.40139496, "Die": -1.7981082, "B": -2.507596, "Um": -3.631135, "Ant": -4.3561964}, "answer": "A", "country": "Iran", "question_idx": 420}
+{"logprobs": {"B": -0.67787486, "A": -0.79876834, "Ant": -3.579347, "C": -5.2744575, "Die": -5.4504046}, "answer": "A", "country": "United States", "question_idx": 421}
+{"logprobs": {"A": -0.020909464, "Die": -4.4425974, "Ant": -4.742141, "Option": -10.2770815, "B": -10.367578}, "answer": "A", "country": "Mexico", "question_idx": 422}
+{"logprobs": {"B": -0.03478238, "Die": -4.6791553, "Ich": -4.763363, "Ant": -5.506426, "A": -5.7186756}, "answer": "A", "country": "Romania", "question_idx": 424}
+{"logprobs": {"A": -0.8450086, "B": -1.0085847, "Die": -2.3698213, "Da": -3.499935, "D": -4.045967}, "answer": "A", "country": "Mexico", "question_idx": 425}
+{"logprobs": {"A": -0.54673576, "B": -1.8742905, "Ant": -2.3996773, "Es": -2.6999874, "Die": -3.2379513}, "answer": "A", "country": "Nigeria", "question_idx": 426}
+{"logprobs": {"A": -0.027316494, "Die": -4.354589, "Ant": -4.9402347, "B": -5.693546, "Option": -6.209869}, "answer": "A", "country": "Japan", "question_idx": 427}
+{"logprobs": {"B": -0.052094534, "A": -3.170909, "Ant": -5.747548, "Um": -6.506316, "Die": -6.539592}, "answer": "A", "country": "South Africa", "question_idx": 428}
+{"logprobs": {"C": -0.067984045, "A": -3.3542104, "Die": -4.9787297, "Ant": -5.107764, "B": -5.4773717}, "answer": "C", "country": "South Africa", "question_idx": 429}
+{"logprobs": {"B": -0.06447917, "A": -3.126035, "C": -4.424083, "Ant": -5.8188834, "D": -6.308065}, "answer": "A", "country": "Nigeria", "question_idx": 430}
+{"logprobs": {"A": -0.0036551948, "Ant": -6.1527715, "Die": -6.5489163, "Option": -10.807633, "Fr": -11.330951}, "answer": "A", "country": "South Africa", "question_idx": 431}
+{"logprobs": {"A": -0.008456066, "Ant": -4.93414, "Die": -7.5472383, "B": -8.868062, "Ich": -9.206979}, "answer": "A", "country": "Italy", "question_idx": 432}
+{"logprobs": {"A": -0.2526128, "C": -2.1080987, "B": -2.966358, "Ant": -4.172609, "D": -4.3925147}, "answer": "C", "country": "Israel", "question_idx": 433}
+{"logprobs": {"A": -0.36312896, "B": -1.2699378, "Ant": -4.533137, "Die": -4.9609685, "Ich": -6.5719457}, "answer": "B", "country": "South Africa", "question_idx": 434}
+{"logprobs": {"A": -0.19558604, "C": -2.5929382, "B": -2.8599842, "Ant": -3.4629028, "Die": -4.931552}, "answer": "A", "country": "South Korea", "question_idx": 435}
+{"logprobs": {"C": -0.036179487, "A": -4.1520605, "D": -4.8862295, "B": -5.107114, "Die": -6.3151903}, "answer": "D", "country": "South Africa", "question_idx": 436}
+{"logprobs": {"C": -0.100058705, "Die": -3.3416684, "D": -3.9046128, "Ant": -4.07899, "A": -4.7068586}, "answer": "A", "country": "Morocco", "question_idx": 437}
+{"logprobs": {"B": -0.1404634, "Ich": -3.149859, "Die": -4.145411, "Ant": -4.5758977, "Da": -4.642632}, "answer": "B", "country": "Italy", "question_idx": 438}
+{"logprobs": {"A": -0.4102332, "B": -1.2924087, "D": -3.62909, "C": -3.888356, "Ant": -5.101195}, "answer": "A", "country": "Turkey", "question_idx": 439}
+{"logprobs": {"B": -0.9027693, "A": -1.4217017, "C": -1.8344538, "Ant": -3.0005438, "D": -3.1896956}, "answer": "B", "country": "Morocco", "question_idx": 440}
+{"logprobs": {"A": -0.08718017, "Ant": -3.637372, "Die": -3.9783545, "B": -4.6365767, "C": -4.6659594}, "answer": "A", "country": "Singapore", "question_idx": 441}
+{"logprobs": {"A": -0.04895148, "Ant": -3.8050091, "Die": -4.5083594, "Um": -5.673265, "Ich": -6.2027125}, "answer": "A", "country": "China", "question_idx": 442}
+{"logprobs": {"A": -0.036844734, "Ant": -4.2867265, "C": -5.1088376, "Die": -5.2521195, "B": -5.3246636}, "answer": "A", "country": "Australia", "question_idx": 443}
+{"logprobs": {"C": -0.90265656, "B": -1.0900707, "Die": -2.256445, "A": -2.4536686, "D": -2.920103}, "answer": "B", "country": "Singapore", "question_idx": 444}
+{"logprobs": {"A": -0.015331886, "B": -4.932904, "Ant": -5.084105, "C": -7.494061, "Die": -7.9516377}, "answer": "A", "country": "South Africa", "question_idx": 445}
+{"logprobs": {"B": -0.01703593, "A": -4.8699203, "Ant": -5.6808677, "C": -5.82896, "Die": -6.978233}, "answer": "A", "country": "Netherlands", "question_idx": 446}
+{"logprobs": {"A": -0.32577944, "B": -2.1021695, "Ant": -2.6717267, "Die": -2.7509618, "C": -4.343861}, "answer": "B", "country": "Chile", "question_idx": 447}
+{"logprobs": {"A": -0.0016101972, "Ant": -6.665787, "Die": -8.221664, "In": -11.295916, "Option": -11.567081}, "answer": "A", "country": "Russia", "question_idx": 448}
+{"logprobs": {"D": -0.59001935, "C": -1.462042, "B": -2.21241, "Die": -2.9520931, "Ant": -3.3350143}, "answer": "D", "country": "Vietnam", "question_idx": 449}
+{"logprobs": {"A": -0.01880026, "Ant": -4.2388167, "Die": -5.7853084, "B": -7.801208, "Option": -8.048271}, "answer": "A", "country": "Germany", "question_idx": 450}
+{"logprobs": {"A": -0.007997434, "Die": -5.4806004, "Ant": -5.754795, "Me": -9.556047, "Option": -9.578196}, "answer": "A", "country": "United States", "question_idx": 452}
+{"logprobs": {"D": -0.0646249, "A": -3.4651947, "Die": -4.867464, "C": -5.4291725, "Um": -5.507986}, "answer": "A", "country": "Saudi Arabia", "question_idx": 453}
+{"logprobs": {"A": -0.050848432, "Die": -3.7577863, "Ant": -3.768952, "Option": -6.254248, "Um": -8.228907}, "answer": "A", "country": "Saudi Arabia", "question_idx": 454}
+{"logprobs": {"A": -0.23066168, "B": -1.7705958, "Ant": -4.3401895, "C": -4.658957, "Ich": -5.8022084}, "answer": "B", "country": "Saudi Arabia", "question_idx": 455}
+{"logprobs": {"B": -0.07873776, "C": -2.9028783, "Die": -4.706267, "A": -5.299216, "Ich": -6.1068406}, "answer": "B", "country": "Nigeria", "question_idx": 456}
+{"logprobs": {"A": -0.08283885, "Ant": -3.3625438, "Die": -3.4274127, "Um": -5.2245626, "B": -6.066251}, "answer": "A", "country": "Ukraine", "question_idx": 457}
+{"logprobs": {"B": -0.1724679, "A": -2.410114, "Die": -3.050823, "Ant": -4.922548, "C": -5.1764045}, "answer": "A", "country": "Nepal", "question_idx": 458}
+{"logprobs": {"B": -0.44362715, "C": -1.3539608, "D": -3.05181, "Die": -3.7030132, "A": -3.7899406}, "answer": "B", "country": "Argentina", "question_idx": 459}
+{"logprobs": {"A": -0.18992412, "D": -2.7903843, "B": -2.9676647, "Ant": -3.7558804, "Die": -4.157448}, "answer": "C", "country": "Poland", "question_idx": 460}
+{"logprobs": {"D": -0.6462033, "A": -2.1932557, "Die": -2.2842648, "Ich": -2.7296937, "Um": -2.923406}, "answer": "B", "country": "Argentina", "question_idx": 461}
+{"logprobs": {"A": -0.00999984, "Ant": -4.994491, "Die": -5.9514155, "Option": -8.857117, "Ich": -9.053598}, "answer": "A", "country": "Argentina", "question_idx": 462}
+{"logprobs": {"A": -0.011736238, "Ant": -5.196503, "Die": -5.2289624, "B": -8.790655, "Option": -9.04907}, "answer": "A", "country": "Spain", "question_idx": 463}
+{"logprobs": {"D": -0.44460425, "A": -1.6446699, "Die": -2.4045842, "B": -3.369941, "C": -3.4239762}, "answer": "D", "country": "Pakistan", "question_idx": 464}
+{"logprobs": {"A": -0.023765042, "B": -4.141826, "Ant": -5.7650733, "D": -6.4577403, "Die": -7.071012}, "answer": "A", "country": "Pakistan", "question_idx": 465}
+{"logprobs": {"B": -0.0018799698, "Die": -7.08439, "Ant": -7.8122306, "Ich": -8.141965, "Um": -9.067977}, "answer": "B", "country": "Pakistan", "question_idx": 466}
+{"logprobs": {"C": -0.10239461, "B": -3.3915353, "Die": -3.5746217, "A": -3.8879972, "Ich": -5.6055493}, "answer": "A", "country": "Thailand", "question_idx": 467}
+{"logprobs": {"D": -0.3989187, "A": -1.2873731, "C": -3.7510324, "Die": -3.99165, "Ant": -5.098513}, "answer": "D", "country": "Italy", "question_idx": 468}
+{"logprobs": {"A": -0.3013545, "Ant": -2.6183023, "Die": -2.9268942, "B": -3.5048285, "D": -3.9797373}, "answer": "B", "country": "Argentina", "question_idx": 469}
+{"logprobs": {"Die": -0.29190826, "B": -2.252716, "A": -2.5526276, "C": -3.5698204, "Ant": -4.8292103}, "answer": "A", "country": "Italy", "question_idx": 470}
+{"logprobs": {"B": -0.01208916, "C": -5.6608434, "Die": -5.9224057, "A": -6.5364003, "Ant": -6.8256383}, "answer": "B", "country": "Germany", "question_idx": 471}
+{"logprobs": {"Es": -1.1841706, "A": -1.9880666, "Um": -2.276946, "Die": -2.3905458, "C": -2.7163115}, "answer": "C", "country": "Germany", "question_idx": 472}
+{"logprobs": {"B": -0.011635854, "Die": -5.547265, "A": -5.908746, "Ant": -6.483617, "Ich": -7.2437487}, "answer": "B", "country": "Romania", "question_idx": 473}
+{"logprobs": {"B": -0.010191029, "A": -5.189749, "Ant": -6.416044, "Die": -7.3932476, "C": -7.511198}, "answer": "B", "country": "Italy", "question_idx": 474}
+{"logprobs": {"C": -0.17210156, "A": -2.6711478, "D": -4.0300517, "Die": -4.1478877, "B": -4.154344}, "answer": "A", "country": "Spain", "question_idx": 475}
+{"logprobs": {"B": -0.08488448, "Ich": -4.034851, "Es": -4.1877155, "Die": -4.8041515, "Um": -4.9145203}, "answer": "D", "country": "Romania", "question_idx": 476}
+{"logprobs": {"B": -0.13592099, "C": -2.3672366, "Die": -3.855739, "Ant": -5.8171782, "D": -6.0209804}, "answer": "C", "country": "Bangladesh", "question_idx": 477}
+{"logprobs": {"A": -0.7691093, "B": -0.82502323, "Ant": -3.2716975, "Die": -3.612224, "Me": -4.76407}, "answer": "B", "country": "Hong Kong", "question_idx": 478}
+{"logprobs": {"B": -0.010204117, "A": -5.043213, "Ant": -6.8357697, "Die": -6.9211025, "Ich": -7.764492}, "answer": "A", "country": "Hong Kong", "question_idx": 479}
+{"logprobs": {"B": -0.4728587, "C": -1.4387476, "A": -3.0786574, "Ich": -3.6504118, "Ant": -3.7931159}, "answer": "C", "country": "Germany", "question_idx": 480}
+{"logprobs": {"A": -0.012967979, "Ant": -5.054945, "Die": -5.8098183, "B": -7.1802464, "Ich": -7.450695}, "answer": "A", "country": "Turkey", "question_idx": 481}
+{"logprobs": {"B": -0.12503949, "C": -2.6868339, "Die": -3.6737876, "A": -4.8938346, "Ich": -5.1750827}, "answer": "B", "country": "South Africa", "question_idx": 482}
+{"logprobs": {"D": -0.033320945, "A": -4.6563315, "C": -4.8429484, "Um": -5.2010036, "Die": -5.46668}, "answer": "D", "country": "Singapore", "question_idx": 483}
+{"logprobs": {"C": -0.088251926, "B": -3.619004, "A": -4.3574, "Ant": -4.51258, "Die": -4.7539873}, "answer": "C", "country": "United Kingdom", "question_idx": 484}
+{"logprobs": {"B": -0.036625136, "A": -3.6395648, "C": -5.7054577, "Die": -6.5417767, "Ant": -6.5496864}, "answer": "A", "country": "United Kingdom", "question_idx": 485}
+{"logprobs": {"A": -0.048863154, "Ant": -3.7100933, "B": -4.394871, "C": -5.5150857, "D": -6.1478333}, "answer": "A", "country": "Germany", "question_idx": 486}
+{"logprobs": {"B": -0.0068736724, "A": -5.6737323, "Ant": -6.7087836, "Die": -7.5262733, "Ich": -7.792854}, "answer": "B", "country": "Germany", "question_idx": 487}
+{"logprobs": {"A": -0.098349944, "B": -2.8995852, "Die": -4.088594, "Ant": -4.2981963, "Um": -5.677509}, "answer": "A", "country": "Mexico", "question_idx": 488}
+{"logprobs": {"B": -0.03046186, "Die": -4.6824164, "Ant": -5.220464, "D": -5.3814445, "Ich": -6.03803}, "answer": "A", "country": "Mexico", "question_idx": 489}
+{"logprobs": {"A": -0.83437175, "C": -0.8724062, "Ant": -3.1072161, "B": -3.3050616, "Um": -4.1998577}, "answer": "B", "country": "South Africa", "question_idx": 490}
+{"logprobs": {"C": -0.15849003, "A": -2.3242767, "Die": -4.117177, "Ant": -4.3970385, "B": -4.8354807}, "answer": "C", "country": "Iran", "question_idx": 491}
+{"logprobs": {"A": -0.8895186, "B": -1.0934676, "C": -2.6004715, "Die": -3.0298748, "D": -3.5773163}, "answer": "B", "country": "Peru", "question_idx": 492}
+{"logprobs": {"A": -0.69582915, "C": -1.8124368, "D": -2.0598066, "Ant": -2.8643148, "B": -2.9135206}, "answer": "A", "country": "China", "question_idx": 493}
+{"logprobs": {"C": -0.5400075, "A": -1.5931138, "B": -2.1469927, "Ich": -3.9195604, "D": -3.9325933}, "answer": "A", "country": "Nepal", "question_idx": 494}
+{"logprobs": {"B": -0.8300026, "A": -1.4149215, "C": -1.6994979, "Die": -2.7600582, "D": -2.7609584}, "answer": "C", "country": "Nepal", "question_idx": 495}
+{"logprobs": {"C": -0.21974608, "A": -2.048449, "B": -3.8066583, "Ant": -4.2771287, "D": -4.747292}, "answer": "B", "country": "Ukraine", "question_idx": 496}
+{"logprobs": {"A": -0.111388095, "B": -3.1212854, "Ant": -3.8787508, "Die": -3.9849615, "Es": -5.4177923}, "answer": "A", "country": "Canada", "question_idx": 497}
+{"logprobs": {"C": -0.019297116, "A": -4.6914945, "B": -5.789431, "Die": -5.9519925, "Ant": -6.3790765}, "answer": "C", "country": "Taiwan", "question_idx": 498}
+{"logprobs": {"A": -0.046169944, "Die": -4.263556, "B": -4.5164685, "Ant": -4.775044, "C": -5.684365}, "answer": "B", "country": "Taiwan", "question_idx": 499}
+{"logprobs": {"D": -0.49636588, "B": -1.8788198, "A": -2.623811, "C": -2.632953, "Ant": -3.4079888}, "answer": "D", "country": "Taiwan", "question_idx": 501}
+{"logprobs": {"C": -0.8057845, "B": -1.3579428, "A": -1.6886218, "Die": -2.9773295, "Da": -4.447243}, "answer": "A", "country": "Taiwan", "question_idx": 502}
+{"logprobs": {"A": -0.17388867, "B": -2.7022853, "Ant": -3.4139228, "C": -3.4567637, "Die": -4.882026}, "answer": "B", "country": "Morocco", "question_idx": 503}
+{"logprobs": {"C": -0.29680687, "B": -1.6736722, "D": -4.0268865, "A": -4.325293, "Die": -4.342587}, "answer": "A", "country": "Philippines", "question_idx": 504}
+{"logprobs": {"C": -0.85763294, "A": -1.03914, "Die": -2.625747, "Es": -3.553079, "Ich": -3.5961869}, "answer": "A", "country": "Brazil", "question_idx": 505}
+{"logprobs": {"B": -0.505962, "A": -1.9037358, "Die": -2.8532672, "C": -3.0327735, "Ant": -3.089561}, "answer": "A", "country": "Hong Kong", "question_idx": 506}
+{"logprobs": {"A": -0.044989917, "Ant": -3.614257, "Die": -5.1680045, "B": -6.0869384, "Ich": -6.294212}, "answer": "A", "country": "Poland", "question_idx": 507}
+{"logprobs": {"C": -0.09697869, "A": -3.1350398, "Die": -3.4987216, "Ant": -4.68247, "Ich": -5.3111854}, "answer": "A", "country": "Ukraine", "question_idx": 508}
+{"logprobs": {"A": -0.034320008, "Ant": -4.2027082, "B": -4.733392, "Die": -5.153619, "Option": -6.048438}, "answer": "A", "country": "Taiwan", "question_idx": 509}
+{"logprobs": {"D": -0.062247753, "B": -3.642593, "Ant": -4.4513507, "Ich": -4.944139, "A": -5.8688254}, "answer": "A", "country": "Mexico", "question_idx": 510}
+{"logprobs": {"A": -0.07709346, "Ant": -3.4664595, "C": -4.696757, "B": -4.713757, "D": -4.807574}, "answer": "A", "country": "Nepal", "question_idx": 511}
+{"logprobs": {"A": -0.0034083438, "Ant": -5.9242687, "Die": -7.4691753, "Option": -9.541319, "Me": -10.819506}, "answer": "A", "country": "South Africa", "question_idx": 512}
+{"logprobs": {"B": -0.5136523, "C": -1.4964252, "D": -2.0939116, "A": -3.2753844, "Die": -4.953544}, "answer": "A", "country": "New Zealand", "question_idx": 513}
+{"logprobs": {"C": -0.055144724, "Die": -3.9604564, "Ich": -4.8137736, "Ant": -4.989692, "B": -5.4023128}, "answer": "B", "country": "Turkey", "question_idx": 514}
+{"logprobs": {"D": -0.10078691, "C": -2.7532222, "Die": -4.606812, "A": -4.9112363, "Ant": -5.1161485}, "answer": "D", "country": "Turkey", "question_idx": 515}
+{"logprobs": {"C": -0.18009713, "Die": -3.0859275, "D": -3.6750789, "A": -3.9500632, "Es": -4.202062}, "answer": "A", "country": "Netherlands", "question_idx": 516}
+{"logprobs": {"A": -0.009188926, "Ant": -4.9110694, "Die": -6.632446, "Option": -8.681649, "Ich": -9.536984}, "answer": "A", "country": "Philippines", "question_idx": 517}
+{"logprobs": {"A": -0.025016153, "Ant": -4.4725184, "Die": -4.496446, "Option": -7.658546, "D": -8.571008}, "answer": "A", "country": "France", "question_idx": 518}
+{"logprobs": {"A": -0.13590756, "B": -2.243175, "Ant": -4.993076, "Die": -5.303243, "Ich": -6.531263}, "answer": "A", "country": "Bangladesh", "question_idx": 519}
+{"logprobs": {"B": -0.0044652508, "Die": -6.647974, "Ich": -7.073286, "Ant": -7.2761803, "Um": -7.5072994}, "answer": "C", "country": "India", "question_idx": 520}
+{"logprobs": {"A": -0.016745484, "Die": -5.5712385, "Ant": -6.153207, "B": -6.172887, "D": -6.200534}, "answer": "B", "country": "Bangladesh", "question_idx": 521}
+{"logprobs": {"A": -0.34959066, "B": -1.9202389, "Ant": -2.8446813, "Die": -2.8923764, "C": -3.7193322}, "answer": "A", "country": "Singapore", "question_idx": 522}
+{"logprobs": {"A": -0.51969486, "D": -1.13767, "Ant": -3.1118445, "Die": -3.6385283, "C": -5.6071067}, "answer": "A", "country": "Singapore", "question_idx": 523}
+{"logprobs": {"A": -0.10016083, "Ant": -2.487305, "Die": -4.7442703, "Option": -7.025673, "Ich": -7.5320625}, "answer": "A", "country": "Singapore", "question_idx": 524}
+{"logprobs": {"A": -0.7655545, "D": -1.5244427, "B": -2.3109398, "Ant": -3.290184, "Ich": -3.4439926}, "answer": "D", "country": "Russia", "question_idx": 525}
+{"logprobs": {"C": -0.6706168, "D": -1.0435245, "A": -2.597081, "Die": -3.9907253, "Ant": -4.132521}, "answer": "A", "country": "United States", "question_idx": 526}
+{"logprobs": {"A": -0.02253662, "Ant": -3.9889996, "Die": -5.9728484, "Option": -8.018109, "B": -8.369964}, "answer": "A", "country": "Australia", "question_idx": 527}
+{"logprobs": {"A": -0.020350454, "Ant": -4.2224264, "Die": -5.9624567, "B": -6.560113, "Option": -7.332526}, "answer": "A", "country": "Germany", "question_idx": 528}
+{"logprobs": {"B": -0.03542957, "C": -4.633282, "Die": -4.780089, "Ich": -5.0962625, "Ant": -5.7853456}, "answer": "B", "country": "Italy", "question_idx": 529}
+{"logprobs": {"A": -0.052291524, "Die": -3.4757593, "Ant": -4.0206103, "Um": -7.717582, "Option": -7.759809}, "answer": "A", "country": "China", "question_idx": 530}
+{"logprobs": {"C": -0.10718281, "A": -3.2390397, "Die": -3.8350308, "B": -3.975034, "Ant": -4.3274817}, "answer": "B", "country": "Egypt", "question_idx": 531}
+{"logprobs": {"B": -0.19629437, "C": -2.3700461, "A": -3.0649943, "Ant": -4.282554, "Ich": -5.171655}, "answer": "A", "country": "Canada", "question_idx": 532}
+{"logprobs": {"B": -0.4082751, "A": -1.668798, "D": -1.9962707, "Ant": -5.2005496, "Die": -5.897323}, "answer": "A", "country": "Japan", "question_idx": 533}
+{"logprobs": {"A": -0.42775986, "Ant": -2.1170032, "Die": -2.3885849, "B": -2.457341, "C": -4.4426866}, "answer": "A", "country": "Bangladesh", "question_idx": 534}
+{"logprobs": {"A": -0.21139117, "Die": -2.7819936, "B": -3.5245016, "Ant": -3.7814023, "Diese": -4.0216327}, "answer": "A", "country": "Japan", "question_idx": 535}
+{"logprobs": {"C": -0.10671212, "B": -2.6038778, "A": -4.6458054, "D": -5.3051453, "Ant": -5.5323563}, "answer": "C", "country": "Czech Republic", "question_idx": 536}
+{"logprobs": {"C": -0.15251672, "A": -3.1545215, "Ant": -3.1824203, "Ich": -3.9827132, "Die": -4.6485457}, "answer": "D", "country": "Poland", "question_idx": 538}
+{"logprobs": {"D": -0.7371956, "A": -1.0503994, "B": -2.567224, "C": -2.879436, "Ant": -4.362783}, "answer": "A", "country": "Indonesia", "question_idx": 539}
+{"logprobs": {"A": -0.045466732, "Ant": -3.912305, "Die": -4.9116626, "B": -5.4726233, "C": -5.8157363}, "answer": "A", "country": "Mexico", "question_idx": 540}
+{"logprobs": {"B": -0.6610028, "A": -0.81264657, "Ant": -4.30977, "Die": -4.7258735, "Ich": -5.3492904}, "answer": "B", "country": "Mexico", "question_idx": 541}
+{"logprobs": {"Die": -0.24758995, "C": -2.2685938, "B": -3.1075945, "A": -3.163188, "D": -5.171464}, "answer": "C", "country": "Mexico", "question_idx": 542}
+{"logprobs": {"D": -1.1385363, "Die": -1.3171576, "A": -1.5256842, "C": -1.7841281, "B": -4.21072}, "answer": "A", "country": "Chile", "question_idx": 543}
+{"logprobs": {"es": -0.6664734, "doch": -2.530428, "n": -2.632393, "ja": -2.9495583, "sch": -3.2266026}, "answer": "A", "country": "Singapore", "question_idx": 544}
+{"logprobs": {"A": -0.008510554, "Ant": -5.3027763, "Die": -6.0406456, "Um": -8.206961, "Ich": -8.80077}, "answer": "A", "country": "South Africa", "question_idx": 545}
+{"logprobs": {"B": -0.007252108, "D": -6.253199, "A": -6.407107, "Die": -7.0238767, "C": -7.470656}, "answer": "B", "country": "Philippines", "question_idx": 548}
+{"logprobs": {"A": -0.8584685, "D": -0.8945326, "Die": -2.5680156, "B": -3.469892, "C": -3.5689025}, "answer": "A", "country": "Mexico", "question_idx": 549}
+{"logprobs": {"A": -0.072912425, "Ant": -3.4363654, "Die": -3.828768, "Option": -5.288376, "Ke": -5.577368}, "answer": "A", "country": "Mexico", "question_idx": 550}
+{"logprobs": {"C": -0.039269812, "A": -3.4317985, "Ant": -6.195276, "B": -6.382177, "Die": -7.18086}, "answer": "C", "country": "Philippines", "question_idx": 551}
+{"logprobs": {"B": -0.5181597, "C": -1.5349767, "Die": -1.8150098, "Ant": -4.341549, "Option": -5.0555706}, "answer": "C", "country": "Thailand", "question_idx": 552}
+{"logprobs": {"A": -0.022464931, "Ant": -4.5464554, "Die": -4.968611, "C": -7.040289, "B": -7.0713005}, "answer": "A", "country": "Thailand", "question_idx": 554}
+{"logprobs": {"B": -0.034234997, "Die": -4.8180447, "A": -5.0037403, "Ant": -5.2267303, "C": -5.3148994}, "answer": "A", "country": "South Korea", "question_idx": 555}
+{"logprobs": {"C": -0.35142484, "A": -1.9265267, "D": -2.7789953, "Die": -3.3884008, "B": -3.659641}, "answer": "D", "country": "Romania", "question_idx": 556}
+{"logprobs": {"B": -0.057989877, "A": -3.6607368, "Ant": -4.2333307, "Die": -4.9090605, "Ich": -5.85147}, "answer": "A", "country": "Russia", "question_idx": 557}
+{"logprobs": {"A": -0.8077082, "C": -1.5532451, "D": -2.5686889, "Ant": -2.923818, "Ich": -3.04878}, "answer": "A", "country": "Thailand", "question_idx": 558}
+{"logprobs": {"B": -0.03527388, "A": -3.505565, "Ant": -6.219064, "Die": -6.926866, "C": -7.3034854}, "answer": "A", "country": "Thailand", "question_idx": 559}
+{"logprobs": {"C": -0.76992536, "D": -1.7059166, "A": -2.135505, "Die": -3.1257317, "Ich": -3.200206}, "answer": "D", "country": "Malaysia", "question_idx": 560}
+{"logprobs": {"C": -0.445419, "B": -1.0687864, "D": -5.231811, "Die": -5.2542815, "Ich": -5.9402766}, "answer": "B", "country": "Malaysia", "question_idx": 561}
+{"logprobs": {"D": -1.223068, "Die": -1.6791627, "C": -1.780235, "B": -1.803047, "A": -1.8036745}, "answer": "D", "country": "Italy", "question_idx": 562}
+{"logprobs": {"B": -0.6064972, "A": -0.87910885, "C": -3.7006383, "D": -4.523453, "Die": -6.396195}, "answer": "A", "country": "Japan", "question_idx": 563}
+{"logprobs": {"C": -0.55173135, "A": -1.7334197, "B": -2.5777495, "Die": -3.2706492, "Es": -3.3974955}, "answer": "B", "country": "Poland", "question_idx": 564}
+{"logprobs": {"A": -0.101000175, "Ant": -3.176739, "Die": -3.759884, "Um": -4.6002507, "B": -4.631863}, "answer": "A", "country": "United Kingdom", "question_idx": 565}
+{"logprobs": {"D": -0.5894348, "A": -1.4561512, "C": -2.673734, "Ant": -2.7503006, "Die": -3.369899}, "answer": "A", "country": "Thailand", "question_idx": 566}
+{"logprobs": {"C": -0.1473284, "A": -2.4460669, "Ant": -3.980811, "D": -4.2142286, "Die": -4.7268286}, "answer": "C", "country": "Malaysia", "question_idx": 567}
+{"logprobs": {"A": -1.1688603, "B": -1.4356927, "C": -2.100583, "D": -2.5992231, "Ant": -2.8107882}, "answer": "C", "country": "South Korea", "question_idx": 568}
+{"logprobs": {"C": -0.06710457, "A": -3.272137, "Die": -4.6015453, "Ant": -4.8644753, "B": -5.473318}, "answer": "A", "country": "Turkey", "question_idx": 569}
+{"logprobs": {"A": -0.4445607, "B": -1.865772, "Die": -2.8196027, "Ant": -3.1813333, "C": -3.6308725}, "answer": "A", "country": "Turkey", "question_idx": 570}
+{"logprobs": {"C": -0.42810944, "D": -1.5444443, "A": -2.5177548, "Die": -3.3992608, "B": -4.2502494}, "answer": "C", "country": "Brazil", "question_idx": 571}
+{"logprobs": {"B": -0.11879147, "Die": -2.7293835, "Ant": -4.168686, "C": -4.735916, "Ich": -5.060606}, "answer": "B", "country": "Pakistan", "question_idx": 572}
+{"logprobs": {"C": -0.036150053, "Die": -3.8491344, "Ich": -5.354662, "Ant": -5.735182, "Um": -6.241379}, "answer": "C", "country": "Turkey", "question_idx": 573}
+{"logprobs": {"A": -0.10418445, "Ant": -2.9859307, "Die": -3.9081872, "D": -4.2168136, "C": -5.6182113}, "answer": "A", "country": "Turkey", "question_idx": 575}
+{"logprobs": {"D": -0.80274886, "A": -1.4920208, "Ant": -2.936765, "Ich": -2.997043, "Die": -3.0492222}, "answer": "A", "country": "Philippines", "question_idx": 576}
+{"logprobs": {"A": -0.5125477, "B": -1.1514294, "D": -3.1455853, "Ant": -4.415986, "C": -4.436118}, "answer": "D", "country": "Japan", "question_idx": 577}
+{"logprobs": {"C": -0.06953987, "Die": -3.0892656, "Ant": -4.574751, "A": -5.205801, "Um": -5.737049}, "answer": "C", "country": "Spain", "question_idx": 578}
+{"logprobs": {"C": -1.2210966, "A": -1.5844465, "D": -1.751721, "B": -2.0576863, "Die": -2.6160893}, "answer": "B", "country": "Spain", "question_idx": 579}
+{"logprobs": {"A": -1.277905, "Die": -1.3273339, "B": -1.8269067, "C": -1.8937802, "D": -2.2205548}, "answer": "A", "country": "India", "question_idx": 580}
+{"logprobs": {"B": -0.0045446386, "Die": -5.7970214, "Ant": -6.772819, "Option": -9.359321, "A": -9.539437}, "answer": "A", "country": "China", "question_idx": 581}
+{"logprobs": {"C": -0.05129055, "B": -4.2807674, "A": -4.410082, "Ant": -4.8871365, "Die": -5.0636864}, "answer": "A", "country": "Mexico", "question_idx": 582}
+{"logprobs": {"D": -1.1940953, "A": -2.1356788, "Ent": -2.360271, "Ich": -2.4207473, "Um": -2.4662452}, "answer": "A", "country": "Mexico", "question_idx": 583}
+{"logprobs": {"C": -0.018727846, "Die": -4.8288302, "Ant": -5.2683406, "A": -6.4168143, "Ich": -7.1456847}, "answer": "B", "country": "Lebanon", "question_idx": 584}
+{"logprobs": {"A": -0.025965953, "Ant": -4.3487563, "Die": -4.6353335, "C": -7.1998897, "B": -7.799907}, "answer": "A", "country": "Germany", "question_idx": 585}
+{"logprobs": {"A": -0.15692003, "Ant": -3.3391538, "C": -3.717608, "B": -3.739348, "Die": -3.848845}, "answer": "A", "country": "Lebanon", "question_idx": 586}
+{"logprobs": {"A": -0.32904127, "C": -2.1010845, "Ant": -3.002257, "B": -3.7140396, "Ich": -3.868531}, "answer": "A", "country": "Lebanon", "question_idx": 587}
+{"logprobs": {"B": -0.06449225, "A": -3.247857, "Die": -4.3917, "Ant": -5.8618174, "Ich": -5.9127226}, "answer": "A", "country": "Germany", "question_idx": 588}
+{"logprobs": {"A": -0.2044591, "B": -2.5332117, "Ant": -2.964635, "Die": -3.187623, "Es": -6.4298067}, "answer": "A", "country": "Israel", "question_idx": 589}
+{"logprobs": {"A": -1.0509979, "B": -1.105075, "C": -2.0004473, "Um": -2.5243845, "Die": -3.882718}, "answer": "A", "country": "Nigeria", "question_idx": 590}
+{"logprobs": {"A": -0.013029747, "Ant": -4.964087, "D": -5.4712167, "Die": -6.9397073, "C": -8.430539}, "answer": "A", "country": "Thailand", "question_idx": 591}
+{"logprobs": {"B": -0.006725318, "Die": -6.438965, "Ich": -6.884201, "Es": -6.991207, "Diese": -7.869381}, "answer": "B", "country": "Nepal", "question_idx": 592}
+{"logprobs": {"D": -0.3725018, "A": -2.3285584, "B": -2.4439836, "Die": -3.2957215, "C": -3.5612607}, "answer": "A", "country": "Indonesia", "question_idx": 593}
+{"logprobs": {"B": -0.004287573, "Die": -6.3335457, "Ant": -7.136177, "Ich": -7.4124546, "Me": -8.021692}, "answer": "A", "country": "Japan", "question_idx": 595}
+{"logprobs": {"A": -0.8607163, "B": -0.9967236, "C": -2.5010839, "Die": -3.2122045, "D": -3.7423997}, "answer": "B", "country": "Philippines", "question_idx": 596}
+{"logprobs": {"D": -0.79876316, "B": -1.3120593, "A": -1.8789462, "C": -2.327139, "Ant": -3.940565}, "answer": "C", "country": "Philippines", "question_idx": 597}
+{"logprobs": {"B": -0.1877757, "Die": -3.4391413, "Ich": -3.4432535, "Um": -3.503478, "Ant": -3.8133879}, "answer": "A", "country": "Germany", "question_idx": 598}
+{"logprobs": {"B": -0.08457497, "Um": -3.8498776, "Ich": -3.968076, "Es": -4.821634, "Die": -5.039972}, "answer": "B", "country": "Nigeria", "question_idx": 599}
+{"logprobs": {"A": -0.008192781, "Ant": -5.4639635, "Die": -6.1072226, "B": -7.7654123, "Diese": -8.737636}, "answer": "A", "country": "Zimbabwe", "question_idx": 600}
+{"logprobs": {"B": -0.11103643, "Um": -3.8168662, "Die": -4.0217915, "Ich": -4.2295933, "Da": -4.8556843}, "answer": "B", "country": "New Zealand", "question_idx": 601}
+{"logprobs": {"C": -0.018981583, "Die": -4.9668784, "A": -5.4884715, "Ant": -5.7920203, "D": -6.5802894}, "answer": "A", "country": "Poland", "question_idx": 602}
+{"logprobs": {"B": -0.18097399, "A": -2.101407, "Die": -4.180661, "C": -4.491534, "Ant": -4.8521833}, "answer": "B", "country": "Italy", "question_idx": 604}
+{"logprobs": {"B": -0.842045, "A": -0.8591215, "C": -2.4010088, "Ant": -4.1922016, "D": -4.3136444}, "answer": "C", "country": "Netherlands", "question_idx": 605}
+{"logprobs": {"A": -0.048082143, "Ant": -3.90044, "Die": -3.9546182, "Um": -5.8712635, "Option": -6.7603664}, "answer": "A", "country": "Czech Republic", "question_idx": 606}
+{"logprobs": {"C": -0.57774603, "A": -1.904925, "Die": -2.1518922, "B": -2.4876428, "Ant": -3.4381356}, "answer": "B", "country": "Poland", "question_idx": 607}
+{"logprobs": {"A": -0.3341731, "D": -2.1088543, "Die": -2.7320004, "B": -3.0927887, "C": -3.5813713}, "answer": "A", "country": "Mexico", "question_idx": 608}
+{"logprobs": {"D": -0.5463095, "A": -1.4040823, "B": -1.9482279, "C": -4.000533, "Ant": -5.153373}, "answer": "A", "country": "Egypt", "question_idx": 609}
+{"logprobs": {"B": -0.042803444, "D": -3.8541, "Die": -4.441859, "Ant": -5.572188, "A": -6.431618}, "answer": "B", "country": "United Kingdom", "question_idx": 610}
+{"logprobs": {"C": -1.729155, "A": -1.7991413, "Ant": -2.4305482, "Es": -2.502293, "Ich": -2.5583043}, "answer": "B", "country": "Taiwan", "question_idx": 611}
+{"logprobs": {"A": -0.012176661, "Ant": -4.584799, "Die": -6.3890495, "Option": -10.126398, "Me": -10.399319}, "answer": "A", "country": "Japan", "question_idx": 612}
+{"logprobs": {"A": -1.1720343, "D": -1.740222, "C": -2.3246908, "B": -2.363986, "E": -2.4800005}, "answer": "A", "country": "Mexico", "question_idx": 613}
+{"logprobs": {"A": -0.4974477, "C": -1.0899713, "Ant": -3.7688596, "Die": -4.695024, "B": -4.8684993}, "answer": "B", "country": "South Korea", "question_idx": 614}
+{"logprobs": {"C": -0.13610609, "Die": -3.3467555, "Ich": -3.586883, "Ant": -3.9480681, "B": -4.504228}, "answer": "C", "country": "Brazil", "question_idx": 615}
+{"logprobs": {"B": -0.9530726, "C": -1.0680532, "Die": -1.8055716, "A": -2.746066, "D": -3.4976568}, "answer": "B", "country": "Brazil", "question_idx": 616}
+{"logprobs": {"A": -0.011329567, "Die": -5.020521, "Ant": -5.495016, "B": -8.929016, "D": -9.188522}, "answer": "A", "country": "Spain", "question_idx": 617}
+{"logprobs": {"B": -0.073711805, "C": -3.1924596, "A": -3.9939408, "Ant": -5.615683, "Ich": -6.219582}, "answer": "A", "country": "Chile", "question_idx": 618}
+{"logprobs": {"B": -0.66180485, "Die": -1.1668727, "C": -2.0563438, "D": -3.6509197, "A": -4.463717}, "answer": "D", "country": "Chile", "question_idx": 619}
+{"logprobs": {"A": -0.96377873, "B": -1.594249, "Es": -2.2792141, "Die": -2.3105214, "Ant": -2.6288865}, "answer": "B", "country": "Vietnam", "question_idx": 620}
+{"logprobs": {"C": -0.46135533, "Die": -2.2376156, "D": -2.2574444, "Ant": -2.3453884, "A": -3.5832596}, "answer": "B", "country": "China", "question_idx": 621}
+{"logprobs": {"A": -0.50539243, "Die": -1.645533, "B": -3.2312932, "Um": -3.3199105, "Es": -3.4547467}, "answer": "C", "country": "Australia", "question_idx": 622}
+{"logprobs": {"B": -1.3404223, "A": -1.3419138, "Ant": -1.903813, "D": -2.086514, "Die": -2.2423196}, "answer": "D", "country": "Japan", "question_idx": 623}
+{"logprobs": {"B": -0.46620333, "Um": -1.5506436, "Ich": -3.1988559, "Es": -3.2305045, "Die": -3.9987464}, "answer": "A", "country": "Poland", "question_idx": 624}
+{"logprobs": {"A": -0.01652636, "Ant": -4.410857, "Die": -5.6117487, "Option": -8.609643, "B": -9.08664}, "answer": "A", "country": "United States", "question_idx": 625}
+{"logprobs": {"A": -0.7515762, "C": -1.6323001, "Die": -2.2176082, "B": -2.2413375, "Ant": -2.7413414}, "answer": "A", "country": "Philippines", "question_idx": 626}
+{"logprobs": {"A": -0.2849442, "C": -2.1362073, "D": -3.2630956, "B": -3.7143476, "Die": -3.7718542}, "answer": "A", "country": "Brazil", "question_idx": 627}
+{"logprobs": {"B": -0.023967467, "Die": -4.5536323, "D": -5.0064273, "Ant": -5.33213, "Ich": -7.5153346}, "answer": "B", "country": "Iran", "question_idx": 628}
+{"logprobs": {"A": -1.1605277, "C": -1.3525577, "B": -2.1758761, "Ich": -2.907722, "Um": -2.9246402}, "answer": "A", "country": "Hong Kong", "question_idx": 629}
+{"logprobs": {"A": -0.007374597, "Ant": -5.1187754, "Die": -7.29095, "Option": -8.510224, "B": -8.618247}, "answer": "A", "country": "United Kingdom", "question_idx": 630}
+{"logprobs": {"A": -0.4235211, "B": -2.6300087, "Es": -3.019188, "Die": -3.0839424, "Ant": -3.1150093}, "answer": "A", "country": "Russia", "question_idx": 631}
+{"logprobs": {"A": -1.0886328, "D": -1.3826754, "Die": -1.7206194, "C": -2.1086028, "B": -2.3422873}, "answer": "A", "country": "India", "question_idx": 632}
+{"logprobs": {"C": -0.1038309, "A": -3.618298, "D": -3.839829, "B": -3.9345498, "Die": -4.20077}, "answer": "A", "country": "South Africa", "question_idx": 633}
+{"logprobs": {"B": -0.032235377, "Die": -4.149434, "C": -4.5754843, "D": -6.1890764, "Ant": -6.9048986}, "answer": "D", "country": "Iran", "question_idx": 634}
+{"logprobs": {"A": -0.016907718, "Ant": -4.8685045, "Die": -5.197959, "Option": -6.667575, "C": -6.7766714}, "answer": "C", "country": "Hong Kong", "question_idx": 635}
+{"logprobs": {"B": -0.003624904, "Die": -6.0606756, "Ant": -6.9565306, "Ich": -9.140399, "A": -9.421472}, "answer": "B", "country": "South Korea", "question_idx": 636}
+{"logprobs": {"A": -0.012670925, "Die": -5.1834435, "Ant": -5.3513913, "B": -6.2008843, "D": -9.986998}, "answer": "A", "country": "Japan", "question_idx": 637}
+{"logprobs": {"A": -0.8164088, "B": -1.2592857, "Die": -2.0775993, "Ant": -2.398568, "C": -3.7427642}, "answer": "A", "country": "China", "question_idx": 638}
+{"logprobs": {"C": -0.6612641, "A": -2.2403638, "Ant": -2.2424772, "Die": -2.8723714, "Es": -2.9464872}, "answer": "A", "country": "Mexico", "question_idx": 639}
+{"logprobs": {"B": -1.3564932, "C": -1.7354052, "A": -2.0057547, "Ich": -2.4250453, "Die": -2.5647871}, "answer": "A", "country": "Hong Kong", "question_idx": 640}
+{"logprobs": {"A": -0.51794857, "B": -2.1574292, "C": -2.2453904, "Die": -2.7141213, "Ant": -3.4230065}, "answer": "A", "country": "South Korea", "question_idx": 641}
+{"logprobs": {"A": -0.3733407, "C": -1.8258058, "B": -2.285738, "Ant": -3.7862873, "Ich": -4.880068}, "answer": "A", "country": "Russia", "question_idx": 642}
+{"logprobs": {"A": -1.1298991, "B": -1.3063213, "Ich": -2.3233175, "Die": -2.7262526, "C": -2.8404036}, "answer": "B", "country": "Poland", "question_idx": 643}
+{"logprobs": {"C": -0.08156492, "Ant": -4.073987, "Die": -4.1905146, "Ich": -4.381009, "A": -4.6533594}, "answer": "A", "country": "Mexico", "question_idx": 644}
+{"logprobs": {"C": -0.065828726, "B": -3.576941, "Die": -3.9398904, "A": -4.6448503, "Ant": -5.971255}, "answer": "C", "country": "Czech Republic", "question_idx": 645}
+{"logprobs": {"A": -0.0108357, "Die": -5.173071, "Ant": -5.3927803, "Um": -8.90123, "Option": -9.149992}, "answer": "A", "country": "France", "question_idx": 646}
+{"logprobs": {"A": -1.0625075, "B": -1.6719455, "C": -2.2144432, "Ich": -2.4785957, "Die": -2.7217274}, "answer": "C", "country": "France", "question_idx": 647}
+{"logprobs": {"A": -0.050676435, "D": -3.840908, "Ant": -4.447731, "Die": -5.2906914, "B": -5.451332}, "answer": "A", "country": "Poland", "question_idx": 648}
+{"logprobs": {"A": -0.76671356, "Die": -2.0165744, "Ich": -2.7048278, "Es": -2.7162585, "B": -2.9267077}, "answer": "C", "country": "South Africa", "question_idx": 649}
+{"logprobs": {"B": -0.013596965, "A": -4.5714145, "Ant": -6.262567, "Die": -7.8098216, "C": -8.166644}, "answer": "A", "country": "Japan", "question_idx": 650}
+{"logprobs": {"A": -1.3156233, "C": -1.4396982, "Die": -1.6853895, "B": -1.8399801, "D": -2.4826937}, "answer": "D", "country": "Poland", "question_idx": 651}
+{"logprobs": {"B": -0.17384711, "A": -2.931549, "Die": -3.6276398, "C": -4.0023746, "Ant": -4.1242924}, "answer": "B", "country": "Zimbabwe", "question_idx": 652}
+{"logprobs": {"A": -0.36208746, "B": -2.2016833, "C": -2.8702872, "Ant": -3.7669413, "Ich": -3.8620589}, "answer": "B", "country": "Taiwan", "question_idx": 653}
+{"logprobs": {"C": -0.005985678, "Die": -5.7841134, "Ant": -6.3688226, "Ich": -7.981753, "A": -8.591011}, "answer": "C", "country": "Hong Kong", "question_idx": 654}
+{"logprobs": {"B": -0.06200353, "Die": -3.2997222, "Um": -5.0161967, "Ich": -5.3974757, "A": -6.19432}, "answer": "B", "country": "Romania", "question_idx": 655}
+{"logprobs": {"A": -0.5547595, "B": -1.4745517, "Die": -2.9321551, "Ant": -3.14825, "C": -3.6418414}, "answer": "A", "country": "Lebanon", "question_idx": 656}
+{"logprobs": {"B": -0.0038252526, "Die": -6.806823, "A": -6.828597, "C": -7.5578947, "Ich": -7.944474}, "answer": "B", "country": "South Korea", "question_idx": 657}
+{"logprobs": {"B": -0.034187306, "A": -3.6689758, "Die": -5.629404, "C": -6.104452, "Ant": -6.42959}, "answer": "B", "country": "Australia", "question_idx": 658}
+{"logprobs": {"A": -0.013129757, "Ant": -4.9582477, "Die": -6.0383105, "B": -6.7218013, "Ich": -7.5010467}, "answer": "A", "country": "Thailand", "question_idx": 659}
+{"logprobs": {"A": -0.01950288, "Ant": -4.2910295, "Die": -5.5752263, "Option": -7.46423, "B": -8.144608}, "answer": "A", "country": "Thailand", "question_idx": 660}
+{"logprobs": {"D": -0.016119998, "Die": -4.8474627, "Um": -6.4665327, "Ich": -6.578433, "Ant": -6.7057123}, "answer": "D", "country": "Thailand", "question_idx": 661}
+{"logprobs": {"A": -0.024932787, "Ant": -4.196541, "Die": -5.2997894, "B": -6.0258827, "Ich": -7.761156}, "answer": "A", "country": "Thailand", "question_idx": 662}
+{"logprobs": {"A": -0.34747303, "Die": -2.2054787, "B": -2.5448322, "C": -2.6508923, "D": -4.0719604}, "answer": "B", "country": "South Korea", "question_idx": 664}
+{"logprobs": {"D": -0.113907926, "A": -2.3681974, "Ant": -5.194577, "Die": -5.539157, "C": -6.5397882}, "answer": "A", "country": "Japan", "question_idx": 665}
+{"logprobs": {"D": -0.058391724, "B": -3.1879961, "A": -4.8249645, "Die": -5.8216896, "C": -6.4551315}, "answer": "A", "country": "New Zealand", "question_idx": 666}
+{"logprobs": {"A": -0.5714152, "Die": -2.1378634, "Um": -2.2536986, "Ant": -3.3827765, "Es": -3.4139254}, "answer": "A", "country": "Philippines", "question_idx": 667}
+{"logprobs": {"A": -0.23967288, "Ant": -2.3279393, "Me": -3.7710583, "Die": -3.9116356, "B": -4.1077776}, "answer": "A", "country": "Russia", "question_idx": 668}
+{"logprobs": {"B": -0.015209321, "Die": -4.584753, "Ich": -6.6763, "Es": -7.1981907, "Ant": -7.2093544}, "answer": "B", "country": "Czech Republic", "question_idx": 669}
+{"logprobs": {"A": -0.5456795, "C": -1.1001229, "Ant": -3.0784059, "Die": -3.8134408, "B": -5.260779}, "answer": "A", "country": "Peru", "question_idx": 670}
+{"logprobs": {"A": -0.4737107, "Die": -1.0432087, "Ant": -4.802974, "B": -4.8542724, "C": -6.5662284}, "answer": "A", "country": "Spain", "question_idx": 671}
+{"logprobs": {"A": -0.4543547, "Die": -2.0474124, "B": -2.1642852, "C": -2.9770007, "Ant": -4.146852}, "answer": "A", "country": "Spain", "question_idx": 672}
+{"logprobs": {"B": -0.014641974, "Die": -4.373042, "Ant": -6.4007826, "Ich": -9.384019, "Me": -10.211535}, "answer": "B", "country": "Spain", "question_idx": 673}
+{"logprobs": {"A": -0.2558725, "Die": -1.8374288, "Ant": -3.059345, "Option": -4.5459557, "Um": -5.792036}, "answer": "A", "country": "South Korea", "question_idx": 674}
+{"logprobs": {"A": -0.09633538, "Die": -3.3700304, "Ant": -3.523984, "Um": -4.982938, "Es": -5.1453905}, "answer": "A", "country": "South Africa", "question_idx": 675}
+{"logprobs": {"A": -0.09807623, "Ant": -2.4051118, "Option": -6.172604, "Die": -7.072491, "Fr": -8.796173}, "answer": "A", "country": "Brazil", "question_idx": 677}
+{"logprobs": {"A": -0.018805524, "Ant": -5.0681353, "B": -5.408826, "Die": -5.663308, "Ich": -7.270217}, "answer": "A", "country": "Canada", "question_idx": 678}
+{"logprobs": {"A": -0.010761044, "Die": -5.2818317, "Ant": -5.731098, "Um": -7.909725, "B": -8.056892}, "answer": "A", "country": "Peru", "question_idx": 679}
+{"logprobs": {"A": -1.7214824, "B": -2.1078005, "Ich": -2.2258215, "Ent": -2.3866644, "Es": -2.5417814}, "answer": "B", "country": "Peru", "question_idx": 680}
+{"logprobs": {"A": -0.03264864, "B": -4.2776227, "Ant": -4.6714463, "C": -5.736937, "Die": -6.3044305}, "answer": "A", "country": "Peru", "question_idx": 681}
+{"logprobs": {"C": -0.55646497, "D": -1.9201658, "A": -2.0958421, "B": -2.6446722, "Die": -3.1452196}, "answer": "C", "country": "India", "question_idx": 682}
+{"logprobs": {"B": -0.6984723, "A": -1.5202191, "C": -1.9449608, "D": -3.1413434, "Ant": -3.6727898}, "answer": "B", "country": "Japan", "question_idx": 683}
+{"logprobs": {"C": -1.0154417, "A": -1.1101243, "B": -1.637428, "Ant": -2.760061, "Die": -3.595575}, "answer": "B", "country": "Turkey", "question_idx": 684}
+{"logprobs": {"Es": -0.93384147, "A": -1.1216638, "Ich": -2.615896, "Diese": -3.1876047, "Ant": -3.3094156}, "answer": "A", "country": "Indonesia", "question_idx": 685}
+{"logprobs": {"C": -1.06065, "A": -1.0698091, "Die": -2.0629253, "B": -2.3732567, "Ant": -3.0183334}, "answer": "D", "country": "Italy", "question_idx": 686}
+{"logprobs": {"B": -0.8452884, "A": -0.98249733, "Die": -2.0689306, "C": -2.9429445, "D": -4.806136}, "answer": "C", "country": "India", "question_idx": 687}
+{"logprobs": {"A": -1.2120885, "D": -1.2482289, "B": -1.4940175, "C": -2.0347261, "Ant": -3.3271132}, "answer": "B", "country": "India", "question_idx": 688}
+{"logprobs": {"A": -0.036311127, "Ant": -3.7475653, "Die": -4.7923384, "Option": -5.907233, "B": -7.442296}, "answer": "A", "country": "Hong Kong", "question_idx": 689}
+{"logprobs": {"B": -0.023427393, "Ant": -5.1888404, "Die": -5.4272666, "C": -5.5457683, "A": -5.581182}, "answer": "B", "country": "Turkey", "question_idx": 690}
+{"logprobs": {"A": -0.08151767, "Ant": -2.7951293, "Die": -4.312423, "B": -6.5618815, "Fr": -6.7414565}, "answer": "A", "country": "Bangladesh", "question_idx": 692}
+{"logprobs": {"A": -0.010741353, "Ant": -4.749797, "Die": -6.4409704, "Option": -9.415681, "B": -9.433261}, "answer": "A", "country": "Philippines", "question_idx": 693}
+{"logprobs": {"B": -0.0062694433, "Ant": -6.240656, "A": -6.4671097, "Die": -6.754118, "Bitte": -8.221117}, "answer": "C", "country": "Philippines", "question_idx": 694}
+{"logprobs": {"C": -0.79577327, "D": -1.4093177, "A": -2.1958358, "B": -2.2692878, "Die": -2.8231819}, "answer": "A", "country": "Philippines", "question_idx": 695}
+{"logprobs": {"A": -0.48190892, "C": -2.1775913, "Die": -2.658636, "Ich": -3.1452541, "Um": -3.150343}, "answer": "A", "country": "South Africa", "question_idx": 696}
+{"logprobs": {"A": -0.023331545, "Ant": -4.0747843, "Die": -5.591092, "Option": -6.847253, "B": -7.18027}, "answer": "A", "country": "Czech Republic", "question_idx": 697}
+{"logprobs": {"B": -0.005371072, "Ant": -6.499937, "A": -6.602581, "Ich": -7.3798676, "C": -7.4745293}, "answer": "A", "country": "India", "question_idx": 698}
+{"logprobs": {"C": -0.7068406, "Die": -1.4172382, "A": -2.1063938, "B": -2.758339, "D": -3.47229}, "answer": "C", "country": "India", "question_idx": 699}
+{"logprobs": {"ein": -0.3371786, "e": -2.0593524, "A": -3.3758674, "in": -3.662393, "n": -4.1586814}, "answer": "A", "country": "Turkey", "question_idx": 700}
+{"logprobs": {"C": -0.655076, "B": -0.79669094, "A": -4.658965, "Ant": -4.8065195, "Die": -5.1674795}, "answer": "A", "country": "New Zealand", "question_idx": 701}
+{"logprobs": {"D": -0.12753986, "A": -2.6114628, "C": -4.209138, "Ant": -4.5226183, "B": -4.57611}, "answer": "A", "country": "Japan", "question_idx": 702}
+{"logprobs": {"A": -0.08419654, "Es": -3.1516232, "Die": -3.8726926, "Ant": -5.1452756, "Diese": -5.61184}, "answer": "A", "country": "Turkey", "question_idx": 703}
+{"logprobs": {"C": -0.053597063, "Die": -4.1774983, "B": -4.660277, "Ich": -4.898785, "A": -4.9216466}, "answer": "C", "country": "Spain", "question_idx": 704}
+{"logprobs": {"A": -0.109327845, "D": -2.5009294, "Ant": -4.480988, "Die": -5.457558, "B": -6.3584256}, "answer": "A", "country": "Czech Republic", "question_idx": 705}
+{"logprobs": {"B": -0.0010977148, "Die": -8.005725, "Ant": -8.348336, "Ich": -8.509042, "A": -9.700942}, "answer": "B", "country": "United Kingdom", "question_idx": 706}
+{"logprobs": {"B": -0.54602337, "A": -1.2580004, "C": -2.8888407, "Die": -3.4888086, "Ich": -4.524766}, "answer": "D", "country": "Indonesia", "question_idx": 707}
+{"logprobs": {"B": -0.07571929, "Die": -3.5895343, "Ant": -3.82793, "A": -4.201902, "C": -5.905603}, "answer": "B", "country": "Nepal", "question_idx": 708}
+{"logprobs": {"A": -0.66816956, "B": -1.0568032, "Ant": -2.6909146, "Um": -3.954966, "Die": -3.978293}, "answer": "C", "country": "Israel", "question_idx": 709}
+{"logprobs": {"A": -0.8269382, "C": -0.9376064, "Die": -2.1619353, "B": -3.676025, "Ant": -3.9196258}, "answer": "C", "country": "Netherlands", "question_idx": 710}
+{"logprobs": {"Die": -0.16105452, "A": -2.314928, "B": -3.623682, "Ant": -4.178171, "C": -6.042225}, "answer": "A", "country": "Argentina", "question_idx": 711}
+{"logprobs": {"B": -0.64329714, "A": -0.83095354, "C": -4.494995, "Ich": -4.928564, "D": -5.1474895}, "answer": "C", "country": "Argentina", "question_idx": 712}
+{"logprobs": {"A": -0.73862296, "B": -1.0331519, "Die": -2.2717478, "C": -4.0674787, "Ich": -4.7297997}, "answer": "C", "country": "Argentina", "question_idx": 713}
+{"logprobs": {"B": -0.3978906, "C": -1.3587308, "D": -2.9591126, "Die": -4.5427423, "Ich": -5.6749063}, "answer": "C", "country": "Hong Kong", "question_idx": 714}
+{"logprobs": {"B": -0.0071723512, "Die": -5.9477377, "Ant": -6.4281607, "Ich": -6.8838453, "A": -7.8874025}, "answer": "B", "country": "United States", "question_idx": 715}
+{"logprobs": {"B": -0.2459419, "D": -2.6891944, "C": -3.3961093, "Ant": -3.6985424, "A": -3.73861}, "answer": "A", "country": "Iran", "question_idx": 716}
+{"logprobs": {"A": -0.46278995, "Die": -1.3753781, "D": -3.0764985, "B": -3.4818597, "Ant": -4.1932454}, "answer": "D", "country": "Thailand", "question_idx": 717}
+{"logprobs": {"D": -0.027135514, "A": -4.5037704, "C": -4.7292743, "B": -6.2773395, "Die": -6.291656}, "answer": "A", "country": "Germany", "question_idx": 718}
+{"logprobs": {"A": -0.3069103, "Ant": -1.8268096, "Die": -3.1651447, "Um": -3.87551, "Ich": -4.8674517}, "answer": "A", "country": "Ukraine", "question_idx": 719}
+{"logprobs": {"B": -0.09584321, "Die": -2.938096, "Ich": -4.4123507, "Ant": -4.890414, "Me": -5.4795294}, "answer": "B", "country": "Chile", "question_idx": 720}
+{"logprobs": {"C": -0.2885733, "A": -2.059434, "Ant": -3.2507868, "Die": -3.3667707, "Ich": -4.352645}, "answer": "A", "country": "Chile", "question_idx": 721}
+{"logprobs": {"B": -0.9293713, "A": -1.7943006, "C": -2.0740838, "D": -2.6556172, "Ich": -2.7036653}, "answer": "D", "country": "Russia", "question_idx": 722}
+{"logprobs": {"C": -0.760974, "Die": -1.6908789, "D": -1.8370581, "B": -2.1949701, "A": -2.849368}, "answer": "D", "country": "Peru", "question_idx": 723}
+{"logprobs": {"A": -0.80596167, "C": -1.0352726, "B": -2.4664574, "Ich": -3.4993896, "D": -3.6000824}, "answer": "C", "country": "Peru", "question_idx": 724}
+{"logprobs": {"C": -0.61449546, "A": -0.8830368, "Die": -3.9443448, "Ant": -4.0134935, "B": -5.8670435}, "answer": "A", "country": "Peru", "question_idx": 725}
+{"logprobs": {"Es": -1.7227098, "Ich": -2.2552567, "Da": -2.394987, "A": -2.4631882, "Ant": -2.4639149}, "answer": "B", "country": "Vietnam", "question_idx": 726}
+{"logprobs": {"C": -0.8810433, "Die": -0.99634063, "D": -2.2034178, "A": -2.6196012, "B": -3.9021578}, "answer": "C", "country": "France", "question_idx": 727}
+{"logprobs": {"C": -0.00720584, "Die": -5.640959, "A": -6.6478367, "Ich": -7.3026524, "Ant": -7.3146706}, "answer": "C", "country": "Singapore", "question_idx": 728}
+{"logprobs": {"B": -0.43808347, "C": -1.7434423, "A": -2.0662878, "Ich": -4.263317, "Ant": -4.8472614}, "answer": "A", "country": "Singapore", "question_idx": 729}
+{"logprobs": {"C": -0.6627045, "D": -1.4097328, "Die": -1.6469536, "A": -3.9959793, "B": -4.004877}, "answer": "D", "country": "Singapore", "question_idx": 730}
+{"logprobs": {"A": -0.83485186, "B": -1.1025711, "Die": -2.0070453, "C": -3.268869, "D": -3.3579364}, "answer": "B", "country": "China", "question_idx": 731}
+{"logprobs": {"A": -0.17120802, "Ant": -3.56918, "Ich": -3.6491704, "Die": -3.8524652, "Da": -4.1113057}, "answer": "A", "country": "Czech Republic", "question_idx": 732}
+{"logprobs": {"C": -0.18644644, "D": -2.4835808, "Die": -3.5687973, "A": -4.1288333, "E": -4.4094024}, "answer": "A", "country": "United Kingdom", "question_idx": 733}
+{"logprobs": {"A": -0.047116324, "Ant": -3.5217924, "Die": -4.9128237, "D": -5.0303698, "C": -6.7291746}, "answer": "A", "country": "Turkey", "question_idx": 734}
+{"logprobs": {"A": -0.017097805, "Die": -5.182341, "Ant": -5.588387, "B": -6.108935, "Um": -7.027926}, "answer": "A", "country": "Chile", "question_idx": 735}
+{"logprobs": {"C": -0.07433449, "B": -3.6962178, "A": -3.9081452, "Die": -4.615167, "Ant": -4.9203296}, "answer": "A", "country": "China", "question_idx": 736}
+{"logprobs": {"A": -0.82262427, "C": -1.2351456, "Die": -2.0037994, "Ant": -3.1820087, "B": -3.2052975}, "answer": "C", "country": "Hong Kong", "question_idx": 737}
+{"logprobs": {"C": -0.36576658, "B": -1.3928032, "D": -3.464697, "A": -4.867056, "Die": -4.947918}, "answer": "D", "country": "Hong Kong", "question_idx": 738}
+{"logprobs": {"C": -0.3419462, "Ich": -2.821364, "Die": -3.0251393, "A": -3.3614297, "B": -3.5565515}, "answer": "A", "country": "United States", "question_idx": 739}
+{"logprobs": {"A": -0.0024496154, "Ant": -6.319077, "Die": -7.912684, "B": -8.44657, "C": -10.783647}, "answer": "A", "country": "United States", "question_idx": 740}
+{"logprobs": {"Es": -0.7856562, "Da": -2.169758, "Ent": -2.4209654, "Ant": -2.606228, "Ich": -2.9866087}, "answer": "A", "country": "Thailand", "question_idx": 742}
+{"logprobs": {"B": -0.0749319, "C": -3.3076246, "A": -3.9366567, "Ant": -5.0779305, "Die": -5.183729}, "answer": "A", "country": "United Kingdom", "question_idx": 743}
+{"logprobs": {"B": -0.5143701, "A": -1.7760774, "C": -2.3688564, "D": -2.8205776, "Die": -3.1801662}, "answer": "B", "country": "United Kingdom", "question_idx": 744}
+{"logprobs": {"C": -0.7365676, "D": -1.3363162, "A": -1.7905837, "Die": -3.4523077, "Ant": -3.5113707}, "answer": "A", "country": "Vietnam", "question_idx": 745}
+{"logprobs": {"B": -0.94727033, "A": -1.0674562, "Ant": -1.9361048, "C": -3.0909605, "Ich": -3.7852545}, "answer": "A", "country": "Italy", "question_idx": 746}
+{"logprobs": {"Es": -1.2518841, "Ich": -2.0558124, "Da": -2.1040301, "Diese": -2.3857818, "A": -2.6097732}, "answer": "A", "country": "Japan", "question_idx": 747}
+{"logprobs": {"A": -0.23616979, "Ant": -2.6470184, "B": -3.4277306, "Die": -3.6630058, "C": -3.9987774}, "answer": "A", "country": "France", "question_idx": 748}
+{"logprobs": {"A": -0.019724634, "Ant": -4.581361, "D": -5.1186876, "Die": -6.9101896, "B": -7.1516294}, "answer": "A", "country": "Japan", "question_idx": 749}
+{"logprobs": {"C": -0.041170463, "Die": -4.493958, "Ich": -5.2916284, "A": -5.378573, "Bitte": -5.6677194}, "answer": "A", "country": "Malaysia", "question_idx": 750}
+{"logprobs": {"C": -0.009775806, "Die": -5.445357, "D": -6.632031, "Ant": -6.719336, "Ich": -7.1240945}, "answer": "C", "country": "Germany", "question_idx": 752}
+{"logprobs": {"A": -0.38938183, "B": -1.9923882, "C": -2.5897775, "Die": -3.279574, "Ant": -3.63312}, "answer": "B", "country": "Israel", "question_idx": 753}
+{"logprobs": {"B": -0.004398075, "Ant": -6.494819, "Die": -6.616636, "Option": -6.711984, "A": -9.351387}, "answer": "B", "country": "Lebanon", "question_idx": 754}
+{"logprobs": {"A": -0.2298132, "Die": -2.6319242, "Ant": -2.7116227, "D": -3.3471417, "B": -3.8890576}, "answer": "B", "country": "Hong Kong", "question_idx": 755}
+{"logprobs": {"D": -0.010541318, "Ant": -5.735891, "Die": -6.043691, "Ich": -6.399717, "Um": -6.971452}, "answer": "B", "country": "South Korea", "question_idx": 756}
+{"logprobs": {"Es": -0.74317056, "Ich": -2.4769504, "A": -2.5595634, "B": -2.9048145, "Da": -2.9656265}, "answer": "C", "country": "Czech Republic", "question_idx": 757}
+{"logprobs": {"A": -0.29294777, "Die": -2.114441, "C": -2.542673, "Ant": -4.1060753, "Ich": -4.4512463}, "answer": "A", "country": "South Africa", "question_idx": 758}
+{"logprobs": {"Es": -0.9696856, "A": -1.5336657, "B": -1.7340555, "Die": -2.6746264, "Um": -3.466483}, "answer": "A", "country": "Peru", "question_idx": 759}
+{"logprobs": {"A": -0.0031955359, "Ant": -6.479697, "Die": -6.8964853, "D": -8.820798, "B": -8.924937}, "answer": "A", "country": "Peru", "question_idx": 760}
+{"logprobs": {"A": -0.13829811, "B": -2.770977, "Ant": -3.625412, "Ich": -4.667238, "Die": -4.7180977}, "answer": "C", "country": "South Africa", "question_idx": 761}
+{"logprobs": {"A": -0.08658194, "Die": -3.0157201, "Ant": -3.479759, "Option": -6.7795444, "Fr": -6.8214927}, "answer": "A", "country": "Japan", "question_idx": 762}
+{"logprobs": {"A": -0.026439404, "Ant": -3.953468, "Die": -6.1739306, "B": -6.4077926, "D": -7.2508845}, "answer": "B", "country": "Lebanon", "question_idx": 763}
+{"logprobs": {"C": -0.17161426, "Die": -3.1560197, "Ich": -3.5718865, "Ant": -3.65132, "A": -4.1421666}, "answer": "B", "country": "Czech Republic", "question_idx": 764}
+{"logprobs": {"B": -0.24300124, "C": -2.5497525, "D": -2.682481, "A": -3.3712494, "Die": -4.3624377}, "answer": "A", "country": "Morocco", "question_idx": 765}
+{"logprobs": {"C": -0.34870204, "B": -1.9167467, "A": -2.0888333, "D": -4.7081494, "Die": -5.1844068}, "answer": "B", "country": "Mexico", "question_idx": 766}
+{"logprobs": {"A": -0.020211557, "Ant": -4.295074, "Die": -5.395866, "B": -7.458017, "Option": -7.8619437}, "answer": "A", "country": "Poland", "question_idx": 767}
+{"logprobs": {"A": -0.072912425, "Ant": -3.4363654, "Die": -3.828768, "Option": -5.288376, "Ke": -5.577368}, "answer": "A", "country": "Mexico", "question_idx": 768}
+{"logprobs": {"C": -0.10147645, "Die": -3.0090349, "D": -3.3691652, "Ant": -5.4402847, "Ich": -5.6391087}, "answer": "B", "country": "Philippines", "question_idx": 769}
+{"logprobs": {"A": -0.37026808, "C": -1.7925189, "B": -2.3624785, "Ant": -3.8184588, "Ich": -4.830652}, "answer": "C", "country": "Philippines", "question_idx": 771}
+{"logprobs": {"D": -0.20983733, "A": -2.725699, "Ant": -3.367333, "Die": -3.4731488, "Ich": -4.0300965}, "answer": "B", "country": "Philippines", "question_idx": 772}
+{"logprobs": {"B": -0.40267572, "C": -1.4662458, "Ant": -3.3940105, "Die": -3.8867912, "Ich": -4.6222343}, "answer": "A", "country": "Morocco", "question_idx": 773}
+{"logprobs": {"C": -1.2668816, "B": -1.3158585, "D": -1.771114, "A": -2.253654, "Die": -2.603931}, "answer": "C", "country": "Ukraine", "question_idx": 774}
+{"logprobs": {"B": -0.72188276, "D": -0.76247495, "Die": -4.0562105, "C": -4.6459894, "Ant": -4.8244944}, "answer": "D", "country": "Czech Republic", "question_idx": 775}
+{"logprobs": {"B": -0.47205392, "A": -1.3400768, "Die": -3.3062768, "Ant": -3.5705838, "C": -3.9164166}, "answer": "A", "country": "South Africa", "question_idx": 776}
+{"logprobs": {"A": -1.70006, "Die": -1.7638723, "B": -1.77874, "Ich": -2.2199898, "Ant": -2.567606}, "answer": "A", "country": "South Korea", "question_idx": 777}
+{"logprobs": {"B": -0.62429523, "A": -1.6601515, "C": -1.7517977, "Ant": -3.3927069, "D": -3.485816}, "answer": "B", "country": "South Korea", "question_idx": 778}
+{"logprobs": {"A": -0.020085031, "Ant": -4.3368917, "Die": -5.747996, "Option": -6.2642007, "B": -7.087378}, "answer": "A", "country": "South Africa", "question_idx": 779}
+{"logprobs": {"B": -0.0037975847, "Die": -6.0202675, "Ant": -7.732559, "Ich": -8.114315, "Me": -8.835407}, "answer": "A", "country": "Japan", "question_idx": 780}
+{"logprobs": {"A": -0.123398624, "Ant": -2.732659, "D": -3.688546, "Die": -3.9128406, "Um": -6.8527594}, "answer": "D", "country": "Brazil", "question_idx": 781}
+{"logprobs": {"A": -0.08945574, "Ant": -3.6582215, "C": -4.3264894, "Um": -4.4004107, "Die": -4.612714}, "answer": "A", "country": "Vietnam", "question_idx": 782}
+{"logprobs": {"B": -0.55296004, "A": -2.2920518, "Es": -2.520451, "Ich": -2.7932591, "Die": -2.9912934}, "answer": "A", "country": "Czech Republic", "question_idx": 783}
+{"logprobs": {"C": -0.46746606, "D": -1.862745, "A": -2.0974576, "B": -2.9303129, "Die": -3.2741354}, "answer": "C", "country": "Malaysia", "question_idx": 784}
+{"logprobs": {"B": -0.008096535, "Ant": -6.184868, "Die": -6.5111446, "Ich": -6.605736, "Um": -7.2245274}, "answer": "B", "country": "Vietnam", "question_idx": 785}
+{"logprobs": {"B": -0.6259761, "C": -1.2839427, "A": -2.2018886, "D": -3.0868754, "Ant": -4.0264277}, "answer": "A", "country": "Australia", "question_idx": 786}
+{"logprobs": {"C": -0.073860966, "B": -3.494456, "A": -4.3732176, "Ant": -4.477189, "Die": -4.960847}, "answer": "A", "country": "Australia", "question_idx": 787}
+{"logprobs": {"C": -0.11139546, "A": -3.1221433, "Ant": -3.445294, "B": -4.226109, "Ich": -5.483584}, "answer": "A", "country": "Lebanon", "question_idx": 788}
+{"logprobs": {"A": -0.8476191, "B": -1.557744, "D": -1.8100405, "C": -2.6682825, "Ant": -2.7218218}, "answer": "B", "country": "Italy", "question_idx": 790}
+{"logprobs": {"A": -0.0069018514, "Ant": -5.1656485, "Die": -7.016652, "Option": -8.9029455, "Me": -10.036979}, "answer": "A", "country": "United Kingdom", "question_idx": 792}
+{"logprobs": {"C": -0.4420964, "A": -2.011215, "B": -2.6165102, "D": -3.0687215, "Ich": -3.3286989}, "answer": "B", "country": "Argentina", "question_idx": 793}
+{"logprobs": {"C": -0.05173791, "A": -3.2552388, "Die": -5.5867834, "Ant": -5.63268, "D": -6.1295424}, "answer": "C", "country": "Argentina", "question_idx": 794}
+{"logprobs": {"A": -0.028060913, "Die": -4.439686, "Ant": -5.0317287, "B": -6.3074017, "Es": -6.368931}, "answer": "B", "country": "Argentina", "question_idx": 795}
+{"logprobs": {"B": -0.49127382, "A": -1.6773548, "C": -2.4037018, "D": -2.4240875, "Die": -4.0829487}, "answer": "A", "country": "Brazil", "question_idx": 796}
+{"logprobs": {"B": -0.07541335, "Ant": -3.897427, "A": -4.0752606, "C": -4.3708596, "D": -5.0972314}, "answer": "A", "country": "Japan", "question_idx": 797}
+{"logprobs": {"B": -0.95811844, "A": -1.1779747, "Um": -2.5751266, "Ich": -2.783867, "Die": -3.3907166}, "answer": "A", "country": "Ukraine", "question_idx": 798}
+{"logprobs": {"B": -0.028120143, "D": -4.584444, "Die": -4.717287, "C": -5.8914833, "Ant": -6.24914}, "answer": "A", "country": "Indonesia", "question_idx": 799}
+{"logprobs": {"A": -0.89001423, "B": -1.6899962, "Ant": -2.2823691, "C": -2.502483, "Ich": -2.7568069}, "answer": "A", "country": "Pakistan", "question_idx": 800}
+{"logprobs": {"B": -1.230805, "D": -1.3963076, "Ant": -1.9408098, "C": -2.2912393, "A": -2.7602239}, "answer": "B", "country": "Argentina", "question_idx": 801}
+{"logprobs": {"C": -0.68026155, "A": -1.1681957, "Ich": -3.0998325, "B": -3.666544, "Es": -4.2891254}, "answer": "C", "country": "Indonesia", "question_idx": 802}
+{"logprobs": {"B": -0.011959717, "Die": -5.2252545, "Um": -6.5809846, "Ant": -6.7685647, "Ich": -6.778771}, "answer": "B", "country": "Pakistan", "question_idx": 803}
+{"logprobs": {"A": -0.2260487, "B": -2.3486702, "Ant": -3.144687, "C": -3.8171608, "Die": -3.860698}, "answer": "A", "country": "Japan", "question_idx": 804}
+{"logprobs": {"B": -0.06836888, "A": -2.8007965, "Ant": -6.2203007, "C": -6.594843, "Die": -7.175432}, "answer": "B", "country": "Australia", "question_idx": 805}
+{"logprobs": {"B": -0.03068685, "A": -3.9583812, "Ant": -5.9693503, "C": -6.0187964, "D": -6.0674815}, "answer": "D", "country": "Japan", "question_idx": 806}
+{"logprobs": {"B": -0.15335122, "A": -3.208262, "C": -3.2376866, "D": -3.926045, "Ich": -4.165646}, "answer": "C", "country": "Mexico", "question_idx": 807}
+{"logprobs": {"Um": -1.2157965, "Es": -1.4895563, "Da": -1.8499308, "Die": -2.2109957, "Ich": -3.1257963}, "answer": "A", "country": "Lebanon", "question_idx": 808}
+{"logprobs": {"C": -0.5210216, "B": -1.4875858, "A": -2.1061695, "D": -3.8813217, "Die": -4.2769384}, "answer": "D", "country": "Netherlands", "question_idx": 809}
+{"logprobs": {"A": -0.50616634, "C": -1.1301669, "B": -3.1305523, "Die": -4.665457, "Es": -5.2812595}, "answer": "A", "country": "Spain", "question_idx": 810}
+{"logprobs": {"A": -0.2022759, "Ant": -2.1529005, "Die": -2.8409193, "Option": -5.2632556, "Um": -6.5036216}, "answer": "A", "country": "United Kingdom", "question_idx": 811}
+{"logprobs": {"A": -0.012097524, "Ant": -4.803748, "Die": -5.9979258, "Option": -7.800668, "B": -8.524383}, "answer": "A", "country": "United Kingdom", "question_idx": 812}
+{"logprobs": {"A": -0.0028937978, "Ant": -6.4683843, "Die": -6.9670415, "Option": -8.329542, "B": -10.3542}, "answer": "A", "country": "United Kingdom", "question_idx": 813}
+{"logprobs": {"C": -1.361972, "D": -1.607793, "A": -1.6505424, "B": -1.7444717, "Ant": -2.6223478}, "answer": "C", "country": "Italy", "question_idx": 814}
+{"logprobs": {"A": -0.14396785, "Ant": -2.6424458, "Die": -3.023389, "Option": -4.373517, "B": -7.5833445}, "answer": "A", "country": "Spain", "question_idx": 815}
+{"logprobs": {"B": -0.5725768, "Die": -1.5701315, "A": -1.9741442, "C": -2.9315321, "D": -4.2535977}, "answer": "D", "country": "Japan", "question_idx": 816}
+{"logprobs": {"A": -0.81570464, "B": -0.91950446, "Ant": -3.3280718, "Ich": -3.488621, "Die": -3.7119982}, "answer": "B", "country": "Czech Republic", "question_idx": 817}
+{"logprobs": {"A": -0.44556594, "Es": -2.2326334, "Ant": -2.6622198, "Da": -3.7434595, "Ich": -3.7939222}, "answer": "A", "country": "Spain", "question_idx": 818}
+{"logprobs": {"A": -0.024606463, "Die": -4.5141215, "Ant": -4.5412116, "D": -6.725538, "C": -7.79833}, "answer": "A", "country": "Russia", "question_idx": 819}
+{"logprobs": {"B": -0.019249171, "C": -5.268276, "A": -5.4747944, "Die": -5.529808, "Ant": -5.9960384}, "answer": "B", "country": "Poland", "question_idx": 820}
+{"logprobs": {"A": -0.008173158, "Ant": -5.01355, "Die": -7.08082, "Option": -8.664843, "Ich": -9.619892}, "answer": "A", "country": "Canada", "question_idx": 821}
+{"logprobs": {"C": -0.078762434, "B": -3.0073647, "Die": -4.477349, "Ant": -5.345612, "A": -5.557198}, "answer": "C", "country": "Indonesia", "question_idx": 822}
+{"logprobs": {"A": -0.0324939, "Ant": -4.245951, "Die": -4.539841, "Me": -5.970736, "Ich": -6.367127}, "answer": "A", "country": "Bangladesh", "question_idx": 823}
+{"logprobs": {"A": -0.38574567, "C": -2.6553571, "B": -2.8993757, "Ant": -3.0659235, "Die": -3.1962984}, "answer": "A", "country": "Ukraine", "question_idx": 824}
+{"logprobs": {"A": -0.06627375, "B": -3.541955, "D": -4.1907187, "C": -5.2291613, "Ant": -5.26682}, "answer": "A", "country": "China", "question_idx": 825}
+{"logprobs": {"B": -0.11872267, "A": -3.1796129, "Ich": -4.007211, "Um": -4.635217, "C": -4.76185}, "answer": "D", "country": "Brazil", "question_idx": 826}
+{"logprobs": {"B": -0.0049039084, "Die": -5.945423, "A": -7.266573, "Ant": -7.3162975, "Ich": -7.8708763}, "answer": "A", "country": "Brazil", "question_idx": 827}
+{"logprobs": {"A": -0.013612249, "Ant": -5.406051, "Die": -5.806463, "D": -6.0101447, "B": -6.7524524}, "answer": "A", "country": "Mexico", "question_idx": 829}
+{"logprobs": {"A": -0.024318779, "Die": -4.4073067, "Ant": -4.840523, "C": -6.6481743, "Option": -6.7197037}, "answer": "C", "country": "Philippines", "question_idx": 830}
+{"logprobs": {"A": -0.022143748, "Ant": -3.9831843, "Die": -6.1889358, "B": -8.045068, "Option": -8.049325}, "answer": "A", "country": "India", "question_idx": 831}
+{"logprobs": {"B": -0.069331326, "Die": -3.3190472, "Ant": -3.9020112, "C": -5.007821, "A": -6.900182}, "answer": "B", "country": "Germany", "question_idx": 833}
+{"logprobs": {"A": -0.30311576, "B": -2.1411533, "Die": -2.491785, "Ant": -3.605564, "C": -5.4202747}, "answer": "A", "country": "Germany", "question_idx": 834}
+{"logprobs": {"B": -0.033490323, "Die": -4.401206, "Um": -5.662627, "Es": -5.6821184, "Ich": -5.757001}, "answer": "C", "country": "Germany", "question_idx": 835}
+{"logprobs": {"D": -0.3937923, "A": -1.4227058, "Ant": -3.362199, "Die": -4.0921545, "Ich": -5.0543566}, "answer": "D", "country": "Israel", "question_idx": 836}
+{"logprobs": {"A": -0.036882997, "Ant": -3.3741975, "Die": -6.5929914, "Option": -8.625333, "B": -9.073644}, "answer": "B", "country": "Vietnam", "question_idx": 837}
+{"logprobs": {"A": -0.10348372, "Ant": -3.1534963, "Die": -3.1940503, "Option": -4.326964, "Um": -7.635287}, "answer": "A", "country": "Bangladesh", "question_idx": 838}
+{"logprobs": {"B": -0.4361669, "C": -1.180132, "Die": -3.613932, "D": -5.1013985, "Ich": -5.321144}, "answer": "A", "country": "Zimbabwe", "question_idx": 839}
+{"logprobs": {"B": -0.021692866, "Die": -4.5176435, "Um": -5.7235627, "A": -6.1860185, "Ich": -6.826733}, "answer": "A", "country": "Hong Kong", "question_idx": 840}
+{"logprobs": {"A": -0.38600838, "D": -1.6353542, "Ant": -2.5055342, "Die": -3.3382158, "Option": -6.320798}, "answer": "A", "country": "Nepal", "question_idx": 841}
+{"logprobs": {"B": -0.5899213, "A": -0.9251588, "D": -3.3336957, "Ant": -5.102613, "Die": -5.409385}, "answer": "A", "country": "Japan", "question_idx": 842}
+{"logprobs": {"B": -0.019684078, "Die": -5.107537, "Um": -5.7773004, "Ant": -5.789967, "Ich": -6.01549}, "answer": "B", "country": "Romania", "question_idx": 843}
+{"logprobs": {"A": -0.022842174, "Ant": -4.4076614, "Die": -4.8824177, "Me": -7.622801, "Fr": -8.073067}, "answer": "A", "country": "Netherlands", "question_idx": 844}
+{"logprobs": {"D": -1.0174186, "A": -1.4678504, "C": -1.8288982, "B": -1.9028823, "Ant": -3.030175}, "answer": "A", "country": "Thailand", "question_idx": 845}
+{"logprobs": {"B": -0.53746116, "C": -2.2050295, "D": -2.273282, "Die": -2.2959833, "A": -2.6993914}, "answer": "D", "country": "Netherlands", "question_idx": 846}
+{"logprobs": {"C": -0.014494071, "Die": -5.074301, "Ant": -5.814678, "A": -6.491047, "Ich": -6.7928486}, "answer": "C", "country": "Japan", "question_idx": 847}
+{"logprobs": {"C": -0.5339681, "A": -1.9901029, "B": -2.2275867, "D": -2.6327038, "Die": -2.949173}, "answer": "A", "country": "Spain", "question_idx": 848}
+{"logprobs": {"A": -0.009111909, "Die": -5.532927, "Ant": -6.301705, "B": -6.474568, "D": -6.8626657}, "answer": "B", "country": "Brazil", "question_idx": 849}
+{"logprobs": {"C": -0.98379326, "A": -1.1793213, "Die": -2.0009575, "Ant": -2.8281116, "D": -2.8798122}, "answer": "A", "country": "Brazil", "question_idx": 850}
+{"logprobs": {"B": -0.043132212, "A": -3.9942966, "Die": -4.489944, "Ant": -5.226091, "D": -5.611837}, "answer": "A", "country": "South Africa", "question_idx": 851}
+{"logprobs": {"B": -0.5996081, "A": -1.3857276, "C": -2.8099163, "Ich": -3.5452774, "D": -3.594527}, "answer": "A", "country": "South Africa", "question_idx": 852}
+{"logprobs": {"B": -0.6333486, "A": -1.3907071, "D": -1.9836046, "C": -3.036337, "Ant": -4.0115185}, "answer": "A", "country": "Chile", "question_idx": 853}
+{"logprobs": {"A": -0.04058009, "Die": -3.9509003, "Ant": -4.0620074, "Option": -6.5978293, "B": -7.847736}, "answer": "A", "country": "Chile", "question_idx": 854}
+{"logprobs": {"B": -0.048035562, "A": -3.656291, "C": -4.68863, "Ant": -5.4653425, "Die": -5.8612185}, "answer": "B", "country": "Mexico", "question_idx": 855}
+{"logprobs": {"A": -0.040511753, "Ant": -3.7668722, "Die": -4.123634, "Option": -9.040379, "Fr": -9.946558}, "answer": "A", "country": "Hong Kong", "question_idx": 856}
+{"logprobs": {"B": -0.51060474, "A": -1.2202529, "C": -2.795288, "Die": -4.1736164, "Ant": -4.8883514}, "answer": "C", "country": "Singapore", "question_idx": 857}
+{"logprobs": {"Da": -1.3900676, "Es": -1.657722, "Diese": -2.2154536, "Ent": -2.3146644, "Ich": -2.4450183}, "answer": "D", "country": "Peru", "question_idx": 859}
+{"logprobs": {"B": -0.023001209, "A": -4.0420575, "C": -6.079863, "Ant": -7.3060193, "Die": -7.379002}, "answer": "B", "country": "Italy", "question_idx": 861}
+{"logprobs": {"A": -0.042783692, "Ant": -4.5165043, "D": -4.666277, "Die": -4.9599667, "Um": -5.5257893}, "answer": "A", "country": "Zimbabwe", "question_idx": 862}
+{"logprobs": {"A": -0.014379149, "Die": -5.0741115, "Ant": -5.1316314, "Um": -8.0515995, "Es": -8.232208}, "answer": "A", "country": "Zimbabwe", "question_idx": 863}
+{"logprobs": {"A": -0.45770833, "B": -1.0909996, "Ant": -4.30764, "Die": -4.479347, "Ich": -6.301588}, "answer": "B", "country": "China", "question_idx": 864}
+{"logprobs": {"A": -0.5374428, "Ant": -1.9048764, "Um": -2.1600547, "Ich": -3.46351, "Da": -3.807321}, "answer": "A", "country": "United States", "question_idx": 865}
+{"logprobs": {"C": -0.33065385, "Ich": -2.792751, "Um": -2.930557, "A": -3.4987714, "Ent": -3.6417902}, "answer": "C", "country": "Vietnam", "question_idx": 866}
+{"logprobs": {"C": -0.01131365, "Die": -5.9081945, "Ich": -6.242589, "Ant": -6.2818575, "A": -6.4160166}, "answer": "C", "country": "Vietnam", "question_idx": 867}
+{"logprobs": {"C": -0.07339296, "B": -3.442505, "A": -3.88554, "D": -4.58704, "Die": -6.0837708}, "answer": "C", "country": "Spain", "question_idx": 868}
+{"logprobs": {"A": -0.02414517, "Ant": -4.412895, "Die": -5.2673016, "Me": -6.5534687, "B": -6.761429}, "answer": "A", "country": "Czech Republic", "question_idx": 869}
+{"logprobs": {"Es": -1.3739325, "A": -1.8280607, "C": -1.8441511, "B": -1.85422, "Die": -2.6402078}, "answer": "A", "country": "Netherlands", "question_idx": 870}
+{"logprobs": {"B": -0.0071316236, "Die": -5.4386463, "Ant": -6.6438446, "Ich": -7.7204247, "Me": -8.125473}, "answer": "A", "country": "Japan", "question_idx": 871}
+{"logprobs": {"A": -0.09577573, "Ant": -3.2802413, "C": -3.7964385, "Die": -4.393734, "B": -4.448843}, "answer": "A", "country": "Japan", "question_idx": 872}
+{"logprobs": {"A": -0.06267724, "B": -3.4002054, "D": -4.1522045, "Ant": -5.3665543, "Die": -5.514204}, "answer": "B", "country": "Japan", "question_idx": 873}
+{"logprobs": {"A": -0.1638711, "Ant": -2.6992753, "B": -3.8442605, "E": -4.152578, "Ich": -4.5807376}, "answer": "B", "country": "Romania", "question_idx": 874}
+{"logprobs": {"A": -1.2693111, "Die": -1.4067947, "D": -1.7074977, "C": -1.8621742, "B": -2.3809328}, "answer": "B", "country": "Singapore", "question_idx": 875}
+{"logprobs": {"M": -0.14232045, "Es": -2.5842721, "Ke": -4.0374374, "Die": -4.2800426, "Option": -5.0668736}, "answer": "B", "country": "Czech Republic", "question_idx": 876}
+{"logprobs": {"C": -0.25917095, "Die": -2.4816499, "Ant": -3.2116017, "D": -3.230536, "A": -3.9846253}, "answer": "C", "country": "New Zealand", "question_idx": 877}
+{"logprobs": {"B": -0.19787723, "A": -2.2311718, "Ant": -3.7139485, "Die": -3.7891934, "Ich": -5.049228}, "answer": "A", "country": "Zimbabwe", "question_idx": 878}
+{"logprobs": {"C": -0.32163844, "B": -2.941786, "A": -2.9970152, "Ich": -3.001528, "Ant": -3.1318324}, "answer": "C", "country": "Mexico", "question_idx": 879}
+{"logprobs": {"B": -0.105094895, "A": -3.363144, "Um": -4.187729, "Die": -4.4369545, "C": -4.633602}, "answer": "A", "country": "Japan", "question_idx": 881}
+{"logprobs": {"A": -0.00139738, "Die": -7.2692904, "Ant": -7.5194354, "B": -9.287316, "Ich": -11.155108}, "answer": "A", "country": "South Africa", "question_idx": 882}
+{"logprobs": {"B": -0.043825805, "A": -4.5278172, "Die": -4.7184377, "D": -4.981795, "Ant": -5.053145}, "answer": "A", "country": "Nigeria", "question_idx": 883}
+{"logprobs": {"A": -0.022552585, "Die": -4.809368, "Ant": -4.980995, "B": -5.3248634, "C": -7.1145763}, "answer": "A", "country": "Indonesia", "question_idx": 884}
+{"logprobs": {"A": -1.1189399, "B": -1.1302466, "C": -1.8179832, "Ant": -2.7407908, "Ich": -3.6622252}, "answer": "A", "country": "Japan", "question_idx": 885}
+{"logprobs": {"B": -0.0060935044, "Die": -5.3387446, "Ant": -7.4216323, "Ich": -8.460541, "Me": -9.064863}, "answer": "A", "country": "Japan", "question_idx": 886}
+{"logprobs": {"A": -1.1024171, "Es": -1.9877759, "B": -2.4186306, "Ich": -2.5780907, "Da": -2.7785358}, "answer": "B", "country": "Japan", "question_idx": 887}
+{"logprobs": {"B": -0.5010501, "A": -1.4234191, "C": -2.1716833, "Die": -3.8997736, "Ant": -5.024272}, "answer": "A", "country": "France", "question_idx": 888}
+{"logprobs": {"D": -0.069582, "Die": -3.5120792, "A": -4.191931, "Ant": -4.514021, "Option": -6.153761}, "answer": "B", "country": "Israel", "question_idx": 889}
+{"logprobs": {"B": -0.36763045, "C": -1.9781823, "A": -2.647904, "D": -3.0095048, "Ant": -3.833054}, "answer": "C", "country": "South Africa", "question_idx": 890}
+{"logprobs": {"D": -0.12122964, "A": -3.0908914, "Ant": -4.0373616, "B": -4.4180264, "Die": -4.4866166}, "answer": "B", "country": "Australia", "question_idx": 891}
+{"logprobs": {"A": -0.33839607, "C": -2.3969593, "D": -2.6956406, "B": -2.93754, "Ant": -3.2689896}, "answer": "C", "country": "Taiwan", "question_idx": 892}
+{"logprobs": {"A": -0.02019871, "C": -4.86228, "Ant": -5.269541, "B": -5.3382874, "Die": -7.1695786}, "answer": "A", "country": "Taiwan", "question_idx": 893}
+{"logprobs": {"Sp": -1.1411358, "P": -1.2837731, "Re": -2.553348, "N": -2.7747493, "Las": -3.303924}, "answer": "A", "country": "Chile", "question_idx": 894}
+{"logprobs": {"A": -0.017977376, "Ant": -4.3328614, "Die": -6.1045213, "Option": -6.9659142, "B": -7.3033013}, "answer": "A", "country": "Nigeria", "question_idx": 895}
+{"logprobs": {"B": -0.0036522183, "Die": -6.1780963, "Ant": -7.7567725, "Ich": -8.171118, "D": -8.497988}, "answer": "A", "country": "Russia", "question_idx": 896}
+{"logprobs": {"A": -0.03390225, "Ant": -4.295478, "Die": -4.5970335, "B": -5.4379435, "C": -5.6542673}, "answer": "A", "country": "Egypt", "question_idx": 897}
+{"logprobs": {"B": -0.3885389, "A": -1.450089, "Die": -3.5966344, "C": -3.8949685, "Ant": -3.903956}, "answer": "A", "country": "South Africa", "question_idx": 898}
+{"logprobs": {"A": -0.30812, "D": -1.4234574, "Ant": -4.4698896, "Die": -4.6871767, "Ich": -6.8350973}, "answer": "D", "country": "Philippines", "question_idx": 899}
+{"logprobs": {"B": -0.055647295, "D": -3.5091062, "C": -4.5272183, "A": -5.5488667, "Ant": -5.5565724}, "answer": "D", "country": "France", "question_idx": 900}
+{"logprobs": {"A": -0.019889068, "Die": -4.278672, "Ant": -5.559451, "Option": -6.763232, "B": -8.035062}, "answer": "A", "country": "Nepal", "question_idx": 901}
+{"logprobs": {"A": -0.26327348, "Ant": -1.8980811, "Um": -3.2319453, "Die": -3.7078345, "Ich": -5.241146}, "answer": "A", "country": "Singapore", "question_idx": 902}
+{"logprobs": {"B": -0.35143274, "C": -2.0419502, "A": -2.5432358, "Ant": -3.940483, "Ich": -4.0135193}, "answer": "A", "country": "Brazil", "question_idx": 903}
+{"logprobs": {"C": -0.0568605, "Die": -3.5685735, "Ant": -5.069075, "A": -5.193976, "Ich": -5.4999204}, "answer": "D", "country": "Germany", "question_idx": 904}
+{"logprobs": {"A": -0.16156512, "Ant": -2.8693192, "B": -3.6009743, "Die": -3.801719, "Es": -4.71528}, "answer": "A", "country": "Australia", "question_idx": 906}
+{"logprobs": {"A": -0.14184152, "Ant": -2.6417441, "C": -3.6693034, "Die": -4.346248, "D": -4.895036}, "answer": "D", "country": "Romania", "question_idx": 907}
+{"logprobs": {"C": -1.3738917, "D": -1.4257907, "B": -1.6621989, "Die": -2.281536, "A": -2.3367386}, "answer": "B", "country": "Turkey", "question_idx": 908}
+{"logprobs": {"A": -0.607692, "C": -2.0686562, "Es": -3.1992257, "Ich": -3.2939293, "Die": -3.317613}, "answer": "A", "country": "Pakistan", "question_idx": 909}
+{"logprobs": {"A": -0.013030339, "Ant": -4.6576743, "Die": -6.0863585, "Me": -8.29635, "Ich": -8.466872}, "answer": "A", "country": "Turkey", "question_idx": 910}
+{"logprobs": {"A": -0.00837876, "Die": -5.4899616, "Ant": -5.495085, "Option": -11.143482, "Fr": -11.217226}, "answer": "A", "country": "Israel", "question_idx": 911}
+{"logprobs": {"A": -0.25031137, "Die": -1.8236337, "Ant": -3.0347333, "Option": -5.1878858, "B": -5.7076097}, "answer": "A", "country": "Australia", "question_idx": 912}
+{"logprobs": {"A": -0.0056249043, "B": -5.9967995, "Ant": -6.079626, "Die": -7.5614834, "C": -9.525923}, "answer": "B", "country": "Bangladesh", "question_idx": 913}
+{"logprobs": {"A": -0.03937183, "Ant": -3.9277117, "Die": -4.798249, "Es": -6.329499, "Ich": -6.362885}, "answer": "A", "country": "Russia", "question_idx": 914}
+{"logprobs": {"A": -0.17720073, "Die": -2.6909223, "D": -3.0045094, "B": -3.7727895, "C": -4.520184}, "answer": "A", "country": "India", "question_idx": 915}
+{"logprobs": {"A": -0.0638532, "Die": -3.82129, "Ant": -3.9924154, "C": -4.1348658, "B": -6.283593}, "answer": "A", "country": "Vietnam", "question_idx": 916}
+{"logprobs": {"D": -0.18994375, "A": -1.9679856, "C": -4.5459313, "Ant": -4.9252133, "Die": -5.365832}, "answer": "C", "country": "Netherlands", "question_idx": 917}
+{"logprobs": {"C": -0.95647806, "B": -1.0897331, "Es": -2.3214455, "Die": -2.9836311, "Ich": -3.2549038}, "answer": "C", "country": "Vietnam", "question_idx": 918}
+{"logprobs": {"C": -0.1015499, "A": -2.745217, "Ant": -4.5792475, "Die": -4.609271, "B": -5.388316}, "answer": "B", "country": "Russia", "question_idx": 919}
+{"logprobs": {"B": -0.008531127, "Die": -5.210798, "Ant": -7.1021934, "Um": -7.206743, "Me": -7.616359}, "answer": "B", "country": "Nigeria", "question_idx": 920}
+{"logprobs": {"D": -0.057960406, "A": -3.5137367, "C": -4.32172, "Die": -5.277548, "B": -5.311674}, "answer": "C", "country": "United States", "question_idx": 921}
+{"logprobs": {"D": -0.24727812, "A": -1.9810637, "C": -3.8068466, "B": -3.9477997, "Ant": -4.460251}, "answer": "A", "country": "Iran", "question_idx": 922}
+{"logprobs": {"B": -0.01659026, "C": -4.7030125, "Ant": -6.0726604, "Die": -6.1376495, "A": -6.4527664}, "answer": "A", "country": "Bangladesh", "question_idx": 923}
+{"logprobs": {"A": -0.06733597, "Ant": -3.3293695, "C": -4.0538435, "Die": -5.529456, "B": -6.0282736}, "answer": "A", "country": "Brazil", "question_idx": 924}
+{"logprobs": {"C": -0.05963976, "A": -4.080579, "B": -4.1726084, "Die": -4.5309973, "Ant": -4.97639}, "answer": "A", "country": "Czech Republic", "question_idx": 925}
+{"logprobs": {"A": -0.006198719, "Ant": -5.2454624, "Die": -7.453001, "Ich": -9.64978, "B": -9.760313}, "answer": "A", "country": "Spain", "question_idx": 926}
+{"logprobs": {"ander": -0.13632391, "ru": -3.4011345, "and": -3.9825191, "Park": -4.831789, "D": -4.936384}, "answer": "A", "country": "Iran", "question_idx": 927}
+{"logprobs": {"B": -0.040853754, "Die": -3.6214545, "D": -5.6826653, "Ich": -5.7687554, "Ant": -6.5079007}, "answer": "A", "country": "Singapore", "question_idx": 928}
+{"logprobs": {"D": -1.1865975, "C": -1.2413613, "Die": -1.3829609, "A": -2.1124797, "Ant": -4.1908317}, "answer": "A", "country": "Singapore", "question_idx": 929}
+{"logprobs": {"A": -0.0926792, "B": -3.452243, "Die": -3.5886834, "Ant": -4.3212996, "D": -5.4798937}, "answer": "A", "country": "Singapore", "question_idx": 930}
+{"logprobs": {"A": -0.036846112, "Die": -4.028471, "Um": -5.3175507, "Ant": -5.9008102, "Es": -5.915058}, "answer": "A", "country": "Morocco", "question_idx": 931}
+{"logprobs": {"A": -0.41106445, "Die": -2.0819514, "D": -2.2227519, "B": -3.2854064, "C": -3.4996512}, "answer": "A", "country": "Poland", "question_idx": 932}
+{"logprobs": {"B": -0.03063843, "A": -4.091521, "Ant": -4.996012, "Die": -5.9536233, "D": -6.2194905}, "answer": "A", "country": "Romania", "question_idx": 933}
+{"logprobs": {"C": -0.121230386, "Die": -2.438945, "Ant": -4.2554984, "Um": -5.091596, "A": -5.7788825}, "answer": "D", "country": "Morocco", "question_idx": 934}
+{"logprobs": {"A": -0.0059932633, "Ant": -5.500439, "Die": -7.8219514, "C": -8.033529, "Option": -8.26095}, "answer": "A", "country": "Philippines", "question_idx": 935}
+{"logprobs": {"B": -0.0016705381, "Die": -7.108564, "A": -8.4827, "Ich": -8.681347, "Ant": -9.043398}, "answer": "A", "country": "Indonesia", "question_idx": 936}
+{"logprobs": {"A": -0.012394507, "Ant": -5.3964353, "Die": -5.44294, "Ich": -7.242188, "B": -7.444258}, "answer": "A", "country": "South Korea", "question_idx": 937}
+{"logprobs": {"D": -0.9594326, "A": -1.590765, "C": -1.7189217, "B": -1.9096584, "Ant": -3.3262177}, "answer": "C", "country": "China", "question_idx": 938}
+{"logprobs": {"A": -1.0092604, "B": -1.0279849, "Die": -2.7347872, "C": -2.9057658, "Ant": -3.3653834}, "answer": "A", "country": "Pakistan", "question_idx": 939}
+{"logprobs": {"B": -0.80510235, "A": -1.1578169, "D": -2.2987776, "Die": -2.7542067, "C": -2.7596254}, "answer": "B", "country": "Russia", "question_idx": 940}
+{"logprobs": {"A": -0.01582765, "Die": -4.8689713, "Ant": -5.580586, "B": -6.9921403, "Ich": -7.26891}, "answer": "A", "country": "China", "question_idx": 941}
+{"logprobs": {"A": -0.010473591, "Ant": -4.7988095, "Die": -7.558661, "B": -7.641499, "C": -7.8613896}, "answer": "A", "country": "India", "question_idx": 942}
+{"logprobs": {"B": -0.74108005, "A": -1.1356113, "C": -2.9246662, "Die": -3.0016468, "Ant": -3.7761467}, "answer": "B", "country": "Israel", "question_idx": 943}
+{"logprobs": {"C": -0.6918301, "A": -1.5508542, "B": -1.707396, "D": -2.6779046, "Die": -3.6047673}, "answer": "B", "country": "Chile", "question_idx": 944}
+{"logprobs": {"B": -0.37938237, "A": -1.6198723, "C": -3.2660134, "D": -3.7690766, "Die": -3.9615204}, "answer": "A", "country": "South Africa", "question_idx": 945}
+{"logprobs": {"A": -0.36865965, "Die": -2.276344, "B": -2.3808343, "Ant": -2.7969625, "C": -3.3415487}, "answer": "D", "country": "United Kingdom", "question_idx": 946}
+{"logprobs": {"D": -0.012872178, "A": -5.4151797, "B": -6.0889316, "Die": -6.368068, "Ich": -6.4468207}, "answer": "A", "country": "Argentina", "question_idx": 947}
+{"logprobs": {"C": -0.011827543, "Die": -4.9963512, "Ant": -5.4790173, "Ich": -7.948801, "Um": -9.005817}, "answer": "C", "country": "Japan", "question_idx": 948}
+{"logprobs": {"B": -0.12604131, "A": -2.9616795, "C": -3.3776245, "Die": -4.112318, "Ant": -4.5639706}, "answer": "B", "country": "Turkey", "question_idx": 949}
+{"logprobs": {"Die": -0.9983703, "C": -1.783765, "B": -1.9057304, "A": -2.4285612, "D": -2.8119688}, "answer": "B", "country": "Chile", "question_idx": 951}
+{"logprobs": {"B": -0.05837306, "C": -4.0382676, "A": -4.2313886, "Die": -4.2590833, "Ant": -5.1004815}, "answer": "A", "country": "Czech Republic", "question_idx": 952}
+{"logprobs": {"B": -0.007805592, "Die": -6.112527, "Ich": -6.3413763, "Ant": -6.545438, "Me": -7.1705656}, "answer": "A", "country": "Taiwan", "question_idx": 953}
+{"logprobs": {"C": -0.3483782, "A": -1.726327, "B": -2.773242, "Die": -3.6641722, "Ant": -3.8950682}, "answer": "C", "country": "Taiwan", "question_idx": 954}
+{"logprobs": {"B": -0.038308736, "C": -3.9302192, "D": -5.380283, "Die": -5.6325965, "A": -5.821857}, "answer": "C", "country": "Taiwan", "question_idx": 955}
+{"logprobs": {"A": -0.10838657, "B": -2.9749465, "Die": -4.1482863, "Ant": -4.3940825, "C": -5.1339145}, "answer": "A", "country": "Philippines", "question_idx": 956}
+{"logprobs": {"A": -0.14383024, "Ant": -3.0529242, "Die": -3.6458178, "C": -3.657689, "B": -4.376437}, "answer": "D", "country": "Turkey", "question_idx": 957}
+{"logprobs": {"B": -0.080942616, "C": -3.608809, "Die": -3.902657, "Ant": -4.511704, "D": -4.826981}, "answer": "C", "country": "Italy", "question_idx": 958}
+{"logprobs": {"B": -0.14115222, "A": -3.6269157, "D": -3.7471702, "C": -4.1150637, "Die": -4.39264}, "answer": "A", "country": "Australia", "question_idx": 959}
+{"logprobs": {"A": -0.004769261, "Ant": -5.6859846, "Die": -7.291232, "Option": -8.238994, "B": -8.657779}, "answer": "A", "country": "Philippines", "question_idx": 960}
+{"logprobs": {"B": -0.0142527055, "Ant": -5.254836, "Die": -5.565604, "A": -5.9990416, "Um": -6.8636656}, "answer": "D", "country": "Japan", "question_idx": 961}
+{"logprobs": {"A": -0.007346901, "Ant": -5.437601, "Die": -6.1299305, "B": -8.293545, "Option": -8.67827}, "answer": "A", "country": "Spain", "question_idx": 962}
+{"logprobs": {"B": -0.123474054, "Ich": -3.8303356, "Um": -3.8568592, "Es": -3.9768353, "Die": -4.3750343}, "answer": "D", "country": "Vietnam", "question_idx": 963}
+{"logprobs": {"D": -0.7341144, "C": -1.8478, "Die": -1.9296463, "Um": -2.2948368, "Ich": -3.4183643}, "answer": "D", "country": "China", "question_idx": 964}
+{"logprobs": {"D": -0.015498466, "Um": -5.029611, "Ant": -5.8496833, "Die": -5.939382, "Ich": -6.6692233}, "answer": "A", "country": "Ukraine", "question_idx": 965}
+{"logprobs": {"A": -0.32022184, "B": -2.9322386, "Es": -3.2662992, "Die": -3.4579897, "Ant": -3.516364}, "answer": "B", "country": "Saudi Arabia", "question_idx": 966}
+{"logprobs": {"A": -1.546024, "B": -1.7580067, "C": -1.9396988, "Es": -2.28058, "Ich": -2.6880946}, "answer": "D", "country": "Vietnam", "question_idx": 967}
+{"logprobs": {"B": -0.061655477, "A": -3.3685536, "C": -4.203877, "D": -5.3921494, "Ant": -6.1468396}, "answer": "A", "country": "China", "question_idx": 968}
+{"logprobs": {"C": -1.3430394, "A": -1.5290955, "D": -1.6545781, "Die": -2.2551107, "B": -2.4190168}, "answer": "A", "country": "Argentina", "question_idx": 969}
+{"logprobs": {"A": -1.4360323, "Um": -1.4842081, "Es": -2.4637957, "Da": -2.5873308, "Die": -2.6198702}, "answer": "D", "country": "United States", "question_idx": 970}
+{"logprobs": {"Die": -0.7956827, "B": -0.8896578, "A": -2.6993406, "C": -3.1430624, "Ant": -4.2826023}, "answer": "A", "country": "Canada", "question_idx": 971}
+{"logprobs": {"B": -0.026854137, "Die": -5.0456185, "Ant": -5.275637, "A": -5.6048474, "Ich": -6.1466565}, "answer": "B", "country": "Spain", "question_idx": 972}
+{"logprobs": {"C": -0.014951236, "Die": -4.7924247, "Ant": -5.2839656, "Ich": -7.551542, "A": -7.877416}, "answer": "C", "country": "India", "question_idx": 973}
+{"logprobs": {"Du": -0.100150585, "Sie": -2.5792766, "Es": -5.0079093, "Ke": -6.17678, "N": -6.46442}, "answer": "A", "country": "China", "question_idx": 974}
+{"logprobs": {"B": -0.00088990235, "Die": -8.024951, "Ant": -8.3334055, "D": -8.791034, "C": -9.682839}, "answer": "B", "country": "India", "question_idx": 975}
+{"logprobs": {"A": -0.40863997, "Ant": -2.460886, "Die": -2.7168922, "B": -2.7928715, "C": -2.91222}, "answer": "A", "country": "Nepal", "question_idx": 976}
+{"logprobs": {"C": -0.4874285, "B": -1.286062, "Ant": -3.519018, "A": -3.5552824, "Die": -4.013933}, "answer": "A", "country": "Spain", "question_idx": 977}
+{"logprobs": {"A": -0.1940925, "Ant": -2.2970111, "Die": -3.5533855, "Es": -4.656403, "B": -4.7526383}, "answer": "D", "country": "India", "question_idx": 978}
+{"logprobs": {"B": -0.6004481, "A": -2.0437617, "C": -2.0644965, "Ke": -2.8850741, "Die": -3.007915}, "answer": "D", "country": "Spain", "question_idx": 979}
+{"logprobs": {"B": -0.9532187, "C": -1.1222899, "A": -2.1640894, "Die": -2.4134142, "D": -2.6931307}, "answer": "A", "country": "China", "question_idx": 980}
+{"logprobs": {"Die": -0.776932, "C": -1.6680033, "A": -1.7554858, "B": -1.9114954, "D": -4.737221}, "answer": "A", "country": "India", "question_idx": 982}
+{"logprobs": {"Um": -0.98633826, "A": -1.1523825, "Die": -2.98416, "Da": -3.000586, "Ant": -3.2555394}, "answer": "B", "country": "United States", "question_idx": 984}
+{"logprobs": {"Um": -1.1614274, "Ant": -2.1750727, "Ich": -2.2161722, "Die": -2.3082838, "Es": -2.3800325}, "answer": "D", "country": "China", "question_idx": 985}
+{"logprobs": {"A": -1.052908, "C": -1.3339844, "B": -1.804636, "D": -2.3955555, "Sch": -3.8412437}, "answer": "D", "country": "China", "question_idx": 986}
+{"logprobs": {"A": -0.13004033, "Die": -3.0194294, "D": -3.3178551, "Ant": -4.044881, "Ich": -5.096238}, "answer": "B", "country": "South Korea", "question_idx": 987}
+{"logprobs": {"A": -0.48976392, "B": -2.043656, "Die": -2.28917, "C": -3.5179584, "Ant": -3.840081}, "answer": "C", "country": "Spain", "question_idx": 988}
+{"logprobs": {"B": -0.22123222, "A": -1.8542106, "C": -4.343322, "D": -4.812989, "Die": -5.0391703}, "answer": "A", "country": "Russia", "question_idx": 989}
+{"logprobs": {"C": -0.45191094, "B": -1.9136572, "A": -3.089221, "Ich": -3.3825388, "D": -3.493825}, "answer": "B", "country": "Spain", "question_idx": 990}
+{"logprobs": {"C": -0.03704763, "Die": -3.8169892, "Ant": -5.1513114, "D": -6.4550414, "Ich": -6.5758605}, "answer": "A", "country": "China", "question_idx": 991}
+{"logprobs": {"A": -0.38433564, "C": -1.9092017, "D": -2.7701082, "Ant": -3.2065668, "Die": -3.5964594}, "answer": "D", "country": "Romania", "question_idx": 992}
+{"logprobs": {"D": -1.6170404, "B": -1.6174734, "Es": -1.7977407, "Die": -2.2850988, "A": -2.3797052}, "answer": "C", "country": "Turkey", "question_idx": 993}
+{"logprobs": {"B": -0.005347959, "Die": -6.5872436, "Ant": -6.71561, "D": -7.1287055, "A": -7.237497}, "answer": "B", "country": "Iran", "question_idx": 994}
+{"logprobs": {"B": -0.74935883, "A": -1.6164415, "Es": -2.4591863, "Die": -2.9754694, "D": -3.080015}, "answer": "C", "country": "China", "question_idx": 995}
+{"logprobs": {"A": -0.03103331, "Ant": -4.9731684, "B": -5.1644354, "Die": -5.1744013, "Ich": -5.9135447}, "answer": "A", "country": "India", "question_idx": 996}
+{"logprobs": {"C": -0.05869281, "Ant": -3.790796, "Die": -4.28911, "A": -5.056143, "D": -5.416897}, "answer": "C", "country": "China", "question_idx": 997}
+{"logprobs": {"A": -0.02689673, "Ant": -4.1860576, "Die": -4.882993, "Option": -7.2846084, "B": -7.76494}, "answer": "A", "country": "China", "question_idx": 998}
+{"logprobs": {"C": -0.2881508, "A": -1.970993, "B": -3.2867413, "Ant": -3.8685455, "Ich": -3.9254265}, "answer": "A", "country": "China", "question_idx": 999}
+{"logprobs": {"A": -0.09152753, "Die": -2.728006, "C": -4.9914947, "B": -5.7309585, "Ich": -5.7348266}, "answer": "B", "country": "New Zealand", "question_idx": 1000}
+{"logprobs": {"A": -0.3783074, "B": -1.7253342, "C": -2.9400234, "Ant": -3.764923, "Ich": -4.2112713}, "answer": "A", "country": "Spain", "question_idx": 1001}
+{"logprobs": {"C": -0.5321663, "B": -1.4922779, "A": -2.2135055, "D": -3.3870533, "Die": -4.1503763}, "answer": "A", "country": "China", "question_idx": 1002}
+{"logprobs": {"Um": -1.3954978, "A": -1.4790702, "Ant": -1.5695033, "Es": -2.1321216, "Da": -3.0622077}, "answer": "A", "country": "China", "question_idx": 1003}
+{"logprobs": {"A": -0.97626776, "Ant": -1.8357992, "B": -1.8885679, "C": -1.8914995, "Die": -2.7742624}, "answer": "C", "country": "China", "question_idx": 1005}
+{"logprobs": {"A": -0.05436521, "Die": -3.5574436, "C": -4.544504, "Ant": -5.0746784, "Option": -5.3858128}, "answer": "A", "country": "India", "question_idx": 1007}
+{"logprobs": {"A": -0.032709084, "Ant": -4.540724, "B": -4.5768337, "Ich": -6.0142326, "Die": -6.5447674}, "answer": "A", "country": "Russia", "question_idx": 1008}
+{"logprobs": {"C": -0.8868147, "Ant": -1.4677511, "A": -1.7684199, "Die": -2.4879403, "D": -3.3080068}, "answer": "A", "country": "China", "question_idx": 1009}
+{"logprobs": {"A": -0.72331387, "C": -0.9923416, "Ant": -3.5085483, "Die": -3.8695807, "B": -4.0396724}, "answer": "A", "country": "China", "question_idx": 1010}
+{"logprobs": {"B": -0.11830538, "Die": -2.8305705, "Da": -4.4096203, "Ich": -4.6136265, "Es": -4.7624683}, "answer": "B", "country": "India", "question_idx": 1011}
+{"logprobs": {"A": -0.020804392, "Die": -4.858712, "B": -5.572921, "Ant": -5.603881, "Um": -5.7388353}, "answer": "A", "country": "India", "question_idx": 1012}
+{"logprobs": {"A": -0.011799033, "Ant": -5.3368893, "Die": -5.478691, "Um": -6.9384575, "B": -7.5759945}, "answer": "B", "country": "China", "question_idx": 1013}
+{"logprobs": {"C": -0.24511884, "D": -2.4135187, "A": -3.1513422, "Die": -3.1676214, "Ant": -4.0759635}, "answer": "A", "country": "Indonesia", "question_idx": 1014}
+{"logprobs": {"A": -1.0146737, "C": -1.2827325, "B": -1.7787919, "D": -2.7630143, "Ant": -2.8146806}, "answer": "A", "country": "South Korea", "question_idx": 1015}
+{"logprobs": {"A": -1.0377716, "B": -1.6436847, "Ant": -2.021546, "C": -2.402821, "Option": -2.553206}, "answer": "A", "country": "India", "question_idx": 1016}
+{"logprobs": {"A": -0.8332307, "D": -1.3532484, "B": -1.9847848, "C": -2.4610326, "Die": -2.973911}, "answer": "B", "country": "China", "question_idx": 1017}
+{"logprobs": {"B": -0.795583, "A": -1.4519627, "C": -1.7750695, "D": -2.881427, "Die": -3.4729664}, "answer": "C", "country": "Pakistan", "question_idx": 1018}
+{"logprobs": {"B": -0.6240813, "A": -2.0408218, "Ant": -2.5212371, "Um": -2.9059494, "Die": -2.9599178}, "answer": "A", "country": "United States", "question_idx": 1019}
+{"logprobs": {"tr": -0.31383637, "A": -1.6630757, "C": -3.4791176, "B": -3.5792305, "D": -5.034778}, "answer": "A", "country": "China", "question_idx": 1020}
+{"logprobs": {"C": -0.49239147, "B": -1.8488578, "D": -1.9760646, "Die": -3.5098476, "Ich": -3.873804}, "answer": "D", "country": "India", "question_idx": 1021}
+{"logprobs": {"B": -0.48522785, "A": -2.0432208, "D": -2.225117, "C": -2.36002, "Die": -3.9424403}, "answer": "A", "country": "Vietnam", "question_idx": 1022}
+{"logprobs": {"B": -0.15231569, "Die": -2.7308717, "Um": -3.9764924, "Es": -4.3710065, "Ich": -4.4334474}, "answer": "C", "country": "Iran", "question_idx": 1023}
+{"logprobs": {"C": -1.2308562, "A": -1.5041602, "D": -1.6035864, "B": -1.906277, "Ant": -2.8810904}, "answer": "A", "country": "China", "question_idx": 1024}
+{"logprobs": {"B": -0.036338247, "Ich": -5.051233, "Um": -5.364673, "A": -5.4110045, "Die": -5.5080886}, "answer": "D", "country": "India", "question_idx": 1025}
+{"logprobs": {"B": -0.69923437, "A": -1.2898468, "Die": -2.4042268, "Ant": -2.741097, "C": -3.1493688}, "answer": "A", "country": "China", "question_idx": 1027}
+{"logprobs": {"A": -0.43161482, "Die": -2.4260836, "Ant": -2.5934305, "D": -2.745984, "B": -2.9970732}, "answer": "A", "country": "Vietnam", "question_idx": 1028}
+{"logprobs": {"B": -0.026509514, "A": -4.4295454, "C": -5.1787367, "Ant": -5.8760614, "Ich": -6.4044294}, "answer": "B", "country": "United States", "question_idx": 1029}
+{"logprobs": {"B": -0.2899052, "A": -2.570045, "C": -3.157701, "Die": -3.435388, "Ich": -3.713491}, "answer": "C", "country": "Turkey", "question_idx": 1030}
+{"logprobs": {"D": -0.75518686, "C": -0.8655899, "Die": -2.9625156, "B": -4.159505, "A": -4.195403}, "answer": "B", "country": "United States", "question_idx": 1031}
+{"logprobs": {"B": -1.2939515, "A": -1.6234937, "Um": -2.2424207, "Ich": -2.4348893, "C": -2.5334134}, "answer": "C", "country": "China", "question_idx": 1032}
+{"logprobs": {"C": -1.1703091, "B": -1.2472076, "A": -1.6574173, "Die": -1.8467274, "Ant": -3.8005238}, "answer": "B", "country": "India", "question_idx": 1033}
+{"logprobs": {"B": -0.22412993, "A": -1.9062779, "D": -3.4502327, "C": -4.3291106, "Die": -5.899072}, "answer": "A", "country": "Spain", "question_idx": 1034}
+{"logprobs": {"C": -0.40743586, "A": -1.8722339, "B": -2.3798118, "Die": -2.897058, "Ant": -4.634294}, "answer": "A", "country": "China", "question_idx": 1035}
+{"logprobs": {"Ent": -1.5489609, "Es": -1.5910332, "Da": -1.5960572, "Um": -2.2373688, "Ich": -2.710603}, "answer": "A", "country": "United States", "question_idx": 1036}
+{"logprobs": {"A": -0.04811907, "Ant": -3.2227407, "Die": -5.242232, "Option": -6.762137, "Um": -8.793999}, "answer": "A", "country": "India", "question_idx": 1037}
+{"logprobs": {"A": -1.3301301, "Ant": -1.8980088, "Die": -2.3297086, "C": -2.4798932, "D": -2.7686334}, "answer": "A", "country": "United States", "question_idx": 1038}
+{"logprobs": {"A": -0.69548434, "B": -1.4756243, "C": -1.9567015, "Die": -3.5380785, "D": -3.6069758}, "answer": "B", "country": "India", "question_idx": 1039}
+{"logprobs": {"A": -0.9919935, "D": -1.3331647, "Ant": -2.3065667, "C": -2.5325913, "B": -2.5505528}, "answer": "B", "country": "South Korea", "question_idx": 1040}
+{"logprobs": {"C": -0.89787865, "A": -1.8270817, "B": -2.0588818, "Ich": -2.6157513, "D": -2.8028526}, "answer": "B", "country": "Ukraine", "question_idx": 1041}
+{"logprobs": {"B": -0.28015113, "C": -1.8862131, "A": -2.7379987, "Ant": -4.977669, "D": -5.263588}, "answer": "A", "country": "South Korea", "question_idx": 1042}
+{"logprobs": {"B": -0.55930567, "D": -1.8378091, "C": -2.0103421, "A": -2.47584, "Ant": -3.5042958}, "answer": "B", "country": "Vietnam", "question_idx": 1043}
+{"logprobs": {"C": -0.70604473, "B": -1.2830215, "A": -2.4242244, "Die": -2.5448833, "D": -3.1211333}, "answer": "C", "country": "India", "question_idx": 1044}
+{"logprobs": {"C": -0.28258523, "A": -2.1785412, "B": -2.7881393, "Die": -3.6012897, "Ich": -4.2806854}, "answer": "A", "country": "South Korea", "question_idx": 1045}
+{"logprobs": {"B": -0.5340143, "C": -1.0322518, "D": -3.381495, "Die": -4.4305997, "Ant": -5.2448907}, "answer": "C", "country": "China", "question_idx": 1046}
+{"logprobs": {"A": -1.1978343, "B": -1.3298094, "Die": -1.635771, "C": -2.459492, "Da": -3.162371}, "answer": "A", "country": "Russia", "question_idx": 1047}
+{"logprobs": {"A": -0.28391647, "B": -2.4362736, "D": -2.965826, "Ant": -2.977829, "C": -3.7228546}, "answer": "B", "country": "Egypt", "question_idx": 1048}
+{"logprobs": {"A": -0.027231691, "Ant": -4.1127934, "Die": -4.9823327, "Um": -7.1689897, "Me": -7.4004617}, "answer": "A", "country": "China", "question_idx": 1049}
+{"logprobs": {"B": -1.4159675, "Um": -1.9245257, "Ich": -2.5538344, "Es": -2.5879073, "Da": -2.6986785}, "answer": "A", "country": "China", "question_idx": 1050}
+{"logprobs": {"D": -0.10088627, "B": -3.1648874, "Ant": -3.8416224, "Die": -4.441678, "A": -4.716296}, "answer": "B", "country": "China", "question_idx": 1051}
+{"logprobs": {"C": -0.5104006, "A": -2.0292985, "Die": -2.4277666, "B": -2.4962041, "D": -2.569616}, "answer": "C", "country": "Saudi Arabia", "question_idx": 1052}
+{"logprobs": {"C": -0.97991574, "A": -1.3530065, "Die": -1.5931951, "D": -2.2927856, "B": -3.1718082}, "answer": "C", "country": "Mexico", "question_idx": 1053}
+{"logprobs": {"A": -0.351272, "E": -2.3637252, "Ant": -3.2826228, "Die": -3.4388175, "Ich": -3.5469337}, "answer": "A", "country": "China", "question_idx": 1054}
+{"logprobs": {"B": -0.463769, "A": -1.1024332, "Ant": -4.432725, "C": -4.805133, "Ich": -5.3967733}, "answer": "B", "country": "China", "question_idx": 1056}
+{"logprobs": {"B": -0.1683886, "C": -3.1540434, "A": -3.4362776, "Ich": -3.802315, "Ant": -4.2183876}, "answer": "A", "country": "Ukraine", "question_idx": 1057}
+{"logprobs": {"B": -0.0021317063, "Ant": -7.0187373, "Die": -7.035711, "Ich": -8.882714, "A": -9.580552}, "answer": "B", "country": "China", "question_idx": 1058}
+{"logprobs": {"B": -0.013728788, "A": -5.07192, "Ant": -5.854255, "C": -6.482639, "Die": -6.9862533}, "answer": "A", "country": "Nepal", "question_idx": 1059}
+{"logprobs": {"B": -0.010274805, "Die": -5.21471, "Ant": -5.5069523, "Option": -8.4291935, "A": -8.554546}, "answer": "B", "country": "China", "question_idx": 1060}
+{"logprobs": {"C": -0.7784145, "A": -0.8394916, "Ant": -3.5696895, "Die": -3.6287162, "B": -4.2898626}, "answer": "B", "country": "Malaysia", "question_idx": 1061}
+{"logprobs": {"C": -0.43553022, "B": -1.9677548, "A": -3.1436315, "D": -3.2006116, "Ich": -3.6584496}, "answer": "C", "country": "Russia", "question_idx": 1062}
+{"logprobs": {"Ich": -1.7682214, "Es": -1.9117284, "A": -1.9201512, "Die": -2.2089734, "B": -2.4445996}, "answer": "C", "country": "Saudi Arabia", "question_idx": 1063}
+{"logprobs": {"C": -0.82892823, "A": -0.9889071, "B": -2.0812266, "D": -3.2696326, "Die": -3.8668997}, "answer": "B", "country": "Ukraine", "question_idx": 1064}
+{"logprobs": {"A": -0.532177, "B": -1.1405048, "Ant": -2.9195862, "Die": -4.332554, "Ich": -4.738737}, "answer": "A", "country": "Turkey", "question_idx": 1065}
+{"logprobs": {"D": -0.8135482, "C": -1.7554427, "Die": -2.0710077, "Um": -2.3140364, "A": -2.6668615}, "answer": "D", "country": "Egypt", "question_idx": 1066}
+{"logprobs": {"B": -0.48638442, "C": -2.1353254, "A": -2.3515024, "Die": -3.368928, "D": -3.5085154}, "answer": "A", "country": "Pakistan", "question_idx": 1067}
+{"logprobs": {"B": -0.16761266, "A": -2.1075044, "D": -4.3895936, "Ant": -4.734305, "C": -5.36336}, "answer": "A", "country": "Indonesia", "question_idx": 1068}
+{"logprobs": {"A": -0.061593827, "B": -3.818672, "Die": -3.9050977, "Ant": -4.38253, "Option": -6.1028976}, "answer": "A", "country": "Indonesia", "question_idx": 1069}
+{"logprobs": {"Es": -0.63255244, "Ich": -1.9568474, "Da": -2.962804, "Diese": -3.082084, "Ke": -3.1953099}, "answer": "B", "country": "South Africa", "question_idx": 1070}
+{"logprobs": {"B": -0.13727024, "A": -3.1599257, "Ant": -3.5035174, "C": -3.9657729, "Die": -4.20756}, "answer": "A", "country": "Argentina", "question_idx": 1071}
+{"logprobs": {"A": -0.81794894, "B": -1.2284886, "D": -2.3327785, "Die": -2.5705943, "C": -2.7410579}, "answer": "A", "country": "Argentina", "question_idx": 1072}
+{"logprobs": {"B": -0.16677372, "C": -2.3033457, "Die": -3.3653536, "D": -5.0050135, "Ant": -5.041133}, "answer": "A", "country": "China", "question_idx": 1073}
+{"logprobs": {"A": -0.13542491, "B": -3.3905766, "C": -3.6607964, "Die": -4.1229625, "Ant": -4.4385085}, "answer": "A", "country": "China", "question_idx": 1074}
+{"logprobs": {"A": -0.34501746, "Ant": -1.8731165, "Die": -2.454095, "C": -3.972333, "B": -4.081357}, "answer": "C", "country": "Poland", "question_idx": 1075}
+{"logprobs": {"C": -0.15849188, "Ant": -3.2235706, "A": -3.235072, "B": -4.047206, "Die": -4.055278}, "answer": "A", "country": "Poland", "question_idx": 1076}
+{"logprobs": {"A": -0.083328694, "B": -3.672131, "Die": -3.979298, "Ant": -4.427626, "Ich": -4.9174676}, "answer": "D", "country": "India", "question_idx": 1077}
+{"logprobs": {"B": -0.18089043, "A": -3.2149365, "Die": -3.2432873, "C": -3.4617093, "Ich": -4.2997603}, "answer": "A", "country": "Mexico", "question_idx": 1079}
+{"logprobs": {"A": -1.0663058, "Es": -1.5127741, "Die": -2.454701, "Ich": -2.8409848, "Ent": -3.0807805}, "answer": "C", "country": "Lebanon", "question_idx": 1080}
+{"logprobs": {"A": -0.121773854, "Ant": -3.269645, "Die": -4.102025, "B": -4.300704, "C": -4.485774}, "answer": "D", "country": "Italy", "question_idx": 1081}
+{"logprobs": {"A": -0.19572848, "C": -2.3611586, "B": -3.6514838, "Ant": -4.1013145, "Die": -4.1457424}, "answer": "A", "country": "Bangladesh", "question_idx": 1083}
+{"logprobs": {"B": -0.031531956, "A": -3.945852, "C": -5.766975, "Die": -5.8089595, "Ant": -5.8488173}, "answer": "A", "country": "South Africa", "question_idx": 1085}
+{"logprobs": {"C": -0.2062967, "A": -2.5472162, "Die": -3.5497167, "Ant": -3.9802034, "B": -4.2998486}, "answer": "A", "country": "Israel", "question_idx": 1086}
+{"logprobs": {"B": -0.008509726, "Die": -5.755061, "A": -6.4416037, "C": -6.9896593, "Ant": -7.5953455}, "answer": "D", "country": "South Africa", "question_idx": 1087}
+{"logprobs": {"A": -0.8122318, "C": -1.0509384, "Die": -2.7730663, "Da": -3.9270008, "Es": -3.9397552}, "answer": "A", "country": "Japan", "question_idx": 1088}
+{"logprobs": {"A": -0.09396325, "Ant": -3.0922027, "B": -4.060533, "Die": -4.706203, "Ich": -5.223863}, "answer": "A", "country": "Hong Kong", "question_idx": 1089}
+{"logprobs": {"Die": -0.16526313, "B": -2.3985567, "C": -3.7548094, "A": -4.0344725, "Ant": -5.329482}, "answer": "B", "country": "South Korea", "question_idx": 1090}
+{"logprobs": {"A": -0.052585524, "Ant": -3.2878342, "Die": -5.0547466, "B": -5.7152176, "C": -7.041256}, "answer": "A", "country": "South Korea", "question_idx": 1091}
+{"logprobs": {"Die": -0.47625026, "B": -1.7753016, "A": -1.9593931, "C": -3.3377233, "Ant": -4.9444585}, "answer": "C", "country": "Mexico", "question_idx": 1092}
+{"logprobs": {"C": -0.036608472, "A": -3.6570652, "Die": -5.682809, "B": -5.7063093, "Ant": -5.992255}, "answer": "C", "country": "Mexico", "question_idx": 1093}
+{"logprobs": {"D": -0.68595386, "A": -1.4737632, "Die": -1.9611423, "C": -2.4379928, "B": -3.7814624}, "answer": "B", "country": "Italy", "question_idx": 1094}
+{"logprobs": {"A": -0.045498844, "Ant": -4.0588655, "B": -4.156646, "Die": -6.066575, "Ich": -6.1536665}, "answer": "A", "country": "Italy", "question_idx": 1095}
+{"logprobs": {"B": -0.085300416, "Die": -3.3247986, "C": -4.5438824, "Ich": -4.6461296, "Um": -4.830557}, "answer": "D", "country": "Italy", "question_idx": 1096}
+{"logprobs": {"A": -0.15627328, "B": -2.247065, "Ant": -3.90976, "Die": -4.256724, "C": -7.100325}, "answer": "B", "country": "Argentina", "question_idx": 1097}
+{"logprobs": {"A": -0.004025326, "Ant": -5.665181, "Die": -7.7150526, "Um": -10.872771, "Option": -10.970502}, "answer": "A", "country": "Bangladesh", "question_idx": 1098}
+{"logprobs": {"A": -0.06756898, "Ant": -3.4684098, "B": -4.1118937, "Die": -4.851327, "Ich": -6.135741}, "answer": "A", "country": "Bangladesh", "question_idx": 1099}
+{"logprobs": {"A": -0.0058868416, "Ant": -5.764556, "Die": -6.604951, "Um": -8.362563, "Ich": -8.640037}, "answer": "A", "country": "Bangladesh", "question_idx": 1100}
+{"logprobs": {"D": -0.2758296, "C": -1.5651152, "A": -3.733576, "Ant": -5.75824, "B": -5.897391}, "answer": "C", "country": "Vietnam", "question_idx": 1101}
+{"logprobs": {"C": -0.10392867, "Die": -2.8588018, "Ant": -3.4719782, "D": -5.033229, "Option": -6.065772}, "answer": "C", "country": "Turkey", "question_idx": 1103}
+{"logprobs": {"C": -0.083910584, "Die": -3.8949246, "Ich": -4.370585, "B": -4.6200395, "A": -4.662354}, "answer": "A", "country": "Netherlands", "question_idx": 1104}
+{"logprobs": {"A": -0.010484452, "Ant": -5.169954, "Die": -5.560245, "Option": -7.6290126, "B": -9.452841}, "answer": "A", "country": "Bangladesh", "question_idx": 1105}
+{"logprobs": {"A": -0.00299244, "Ant": -6.0459995, "Die": -7.867914, "Ich": -9.95303, "Um": -9.991089}, "answer": "A", "country": "Japan", "question_idx": 1106}
+{"logprobs": {"C": -0.5053197, "B": -1.7350007, "A": -2.5351295, "Ich": -3.2845879, "Ant": -4.0045815}, "answer": "A", "country": "Japan", "question_idx": 1107}
+{"logprobs": {"A": -0.054180145, "Ant": -3.4842033, "Die": -4.3258514, "Option": -5.0046234, "B": -7.343996}, "answer": "A", "country": "China", "question_idx": 1108}
+{"logprobs": {"B": -0.023486432, "Die": -4.32801, "Ant": -4.984184, "A": -6.4422107, "Option": -7.733417}, "answer": "A", "country": "India", "question_idx": 1109}
+{"logprobs": {"mit": -0.7335573, "Die": -1.6474595, "Es": -2.7121034, "B": -2.7305303, "A": -3.0560613}, "answer": "B", "country": "Egypt", "question_idx": 1110}
+{"logprobs": {"D": -0.012254502, "A": -4.931175, "Ant": -6.1352615, "Die": -6.3280373, "Option": -8.085676}, "answer": "D", "country": "Egypt", "question_idx": 1111}
+{"logprobs": {"B": -0.88114256, "A": -1.1464186, "C": -2.113349, "D": -2.4883184, "Ant": -3.5432596}, "answer": "C", "country": "South Korea", "question_idx": 1112}
+{"logprobs": {"C": -0.8987138, "D": -1.2852228, "A": -1.4501398, "B": -3.211151, "Ant": -3.7220037}, "answer": "D", "country": "Iran", "question_idx": 1113}
+{"logprobs": {"A": -0.9816523, "C": -1.2635374, "Die": -1.861825, "B": -2.2879858, "D": -2.6696596}, "answer": "D", "country": "Iran", "question_idx": 1114}
+{"logprobs": {"B": -0.1593669, "A": -3.0048144, "C": -3.21048, "Ant": -3.7275965, "Die": -4.47415}, "answer": "B", "country": "Germany", "question_idx": 1115}
+{"logprobs": {"D": -0.0057782885, "Die": -6.67912, "Ant": -6.748172, "Option": -6.87094, "A": -7.130065}, "answer": "C", "country": "Brazil", "question_idx": 1116}
+{"logprobs": {"B": -0.12390985, "A": -2.8081102, "C": -3.7828722, "Ant": -4.5551577, "Ich": -4.9571257}, "answer": "B", "country": "Hong Kong", "question_idx": 1117}
+{"logprobs": {"B": -0.0033451363, "Die": -6.570596, "Ant": -7.0956283, "A": -7.18387, "Ich": -9.278181}, "answer": "A", "country": "Nepal", "question_idx": 1118}
+{"logprobs": {"C": -0.37564677, "D": -1.5828059, "B": -2.3465884, "A": -4.9549522, "Ant": -6.4552307}, "answer": "B", "country": "Hong Kong", "question_idx": 1119}
+{"logprobs": {"B": -1.2230679, "A": -1.5657707, "Ich": -2.6429343, "Die": -2.6952147, "C": -2.7455268}, "answer": "A", "country": "Chile", "question_idx": 1120}
+{"logprobs": {"C": -1.1824892, "A": -1.1884267, "B": -1.379894, "D": -2.987829, "Die": -3.321718}, "answer": "A", "country": "Chile", "question_idx": 1121}
+{"logprobs": {"B": -0.08362478, "Die": -3.603654, "C": -3.941598, "Um": -4.6842546, "Ich": -4.922471}, "answer": "B", "country": "Chile", "question_idx": 1122}
+{"logprobs": {"A": -0.00915301, "Ant": -5.0033584, "Die": -6.4136233, "B": -8.889135, "Option": -9.061714}, "answer": "A", "country": "Italy", "question_idx": 1124}
+{"logprobs": {"B": -0.044535678, "Die": -4.198827, "Ich": -5.0018034, "A": -5.070365, "Ant": -5.3773165}, "answer": "A", "country": "Italy", "question_idx": 1125}
+{"logprobs": {"A": -0.021011971, "Ant": -4.3431096, "Die": -5.9330297, "B": -6.16738, "C": -7.1554303}, "answer": "A", "country": "Japan", "question_idx": 1126}
+{"logprobs": {"B": -0.59736466, "D": -0.9129946, "A": -3.1551726, "Ant": -6.293606, "C": -6.387121}, "answer": "D", "country": "Japan", "question_idx": 1127}
+{"logprobs": {"C": -0.0036515105, "Ant": -6.3015165, "Die": -7.0374365, "A": -7.5652514, "Ich": -8.808455}, "answer": "C", "country": "Japan", "question_idx": 1128}
+{"logprobs": {"A": -0.20283304, "B": -1.791315, "Ant": -4.983406, "Die": -5.0087223, "Ich": -6.8779583}, "answer": "B", "country": "Japan", "question_idx": 1129}
+{"logprobs": {"C": -0.06741732, "Die": -3.867571, "A": -4.176239, "Um": -4.7960167, "Ich": -5.0780487}, "answer": "A", "country": "Japan", "question_idx": 1130}
+{"logprobs": {"A": -0.797042, "Die": -1.2182838, "B": -2.0514612, "C": -2.8038263, "D": -3.122548}, "answer": "A", "country": "Morocco", "question_idx": 1131}
+{"logprobs": {"A": -0.6899937, "D": -0.9098843, "B": -2.8917377, "Ant": -3.9948661, "Die": -4.677989}, "answer": "A", "country": "South Africa", "question_idx": 1132}
+{"logprobs": {"A": -0.56810707, "B": -1.7916694, "C": -2.0768867, "D": -2.9268966, "Ant": -3.8336177}, "answer": "A", "country": "South Africa", "question_idx": 1133}
+{"logprobs": {"A": -0.0025354712, "Ant": -6.4479604, "Die": -7.376166, "Ich": -9.313693, "Me": -9.675353}, "answer": "A", "country": "South Africa", "question_idx": 1134}
+{"logprobs": {"A": -0.15706338, "Die": -3.0249815, "B": -3.4803476, "Ant": -3.9834108, "D": -4.2232943}, "answer": "A", "country": "Singapore", "question_idx": 1135}
+{"logprobs": {"A": -1.7635113, "B": -2.011867, "Ant": -2.1745715, "Die": -2.41612, "Ich": -2.4324584}, "answer": "A", "country": "Singapore", "question_idx": 1136}
+{"logprobs": {"C": -0.9768159, "A": -1.2818792, "Die": -2.4011648, "B": -2.5973203, "Ich": -3.2982595}, "answer": "A", "country": "Australia", "question_idx": 1137}
+{"logprobs": {"A": -0.41390818, "Ant": -2.2093108, "C": -2.2874053, "Die": -2.8381464, "Ich": -4.121376}, "answer": "A", "country": "South Africa", "question_idx": 1138}
+{"logprobs": {"B": -0.36669725, "C": -2.3196754, "Die": -2.9651833, "D": -3.155527, "A": -3.28269}, "answer": "A", "country": "South Africa", "question_idx": 1139}
+{"logprobs": {"B": -1.0312405, "Ich": -2.1719341, "Es": -2.1958447, "Die": -2.2496223, "A": -2.4615421}, "answer": "A", "country": "South Africa", "question_idx": 1141}
+{"logprobs": {"C": -0.15160519, "A": -3.3916602, "B": -3.4138236, "Ant": -3.753736, "Die": -4.2543826}, "answer": "A", "country": "South Africa", "question_idx": 1142}
+{"logprobs": {"A": -0.080383964, "B": -3.2049644, "Um": -4.8377137, "Ant": -5.097811, "Die": -5.252436}, "answer": "C", "country": "South Africa", "question_idx": 1143}
+{"logprobs": {"B": -0.026677722, "A": -4.2263846, "Die": -5.29833, "Ant": -5.478864, "Option": -7.3500686}, "answer": "B", "country": "Canada", "question_idx": 1144}
+{"logprobs": {"C": -0.041967977, "D": -3.473517, "Die": -5.4266934, "A": -5.9826493, "Ant": -6.369389}, "answer": "D", "country": "Brazil", "question_idx": 1145}
+{"logprobs": {"B": -0.12153129, "A": -3.1845596, "C": -3.324639, "D": -4.2579412, "Ich": -4.9448347}, "answer": "D", "country": "Brazil", "question_idx": 1146}
+{"logprobs": {"C": -0.038137306, "Die": -3.5067155, "Ant": -5.0759563, "B": -8.28643, "Option": -8.56189}, "answer": "B", "country": "Indonesia", "question_idx": 1147}
+{"logprobs": {"B": -0.10353068, "Die": -2.6643083, "Ant": -4.1917, "Um": -5.2028866, "Ich": -5.7844257}, "answer": "A", "country": "South Korea", "question_idx": 1148}
+{"logprobs": {"B": -0.95793235, "C": -1.2502507, "A": -1.7806405, "D": -3.0497065, "Ant": -3.4453745}, "answer": "C", "country": "Romania", "question_idx": 1150}
+{"logprobs": {"A": -1.0813543, "B": -1.4097997, "C": -1.5716249, "Ant": -2.2585926, "Ich": -3.4319496}, "answer": "C", "country": "South Africa", "question_idx": 1151}
+{"logprobs": {"A": -0.014454817, "Ant": -4.599517, "Die": -5.5781965, "Option": -8.4110155, "Ich": -10.111701}, "answer": "A", "country": "South Africa", "question_idx": 1152}
+{"logprobs": {"C": -0.015320976, "Ant": -5.279378, "Die": -5.3128424, "A": -6.4806204, "Ich": -6.6220636}, "answer": "A", "country": "Iran", "question_idx": 1153}
+{"logprobs": {"D": -0.07284892, "A": -3.1917322, "B": -4.4118953, "C": -5.1258388, "Die": -5.3345733}, "answer": "D", "country": "Lebanon", "question_idx": 1154}
+{"logprobs": {"B": -0.05909516, "A": -2.9505804, "Ant": -6.223057, "C": -6.7333183, "Die": -6.8725204}, "answer": "A", "country": "Lebanon", "question_idx": 1155}
+{"logprobs": {"A": -0.016919434, "Die": -4.705238, "Ant": -5.043094, "Option": -7.093675, "Da": -9.6871}, "answer": "A", "country": "India", "question_idx": 1157}
+{"logprobs": {"A": -0.9832785, "B": -1.353306, "C": -1.7109663, "Die": -2.4825938, "Ant": -2.5752738}, "answer": "B", "country": "Chile", "question_idx": 1158}
+{"logprobs": {"B": -0.033409838, "Die": -4.0604506, "Um": -4.855876, "Ant": -6.1357603, "Ich": -6.4453135}, "answer": "B", "country": "Ukraine", "question_idx": 1159}
+{"logprobs": {"D": -0.57235587, "C": -1.7251631, "Die": -2.1297975, "B": -2.8101296, "Um": -3.8687387}, "answer": "A", "country": "Taiwan", "question_idx": 1161}
+{"logprobs": {"C": -0.022287266, "Die": -4.2081814, "Ich": -6.08214, "A": -6.377489, "Ant": -6.7289715}, "answer": "A", "country": "Taiwan", "question_idx": 1162}
+{"logprobs": {"A": -0.34700742, "Ant": -2.3372362, "Die": -2.3971689, "B": -3.8292234, "C": -3.905029}, "answer": "A", "country": "Russia", "question_idx": 1163}
+{"logprobs": {"D": -0.5380331, "B": -2.8697953, "Die": -2.8832612, "Ich": -2.9617982, "Um": -2.9769464}, "answer": "A", "country": "Russia", "question_idx": 1164}
+{"logprobs": {"C": -0.07744955, "B": -3.1249712, "D": -4.703275, "Die": -5.091594, "Ich": -5.52173}, "answer": "B", "country": "Netherlands", "question_idx": 1165}
+{"logprobs": {"A": -0.24868831, "B": -3.0179753, "Die": -3.0497804, "Ant": -3.1706357, "Um": -3.833218}, "answer": "A", "country": "Netherlands", "question_idx": 1166}
+{"logprobs": {"C": -0.19106957, "A": -2.7306337, "Die": -3.0637197, "B": -3.540616, "D": -4.676177}, "answer": "C", "country": "Turkey", "question_idx": 1167}
+{"logprobs": {"C": -0.913582, "A": -1.0577796, "B": -2.3005526, "Die": -2.6269228, "Ant": -3.358414}, "answer": "C", "country": "Hong Kong", "question_idx": 1168}
+{"logprobs": {"A": -0.04559441, "Ant": -4.077922, "Die": -4.8389177, "B": -4.898452, "C": -6.07607}, "answer": "D", "country": "Nigeria", "question_idx": 1169}
+{"logprobs": {"B": -0.023997266, "A": -4.5037394, "C": -5.015645, "Ich": -6.5810404, "D": -6.722127}, "answer": "B", "country": "Nigeria", "question_idx": 1170}
+{"logprobs": {"A": -0.7839865, "C": -1.209661, "D": -2.2187934, "Ant": -3.0576682, "Die": -3.639566}, "answer": "D", "country": "Nigeria", "question_idx": 1171}
+{"logprobs": {"B": -0.060731746, "A": -3.451347, "C": -4.283306, "D": -4.65802, "Ant": -5.9396305}, "answer": "A", "country": "Italy", "question_idx": 1172}
+{"logprobs": {"C": -0.9491418, "B": -1.2627156, "A": -1.7842152, "Ant": -2.7787507, "Die": -3.0793316}, "answer": "B", "country": "Italy", "question_idx": 1173}
+{"logprobs": {"B": -0.095543995, "Die": -3.2635796, "Ant": -3.4137452, "D": -4.860608, "A": -5.4563284}, "answer": "B", "country": "Iran", "question_idx": 1174}
+{"logprobs": {"C": -0.04286787, "D": -4.1632996, "A": -4.82296, "Die": -5.0792065, "Ant": -5.205719}, "answer": "A", "country": "Netherlands", "question_idx": 1175}
+{"logprobs": {"B": -0.39203584, "C": -1.8622221, "A": -2.3087153, "Die": -3.7200236, "Ant": -3.9249835}, "answer": "B", "country": "Netherlands", "question_idx": 1176}
+{"logprobs": {"B": -0.0036575529, "Die": -7.186204, "A": -7.190421, "Ant": -7.605937, "C": -8.010848}, "answer": "B", "country": "Czech Republic", "question_idx": 1177}
+{"logprobs": {"B": -0.16475654, "A": -2.3733995, "Ant": -3.8586137, "Bitte": -4.3677464, "Ich": -5.278429}, "answer": "C", "country": "Argentina", "question_idx": 1178}
+{"logprobs": {"A": -0.6586454, "B": -0.7874296, "C": -4.04562, "D": -5.436001, "Ant": -5.661623}, "answer": "A", "country": "Argentina", "question_idx": 1179}
+{"logprobs": {"B": -0.3012556, "C": -2.077726, "A": -2.3605952, "Ant": -4.587299, "Ich": -4.6283545}, "answer": "C", "country": "Argentina", "question_idx": 1180}
+{"logprobs": {"B": -0.3349359, "Die": -2.1165388, "D": -2.4946992, "C": -2.742933, "Ant": -4.9525604}, "answer": "C", "country": "Iran", "question_idx": 1181}
+{"logprobs": {"C": -0.09184719, "B": -3.5412147, "A": -4.2271795, "Ant": -4.3498697, "D": -4.4200583}, "answer": "D", "country": "Iran", "question_idx": 1182}
+{"logprobs": {"A": -0.07166909, "C": -3.5327897, "Die": -4.3218884, "Ant": -4.466309, "B": -4.6271405}, "answer": "A", "country": "Thailand", "question_idx": 1183}
+{"logprobs": {"B": -0.019162048, "Die": -4.405713, "C": -6.2206717, "Ich": -6.3810053, "Ant": -6.8798456}, "answer": "A", "country": "Hong Kong", "question_idx": 1184}
+{"logprobs": {"B": -0.27288425, "C": -2.6979656, "A": -2.7065315, "D": -2.7464867, "Die": -3.7976189}, "answer": "A", "country": "Hong Kong", "question_idx": 1185}
+{"logprobs": {"B": -0.062225915, "A": -3.2418847, "Ant": -5.044865, "Die": -5.0611367, "Option": -5.5156236}, "answer": "B", "country": "Japan", "question_idx": 1186}
+{"logprobs": {"A": -0.00676511, "Ant": -5.409017, "Die": -7.316232, "B": -7.7014728, "Ich": -8.35247}, "answer": "A", "country": "New Zealand", "question_idx": 1187}
+{"logprobs": {"C": -0.0645184, "B": -3.253264, "A": -4.931496, "Ant": -5.361792, "Ich": -5.588654}, "answer": "C", "country": "Turkey", "question_idx": 1188}
+{"logprobs": {"A": -0.0049087736, "Ant": -6.1249475, "Die": -6.1775026, "C": -8.4090185, "Ich": -9.310647}, "answer": "A", "country": "Russia", "question_idx": 1189}
+{"logprobs": {"B": -0.008283347, "Die": -4.968656, "Ant": -6.827329, "Ich": -9.68951, "Option": -9.878252}, "answer": "A", "country": "Philippines", "question_idx": 1190}
+{"logprobs": {"A": -0.27691418, "B": -2.0343223, "Die": -3.3889651, "Ant": -3.413423, "C": -3.6697574}, "answer": "A", "country": "Iran", "question_idx": 1191}
+{"logprobs": {"Die": -0.7103446, "A": -1.4979346, "B": -1.8101294, "C": -2.4172575, "Ant": -4.1165433}, "answer": "D", "country": "Iran", "question_idx": 1192}
+{"logprobs": {"D": -0.02361347, "A": -4.840338, "Die": -5.1324525, "B": -6.0017896, "Ant": -6.5640054}, "answer": "A", "country": "Nepal", "question_idx": 1193}
+{"logprobs": {"A": -0.5683412, "B": -1.3360014, "D": -2.0168638, "Ant": -4.526267, "Die": -4.7440653}, "answer": "A", "country": "Nepal", "question_idx": 1194}
+{"logprobs": {"A": -0.0037289413, "Ant": -6.5408535, "Die": -6.9530144, "C": -7.7816334, "B": -7.8411617}, "answer": "A", "country": "Nepal", "question_idx": 1195}
+{"logprobs": {"C": -0.13795589, "Die": -3.3751843, "D": -3.4493763, "A": -3.5059426, "B": -4.2131414}, "answer": "B", "country": "South Korea", "question_idx": 1196}
+{"logprobs": {"D": -0.34940538, "C": -1.6226636, "A": -3.6566296, "Ich": -4.05151, "Die": -4.068037}, "answer": "D", "country": "South Korea", "question_idx": 1197}
+{"logprobs": {"C": -0.014888165, "Die": -5.0020404, "Ant": -5.3229556, "A": -6.1901298, "Ich": -7.5779433}, "answer": "C", "country": "India", "question_idx": 1198}
+{"logprobs": {"C": -0.11601481, "A": -2.7599127, "B": -4.0856786, "D": -4.6992345, "Die": -4.950787}, "answer": "A", "country": "India", "question_idx": 1199}
+{"logprobs": {"C": -0.06893662, "A": -3.6930783, "Ant": -4.3392158, "B": -4.672357, "D": -4.73187}, "answer": "B", "country": "India", "question_idx": 1200}
+{"logprobs": {"D": -0.18500844, "C": -1.9865888, "Ant": -4.5368075, "A": -4.855043, "Die": -4.948528}, "answer": "B", "country": "Germany", "question_idx": 1201}
+{"logprobs": {"D": -0.08253847, "Ant": -2.9217222, "Die": -4.1390934, "A": -4.9550495, "Der": -7.2327824}, "answer": "A", "country": "United Kingdom", "question_idx": 1202}
+{"logprobs": {"A": -0.16917413, "Ant": -3.1166267, "Die": -3.1954803, "B": -4.185608, "C": -4.201399}, "answer": "A", "country": "United Kingdom", "question_idx": 1203}
+{"logprobs": {"D": -0.006376414, "B": -5.8506107, "Die": -6.283285, "Ant": -6.771637, "Ich": -8.485123}, "answer": "B", "country": "United Kingdom", "question_idx": 1204}
+{"logprobs": {"A": -0.63093895, "B": -1.7483859, "Die": -2.0287204, "D": -2.450151, "C": -2.9298053}, "answer": "D", "country": "Philippines", "question_idx": 1205}
+{"logprobs": {"A": -0.12387015, "B": -2.9827302, "Ant": -4.05372, "Die": -4.5144897, "Ich": -4.680986}, "answer": "B", "country": "Philippines", "question_idx": 1206}
+{"logprobs": {"A": -0.35284814, "D": -1.30612, "B": -4.471899, "Ant": -4.7169437, "Die": -6.2361774}, "answer": "B", "country": "Indonesia", "question_idx": 1207}
+{"logprobs": {"B": -0.05063292, "Die": -3.419413, "C": -5.0718293, "Ant": -5.6109796, "Option": -6.1566644}, "answer": "A", "country": "South Korea", "question_idx": 1208}
+{"logprobs": {"A": -0.33224797, "B": -2.1885464, "C": -2.32632, "D": -3.3707554, "Ant": -4.368285}, "answer": "A", "country": "South Korea", "question_idx": 1209}
+{"logprobs": {"D": -0.10929001, "Die": -3.8503122, "Ich": -4.104102, "C": -4.1687784, "A": -4.3155813}, "answer": "A", "country": "Spain", "question_idx": 1211}
+{"logprobs": {"A": -0.510797, "B": -1.250608, "C": -2.9803863, "Die": -4.2699313, "D": -4.359304}, "answer": "A", "country": "South Africa", "question_idx": 1212}
+{"logprobs": {"A": -0.49116445, "B": -1.4485257, "D": -2.7976391, "C": -3.5924962, "Die": -4.0830126}, "answer": "A", "country": "South Africa", "question_idx": 1213}
+{"logprobs": {"C": -0.04360832, "Die": -4.141415, "Ant": -4.6963906, "A": -4.9679284, "Ich": -5.6957383}, "answer": "B", "country": "Philippines", "question_idx": 1214}
+{"logprobs": {"D": -0.02483396, "Die": -4.6392217, "Ich": -5.7245355, "A": -6.0759244, "C": -6.091368}, "answer": "B", "country": "Philippines", "question_idx": 1215}
+{"logprobs": {"B": -0.02517543, "Die": -4.7856584, "C": -5.1720986, "Ant": -5.3127103, "D": -5.639256}, "answer": "D", "country": "Indonesia", "question_idx": 1216}
+{"logprobs": {"B": -0.008042841, "A": -5.777759, "Ant": -6.693767, "Die": -6.7390876, "C": -7.34666}, "answer": "A", "country": "Indonesia", "question_idx": 1217}
+{"logprobs": {"B": -1.1421546, "A": -1.646921, "C": -1.6807708, "Ich": -2.6797085, "D": -3.1277199}, "answer": "A", "country": "Indonesia", "question_idx": 1218}
+{"logprobs": {"B": -0.48187387, "C": -1.1270555, "Die": -3.5610843, "Ant": -3.906282, "Um": -5.860128}, "answer": "C", "country": "Poland", "question_idx": 1219}
+{"logprobs": {"C": -0.9987534, "D": -1.2765149, "Die": -1.504115, "A": -2.49685, "B": -3.293868}, "answer": "A", "country": "Iran", "question_idx": 1220}
+{"logprobs": {"C": -0.7177522, "Die": -1.1732786, "A": -2.2577379, "B": -2.697313, "D": -4.74317}, "answer": "C", "country": "Iran", "question_idx": 1221}
+{"logprobs": {"A": -0.3724918, "D": -1.781496, "B": -2.3047848, "Ant": -4.494915, "Die": -4.636469}, "answer": "A", "country": "Iran", "question_idx": 1222}
+{"logprobs": {"Die": -0.2495313, "A": -2.4564214, "B": -2.834309, "C": -3.3657498, "Ant": -3.6605077}, "answer": "C", "country": "Lebanon", "question_idx": 1223}
+{"logprobs": {"D": -0.17494713, "A": -2.0952637, "B": -4.388555, "C": -4.52799, "Die": -5.4175315}, "answer": "D", "country": "Russia", "question_idx": 1224}
+{"logprobs": {"C": -0.49730358, "B": -1.3343779, "A": -3.2064996, "D": -3.3158097, "Die": -4.1062226}, "answer": "B", "country": "Taiwan", "question_idx": 1226}
