@@ -7,7 +7,6 @@ from utils import open_file
 
 @dataclass 
 class CulturalBenchDataset(Dataset):
-    # TODO: FIGURE OUT HOW TO HANDLE QUESTIONS FROM SPECIFIC COUNTRIES
     lang: str 
     difficulty: str = field(default='easy') # 'easy' or 'hard'
     model_name: str = field(default='gpt-4o')
@@ -22,12 +21,10 @@ class CulturalBenchDataset(Dataset):
     options: list = field(default_factory=lambda: ['A', 'B', 'C', 'D'])
     drop_nans: bool = field(default=True) # NOTE: THIS IS BAD TRANSLATIONS. FIXXXX!
 
+    # loading files 
     prompt_template: str = field(default=None)
     prompt_template_path: str = field(default=os.path.join(
                 "data", "prompts", "{lang}", "cultural_bench_{difficulty}.txt"))
-    multi_option_str: str = field(default=None)
-    multi_option_str_path: str = field(default=os.path.join(
-                "data", "prompts", "{lang}", "multi_option.txt"))
 
     def __post_init__(self):
         if self.randomize_options is True:
@@ -44,13 +41,11 @@ class CulturalBenchDataset(Dataset):
             self.data_path = os.path.join(self.data_dir, self.model_name, self.lang, f'data.jsonl')
 
         self.df = pd.read_json(self.data_path, lines=True)
-        self.df.dropna(inplace=True)
+        if self.drop_nans:
+            self.df.dropna(inplace=True)
 
         if self.prompt_template is None:
             self.prompt_template = open_file(self.prompt_template_path.format(lang=self.lang, difficulty=self.difficulty))
-
-        if self.multi_option_str is None:
-            self.multi_option_str = open_file(self.multi_option_str_path.format(lang=self.lang))
 
     def __getitem__(self, idx):
         row = self.df.iloc[idx]
@@ -60,7 +55,6 @@ class CulturalBenchDataset(Dataset):
             return prompt
 
     def _easy_formatting(self, row):
-        multi_option = False
         prompt_template = self.prompt_template
 
         if self.include_country is True:
@@ -69,14 +63,7 @@ class CulturalBenchDataset(Dataset):
             question_col = self.col_mapping['question_no_country']
         
         question = row[question_col]
-        if ('i' in question) & ('ii' in question) & ('iii' in question) & ('iv' in question):
-            multi_option = True
-
-        # if multi_option is True:
-        #     prompt_list = prompt_template.split('\n')
-        #     prompt_list[0] = prompt_list[0] + ' ' + self.multi_option_str
-        #     prompt_template = '\n'.join(prompt_list)
-                
+        question_idx = row[self.col_mapping['question_idx']]
         question = prompt_template.format(question=question)
 
         answer = row[self.col_mapping['answer']]
@@ -84,7 +71,7 @@ class CulturalBenchDataset(Dataset):
 
         options = self._return_options(row)
         prompt = self._add_options(question, options)
-        return prompt, answer, country
+        return prompt, answer, country, question_idx
 
     def _return_options(self, row):
         options = [row[self.col_mapping[f'option_{option}']] for option in ['a', 'b', 'c', 'd']]
@@ -94,7 +81,7 @@ class CulturalBenchDataset(Dataset):
         return prompt + '\n' + '\n'.join([f"{char}: {option}" for char, option in zip(self.options, options)])
 
     def _create_col_mapping(self):
-        self.col_mapping = {'country': 'country', 'answer': 'answer'}
+        self.col_mapping = {'country': 'country', 'answer': 'answer', 'question_idx': 'question_idx'}
         if self.lang == 'en':
             self.col_mapping.update({
                 'question_no_country': 'prompt_no_country',
@@ -115,8 +102,7 @@ class CulturalBenchDataset(Dataset):
     
 def main():
     dataset = CulturalBenchDataset(lang='en', include_country=True)
-    for i in range(20):
-        print(dataset[i][0])
+    print(dataset[10])
 
 if __name__ == "__main__":
     main()

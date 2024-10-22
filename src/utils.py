@@ -1,4 +1,11 @@
 
+def open_file(file_path):
+    if file_path.endswith('.jsonl'):
+        with open(file_path, 'r') as f:
+            return f.readlines()
+    elif file_path.endswith('.txt'):
+        with open(file_path, 'r') as f:
+            return f.read()
 
 def printv(*args, verbose=0):
     yellow = "\033[93m"
