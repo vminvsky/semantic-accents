@@ -14,19 +14,18 @@ from concurrent.futures import ThreadPoolExecutor
 
 @dataclass
 class ArticleRequest:
-    id: str
-    topic: str
-    outline: str
-    language: str
+    title: str
+    content: str
+    lang: str
     max_words: int = 2000
 
 @dataclass
 class ArticleResponse:
-    id: str
-    topic: str
-    outline: str
-    language: str
+    title: str
+    content: str
+    lang: str
     article: str
+    prompt: str
     completion_tokens: int
     prompt_tokens: int
     total_tokens: int
@@ -73,9 +72,9 @@ class AsyncWikiArticleGenerator:
             
             # Create the prompt based on the language
             prompt_template = {
-                "en": """Write a complete Wikipedia-style article in English about "{topic}" following this outline:
+                "en": """Write a complete Wikipedia-style article in English about "{title}" following this outline:
 
-{outline}
+{content}
 
 Requirements:
 1. Write the article in a neutral, encyclopedic tone
@@ -89,9 +88,9 @@ Requirements:
 9. Keep the content factual and informative
 
 Write the complete article now:""",
-                "de": """Schreibe einen vollständigen Wikipedia-Artikel auf Deutsch über "{topic}" nach dieser Gliederung:
+                "de": """Schreibe einen vollständigen Wikipedia-Artikel auf Deutsch über "{title}" nach dieser Gliederung:
 
-{outline}
+{content}
 
 Anforderungen:
 1. Schreibe den Artikel in einem neutralen, enzyklopädischen Ton
@@ -105,9 +104,9 @@ Anforderungen:
 9. Halte den Inhalt sachlich und informativ
 
 Schreibe jetzt den vollständigen Artikel:""",
-"ru": """Напишите полноценную статью в стиле Википедии на русском языке о "{topic}", следуя этому плану:
+"ru": """Напишите полноценную статью в стиле Википедии на русском языке о "{title}", следуя этому плану:
 
-{outline}
+{content}
 
 Требования:
 1. Напишите статью в нейтральном, энциклопедическом тоне
@@ -122,9 +121,9 @@ Schreibe jetzt den vollständigen Artikel:""",
 
 Напишите полную статью сейчас:""",
 
-                "et": """Kirjutage täielik Vikipeedia-stiilis artikkel eesti keeles teemal "{topic}", järgides seda struktuuri:
+                "et": """Kirjutage täielik Vikipeedia-stiilis artikkel eesti keeles teemal "{title}", järgides seda struktuuri:
 
-{outline}
+{content}
 
 Nõuded:
 1. Kirjutage artikkel neutraalses, entsüklopeedilises toonis
@@ -139,9 +138,9 @@ Nõuded:
 
 Kirjutage nüüd täielik artikkel:""",
 
-                "ja": """『{topic}』についての Wikipedia スタイルの記事を日本語で、以下の構成に従って書いてください：
+                "ja": """『{title}』についての Wikipedia スタイルの記事を日本語で、以下の構成に従って書いてください：
 
-{outline}
+{content}
 
 要件：
 1. 中立的で百科事典的な文体で書く
@@ -157,9 +156,9 @@ Kirjutage nüüd täielik artikkel:""",
 それでは、完全な記事を書いてください："""
             }
 
-            prompt = prompt_template.get(request.language).format(
-                topic=request.topic,
-                outline=request.outline,
+            prompt = prompt_template.get(request.lang).format(
+                title=request.title,
+                content=request.content,
                 max_words=request.max_words
             )
 
@@ -178,11 +177,11 @@ Kirjutage nüüd täielik artikkel:""",
         
 
             return ArticleResponse(
-                id=request.id,
-                topic=request.topic,
-                outline=request.outline,
-                language=request.language,
+                title=request.title,
+                content=request.content,
+                lang=request.lang,
                 article=article,
+                prompt=prompt,
                 completion_tokens=response.usage.completion_tokens,
                 prompt_tokens=response.usage.prompt_tokens,
                 total_tokens=response.usage.total_tokens,
@@ -192,13 +191,13 @@ Kirjutage nüüd täielik artikkel:""",
             )
 
         except Exception as e:
-            self.logger.error(f"Error generating article {request.id}: {str(e)}")
+            self.logger.error(f"Error generating article {request.title}: {str(e)}")
             return ArticleResponse(
-                id=request.id,
-                topic=request.topic,
-                outline=request.outline,
-                language=request.language,
+                title=request.title,
+                content=request.content,
+                lang=request.lang,
                 article="",
+                prompt=prompt,
                 completion_tokens=0,
                 prompt_tokens=0,
                 total_tokens=0,
@@ -228,10 +227,9 @@ Kirjutage nüüd täielik artikkel:""",
         df = pd.read_json(input_file, lines=True)
         
         # Group requests by language
-        language_groups = df.groupby('language')
+        language_groups = df.groupby('lang')
         
         for language, group in language_groups:
-            self.logger.info(f"Processing {len(group)} articles in {language}")
             
             # Create output directory
             output_dir = self.create_output_directory(self.deployment, language)
@@ -239,14 +237,20 @@ Kirjutage nüüd täielik artikkel:""",
             # Convert DataFrame rows to ArticleRequest objects
             requests = [
                 ArticleRequest(
-                    id=str(row.id),
-                    topic=row.topic,
-                    outline=row.outline,
-                    language=language,
-                    max_words=2000
+                    title=row.title,
+                    content=row.content,
+                    lang=language,
+                    max_words=4096
                 )
                 for _, row in group.iterrows()
             ]
+
+            # sample 500 random requests
+            import random
+            requests = random.sample(requests, min(3, len(requests)))
+
+            self.logger.info(f"Processing {len(requests)}  articles for {language}...")
+
             
             # Process requests in batches
             for i in range(0, len(requests), self.max_concurrent):
@@ -263,11 +267,11 @@ async def main():
     generator = AsyncWikiArticleGenerator(
         api_key="",
         endpoint="https://api-ai-sandbox.princeton.edu",
-        deployment="gpt-4o",
-        max_concurrent=40
+        deployment="Meta-Llama-3-1-70B-Instruct-htzs",
+        max_concurrent=1
     )
     
-    await generator.process_jsonl_file('data/wiki_download/en/data.jsonl')
+    await generator.process_jsonl_file('data/wikipedia/sections/processed/en.jsonl')
 
 if __name__ == "__main__":
     asyncio.run(main())
