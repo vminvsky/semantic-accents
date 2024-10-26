@@ -223,6 +223,7 @@ Kirjutage nüüd täielik artikkel:""",
 
     async def process_jsonl_file(self, input_file: str):
         """Process all articles from a JSONL file."""
+        
         # Read the JSONL file
         df = pd.read_json(input_file, lines=True)
         
@@ -249,7 +250,7 @@ Kirjutage nüüd täielik artikkel:""",
             import random
             requests = random.sample(requests, min(3, len(requests)))
 
-            self.logger.info(f"Processing {len(requests)}  articles for {language}...")
+            self.logger.info(f"Processing {len(requests)} articles for {language}...")
 
             
             # Process requests in batches
@@ -268,10 +269,10 @@ async def main():
         api_key="",
         endpoint="https://api-ai-sandbox.princeton.edu",
         deployment="Meta-Llama-3-1-70B-Instruct-htzs",
-        max_concurrent=1
+        max_concurrent=50
     )
     
-    await generator.process_jsonl_file('data/wikipedia/sections/processed/en.jsonl')
+    await generator.process_jsonl_file('data/wiki_download/en/data.jsonl')
 
 if __name__ == "__main__":
     asyncio.run(main())
