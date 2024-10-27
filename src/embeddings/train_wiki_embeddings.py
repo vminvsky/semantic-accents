@@ -14,6 +14,10 @@ from datetime import datetime
 import pickle
 from dataclasses import dataclass
 
+import sys
+sys.path.append('src/')
+from config import langs
+
 
 @dataclass
 class TrainingConfig:

@@ -3,6 +3,10 @@ import numpy as np
 from gensim.models import FastText
 from sklearn.metrics.pairwise import cosine_similarity
 import pickle
+import sys
+sys.path.append('src/')
+
+from config import langs
 
 def load_wordset() -> pd.DataFrame:
     """Load the wordset from the given path"""
@@ -30,7 +34,6 @@ def load_bigram_model(lang_code: str):
 def main():
     # Load the wordset
     wordset_full = load_wordset()
-    langs = ['en', 'de']
 
     # Load the FastText models and bigram models for the specified languages
     models = {}
@@ -76,6 +79,8 @@ def main():
 
             # Create a DataFrame with the similarity matrix
             similarity_df = pd.DataFrame(similarity_matrix, index=words, columns=words)
+            # make similartiy df 16 bit
+            similarity_df = similarity_df.astype(np.float8)
 
             # Optionally, save the similarity matrix to a CSV file
             similarity_df.to_csv(f"data/concreteness/{lang}_cosine_similarity_matrix.csv")

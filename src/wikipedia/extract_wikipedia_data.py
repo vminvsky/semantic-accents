@@ -180,27 +180,29 @@ def output_as_text(result, reference_dict):
 
 #     return entities
 
-
 def process_url(url, output_dir, lang, username='Knowledge Curation Project'):
+    wikipedia_page_name = url.replace(f"https://{lang}.wikipedia.org/wiki/", "")
+    json_file_path = os.path.join(output_dir, 'json', lang, wikipedia_page_name + ".json")
+    txt_file_path = os.path.join(output_dir, 'txt', lang, wikipedia_page_name + ".txt")
+
+    if os.path.exists(json_file_path):
+        print(f"File {json_file_path} already exists. Skipping extraction.")
+        return
+
     result, wikipedia_page_name, reference_dict = get_wikipedia_json_output(username=username, url=url, lang=lang)
     txt = output_as_text(result, reference_dict)
-    clean_txt = re.sub(r'#+ ', '', re.sub(r'\[\d+\]', '', txt[:txt.find("\n\n# References\n\n")]))
+    # clean_txt = re.sub(r'#+ ', '', re.sub(r'\[\d+\]', '', txt[:txt.find("\n\n# References\n\n")]))
     # Extract entities for future analysis.
     # result['flair_entities'] = extract_entities_flair(clean_txt)
 
-    wikipedia_page_name = wikipedia_page_name.replace("/", "_")
-
-    with open(os.path.join(output_dir, 'json', lang, wikipedia_page_name + ".json"), "w") as f:
+    with open(json_file_path, "w") as f:
         json.dump(result, f, indent=2)
-    with open(os.path.join(output_dir, 'txt', lang, wikipedia_page_name + ".txt"), "w") as f:
+    with open(txt_file_path, "w") as f:
         f.write(txt)
-
 
 def main(output_dir, file_path, lang):
     pathlib.Path(f'{output_dir}/json/{lang}').mkdir(parents=True, exist_ok=True)
     pathlib.Path(f'{output_dir}/txt/{lang}').mkdir(parents=True, exist_ok=True)
-
-
 
     df = pd.read_csv(file_path)
     for _, row in tqdm(df.iterrows()):
