@@ -1,0 +1,1 @@
+langs = ['en', 'de', 'ja', 'fr', 'ru', 'hi', 'et']
