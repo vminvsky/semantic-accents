@@ -24,7 +24,7 @@ class TrainingConfig:
     vector_size: int = 300
     window: int = 5
     negative: int = 10
-    min_count: int = 3
+    min_count: int = 4
     workers: int = 4
     sg: int = 1  # Skip-gram is better for parallelogram tasks
     epochs: int = 20
@@ -81,6 +81,11 @@ class WikiEmbeddingTrainer:
             self.tokenizers['et'] = lambda text: simple_preprocess(text, deacc=True)
         except:
             self.logger.warning("Using simple tokenizer for Estonian")
+        try:
+            # Hindi
+            self.tokenizers['ru'] = spacy.load('ru_core_news_sm')
+        except:
+            self.logger.warning("Russian SpaCy model not found. Run: python -m spacy download ru_core_news_sm")
             
         try:
             # Japanese
@@ -88,19 +93,25 @@ class WikiEmbeddingTrainer:
         except:
             self.logger.warning("Japanese Fugashi tagger not found. Install fugashi and mecab-python3")
 
-    def tokenize_text(self, text: str, language: str) -> List[str]:
+    def tokenize_text(self, text: str, language: str, remove_stopwords: bool = False) -> List[str]:
         """Tokenize text based on language."""
         if language not in self.tokenizers:
             self.logger.warning(f"No specific tokenizer for {language}, using simple tokenizer")
             return simple_preprocess(text, deacc=True)
             
-        if language == 'ja':
+        if language in ['ja']:
             # Special handling for Japanese
             return [token.surface for token in self.tokenizers[language].parse(text).split()]
-        elif language in ['en', 'de', 'ru']:
+        elif language in ['en', 'de', 'ru', 'fr', 'hi']:
             # SpaCy-based tokenization
             doc = self.tokenizers[language](text)
-            return [token.text.lower() for token in doc if not token.is_stop and not token.is_punct]
+            if remove_stopwords:
+                return [token.text.lower() for token in doc if not token.is_stop and not token.is_punct]
+            else:
+                return [token.text.lower() for token in doc if not token.is_punct]
+        elif language == 'et':
+            # Simple tokenization for Estonian
+            return self.tokenizers[language](text)
         else:
             raise ValueError(f"Unsupported language: {language}")
 
@@ -141,10 +152,8 @@ class WikiEmbeddingTrainer:
             seed=self.config.seed,
 )
         
-        # Build vocabulary
         model.build_vocab(corpus_iterable=processed_articles)
         
-        # Train the model
         model.train(
             corpus_iterable=processed_articles,
             total_examples=len(processed_articles),
@@ -180,7 +189,7 @@ class WikiEmbeddingTrainer:
         with open(model_dir / "metadata.json", "w", encoding="utf-8") as f:
             json.dump(metadata, f, ensure_ascii=False, indent=2)
 
-    def process_all_articles(self, output_dir: Path = Path("embeddings")):
+    def process_all_articles(self, output_dir: Path = Path("embeddings"), limit_langs: list = ['en','de','fr','ru','ja', 'et']):
         """Process all articles and train embeddings for each language and model."""
         # Iterate through all model directories
         for model_dir in self.base_dir.iterdir():
@@ -191,6 +200,8 @@ class WikiEmbeddingTrainer:
                 for lang_dir in model_dir.iterdir():
                     if lang_dir.is_dir():
                         language = lang_dir.name
+                        if language not in limit_langs:
+                            continue
                         self.logger.info(f"Processing {model_name} - {language}")
                         
                         # Read all JSONL files in the directory
