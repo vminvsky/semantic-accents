@@ -21,16 +21,18 @@ from config import langs
 
 @dataclass
 class TrainingConfig:
-    vector_size: int = 300
+    vector_size: int = 100
     window: int = 5
     negative: int = 10
-    min_count: int = 4
-    workers: int = 4
+    min_count: int = 5
+    lr: float = 0.025
+    workers: int = 10
     sg: int = 1  # Skip-gram is better for parallelogram tasks
-    epochs: int = 20
+    epochs: int = 5
     seed: int = 42
-    # min_n: int = 5
-    # max_n: int = 5
+    min_n: int = 0
+    max_n: int = 0
+    shrink_windows: bool = True
 
 # Create an instance of TrainingConfig
 config = TrainingConfig()
@@ -81,11 +83,6 @@ class WikiEmbeddingTrainer:
             self.tokenizers['et'] = lambda text: simple_preprocess(text, deacc=True)
         except:
             self.logger.warning("Using simple tokenizer for Estonian")
-        try:
-            # Hindi
-            self.tokenizers['ru'] = spacy.load('ru_core_news_sm')
-        except:
-            self.logger.warning("Russian SpaCy model not found. Run: python -m spacy download ru_core_news_sm")
             
         try:
             # Japanese
@@ -110,7 +107,6 @@ class WikiEmbeddingTrainer:
             else:
                 return [token.text.lower() for token in doc if not token.is_punct]
         elif language == 'et':
-            # Simple tokenization for Estonian
             return self.tokenizers[language](text)
         else:
             raise ValueError(f"Unsupported language: {language}")
@@ -120,26 +116,28 @@ class WikiEmbeddingTrainer:
         processed_articles = []
         
         for article in articles:
-            # Process main text
             tokens = self.tokenize_text(article['article'], language)
             processed_articles.append(tokens)
             
         return processed_articles
 
-    def train_embeddings(self, articles: List[Dict], language: str, model_name: str) -> FastText:
+    def train_embeddings(self, articles: List[Dict], language: str, 
+                         model_name: str, with_bigrams: bool = False) -> FastText:
         """Train FastText embeddings on the articles."""
         self.logger.info(f"Training embeddings for {language} - {model_name}")
         
-        # Preprocess articles
+        self.logger.info(f"Preprocessing articles...")
         processed_articles = self.preprocess_articles(articles, language)
         
-        # Train phrases (bigrams)
-        phrases = Phrases(processed_articles)
-        bigram = Phraser(phrases)
-        
-        # Apply bigram transformation
-        processed_articles = [bigram[article] for article in processed_articles]
-        
+        if with_bigrams:
+            self.logger.info(f"Building bigrams...") # NOTE this is probably useless. 
+            phrases = Phrases(processed_articles, min_count=20, threshold=20)
+            bigram = Phraser(phrases)
+            # Apply bigram transformation
+            processed_articles = [bigram[article] for article in processed_articles]
+        else:
+            bigram = None
+
         # Train FastText model
         model = FastText(
             vector_size=self.config.vector_size,
@@ -150,20 +148,26 @@ class WikiEmbeddingTrainer:
             sg=self.config.sg,  # Skip-gram
             epochs=self.config.epochs,
             seed=self.config.seed,
+            min_n=self.config.min_n,
+            max_n=self.config.max_n,
+            alpha=self.config.lr,
+            shrink_windows=self.config.shrink_windows,
 )
-        
+        self.logger.info(f"Building vocab...")
         model.build_vocab(corpus_iterable=processed_articles)
-        
+
+        self.logger.info(f"Training...")
         model.train(
             corpus_iterable=processed_articles,
             total_examples=len(processed_articles),
-            epochs=model.epochs
+            epochs=model.epochs,
+            compute_loss=True,
         )
         
         return model, bigram
 
-    def save_models(self, model: FastText, bigram: Phraser, language: str, 
-                   model_name: str, output_dir: Path):
+    def save_models(self, model: FastText, language: str, 
+                   model_name: str, output_dir: Path, bigram: Phraser=None):
         """Save trained models and related artifacts."""
         # Create output directory
         model_dir = output_dir / f"{model_name}_{language}"
@@ -172,9 +176,10 @@ class WikiEmbeddingTrainer:
         # Save FastText model
         model.save(str(model_dir / "fasttext.model"))
         
-        # Save bigram phraser
-        with open(model_dir / "bigram.pkl", "wb") as f:
-            pickle.dump(bigram, f)
+        if bigram:
+            # Save bigram phraser
+            with open(model_dir / "bigram.pkl", "wb") as f:
+                pickle.dump(bigram, f)
         
         # Save model metadata
         metadata = {
@@ -189,7 +194,9 @@ class WikiEmbeddingTrainer:
         with open(model_dir / "metadata.json", "w", encoding="utf-8") as f:
             json.dump(metadata, f, ensure_ascii=False, indent=2)
 
-    def process_all_articles(self, output_dir: Path = Path("embeddings"), limit_langs: list = ['en','de','fr','ru','ja', 'et']):
+    def process_all_articles(self, output_dir: Path = Path("embeddings"), 
+                             limit_langs: list = ['en','de','fr','ru','ja', 'et'],
+                             with_bigrams: bool = False):
         """Process all articles and train embeddings for each language and model."""
         # Iterate through all model directories
         for model_dir in self.base_dir.iterdir():
@@ -209,13 +216,13 @@ class WikiEmbeddingTrainer:
                         for jsonl_file in lang_dir.glob("*.jsonl"):
                             df = pd.read_json(jsonl_file, lines=True)
                             articles.extend(df.to_dict('records'))
-                        
+
                         if articles:
                             # Train embeddings
-                            model, bigram = self.train_embeddings(articles, language, model_name)
+                            model, bigram = self.train_embeddings(articles, language, model_name, with_bigrams=with_bigrams)
                             
                             # Save models and artifacts
-                            self.save_models(model, bigram, language, model_name, output_dir)
+                            self.save_models(model=model, bigram=bigram, language=language, model_name=model_name, output_dir=output_dir)
                         else:
                             self.logger.warning(f"No articles found for {model_name} - {language}")
 
