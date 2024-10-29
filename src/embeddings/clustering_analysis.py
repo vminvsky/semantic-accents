@@ -35,9 +35,9 @@ def load_model(lang_code: str, use_custom_models: bool, model_name: str =f"Meta-
             logging.error(f"Error loading pretrained embeddings for '{lang_code}': {e}")
             return None
 
-def load_bigram_model(lang_code: str):
+def load_bigram_model(lang_code: str, model_name: str):
     """Load the bigram model for the given language code, if needed."""
-    bigram_path = f"embeddings/Meta-Llama-3-1-70B-Instruct-htzs_{lang_code}/bigram.pkl"
+    bigram_path = f"embeddings/{model_name}_{lang_code}/bigram.pkl"
     try:
         logging.info(f"Loading bigram model for language '{lang_code}' from '{bigram_path}'.")
         with open(bigram_path, 'rb') as f:
@@ -64,16 +64,14 @@ def main(use_custom_models):
             logging.warning(f"Skipping language '{lang}' due to model loading issues.")
             continue
 
-        # Load bigram model only if using custom models
-        bigram_model = load_bigram_model(lang) if use_custom_models else None
+        bigram_model = load_bigram_model(lang, model_name=model_name) if use_custom_models else None
 
-        # Get data for the language
         data = get_lang_clusters(lang)
         if data is None or data.empty:
             logging.warning(f"No data for language '{lang}'. Skipping.")
             continue
 
-        data['embedding'] = None  # Initialize embedding column
+        data['embedding'] = None 
 
         missing_embeddings = 0
         total_words = len(data)
@@ -115,7 +113,6 @@ def main(use_custom_models):
 
         for cluster, group in cluster_groups:
             embeddings = np.stack(group['embedding'].values)
-            # Compute pairwise cosine distances within the cluster
             similarity_matrix = cosine_similarity(embeddings)
             distance_matrix = 1 - similarity_matrix
 
@@ -157,24 +154,16 @@ def main(use_custom_models):
         os.makedirs(result_dir, exist_ok=True)
         logging.info(f"Saving results to '{result_dir}'.")
 
-        # Save the intra-cluster distances to a CSV file
         intra_cluster_df = pd.DataFrame(
             list(intra_cluster_distances.items()), columns=['cluster', 'avg_intra_distance']
         )
         intra_cluster_df.to_csv(f'{result_dir}/intra_cluster_distances_{lang}.csv', index=False)
-        logging.info(f"Intra-cluster distances saved to '{result_dir}/intra_cluster_distances_{lang}.csv'.")
 
-        # Save the inter-cluster distances to a CSV file
         inter_cluster_df = pd.DataFrame(
             [(c[0], c[1], d) for c, d in inter_cluster_distances.items()],
             columns=['cluster1', 'cluster2', 'inter_distance']
         )
         inter_cluster_df.to_csv(f'{result_dir}/inter_cluster_distances_{lang}.csv', index=False)
-        logging.info(f"Inter-cluster distances saved to '{result_dir}/inter_cluster_distances_{lang}.csv'.")
-
-        # Optionally, print the results
-        logging.info(f"Intra-cluster average distances for language '{lang}':\n{intra_cluster_df}")
-        logging.info(f"Inter-cluster distances between centroids for language '{lang}':\n{inter_cluster_df}")
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Compute intra-cluster and inter-cluster distances.')

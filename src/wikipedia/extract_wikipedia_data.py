@@ -42,17 +42,29 @@ def extract_data(url, reference_dict):
     for header in soup.find_all(['h1', 'h2', 'h3', "h4", "h5", "h6"]):
         section_title = header.text.replace('[edit]', '').strip().replace('\xa0', ' ')
         section_data = []
-        for sibling in header.find_next_siblings():
-            if sibling.name in ['h1', 'h2', 'h3', "h4", "h5", "h6"]:
-                break
-            if sibling.name == 'p':
-                for sentence in sibling.text.replace("[", " [").split('. '):
-                    if sentence:
-                        sentence, refs = get_references(sentence, reference_dict)
-                        if sentence:
-                            section_data.append({"sentence": sentence, "refs": refs})
+        sibling = header.find_next('p')
+        section_data = extract_inner_loop(sibling, section_data, reference_dict)
         data[section_title] = section_data
     return data
+
+# def extract_inner_loop(sibling, section_data, reference_dict):
+#     if sibling.name in ['h1', 'h2', 'h3', "h4", "h5", "h6"]:
+#         pass # break the loop
+#     if sibling.name == 'p':
+#         for sentence in sibling.text.replace("[", " [").split('. '):
+#             if sentence:
+#                 sentence, refs = get_references(sentence, reference_dict)
+#                 if sentence:
+#                     section_data.append({"sentence": sentence, "refs": refs})
+#     return section_data
+
+def extract_inner_loop(sibling, section_data, reference_dict):
+    try:
+        for sentence in sibling.text.replace("[", " [").split('. '):
+            section_data.append({"sentence": sentence, "refs": []})
+        return section_data
+    except Exception as e:
+        return section_data
 
 
 def extract_references(url):

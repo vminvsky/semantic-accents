@@ -8,8 +8,8 @@ from tqdm import tqdm
 logger = logging.getLogger(__name__)
 logging.basicConfig(level=logging.INFO, format="%(levelname)-8s : %(message)s")
 
-# langs = ['en', 'de', 'fr', 'et', 'ja', 'hi']  # Add other language codes as needed
-langs = ['ru']
+langs = ['en', 'de', 'fr', 'et', 'ja', 'hi']  # Add other language codes as needed
+# langs = ['ru']
 
 def get_most_edited_wikipedia_titles(year: str, month: str, lang: str, day: str = "all-days"):
     a = requests.get(
@@ -80,10 +80,14 @@ def get_predicted_quality(title, lang):
 
 def main():
     # You can change the time_periods to get the most edited Wikipedia articles in different time periods.
-    time_periods = [("2022", "02"), ("2022", "03"), ("2022", "04"), ("2022", "05"), ("2022", "06"), ("2022", "07"),
+    time_periods = [("2021", "01"), ("2021", "02"), ("2021", "03"), ("2021", "04"), ("2021", "05"), ("2021", "06"),
+                    ("2021", "07"), ("2021", "08"), ("2021", "09"), ("2021", "10"), ("2021", "11"), ("2021", "12"),
+                    ("2022", "01"),
+                    ("2022", "02"), ("2022", "03"), ("2022", "04"), ("2022", "05"), ("2022", "06"), ("2022", "07"),
                     ("2022", "08"), ("2022", "09"), ("2022", "10"), ("2022", "11"), ("2022", "12"),
                     ("2023", "01"), ("2023", "02"), ("2023", "03"), ("2023", "04"), ("2023", "05"), ("2023", "06"),
-                    ("2023", "07"), ("2023", "08"), ("2023", "09")]
+                    ("2023", "07"), ("2023", "08"), ("2023", "09"), ('2024', '01'), ('2024', '02'), ('2024', '03'),
+                    ('2024', '04'), ('2024', '05'), ('2024', '06'), ('2024', '07'), ('2024', '08'), ('2024', '09'),]
 
 
     for lang in langs:
@@ -96,6 +100,7 @@ def main():
         print(f"Processing {lang}...")
         for year, month in tqdm(time_periods):
             titles = get_most_edited_wikipedia_titles(year, month, lang)
+            date_format = f"{year}-{month}"
             for title in titles:
                 # predicted_quality = get_predicted_quality(title, lang)
                 # if predicted_quality is None:
@@ -103,6 +108,7 @@ def main():
                 #     continue
                 data['topic'].append(title)
                 data['url'].append(f'https://{lang}.wikipedia.org/wiki/{title.replace(" ", "_")}')
+                data['date'] = date_format
                 # data['predicted_class'].append(predicted_quality['prediction'])
                 # data['predicted_scores'].append(predicted_quality['probability'])
 
