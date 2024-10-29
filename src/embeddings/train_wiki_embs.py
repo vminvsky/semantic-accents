@@ -63,35 +63,47 @@ class WikiEmbeddingTrainer:
     def setup_tokenizers(self):
         """Initialize tokenizers for different languages."""
         self.tokenizers = {}
+        self.tokenizer_versions = {}
         try:
             # English
             self.tokenizers['en'] = spacy.load('en_core_web_sm')
+            self.tokenizer_versions['en'] = self.tokenizers['en'].meta.get('version', 'unknown')
         except:
             self.logger.warning("English SpaCy model not found. Run: python -m spacy download en_core_web_sm")
+            self.tokenizer_versions['en'] = None
             
         try:
             # German
             self.tokenizers['de'] = spacy.load('de_core_news_sm')
+            self.tokenizer_versions['de'] = self.tokenizers['de'].meta.get('version', 'unknown')
         except:
             self.logger.warning("German SpaCy model not found. Run: python -m spacy download de_core_news_sm")
+            self.tokenizer_versions['de'] = None
             
         try:
             # Russian
             self.tokenizers['ru'] = spacy.load('ru_core_news_sm')
+            self.tokenizer_versions['ru'] = self.tokenizers['ru'].meta.get('version', 'unknown')
         except:
             self.logger.warning("Russian SpaCy model not found. Run: python -m spacy download ru_core_news_sm")
+            self.tokenizer_versions['ru'] = None
             
         try:
             # Estonian - using simple tokenizer as spaCy doesn't have Estonian
             self.tokenizers['et'] = lambda text: simple_preprocess(text, deacc=True)
+            self.tokenizer_versions['et'] = 'simple_preprocess'
         except:
             self.logger.warning("Using simple tokenizer for Estonian")
+            self.tokenizer_versions['et'] = None
             
         try:
             # Japanese
+            import fugashi
             self.tokenizers['ja'] = fugashi.Tagger()
+            self.tokenizer_versions['ja'] = fugashi.__version__
         except:
             self.logger.warning("Japanese Fugashi tagger not found. Install fugashi and mecab-python3")
+            self.tokenizer_versions['ja'] = None
 
     def tokenize_text(self, text: str, language: str, remove_stopwords: bool = False) -> List[str]:
         """Tokenize text based on language."""
@@ -125,12 +137,50 @@ class WikiEmbeddingTrainer:
         return processed_articles
 
     def train_embeddings(self, articles: List[Dict], language: str, 
-                         model_name: str, with_bigrams: bool = False) -> FastText:
+                         model_name: str, lang_dir: Path, article_files_info: Dict[str, float], with_bigrams: bool = False) -> FastText:
         """Train FastText embeddings on the articles."""
         self.logger.info(f"Training embeddings for {language} - {model_name}")
         
-        self.logger.info(f"Preprocessing articles...")
-        processed_articles = self.preprocess_articles(articles, language)
+        # Path to the cached processed articles
+        processed_articles_file = lang_dir / "processed_articles.pkl"
+
+        if processed_articles_file.exists():
+            self.logger.info(f"Loading processed articles from {processed_articles_file}")
+            with open(processed_articles_file, "rb") as f:
+                data = pickle.load(f)
+            processed_articles = data['processed_articles']
+            metadata = data['metadata']
+
+            # Check if articles or tokenizer have changed
+            if metadata['article_files_info'] == article_files_info and \
+               metadata['tokenizer_version'] == self.tokenizer_versions.get(language, None):
+                self.logger.info("No changes in articles or tokenizer detected. Using cached processed articles.")
+            else:
+                self.logger.info("Changes in articles or tokenizer detected. Reprocessing articles.")
+                processed_articles = self.preprocess_articles(articles, language)
+                # Save processed_articles and metadata
+                data = {
+                    'processed_articles': processed_articles,
+                    'metadata': {
+                        'article_files_info': article_files_info,
+                        'tokenizer_version': self.tokenizer_versions.get(language, None)
+                    }
+                }
+                with open(processed_articles_file, "wb") as f:
+                    pickle.dump(data, f)
+        else:
+            self.logger.info("No cached processed articles found. Processing articles.")
+            processed_articles = self.preprocess_articles(articles, language)
+            # Save processed_articles and metadata
+            data = {
+                'processed_articles': processed_articles,
+                'metadata': {
+                    'article_files_info': article_files_info,
+                    'tokenizer_version': self.tokenizer_versions.get(language, None)
+                }
+            }
+            with open(processed_articles_file, "wb") as f:
+                pickle.dump(data, f)
         
         if with_bigrams:
             self.logger.info(f"Building bigrams...") # NOTE this is probably useless. 
@@ -216,13 +266,17 @@ class WikiEmbeddingTrainer:
                         
                         # Read all JSONL files in the directory
                         articles = []
+                        article_files_info = {}
                         for jsonl_file in lang_dir.glob("*.jsonl"):
+                            modified_time = jsonl_file.stat().st_mtime
+                            article_files_info[str(jsonl_file)] = modified_time
                             df = pd.read_json(jsonl_file, lines=True)
                             articles.extend(df.to_dict('records'))
 
                         if articles:
                             # Train embeddings
-                            model, bigram = self.train_embeddings(articles, language, model_name, with_bigrams=with_bigrams)
+                            model, bigram = self.train_embeddings(
+                                articles, language, model_name, lang_dir, article_files_info, with_bigrams=with_bigrams)
                             
                             # Save models and artifacts
                             self.save_models(model=model, bigram=bigram, language=language, model_name=model_name, output_dir=output_dir)

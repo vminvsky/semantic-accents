@@ -12,7 +12,7 @@ sys.path.append('src/')
 from emb_utils import get_lang_clusters
 from config import langs
 
-langs = ['de', 'en', 'et', 'fr']
+langs = ['de', 'en']
 
 def load_model(lang_code: str, use_custom_models: bool, model_name: str =f"Meta-Llama-3-1-70B-Instruct-htzs"):
     """Load the model for the given language code."""
