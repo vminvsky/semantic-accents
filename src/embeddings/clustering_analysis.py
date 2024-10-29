@@ -139,7 +139,7 @@ def main(use_custom_models):
         clusters = list(cluster_centroids.keys())
         inter_cluster_distances = {}
         for i in range(len(clusters)):
-            for j in range(i + 1, len(clusters)):
+            for j in range(len(clusters)):
                 cluster_i = clusters[i]
                 cluster_j = clusters[j]
                 centroid_i = cluster_centroids[cluster_i]
