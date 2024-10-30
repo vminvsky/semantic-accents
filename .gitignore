@@ -1,1 +1,4 @@
 .env
+data/embs/*.vec
+data/embs/*.bin
+data/old_wikipedia/

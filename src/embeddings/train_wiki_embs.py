@@ -42,8 +42,13 @@ class TrainingConfig:
 config = TrainingConfig()
 
 class WikiEmbeddingTrainer:
-    def __init__(self, config, base_dir: str = 'data/wiki_gen'):
+    def __init__(self, config, data_source: str = 'synthetic'):
         """Initialize the embedding trainer."""
+        self.data_source = data_source 
+        if data_source == 'synthetic':
+            base_dir = Path("data/wiki_gen/")
+        elif data_source == 'real':
+            base_dir = Path("data/wikipedia/sections/extracted/")
         self.base_dir = Path(base_dir)
         self.config = config
         self.setup_logging()
@@ -88,6 +93,14 @@ class WikiEmbeddingTrainer:
         except:
             self.logger.warning("Russian SpaCy model not found. Run: python -m spacy download ru_core_news_sm")
             self.tokenizer_versions['ru'] = None
+
+        try:
+            # Russian
+            self.tokenizers['fr'] = spacy.load('fr_core_news_sm')
+            self.tokenizer_versions['fr'] = self.tokenizers['fr'].meta.get('version', 'unknown')
+        except:
+            self.logger.warning("French SpaCy model not found. Run: python -m spacy download fr_core_news_sm")
+            self.tokenizer_versions['fr'] = None
             
         try:
             # Estonian - using simple tokenizer as spaCy doesn't have Estonian
@@ -206,7 +219,7 @@ class WikiEmbeddingTrainer:
             max_n=self.config.max_n,
             alpha=self.config.lr,
             shrink_windows=self.config.shrink_windows,
-)
+        )
         self.logger.info(f"Building vocab...")
         model.build_vocab(corpus_iterable=processed_articles)
 
@@ -253,12 +266,14 @@ class WikiEmbeddingTrainer:
                              with_bigrams: bool = False):
         """Process all articles and train embeddings for each language and model."""
         # Iterate through all model directories
+        output_dir = output_dir / self.data_source
         for model_dir in self.base_dir.iterdir():
             if model_dir.is_dir():
                 model_name = model_dir.name
                 
                 # Iterate through language directories
                 for lang_dir in model_dir.iterdir():
+                    print(lang_dir)
                     if lang_dir.is_dir():
                         language = lang_dir.name
                         if language not in limit_langs:
@@ -290,9 +305,10 @@ def parse_languages(value):
 def main():
     parser = argparse.ArgumentParser(description="Train Wiki Embeddings")
     parser.add_argument('--lang', type=parse_languages, required=True, help='Language(s) for training (comma-separated for multiple)')
+    parser.add_argument('--data_source', type=str, required=True, help='Which data source to use (`synthetic` or `real`)')
     args = parser.parse_args()
     config = TrainingConfig()
-    trainer = WikiEmbeddingTrainer(config)
+    trainer = WikiEmbeddingTrainer(config,data_source=args.data_source)
     trainer.process_all_articles(limit_langs=args.lang)
 
 if __name__ == "__main__":
