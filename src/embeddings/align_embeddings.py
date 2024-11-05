@@ -1,0 +1,46 @@
+# to align embeddings we'll be using MUSE 
+# https://github.com/facebookresearch/MUSE/tree/main
+import os 
+import subprocess
+from tqdm import tqdm
+import sys
+sys.path = ['/scratch/gpfs/vv7118/projects/MUSE']
+emb_dim = 100
+n_refinement = 2
+
+script = """python ../MUSE/supervised.py --src_lang {lang1} --tgt_lang {lang2} \
+--src_emb {src_emb} \
+--tgt_emb {tgt_emb} \
+--n_refinement {n_refinement} --dico_train default --emb_dim={emb_dim} \
+--exp_path={exp_path} \
+--exp_name={exp_name} \
+"""
+
+mapping = {
+    'synthetic': '/scratch/gpfs/vv7118/projects/semantic-accents/embeddings/synthetic/Meta-Llama-3-1-70B-Instruct-htzs_{lang}/model.vec',
+    'real': '/scratch/gpfs/vv7118/projects/semantic-accents/embeddings/real/human_{lang}/model.vec'
+}
+
+
+def main():
+    langs = ['en', 'fr', 'et', 'hi', 'ja']
+    settings = ['synthetic', 'real']
+
+    for i, setting1 in enumerate(settings):
+        for setting2 in settings[i:]:  # Only consider settings in the upper triangle, including the diagonal
+            for j, lang1 in enumerate(tqdm(langs, desc="Processing languages for setting: " + setting1)):
+                for lang2 in langs[j + 1:]:  # Only consider languages after the current one
+
+                    if setting1 == setting2 and lang1 == lang2:
+                        continue
+
+                    src_emb = mapping[setting1].format(lang=lang1)
+                    tgt_emb = mapping[setting2].format(lang=lang2)
+                    exp_path = f'/scratch/gpfs/vv7118/projects/semantic-accents/embeddings/aligned/{setting1}'
+                    os.makedirs(exp_path, exist_ok=True)
+                    exp_name = f'{lang1}_{lang2}'
+
+                    subprocess.run(script.format(lang1=lang1, lang2=lang2, n_refinement=n_refinement, src_emb=src_emb, tgt_emb=tgt_emb, emb_dim=emb_dim, exp_path=exp_path, exp_name=exp_name), shell=True)
+
+if __name__ == "__main__":
+    main()
