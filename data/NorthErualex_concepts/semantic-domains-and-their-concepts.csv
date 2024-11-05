@@ -1,0 +1,1032 @@
+,Semantic Domain,Concept_ID,English Word Form
+60992,Agriculture and vegetation,Zaun::N,fence
+60996,Agriculture and vegetation,Spaten::N,spade
+60997,Agriculture and vegetation,Schaufel::N,shovel
+60849,Agriculture and vegetation,Heu::N,hay
+61640,Agriculture and vegetation,gießen::V,water
+60847,Agriculture and vegetation,Saat::N,seed
+60846,Agriculture and vegetation,Zwiebel::N,onion
+60781,Agriculture and vegetation,Blume::N,flower
+61023,Agriculture and vegetation,Getreide::N,corn
+60783,Agriculture and vegetation,Wurzel::N,root
+60784,Agriculture and vegetation,Baum::N,tree
+60782,Agriculture and vegetation,Gras::N,grass
+60786,Agriculture and vegetation,Rinde::N,bark
+60844,Agriculture and vegetation,Apfel::N,apple
+60785,Agriculture and vegetation,Stamm::N,trunk
+60793,Agriculture and vegetation,Tanne::N,fir
+60792,Agriculture and vegetation,Weide[Baum]::N,willow
+61522,Agriculture and vegetation,graben::V,dig
+60790,Agriculture and vegetation,Birke::N,birch
+60789,Agriculture and vegetation,Blatt::N,leaf
+60788,Agriculture and vegetation,Zweig::N,branch
+60845,Agriculture and vegetation,Pilz::N,mushroom
+60791,Agriculture and vegetation,Kiefer[Baum]::N,pine
+60828,Animals,Kranich::N,crane
+60829,Animals,Krähe::N,crow
+60830,Animals,Kuckuck::N,cuckoo
+60831,Animals,Schwan::N,swan
+61635,Animals,treiben::V,drive
+61407,Animals,bellen::V,bark
+60840,Animals,Mücke::N,midge
+60833,Animals,Barsch::N,perch
+61094,Animals,Geld::N,money
+60834,Animals,Hecht::N,pike
+60835,Animals,Schlange[Tier]::N,snake
+60836,Animals,Wurm::N,worm
+60837,Animals,Spinne::N,spider
+60838,Animals,Ameise::N,ant
+60839,Animals,Laus::N,louse
+60827,Animals,Eule::N,owl
+60799,Animals,Kralle::N,claw
+60832,Animals,Fisch::N,fish
+60826,Animals,Ente::N,duck
+60798,Animals,Klaue::N,claw
+60825,Animals,Adler::N,eagle
+60802,Animals,Nest::N,nest
+60803,Animals,Bau::N,lair
+60804,Animals,Tier::N,animal
+60805,Animals,Herde::N,flock
+60806,Animals,Kuh::N,cow
+60807,Animals,Bulle::N,bull
+60808,Animals,Pferd::N,horse
+60809,Animals,Schaf::N,sheep
+60810,Animals,Schwein::N,pig
+60811,Animals,Hund::N,dog
+60812,Animals,Katze::N,cat
+61073,Animals,Weide::N,pasture
+60813,Animals,Bär::N,bear
+60815,Animals,Elch::N,elk
+60816,Animals,Fuchs::N,fox
+60817,Animals,Hase::N,hare
+60818,Animals,Maus::N,mouse
+60819,Animals,Wolf::N,wolf
+60820,Animals,Vogel::N,bird
+60821,Animals,Schwarm::N,swarm
+60841,Animals,Fliege::N,fly
+60822,Animals,Huhn::N,chicken
+60823,Animals,Hahn::N,cock
+60824,Animals,Gans::N,goose
+60814,Animals,Eichhörnchen::N,squirrel
+60842,Animals,Schmetterling::N,butterfly
+61551,Basic actions and technology,schwenken::V,swing
+61698,Basic actions and technology,ertragen::V,endure
+60852,Basic actions and technology,Falle::N,trap
+61484,Basic actions and technology,ansehen::V,watch
+61489,Basic actions and technology,fühlen::V,feel
+61494,Basic actions and technology,tun::V,do
+61495,Basic actions and technology,können::V,can
+61499,Basic actions and technology,aufhören::V,stop
+60897,Basic actions and technology,Gespräch::N,talk
+61543,Basic actions and technology,hauen::V,hit
+60900,Basic actions and technology,Nachricht::N,message
+60901,Basic actions and technology,Neuigkeit::N,news
+61506,Basic actions and technology,legen::V,lay
+61541,Basic actions and technology,brechen::V,break
+61510,Basic actions and technology,aufhängen::V,hang up
+61539,Basic actions and technology,binden::V,tie
+61538,Basic actions and technology,abschneiden::V,cut off
+61537,Basic actions and technology,abreißen::V,tear off
+61514,Basic actions and technology,verlieren::V,lose
+60909,Basic actions and technology,Ruf::N,call
+61515,Basic actions and technology,fallen lassen::V,drop
+61532,Basic actions and technology,drücken::V,press
+61516,Basic actions and technology,machen::V,make
+61518,Basic actions and technology,bauen::V,build
+61519,Basic actions and technology,reparieren::V,mend
+61520,Basic actions and technology,verbessern::V,improve
+60917,Basic actions and technology,Arbeit::N,work
+60919,Basic actions and technology,Geschenk::N,gift
+61481,Basic actions and technology,flüchten::V,escape
+61042,Basic actions and technology,Farbe::N,paint
+60956,Basic actions and technology,Menge::N,amount
+60963,Basic actions and technology,Lagerfeuer::N,campfire
+60853,Basic actions and technology,Schlinge::N,noose
+61548,Basic actions and technology,schneiden::V,cut
+61547,Basic actions and technology,schleifen::V,grind
+61546,Basic actions and technology,streichen::V,spread
+60857,Basic actions and technology,Eisen::N,iron
+60858,Basic actions and technology,Gold::N,gold
+60859,Basic actions and technology,Silber::N,silver
+61545,Basic actions and technology,reiben::V,rub
+60861,Basic actions and technology,Glas::N,glass
+60862,Basic actions and technology,Lehm::N,clay
+61015,Basic actions and technology,Sack::N,sack
+61013,Basic actions and technology,Deckel::N,cover
+61012,Basic actions and technology,Eimer::N,bucket
+61011,Basic actions and technology,Tasche::N,bag
+61010,Basic actions and technology,Bündel::N,bundle
+61009,Basic actions and technology,Beutel::N,pouch
+61447,Basic actions and technology,schaukeln::V,seesaw
+61004,Basic actions and technology,Griff::N,handle
+61002,Basic actions and technology,Netz::N,net
+61001,Basic actions and technology,Nagel::N,nail
+60995,Basic actions and technology,Besen::N,broom
+61457,Basic actions and technology,anhalten::V,stop
+61470,Basic actions and technology,vorbereiten::V,prepare
+61474,Basic actions and technology,rühren::V,move
+60964,Basic actions and technology,Last::N,load
+60957,Basic actions and technology,Haufen::N,heap
+61041,Basic actions and technology,Knoten::N,knot
+61524,Basic actions and technology,biegen::V,bend
+61634,Basic actions and technology,hüten::V,herd
+60725,Basic actions and technology,Schlaf::N,sleep
+61632,Basic actions and technology,fischen::V,fish
+61631,Basic actions and technology,jagen::V,hunt
+61630,Basic actions and technology,pflücken::V,pick
+61628,Basic actions and technology,arbeiten::V,work
+61399,Basic actions and technology,funkeln::V,sparkle
+61113,Basic actions and technology,Gewehr::N,gun
+61633,Basic actions and technology,fassen::V,catch
+61112,Basic actions and technology,Pfeil::N,arrow
+61620,Basic actions and technology,stehlen::V,steal
+61110,Basic actions and technology,Kampf::N,fight
+61400,Basic actions and technology,lärmen::V,be noisy
+61616,Basic actions and technology,schlagen::V,beat
+61403,Basic actions and technology,klirren::V,tinkle
+61613,Basic actions and technology,schießen::V,shoot
+61652,Basic actions and technology,abwischen::V,wipe
+61111,Basic actions and technology,Bogen[Waffe]::N,bow
+61552,Basic actions and technology,schütten::V,pour
+61395,Basic actions and technology,zunehmen::V,increase
+61394,Basic actions and technology,abnehmen::V,decrease
+61653,Basic actions and technology,spülen::V,rinse
+61654,Basic actions and technology,fegen::V,sweep
+61647,Basic actions and technology,stricken::V,knit
+61655,Basic actions and technology,kehren::V,sweep
+61361,Basic actions and technology,hängen::V,hang
+61363,Basic actions and technology,passieren::V,happen
+61376,Basic actions and technology,schwingen::V,swing
+61379,Basic actions and technology,rauchen::V,smoke
+61382,Basic actions and technology,tauen::V,thaw
+61639,Basic actions and technology,hacken::V,chop
+61384,Basic actions and technology,trocknen::V,dry
+61388,Basic actions and technology,reißen::V,snap
+61636,Basic actions and technology,anbinden::V,tie up
+61389,Basic actions and technology,versinken::V,sink
+61657,Basic actions and technology,sich waschen::V,wash
+61658,Basic actions and technology,ausziehen::V,take off
+61391,Basic actions and technology,erscheinen::V,appear
+61611,Basic actions and technology,verteidigen::V,defend
+61610,Basic actions and technology,schützen::V,protect
+61612,Basic actions and technology,sich schlagen::V,brawl
+61404,Basic actions and technology,brausen::V,roar
+61056,Basic actions and technology,Riemen::N,strap
+61674,Basic actions and technology,übersetzen::V,translate
+61163,Basic actions and technology,fest::A,firm
+61053,Basic actions and technology,Band::N,ribbon
+61566,Basic actions and technology,hinzufügen::V,add
+61677,Basic actions and technology,bemerken::V,notice
+61678,Basic actions and technology,erkennen::V,recognize
+61314,Basic actions and technology,wegen::PRP,because of
+61300,Basic actions and technology,kaum::ADV,hardly
+61299,Basic actions and technology,ein wenig::ADV,a little
+61689,Basic actions and technology,malen::V,paint
+61557,Basic actions and technology,ziehen::V,pull
+61556,Basic actions and technology,schleppen::V,drag
+61690,Basic actions and technology,zeichnen::V,draw
+61222,Basic actions and technology,geschickt::A,skilful
+61523,Basic actions and technology,beugen::V,bow
+61223,Basic actions and technology,geschickt::A,skillful
+61057,Basic actions and technology,Schnur::N,string
+61609,Basic actions and technology,bewachen::V,guard
+61058,Basic actions and technology,Leine::N,leash
+61576,Basic actions and technology,zerbrechen::V,break
+61405,Basic actions and technology,rauschen::V,rustle
+61406,Basic actions and technology,klingen::V,sound
+61665,Basic actions and technology,reden::V,talk
+61597,Basic actions and technology,lassen::V,let
+61409,Basic actions and technology,blasen::V,blow
+61594,Basic actions and technology,aufziehen::V,bring up
+61426,Basic actions and technology,krank werden::V,fall ill
+61427,Basic actions and technology,krank sein::V,be ill
+61432,Basic actions and technology,umkommen::V,perish
+61670,Basic actions and technology,mitteilen::V,convey
+61433,Basic actions and technology,sich bewegen::V,move
+61437,Basic actions and technology,hinfallen::V,tumble
+61439,Basic actions and technology,schreiten::V,pace
+61581,Basic actions and technology,reichen::V,hand
+61440,Basic actions and technology,spazierengehen::V,go for a walk
+61666,Basic actions and technology,sich unterhalten::V,chat
+61577,Basic actions and technology,zerreißen::V,tear
+61651,Basic actions and technology,waschen::V,wash
+61661,Clothing and grooming,kämmen::V,comb
+61659,Clothing and grooming,anziehen::V,put on
+61660,Clothing and grooming,sich anziehen::V,get dressed
+61662,Clothing and grooming,schmücken::V,decorate
+60796,Clothing and grooming,Fell::N,fur
+61052,Clothing and grooming,Ring::N,ring
+61044,Clothing and grooming,Hemd::N,shirt
+61043,Clothing and grooming,Kleidung::N,clothes
+61046,Clothing and grooming,Ärmel::N,sleeve
+61047,Clothing and grooming,Hose::N,trousers
+61048,Clothing and grooming,Gürtel::N,belt
+61049,Clothing and grooming,Mütze::N,cap
+61050,Clothing and grooming,Schuh::N,shoe
+61051,Clothing and grooming,Stiefel::N,boot
+61054,Clothing and grooming,Kamm::N,comb
+61055,Clothing and grooming,Spiegel::N,mirror
+61061,Clothing and grooming,Tuch::N,scarf
+61045,Clothing and grooming,Kragen::N,collar
+61062,Clothing and grooming,Handtuch::N,towel
+61649,Clothing and grooming,färben::V,dye
+61648,Clothing and grooming,nähen::V,sew
+61035,Clothing and grooming,Leder::N,leather
+61036,Clothing and grooming,Wolle::N,wool
+61037,Clothing and grooming,Stoff::N,cloth
+61038,Clothing and grooming,Nadel::N,needle
+61040,Clothing and grooming,Knopf::N,button
+61039,Clothing and grooming,Faden::N,thread
+61501,Cognition,geraten::V,turn out
+61093,Cognition,Lehrer::N,teacher
+61217,Cognition,dumm::A,stupid
+60927,Cognition,Art::N,sort
+61246,Cognition,fremd::A,foreign
+61284,Cognition,von hier::ADV,hence
+61357,Cognition,oder::CNJ,or
+61332,Cognition,warum::FADV,why
+61469,Cognition,versuchen::V,try
+61500,Cognition,gelingen::V,succeed
+61325,Cognition,was::FPRN,what
+61326,Cognition,wer::FPRN,who
+61327,Cognition,wo::FADV,where
+61331,Cognition,wie::FADV,how
+61333,Cognition,wieviel::FNUM,how much
+61356,Cognition,und::CNJ,and
+61490,Cognition,scheinen::V,seem
+61593,Cognition,unterrichten::V,instruct
+61675,Cognition,denken::V,think
+61676,Cognition,glauben::V,believe
+61679,Cognition,begreifen::V,grasp
+61680,Cognition,verstehen::V,understand
+61681,Cognition,lernen::V,learn
+61682,Cognition,wissen::V,know
+61683,Cognition,sich erinnern an::V,remember
+61592,Cognition,lehren::V,teach
+60893,Cognition,Verstand::N,mind
+61625,Cognition,betrügen::V,cheat
+61684,Cognition,vergessen::V,forget
+60892,Cognition,Gedächtnis::N,memory
+61230,Emotions and values,traurig::A,sad
+61471,Emotions and values,lieben::V,love
+61472,Emotions and values,mögen::V,like
+60887,Emotions and values,Kummer::N,grief
+60885,Emotions and values,Gelächter::N,laughter
+61475,Emotions and values,weinen::V,weep
+60886,Emotions and values,Glück::N,happiness
+61615,Emotions and values,ärgern::V,annoy
+61473,Emotions and values,lachen::V,laugh
+61109,Emotions and values,Gewalt::N,violence
+61624,Emotions and values,täuschen::V,deceive
+61622,Emotions and values,belästigen::V,bother
+61571,Emotions and values,auswählen::V,select
+61570,Emotions and values,wählen::V,choose
+61584,Emotions and values,wünschen::V,wish
+61114,Emotions and values,Fehler::N,mistake
+61115,Emotions and values,Lüge::N,lie
+61117,Emotions and values,Unglück::N,misfortune
+61118,Emotions and values,Schuld::N,fault
+60720,Emotions and values,Träne::N,tear
+61173,Emotions and values,schön::A,beautiful
+61621,Emotions and values,stören::V,disturb
+61067,Emotions and values,Schmerz::N,pain
+60884,Emotions and values,Freude::N,joy
+61476,Emotions and values,schimpfen::V,grumble
+61226,Emotions and values,sanft::A,gentle
+61225,Emotions and values,lustig::A,merry
+61224,Emotions and values,lieb::A,dear
+61221,Emotions and values,klug::A,clever
+61219,Emotions and values,fleißig::A,diligent
+61585,Emotions and values,loben::V,praise
+61216,Emotions and values,böse::A,evil
+61234,Emotions and values,richtig::A,correct
+61236,Emotions and values,wahr::A,true
+61210,Emotions and values,kräftig::A,powerful
+61244,Emotions and values,bekannt::A,familiar
+61207,Emotions and values,wertvoll::A,precious
+61087,Emotions and values,Sünde::N,sin
+61412,Emotions and values,stöhnen::V,groan
+61596,Emotions and values,antreiben::V,urge
+61233,Emotions and values,schlecht::A,bad
+61586,Emotions and values,küssen::V,kiss
+60896,Emotions and values,Wahrheit::N,truth
+60888,Emotions and values,Wunsch::N,wish
+60889,Emotions and values,Lust::N,desire
+61477,Emotions and values,sich ärgern::V,be annoyed
+61478,Emotions and values,sich fürchten::V,be afraid
+61603,Emotions and values,spielen::V,play
+60890,Emotions and values,Geist::N,spirit
+60891,Emotions and values,Gedanke::N,thought
+61479,Emotions and values,fürchten::V,be afraid of
+60894,Emotions and values,Sinn::N,meaning
+61496,Emotions and values,wollen::V,want
+60895,Emotions and values,Grund::N,reason
+61232,Emotions and values,gut::A,good
+61643,Food and drink,kochen::V,boil
+61022,Food and drink,Fleisch::N,meat
+61031,Food and drink,Suppe::N,soup
+61021,Food and drink,Speise::N,dish
+61020,Food and drink,Nahrung::N,food
+61025,Food and drink,Brot::N,bread
+61642,Food and drink,zubereiten::V,cook
+61641,Food and drink,reifen::V,ripen
+61028,Food and drink,Butter::N,butter
+61029,Food and drink,Öl::N,oil
+61030,Food and drink,Salz::N,salt
+61032,Food and drink,Honig::N,honey
+60843,Food and drink,Beere::N,berry
+61638,Food and drink,melken::V,milk
+61385,Food and drink,sieden::V,boil
+61386,Food and drink,faulen::V,rot
+60850,Food and drink,Schale::N,husk
+61387,Food and drink,verfaulen::V,decay
+60801,Food and drink,Ei::N,egg
+61637,Food and drink,füttern::V,feed
+60719,Food and drink,Hunger::N,hunger
+60721,Food and drink,Geschmack::N,flavour
+60722,Food and drink,Geschmack::N,flavor
+61417,Food and drink,trinken::V,drink
+61019,Food and drink,Essen::N,meal
+61033,Food and drink,Milch::N,milk
+61018,Food and drink,Kessel::N,kettle
+61646,Food and drink,umrühren::V,stir
+61016,Food and drink,Tasse::N,cup
+61227,Food and drink,hungrig::A,hungry
+61534,Food and drink,kratzen::V,scrape
+61190,Food and drink,lecker::A,delicious
+61189,Food and drink,reif::A,ripe
+61188,Food and drink,roh::A,raw
+61017,Food and drink,Topf::N,pot
+60998,Food and drink,Gabel::N,fork
+60999,Food and drink,Löffel::N,spoon
+61000,Food and drink,Messer::N,knife
+61418,Food and drink,essen::V,eat
+61645,Food and drink,braten::V,fry
+61419,Food and drink,schlucken::V,swallow
+61014,Food and drink,Geschirr::N,dishes
+61644,Food and drink,backen::V,bake
+60875,Kinship,Mutter::N,mother
+60868,Kinship,Junge::N,boy
+60869,Kinship,Mädchen::N,girl
+60867,Kinship,Kind::N,child
+60883,Kinship,Ehefrau::N,wife
+60870,Kinship,Familie::N,family
+61318,Kinship,ich::PRN,I
+61319,Kinship,du::PRN,you
+60871,Kinship,Großvater::N,grandfather
+61321,Kinship,er::PRN,he
+61322,Kinship,wir::PRN,we
+61323,Kinship,ihr::PRN,you
+60882,Kinship,Ehemann::N,husband
+61320,Kinship,du::PRN,thou
+60881,Kinship,Tante::N,aunt
+60874,Kinship,Vater::N,father
+60876,Kinship,Sohn::N,son
+61324,Kinship,sie::PRN,they
+60865,Kinship,Mann::N,man
+60864,Kinship,Mensch::N,human
+60877,Kinship,Tochter::N,daughter
+60866,Kinship,Frau::N,woman
+60880,Kinship,Onkel::N,uncle
+60873,Kinship,Eltern::N,parents
+60872,Kinship,Großmutter::N,grandmother
+60879,Kinship,Schwester::N,sister
+60878,Kinship,Bruder::N,brother
+61315,Miscellaneous function words,dies::PRN,this
+61235,Miscellaneous function words,schlimm::A,nasty
+61252,Miscellaneous function words,anderer::A,other
+61280,Miscellaneous function words,hier::ADV,here
+61285,Miscellaneous function words,dort::ADV,there
+61298,Miscellaneous function words,nicht::ADV,not
+61316,Miscellaneous function words,das::PRN,that
+61311,Miscellaneous function words,durch::PRP,through
+61302,Miscellaneous function words,so::ADV,so
+61307,Miscellaneous function words,vergebens::ADV,in vain
+61362,Miscellaneous function words,werden::V,become
+61301,Miscellaneous function words,sehr::ADV,very
+61098,Modern world,Ware::N,ware
+61095,Modern world,Geschäft::N,business
+61687,Modern world,rechnen::V,calculate
+61100,Modern world,Reichtum::N,wealth
+61103,Modern world,Staat::N,state
+61090,Modern world,Chef::N,boss
+61089,Modern world,Arbeiter::N,worker
+61116,Modern world,Schaden::N,damage
+61402,Modern world,klingeln::V,ring
+61401,Modern world,läuten::V,chime
+61099,Modern world,Nutzen::N,profit
+60921,Modern world,Gesellschaft::N,company
+61082,Modern world,Zeitung::N,newspaper
+61026,Modern world,Scheibe::N,slice
+61008,Modern world,Puppe::N,doll
+61034,Modern world,Tee::N,tea
+61006,Modern world,Bild::N,picture
+60988,Modern world,Kiste::N,box
+60985,Modern world,Wiege::N,cradle
+60973,Modern world,Platte::N,slab
+60962,Modern world,Ski::N,ski
+60898,Modern world,Märchen::N,fairy tale
+60978,Modern world,Rohr::N,pipe
+61517,Modern world,herstellen::V,produce
+61079,Modern world,Brief::N,letter
+60926,Modern world,Anzahl::N,count
+60934,Modern world,Strich::N,stroke
+60913,Modern world,Lied::N,song
+61455,Motion,weggehen::V,go away
+61528,Motion,heben::V,raise
+61454,Motion,gehen::V,go
+61453,Motion,fliegen::V,fly
+61452,Motion,fahren::V,drive
+61451,Motion,rudern::V,row
+61450,Motion,tauchen::V,dive
+61513,Motion,zurücklassen::V,leave
+61650,Motion,reinigen::V,clean
+61449,Motion,schwimmen::V,swim
+61448,Motion,kriechen::V,creep
+61527,Motion,umdrehen::V,turn around
+61526,Motion,wenden::V,turn
+61371,Motion,wehen::V,blow
+61424,Motion,aufstehen::V,get up
+61456,Motion,abfahren::V,depart
+61458,Motion,hineingehen::V,go in
+61459,Motion,eintreten::V,enter
+61540,Motion,stecken::V,stick
+61508,Motion,verbinden::V,connect
+61542,Motion,klopfen::V,knock
+61505,Motion,setzen::V,place
+61533,Motion,schieben::V,push
+61480,Motion,fliehen::V,flee
+60959,Motion,Boot::N,boat
+60960,Motion,Ruder::N,oar
+60961,Motion,Schlitten::N,sleigh
+61465,Motion,erwarten::V,wait for
+61464,Motion,warten::V,wait
+61373,Motion,fließen::V,flow
+61462,Motion,zurückkommen::V,come back
+61461,Motion,ankommen::V,arrive
+61460,Motion,kommen::V,come
+61529,Motion,hochheben::V,lift
+61374,Motion,sich drehen::V,revolve
+61076,Motion,Straße::N,road
+61446,Motion,klettern::V,climb
+61559,Motion,werfen::V,throw
+61560,Motion,fangen::V,catch
+61564,Motion,schicken::V,send
+61565,Motion,bringen::V,bring
+61444,Motion,rennen::V,run
+61619,Motion,stoßen::V,shove
+61443,Motion,sausen::V,dash
+61375,Motion,schwanken::V,sway
+61441,Motion,eilen::V,rush
+61607,Motion,verlassen::V,leave
+61606,Motion,sich trennen::V,separate
+61438,Motion,laufen::V,walk
+61436,Motion,sich setzen::V,sit down
+61435,Motion,sich erheben::V,stand up
+61071,Motion,Brücke::N,bridge
+61605,Motion,tanzen::V,dance
+61434,Motion,sich rühren::V,budge
+61074,Motion,Pfad::N,path
+61595,Motion,leiten::V,lead
+61075,Motion,Weg::N,way
+61525,Motion,drehen::V,spin
+61587,Motion,wiegen::V,rock
+61591,Motion,führen::V,guide
+61393,Motion,sinken::V,drop
+61392,Motion,verschwinden::V,disappear
+61617,Motion,treten::V,kick
+61554,Motion,einwickeln::V,wrap
+61377,Motion,fallen::V,fall
+61445,Motion,springen::V,jump
+61544,Motion,kleben::V,glue
+61549,Motion,rütteln::V,jolt
+61550,Motion,schütteln::V,shake
+61555,Motion,tragen::V,carry
+61468,Possession,finden::V,find
+61578,Possession,zerstören::V,destroy
+61608,Possession,retten::V,rescue
+61580,Possession,geben::V,give
+61242,Possession,arm::A,poor
+60943,Possession,Sache::N,thing
+61466,Possession,suchen::V,seek
+61531,Possession,halten::V,hold
+61243,Possession,reich::A,rich
+61096,Possession,Laden::N,shop
+61097,Possession,Preis::N,price
+61693,Possession,kaufen::V,buy
+61692,Possession,besitzen::V,own
+61575,Possession,beschädigen::V,damage
+61205,Possession,billig::A,cheap
+61206,Possession,teuer::A,dear
+61558,Possession,aufbewahren::V,keep
+61696,Possession,zahlen::V,pay
+61695,Possession,bezahlen::V,pay for
+61561,Possession,packen::V,grab
+61567,Possession,bekommen::V,get
+61568,Possession,erhalten::V,receive
+61467,Possession,suchen::V,look for
+61569,Possession,nehmen::V,take
+61220,Possession,geizig::A,stingy
+61530,Possession,ergreifen::V,seize
+61694,Possession,verkaufen::V,sell
+61572,Possession,bewahren::V,preserve
+61353,Quantity,neunzig::NUM,ninety
+61354,Quantity,hundert::NUM,a hundred
+61553,Quantity,füllen::V,fill
+61355,Quantity,tausend::NUM,a thousand
+61352,Quantity,achtzig::NUM,eighty
+61336,Quantity,drei::NUM,three
+61349,Quantity,fünfzig::NUM,fifty
+61253,Quantity,erster::A,first
+61335,Quantity,zwei::NUM,two
+61334,Quantity,eins::NUM,one
+61337,Quantity,vier::NUM,four
+61338,Quantity,fünf::NUM,five
+61339,Quantity,sechs::NUM,six
+61340,Quantity,sieben::NUM,seven
+61341,Quantity,acht::NUM,eight
+61343,Quantity,zehn::NUM,ten
+61344,Quantity,elf::NUM,eleven
+61317,Quantity,alles::PRN,everything
+61345,Quantity,zwölf::NUM,twelve
+61346,Quantity,zwanzig::NUM,twenty
+61304,Quantity,nur::ADV,only
+61347,Quantity,dreißig::NUM,thirty
+61686,Quantity,zählen::V,count
+61348,Quantity,vierzig::NUM,forty
+61350,Quantity,sechzig::NUM,sixty
+61257,Quantity,allein::ADV,alone
+61256,Quantity,letzter::A,last
+61255,Quantity,dritter::A,third
+61254,Quantity,zweiter::A,second
+61351,Quantity,siebzig::NUM,seventy
+61342,Quantity,neun::NUM,nine
+61183,Quantity,leer::A,empty
+60965,Quantity,Gang::N,walk
+60925,Quantity,Angelegenheit::N,matter
+60928,Quantity,Stück::N,piece
+60929,Quantity,Teil::N,part
+60930,Quantity,Hälfte::N,half
+60848,Quantity,Korn::N,grain
+60758,Quantity,Tropfen::N,drop
+61182,Quantity,voll::A,full
+60911,Sense perception,Laut::N,sound
+61165,Sense perception,glatt::A,smooth
+61166,Sense perception,hart::A,hard
+61167,Sense perception,weich::A,soft
+60910,Sense perception,Lärm::N,noise
+61507,Sense perception,berühren::V,touch
+60856,Sense perception,Dreck::N,filth
+61186,Sense perception,sauber::A,clean
+60760,Sense perception,Schmutz::N,dirt
+61170,Sense perception,scharf::A,sharp
+61171,Sense perception,stumpf::A,blunt
+61172,Sense perception,schwer::A,heavy
+61174,Sense perception,heiß::A,hot
+61198,Sense perception,rot::A,red
+61175,Sense perception,warm::A,warm
+60724,Sense perception,Geruch::N,odor
+61215,Sense perception,hübsch::A,pretty
+61197,Sense perception,weiß::A,white
+61196,Sense perception,schwarz::A,black
+60723,Sense perception,Geruch::N,odour
+61176,Sense perception,kalt::A,cold
+61369,Sense perception,scheinen[Sonne]::V,shine
+61179,Sense perception,feucht::A,damp
+61180,Sense perception,nass::A,wet
+61491,Sense perception,zu sehen sein::V,show
+61194,Sense perception,hell::A,bright
+61195,Sense perception,dunkel::A,dark
+61192,Sense perception,bitter::A,bitter
+60912,Sense perception,Ton::N,tone
+61488,Sense perception,riechen::V,smell
+61487,Sense perception,probieren::V,taste
+61486,Sense perception,zuhören::V,listen
+61485,Sense perception,hören::V,hear
+61187,Sense perception,schmutzig::A,dirty
+60914,Sense perception,Ruhe::N,calm
+60751,Sense perception,Frost::N,frost
+61483,Sense perception,anschauen::V,look at
+61482,Sense perception,sehen::V,see
+60752,Sense perception,Kälte::N,chill
+61193,Sense perception,sauer::A,sour
+60754,Sense perception,Raureif::N,hoarfrost
+61203,Sense perception,bunt::A,colourful
+61202,Sense perception,grau::A,grey
+61201,Sense perception,grün::A,green
+61200,Sense perception,blau::A,blue
+61199,Sense perception,gelb::A,yellow
+61590,Sense perception,zeigen::V,show
+61492,Sense perception,vernehmen::V,hear
+60955,Sense perception,Gewicht::N,weight
+61191,Sense perception,süß::A,sweet
+61181,Sense perception,trocken::A,dry
+61204,Sense perception,bunt::A,colorful
+61086,Social and political relations,Kirche::N,church
+61697,Social and political relations,beherrschen::V,rule
+60977,Social and political relations,Stab::N,staff
+61102,Social and political relations,Land::N,country
+61088,Social and political relations,Gott::N,god
+61091,Social and political relations,Meister::N,master
+61582,Social and political relations,schenken::V,give
+61104,Social and political relations,König::N,king
+61105,Social and political relations,Macht::N,power
+61106,Social and political relations,Grenze::N,border
+61107,Social and political relations,Krieg::N,war
+61108,Social and political relations,Feind::N,enemy
+61598,Social and political relations,einladen::V,invite
+61600,Social and political relations,besuchen::V,visit
+61601,Social and political relations,treffen::V,meet
+61602,Social and political relations,sich versammeln::V,assemble
+61614,Social and political relations,siegen::V,win
+61574,Social and political relations,verderben::V,spoil
+61078,Social and political relations,Stadt::N,town
+60916,Social and political relations,Volk::N,nation
+60915,Social and political relations,Leute::N,people
+61247,Social and political relations,verschieden::A,different
+60924,Social and political relations,Kamerad::N,companion
+60922,Social and political relations,Hilfe::N,help
+61007,Social and political relations,Figur::N,figure
+60923,Social and political relations,Freund::N,friend
+60918,Social and political relations,Gast::N,guest
+61077,Social and political relations,Dorf::N,village
+60920,Social and political relations,Spiel::N,game
+61245,Social and political relations,berühmt::A,famous
+61588,Spatial relations,zudecken::V,cover
+61397,Spatial relations,wachsen::V,grow
+61599,Spatial relations,vereinigen::V,unite
+60953,Spatial relations,Länge::N,length
+60952,Spatial relations,Größe::N,size
+61503,Spatial relations,schließen::V,close
+60950,Spatial relations,Winkel::N,angle
+61502,Spatial relations,öffnen::V,open
+60948,Spatial relations,Ende::N,end
+60954,Spatial relations,Höhe::N,height
+61623,Spatial relations,verbergen::V,conceal
+61629,Spatial relations,sammeln::V,gather
+60947,Spatial relations,Spitze::N,tip
+60946,Spatial relations,Ecke::N,corner
+61372,Spatial relations,strömen::V,stream
+60945,Spatial relations,Kante::N,edge
+60949,Spatial relations,Loch::N,hole
+60958,Spatial relations,Reihe::N,row
+60969,Spatial relations,Westen::N,west
+60967,Spatial relations,Norden::N,north
+61366,Spatial relations,wechseln::V,change
+61562,Spatial relations,verstecken::V,hide
+61003,Spatial relations,Haken::N,hook
+61563,Spatial relations,teilen::V,divide
+61521,Spatial relations,ändern::V,alter
+60931,Spatial relations,Kreis::N,circle
+60932,Spatial relations,Kreuz::N,cross
+60933,Spatial relations,Linie::N,line
+60935,Spatial relations,Abstand::N,gap
+60936,Spatial relations,Entfernung::N,distance
+61512,Spatial relations,aufheben::V,pick up
+61463,Spatial relations,bleiben::V,stay
+61509,Spatial relations,bedecken::V,cover
+60938,Spatial relations,Platz::N,space
+60974,Spatial relations,Stütze::N,bracket
+60939,Spatial relations,Ort::N,place
+60940,Spatial relations,Seite::N,side
+60970,Spatial relations,Osten::N,east
+60968,Spatial relations,Süden::N,south
+61504,Spatial relations,stellen::V,put
+60941,Spatial relations,Mitte::N,middle
+60944,Spatial relations,Rand::N,fringe
+61154,Spatial relations,klein::A,little
+61312,Spatial relations,neben::PRP,next to
+61308,Spatial relations,vor::PRP,in front of
+61153,Spatial relations,groß::A,big
+61185,Spatial relations,geschlossen::A,closed
+61155,Spatial relations,lang::A,long
+61156,Spatial relations,kurz::A,short
+61157,Spatial relations,breit::A,wide
+61158,Spatial relations,schmal::A,narrow
+61159,Spatial relations,dicht::A,dense
+61160,Spatial relations,dick[Gegenstand]::A,thick
+61161,Spatial relations,dünn::A,thin
+61162,Spatial relations,fein::A,delicate
+61164,Spatial relations,flach::A,flat
+61168,Spatial relations,rund::A,round
+61169,Spatial relations,spitz::A,pointed
+61310,Spatial relations,unter::PRP,under
+61330,Spatial relations,wohin::FADV,where
+61281,Spatial relations,hierhin::ADV,hither
+61313,Spatial relations,zwischen::PRP,between
+61329,Spatial relations,wohin::FADV,where to
+61328,Spatial relations,wohin::FADV,where ... to
+61184,Spatial relations,offen::A,open
+61297,Spatial relations,überall::ADV,everywhere
+61309,Spatial relations,hinter::PRP,behind
+61295,Spatial relations,oben::ADV,above
+61282,Spatial relations,hierhin::ADV,to here
+61283,Spatial relations,hierhin::ADV,here
+61360,Spatial relations,liegen::V,lie
+61214,Spatial relations,schlank::A,slim
+61213,Spatial relations,fett::A,fat
+61359,Spatial relations,sitzen::V,sit
+61286,Spatial relations,dorthin::ADV,thither
+61287,Spatial relations,dorthin::ADV,there
+61358,Spatial relations,stehen::V,stand
+61288,Spatial relations,dorthin::ADV,to there
+61289,Spatial relations,geradeaus::ADV,ahead
+61296,Spatial relations,hinauf::ADV,up
+61290,Spatial relations,vorwärts::ADV,forward
+61292,Spatial relations,zurück::ADV,back
+61293,Spatial relations,unten::ADV,below
+61294,Spatial relations,hinab::ADV,down
+61248,Spatial relations,nah::A,near
+61249,Spatial relations,fern::A,far
+61250,Spatial relations,linker::A,left
+61251,Spatial relations,rechter::A,right
+61685,Spatial relations,messen::V,measure
+61259,Spatial relations,zusammen::ADV,together
+61291,Spatial relations,rückwärts::ADV,backward
+60903,Speech and language,Rätsel::N,puzzle
+60905,Speech and language,Sprache::N,language
+60902,Speech and language,Name::N,name
+61080,Speech and language,Buch::N,book
+60904,Speech and language,Rede::N,speech
+60907,Speech and language,Wort::N,word
+61669,Speech and language,erzählen::V,tell
+61668,Speech and language,bitten::V,request
+60908,Speech and language,Zeichen::N,sign
+61667,Speech and language,fragen::V,ask
+61663,Speech and language,sagen::V,say
+61664,Speech and language,sprechen::V,speak
+60906,Speech and language,Stimme::N,voice
+61081,Speech and language,Buchstabe::N,character
+61410,Speech and language,pfeifen::V,whistle
+61671,Speech and language,nennen::V,name
+60899,Speech and language,Erzählung::N,story
+61688,Speech and language,lesen::V,read
+61691,Speech and language,schreiben::V,write
+61583,Speech and language,versprechen::V,promise
+61411,Speech and language,schreien::V,shout
+61408,Speech and language,heulen::V,howl
+61673,Speech and language,prahlen::V,brag
+61672,Speech and language,rufen::V,call
+61604,Speech and language,singen::V,sing
+60673,The body,Zunge::N,tongue
+60671,The body,Mund::N,mouth
+60677,The body,Stirn::N,forehead
+60670,The body,Nase::N,nose
+60669,The body,Ohr::N,ear
+60674,The body,Lippe::N,lip
+60675,The body,Wange::N,cheek
+60676,The body,Gesicht::N,face
+60672,The body,Zahn::N,tooth
+60680,The body,Bart::N,beard
+60679,The body,Schnurrbart::N,moustache
+60681,The body,Kinn::N,chin
+60682,The body,Kiefer[Anatomie]::N,jaw
+60683,The body,Kehle::N,throat
+60684,The body,Hals::N,neck
+60685,The body,Genick::N,nape
+60686,The body,Kopf::N,head
+60687,The body,Rücken::N,back
+60688,The body,Rücken::N,spine
+60689,The body,Bauch::N,belly
+60678,The body,Haar::N,hair
+60690,The body,Nabel::N,navel
+60707,The body,Bein::N,leg
+60692,The body,Brust::N,chest
+61626,The body,töten::V,kill
+60702,The body,Zeh::N,toe
+60726,The body,Traum::N,dream
+60703,The body,Fuß::N,foot
+60704,The body,Ferse::N,heel
+60718,The body,Atem::N,breath
+60717,The body,Leber::N,liver
+60701,The body,Nagel[Anatomie]::N,nail
+60716,The body,Magen::N,stomach
+60714,The body,Gehirn::N,brain
+60713,The body,Knochen::N,bone
+60712,The body,Sehne::N,sinew
+60711,The body,Ader::N,vein
+60710,The body,Blut::N,blood
+60709,The body,Haut::N,skin
+60705,The body,Knie::N,knee
+60715,The body,Herz::N,heart
+60691,The body,Busen::N,bosom
+61618,The body,stechen::V,sting
+60699,The body,Finger::N,finger
+61535,The body,lecken::V,lick
+61536,The body,beißen::V,bite
+60706,The body,Oberschenkel::N,thigh
+60854,The body,Spur::N,track
+60800,The body,Schwanz::N,tail
+60797,The body,Flügel::N,wing
+60795,The body,Feder::N,feather
+60700,The body,Fingernagel::N,fingernail
+60794,The body,Horn::N,horn
+60694,The body,Schulter::N,shoulder
+61589,The body,wecken::V,wake
+60695,The body,Arm::N,arm
+60696,The body,Ellenbogen::N,elbow
+60697,The body,Hand::N,hand
+61656,The body,baden::V,bath
+60698,The body,Handfläche::N,palm
+60693,The body,Brust::N,breast
+60708,The body,Körper::N,body
+61231,The body,lebendig::A,living
+60668,The body,Auge::N,eye
+61064,The body,Stärke::N,strength
+61065,The body,Gesundheit::N,health
+61068,The body,Wunde::N,wound
+61069,The body,Fieber::N,fever
+61070,The body,Arznei::N,medicine
+61431,The body,sterben::V,die
+61430,The body,genesen::V,recover
+61429,The body,husten::V,cough
+61428,The body,schmerzen::V,ache
+61425,The body,sich erholen::V,relax
+61063,The body,Kraft::N,force
+61092,The body,Arzt::N,doctor
+61413,The body,zittern::V,tremble
+61423,The body,aufwachen::V,wake up
+61422,The body,schlafen::V,sleep
+61421,The body,einschlafen::V,fall asleep
+61420,The body,müde werden::V,get tired
+61084,The body,Tod::N,death
+61085,The body,Grab::N,grave
+61414,The body,leben::V,be alive
+61416,The body,atmen::V,breathe
+61415,The body,geboren werden::V,be born
+61083,The body,Leben::N,life
+61027,The body,Fett::N,fat
+61066,The body,Krankheit::N,illness
+61209,The body,taub::A,deaf
+61218,The body,faul::A,lazy
+61212,The body,schwach::A,weak
+61211,The body,stark::A,strong
+61493,The body,frieren::V,be cold
+61229,The body,nackt::A,naked
+61208,The body,blind::A,blind
+61228,The body,krank::A,sick
+60966,The house,Schritt::N,step
+60972,The house,Brett::N,board
+60975,The house,Stange::N,pole
+61005,The house,Schloss::N,lock
+60979,The house,Haus::N,house
+60980,The house,Heim::N,home
+60981,The house,Ofen::N,stove
+60982,The house,Fußboden::N,floor
+60983,The house,Tisch::N,table
+60984,The house,Stuhl::N,chair
+60986,The house,Bett::N,bed
+60987,The house,Regal::N,shelf
+60989,The house,Fenster::N,window
+60990,The house,Tür::N,door
+60991,The house,Tor::N,gate
+60993,The house,Dach::N,roof
+61060,The house,Kissen::N,pillow
+61059,The house,Decke::N,blanket
+60994,The house,Leiter::N,ladder
+61627,The house,wohnen::V,dwell
+60740,The physical world,Rauch::N,smoke
+60739,The physical world,Staub::N,dust
+60738,The physical world,Erde::N,earth
+60741,The physical world,Funke::N,spark
+60750,The physical world,Eis::N,ice
+60743,The physical world,Licht::N,light
+60744,The physical world,Schatten::N,shadow
+60745,The physical world,Wetter::N,weather
+60746,The physical world,Nebel::N,fog
+60747,The physical world,Wolke::N,cloud
+60748,The physical world,Regen::N,rain
+60737,The physical world,Boden::N,ground
+60749,The physical world,Schnee::N,snow
+60742,The physical world,Feuer::N,fire
+60736,The physical world,Boden::N,soil
+61368,The physical world,untergehen[Sonne]::V,set
+60734,The physical world,Wasser::N,water
+61178,The physical world,frisch::A,fresh
+61177,The physical world,kühl::A,cool
+61367,The physical world,aufgehen[Sonne]::V,rise
+60753,The physical world,Hitze::N,heat
+61370,The physical world,donnern::V,thunder
+61378,The physical world,brennen::V,burn
+61380,The physical world,regnen::V,rain
+60735,The physical world,Stein::N,stone
+60727,The physical world,Himmel::N,sky
+61381,The physical world,gefrieren::V,freeze
+60729,The physical world,Mond::N,moon
+60730,The physical world,Stern::N,star
+60731,The physical world,Luft::N,air
+61383,The physical world,schmelzen::V,melt
+60732,The physical world,Wind::N,wind
+60733,The physical world,Welle::N,wave
+60728,The physical world,Sonne::N,sun
+60755,The physical world,Regenbogen::N,rainbow
+60942,The physical world,Gegenstand::N,item
+60776,The physical world,Küste::N,coast
+60767,The physical world,Anhöhe::N,elevation
+60768,The physical world,Berg::N,mountain
+60769,The physical world,Gipfel::N,summit
+60770,The physical world,Höhle::N,cave
+60771,The physical world,Abhang::N,slope
+60772,The physical world,Quelle::N,source
+60773,The physical world,Bach::N,brook
+60774,The physical world,Fluss::N,river
+60775,The physical world,Ufer::N,shore
+61511,The physical world,anzünden::V,light
+60777,The physical world,Festland::N,land
+60779,The physical world,Bucht::N,cove
+60780,The physical world,Insel::N,island
+60787,The physical world,Ast::N,limb
+60851,The physical world,Grube::N,pit
+60855,The physical world,Asche::N,ashes
+60860,The physical world,Kohle::N,coal
+60863,The physical world,Sand::N,sand
+61072,The physical world,Brunnen::N,well
+61396,The physical world,steigen::V,rise
+60778,The physical world,Meer::N,sea
+60766,The physical world,Hügel::N,hill
+61024,The physical world,Brei::N,mush
+60765,The physical world,Wald::N,forest
+60951,The physical world,Muster::N,pattern
+61573,The physical world,behindern::V,hinder
+60757,The physical world,Strömung::N,current
+60756,The physical world,Donner::N,thunder
+60971,The physical world,Holz::N,wood
+60976,The physical world,Stock::N,stick
+60759,The physical world,Schaum::N,foam
+61398,The physical world,glänzen::V,shine
+61101,The physical world,Welt::N,world
+60761,The physical world,See::N,lake
+60764,The physical world,Wiese::N,meadow
+61579,The physical world,verbrennen::V,burn
+60763,The physical world,Moor::N,moor
+60762,The physical world,Sumpf::N,swamp
+60937,The physical world,Gegend::N,area
+61268,Time,dann::ADV,then
+61269,Time,gestern::ADV,yesterday
+61270,Time,einst::ADV,once
+61271,Time,damals::ADV,at that time
+61272,Time,danach::ADV,afterwards
+61274,Time,zuerst::ADV,at first
+61275,Time,einmal::ADV,once
+61276,Time,manchmal::ADV,sometimes
+61277,Time,oft::ADV,often
+61305,Time,schon::ADV,already
+61279,Time,niemals::ADV,never
+61303,Time,noch::ADV,still
+61273,Time,vorher::ADV,before
+61278,Time,immer::ADV,always
+61264,Time,jetzt::ADV,now
+61267,Time,bald::ADV,soon
+61266,Time,morgen::ADV,tomorrow
+61265,Time,heute::ADV,today
+61263,Time,später::ADV,later
+61262,Time,sofort::ADV,instantly
+61237,Time,alt::A,old
+61261,Time,plötzlich::ADV,suddenly
+61238,Time,neu::A,new
+61239,Time,ehemalig::A,former
+61240,Time,alt[Lebewesen]::A,aged
+61241,Time,jung::A,young
+61260,Time,lange::ADV,long
+61306,Time,wieder::ADV,again
+61258,Time,auf einmal::ADV,at once
+61497,Time,anfangen::V,start
+61120,Time,Schluss::N,conclusion
+61365,Time,enden::V,end
+61152,Time,Sonntag::N,Sunday
+61133,Time,Winter::N,winter
+61132,Time,Herbst::N,autumn
+61131,Time,Sommer::N,summer
+61130,Time,Frühling::N,spring
+61129,Time,Jahr::N,year
+61128,Time,Monat::N,month
+61127,Time,Woche::N,week
+61126,Time,Nacht::N,night
+61125,Time,Abend::N,evening
+61498,Time,beenden::V,finish
+61124,Time,Mittag::N,noon
+61119,Time,Alter::N,age
+61123,Time,Morgen::N,morning
+61122,Time,Tag::N,day
+61121,Time,Zeit::N,time
+61134,Time,Januar::N,January
+61442,Time,sich beeilen::V,hurry
+61135,Time,Februar::N,February
+61137,Time,April::N,April
+61151,Time,Samstag::N,Saturday
+61150,Time,Freitag::N,Friday
+61149,Time,Donnerstag::N,Thursday
+61148,Time,Mittwoch::N,Wednesday
+61147,Time,Dienstag::N,Tuesday
+61146,Time,Montag::N,Monday
+61145,Time,Dezember::N,December
+61144,Time,November::N,November
+61143,Time,Oktober::N,October
+61142,Time,September::N,September
+61141,Time,August::N,August
+61140,Time,Juli::N,July
+61139,Time,Juni::N,June
+61364,Time,beginnen::V,begin
+61138,Time,Mai::N,May
+61136,Time,März::N,March
+61390,Time,vergehen::V,pass
