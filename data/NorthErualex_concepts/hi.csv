@@ -1,0 +1,1478 @@
+lang_iso_code,concept_id,ortho_form,raw_ipa,next_step
+hin,1,आँख,ãːkʰ,validate
+hin,1,चक्षु,t͡ʃəkʂʊ,validate
+hin,2,कान,kaːn,validate
+hin,2,कर्ण,kərɳ,validate
+hin,3,नाक,naːk,validate
+hin,3,नासा,naːsaː,validate
+hin,4,मुख,mʊkʰ,validate
+hin,4,मुँह,mũh,validate
+hin,5,दंत,dənt,validate
+hin,5,दाँत,dãːt,validate
+hin,6,जीभ,d͡ʒiːbʰ,validate
+hin,6,ज़बान,zəbaːn,validate
+hin,6,जिह्वा,d͡ʒɪhvaː,validate
+hin,7,ओंठ,õːʈʰ,validate
+hin,7,होंठ,hõːʈʰ,validate
+hin,8,गाल,ɡaːl,validate
+hin,8,कपोल,kəpoːl,validate
+hin,9,मुँह,mũh,validate
+hin,9,चेहरा,t͡ʃeːhraː,validate
+hin,10,माथा,maːtʰaː,validate
+hin,10,मस्तक,məstək,validate
+hin,11,बाल,baːl,validate
+hin,12,मूँछें,mʊ̄̃t͡ʃʰeː̃,validate
+hin,13,दाढ़ी,daːɽʰiː,validate
+hin,14,चिबुक,t͡ʃɪbʊk,validate
+hin,15,जबड़ा,d͡ʒəbɽaː,validate
+hin,16,गला,ɡəlaː,validate
+hin,17,गला,ɡəlaː,validate
+hin,17,गरदन,ɡərdən,validate
+hin,18,गरदन,ɡərdən,validate
+hin,18,ग्रीवा,ɡriːvaː,validate
+hin,19,सिर,sɪr,validate
+hin,19,शीर्ष,ɕiːrʂ,validate
+hin,20,पीठ,piːʈʰ,validate
+hin,21,उदर,ʊdər,validate
+hin,22,नाभि,naːbʰɪ,validate
+hin,22,ढोंढी,ɖʰõːɖʰiː,validate
+hin,23,कुच,kʊt͡ʃ,validate
+hin,23,स्तन,stən,validate
+hin,24,वक्ष,vəkʂ,validate
+hin,25,कंधा,kəndʰaː,validate
+hin,25,स्कंध,skəndʰ,validate
+hin,26,बाँह,bãːh,validate
+hin,26,बाज़ू,baːzuː,validate
+hin,27,कुहनी,kʊhniː,validate
+hin,28,हाथ,haːtʰ,validate
+hin,28,हस्त,həst,validate
+hin,29,हथेली,hətʰeːliː,validate
+hin,30,उँगली,ũɡliː,validate
+hin,30,अँगुली,ãɡʊliː,validate
+hin,31,नख,nəkʰ,validate
+hin,31,नाख़ून,naːxuːn,validate
+hin,32,नख,nəkʰ,validate
+hin,32,नाख़ून,naːxuːn,validate
+hin,33,उँगली,ũɡəliː,validate
+hin,33,पाँव की उँगली,pãːv kiː ũɡliː,validate
+hin,34,चरण,t͡ʃərəɳ,validate
+hin,34,पाँव,pãːv,validate
+hin,35,एड़ी,eːɽiː,validate
+hin,36,जानु,d͡ʒaːnʊ,validate
+hin,36,घुटना,ɡʰʊʈnaː,validate
+hin,37,उरु,ʊrʊ,validate
+hin,38,टाँग,ʈãːɡ,validate
+hin,39,तन,tən,validate
+hin,39,देह,deːh,validate
+hin,39,शरीर,ɕəriːr,validate
+hin,40,चर्म,t͡ʃərm,validate
+hin,40,त्वचा,tvət͡ʃaː,validate
+hin,41,लहू,ləhuː,validate
+hin,41,ख़ून,xuːn,validate
+hin,42,रग,rəɡ,validate
+hin,42,शिरा,ɕɪraː,validate
+hin,43,कंडरा,kəɳɖəraː,validate
+hin,43,स्नायु,snaːjʊ,validate
+hin,44,अस्थि,əstʰɪ,validate
+hin,45,दिमाग़,dɪmaːɣ,validate
+hin,45,मस्तिष्क,məstɪʂk,validate
+hin,46,दिल,dɪl,validate
+hin,46,हृदय,hr̥dəj,validate
+hin,47,मेदा,meːdaː,validate
+hin,47,अमाशय,əmaːɕəj,validate
+hin,48,जिगर,d͡ʒɪɡər,validate
+hin,48,यकृत्,jəkɽt,validate
+hin,49,दम,dəm,validate
+hin,49,साँस,sãːs,validate
+hin,49,श्वास,ɕwaːs,validate
+hin,50,भूख,bʰuːkʰ,validate
+hin,50,क्षुधा,kʂʊdʰaː,validate
+hin,51,आँसू,ãːsuː,validate
+hin,51,अश्रु,əɕrʊ,validate
+hin,52,स्वाद,svaːd,validate
+hin,52,ज़ायक़ा,zaːjqaː,validate
+hin,53,बू,buː,validate
+hin,53,गंध,ɡəndʰ,validate
+hin,54,नींद,niːnd,validate
+hin,54,निद्रा,nɪdraː,validate
+hin,55,सपना,səpnaː,validate
+hin,55,स्वप्न,svəpn,validate
+hin,56,आकाश,aːkaːɕ,validate
+hin,56,आसमान,aːsmaːn,validate
+hin,57,रवि,rəvɪ,validate
+hin,57,सूरज,suːrəd͡ʒ,validate
+hin,57,सूर्य,suːrj,validate
+hin,58,चाँद,t͡ʃãːd,validate
+hin,58,चंद्र,t͡ʃəndr,validate
+hin,59,तारा,taːraː,validate
+hin,59,सितारा,sɪtaːraː,validate
+hin,60,हवा,həvaː,validate
+hin,60,वायु,vaːjʊ,validate
+hin,61,पाद,paːd,validate
+hin,62,लहर,ləhər,validate
+hin,62,तरंग,tərəŋɡ,validate
+hin,63,जल,d͡ʒəl,validate
+hin,63,पानी,paːniː,validate
+hin,64,पत्थर,pətʰːər,validate
+hin,65,मिट्टी,mɪʈːiː,validate
+hin,66,भूमि,bʰuːmɪ,validate
+hin,66,ज़मीन,zəmiːn,validate
+hin,67,धूल,dʰuːl,validate
+hin,68,धूआँ,dʰuːãː,validate
+hin,68,धुम्र,dʰʊmr,validate
+hin,69,चिनगारी,t͡ʃɪnəɡaːriː,validate
+hin,69,स्फुलिंग,sfʊlɪŋɡ,validate
+hin,70,आग,aːɡ,validate
+hin,70,आतिश,aːtɪɕ,validate
+hin,70,अग्नि,əɡnɪ,validate
+hin,71,रोशनी,roːɕniː,validate
+hin,71,प्रकाश,prəkaːɕ,validate
+hin,72,छाया,t͡ʃʰaːjaː,validate
+hin,72,परछाई,pərt͡ʃʰaːĩː,validate
+hin,73,ऋतु,r̥tʊ,validate
+hin,73,मौसम,mɔːsəm,validate
+hin,74,धुँध,dʰʊndʰ,validate
+hin,74,कुहरा,kʊhəraː,validate
+hin,75,मेघ,meːɡʰ,validate
+hin,75,अभ्र,əbʰr,validate
+hin,76,मेंह,mẽːh,validate
+hin,76,बारिश,baːrɪɕ,validate
+hin,77,हिम,hɪm,validate
+hin,77,बर्फ़,bərf,validate
+hin,78,हिम,hɪm,validate
+hin,78,बर्फ़,bərf,validate
+hin,79,ठंड,ʈʰəɳɖ,validate
+hin,80,सर्दी,sərdiː,validate
+hin,80,शीतलता,ɕiːtələtaː,validate
+hin,81,ताप,taːp,validate
+hin,81,गरमी,ɡərmiː,validate
+hin,82,पाला,paːlaː,validate
+hin,83,इंद्र-धनुष,ɪndrdʰənʊʂ,validate
+hin,84,गरज,ɡərəd͡ʒ,validate
+hin,84,मेघ-गर्जन,meːɡʰəɡərd͡ʒən,validate
+hin,85,बहाव,bəhaːv,validate
+hin,85,प्रवाह,prəwaːh,validate
+hin,86,बूँद,bũːd,validate
+hin,87,झाग,d͡ʒʰaːɡ,validate
+hin,88,गंद,ɡənd,validate
+hin,88,कीचड़,kiːt͡ʃəɽ,validate
+hin,89,झील,d͡ʒʰiːl,validate
+hin,89,सरोवर,səroːvər,validate
+hin,90,दलदल,dələdəl,validate
+hin,90,धँसान,dʰə̃saːn,validate
+hin,91,झाबर,d͡ʒʰaːbər,validate
+hin,91,धँसान,dʰãsaːn,validate
+hin,92,घास-स्थल,ɡʰaːsstʰəl,validate
+hin,93,जंगल,d͡ʒəŋɡəl,validate
+hin,94,टीला,ʈiːlaː,validate
+hin,94,पहाड़,pəhaːɽ,validate
+hin,95,टीला,ʈiːlaː,validate
+hin,95,पहाड़ी,pəhaːɽiː,validate
+hin,96,पहाड़,pəhaːɽ,validate
+hin,97,शिखर,ɕɪkʰər,validate
+hin,98,गुहा,ɡʊhaː,validate
+hin,98,गुफ़ा,ɡʊfaː,validate
+hin,99,ढाल,ɖʰaːl,validate
+hin,99,ढलान,ɖʰəlaːn,validate
+hin,100,चश्मा,t͡ʃəɕmaː,validate
+hin,101,सोता,soːtaː,validate
+hin,101,नदिका,nədɪkaː,validate
+hin,102,नदी,nədiː,validate
+hin,102,सरिता,sərɪtaː,validate
+hin,103,तट,təʈ,validate
+hin,103,किनारा,kɪnaːraː,validate
+hin,104,समुद्र-तट,səmʊdrətəʈ,validate
+hin,105,महाद्वीप,məhaːdviːp,validate
+hin,106,सागर,saːɡər,validate
+hin,106,समुद्र,səmʊdr,validate
+hin,107,खाड़ी,kʰaːɽiː,validate
+hin,108,टापू,ʈaːpuː,validate
+hin,108,द्वीप,dwiːp,validate
+hin,109,फूल,pʰuːl,validate
+hin,109,पुष्प,pʊʂp,validate
+hin,110,घास,ɡʰaːs,validate
+hin,111,मूल,muːl,validate
+hin,112,पेड़,peːɽ,validate
+hin,112,वृक्ष,wr̥kʂ,validate
+hin,113,धड़,dʰəɽ,validate
+hin,114,छाल,t͡ʃʰaːl,validate
+hin,114,वल्कल,vəlkəl,validate
+hin,115,डाल,ɖaːl,validate
+hin,115,शाखा,ɕaːkʰaː,validate
+hin,116,टहनी,ʈəhniː,validate
+hin,117,पत्र,pətr,validate
+hin,117,पत्ता,pətːaː,validate
+hin,118,भूर्ज,bʰuːrd͡ʒ,validate
+hin,119,पाइन-वृक्ष,paːɪnvɽkʂ,validate
+hin,120,बेंत,beːnt,review
+hin,121,फ़र,fər,validate
+hin,122,सींग,siːŋɡ,validate
+hin,122,विषाण,vɪʂaːɳ,validate
+hin,123,पर,pər,validate
+hin,123,पंख,pəŋkʰ,validate
+hin,124,खाल,kʰaːl,review
+hin,124,पशु-चर्म,pəɕʊt͡ʃərm,review
+hin,125,पंख,pəŋkʰ,validate
+hin,125,डैना,ɖɛːnaː,validate
+hin,126,पंजा,pə̃d͡ʒaː,review
+hin,127,पंजा,pə̃d͡ʒaː,validate
+hin,127,नाख़ून,naːxuːn,validate
+hin,128,पूँछ,pʊ̄̃t͡ʃʰ,validate
+hin,129,अंडा,əɳɖaː,validate
+hin,130,नीड़,niːɽ,validate
+hin,130,घोंसला,ɡʰõːslaː,validate
+hin,131,बिल,bɪl,validate
+hin,131,माँद,mãːd,validate
+hin,132,पशु,pəɕʊ,validate
+hin,132,जानवर,d͡ʒaːnvər,validate
+hin,133,गल्ला,ɡəlːaː,validate
+hin,134,गौ,ɡɔː,validate
+hin,134,गाय,ɡaːj,validate
+hin,135,साँड़,sãːɽ,validate
+hin,136,अश्व,əɕw,validate
+hin,136,घोड़ा,ɡʰoːɽaː,validate
+hin,137,भेड़,bʰeːɽ,validate
+hin,138,शूकर,ɕuːkər,validate
+hin,139,श्वान,ɕwaːn,validate
+hin,139,कुत्ता,kʊtːaː,validate
+hin,140,बिल्ली,bɪlːiː,validate
+hin,141,रीछ,riːt͡ʃʰ,validate
+hin,141,भालू,bʰaːluː,validate
+hin,142,गिलहरी,ɡɪləhriː,validate
+hin,143,एल्क,eːlk,validate
+hin,144,लोमड़ी,loːməɽiː,validate
+hin,145,खरहा,kʰərəhaː,validate
+hin,145,ख़रगोश,xərɡoːɕ,validate
+hin,146,मूष,muːʂ,validate
+hin,146,चूहा,t͡ʃuːhaː,validate
+hin,147,वृक,vɽk,validate
+hin,147,भेड़िया,bʰeːɽɪjaː,validate
+hin,148,पक्षी,pəkʂiː,validate
+hin,148,चिड़िया,t͡ʃɪɽɪjaː,validate
+hin,149,झुंड,d͡ʒʰʊɳɖ,validate
+hin,150,मुर्ग़ी,mʊrɣiː,validate
+hin,151,मुर्ग़ा,mʊrɣaː,validate
+hin,152,हंस,həɲs,validate
+hin,152,हंसिनी,həɲsɪniː,validate
+hin,153,उक़ाब,ʊqaːb,validate
+hin,154,बतख़,bətəx,validate
+hin,154,बत्तक,bətːək,validate
+hin,155,उल्लू,ʊlːuː,validate
+hin,156,सारस,saːrəs,validate
+hin,156,क्रौंंच,krɔːɲt͡ʃ,validate
+hin,157,काक,kaːk,validate
+hin,158,कोयल,koːjəl,validate
+hin,158,कोकिल,koːkɪl,validate
+hin,159,हंस,həɲs,validate
+hin,159,मराल,məraːl,validate
+hin,160,मछली,mət͡ʃʰliː,validate
+hin,160,मत्स्य,mətsj,validate
+hin,161,पर्च,pərt͡ʃʰ,review
+hin,162,पाइक,paːɪk,validate
+hin,163,सर्प,sərp,validate
+hin,164,कृमि,kɽmɪ,validate
+hin,164,कीड़ा,kiːɽaː,validate
+hin,165,लूता,luːtaː,validate
+hin,165,मकड़ी,məkɽiː,validate
+hin,166,चींटी,t͡ʃĩːʈiː,validate
+hin,167,जूँ,d͡ʒũː,validate
+hin,168,डाँस,ɖãːs,validate
+hin,169,मक्खी,məkʰːiː,validate
+hin,169,मक्षिका,məkʂɪkaː,validate
+hin,170,तितली,tɪtəliː,validate
+hin,171,बेरी,beːriː,validate
+hin,172,सेब,seːb,validate
+hin,173,खुंबी,kʰʊmbiː,validate
+hin,174,प्याज़,pjaːz,validate
+hin,175,बीज,biːd͡ʒ,validate
+hin,176,दाना,daːnaː,validate
+hin,177,मूखी घास,muːkʰiː ɡʰaːs,validate
+hin,178,बकला,bəklaː,validate
+hin,178,छिलका,t͡ʃʰɪləkaː,validate
+hin,179,गड्ढा,ɡəɖʰːaː,validate
+hin,180,जाल,d͡ʒaːl,review
+hin,180,फँदा,pʰãdaː,review
+hin,181,फँदा,fə̃daː,validate
+hin,182,सुराग़,sʊraːɣ,validate
+hin,182,पद-चिह्न,pədət͡ʃɪhn,validate
+hin,183,राख,raːkʰ,validate
+hin,184,मैल,mɛːl,validate
+hin,184,गंदगी,ɡəndɡiː,validate
+hin,185,लोहा,loːhaː,validate
+hin,186,सोना,soːnaː,validate
+hin,186,स्वर्ण,svərɳ,validate
+hin,187,रजत,rəd͡ʒət,validate
+hin,187,चाँदी,t͡ʃãːdiː,validate
+hin,188,कोयला,koːjəlaː,validate
+hin,189,काँच,kãːt͡ʃ,validate
+hin,190,चिकनी मिट्टी,t͡ʃɪkniː mɪʈːiː,validate
+hin,191,रेत,reːt,validate
+hin,191,बालू,baːluː,validate
+hin,192,मानव,maːnəv,validate
+hin,192,इनसान,ɪnsaːn,validate
+hin,192,मनुष्य,mənʊʂj,validate
+hin,193,आदमी,aːdəmiː,validate
+hin,193,पुरुष,pʊrʊʂ,validate
+hin,194,औरत,ɔːrət,validate
+hin,194,महिला,məhɪlaː,validate
+hin,194,स्त्री,striː,validate
+hin,195,बाल,baːl,validate
+hin,195,बच्चा,bətt͡ʃaː,validate
+hin,196,लड़का,ləɽkaː,validate
+hin,197,लड़की,ləɽkiː,validate
+hin,197,कुमारी,kʊmaːriː,validate
+hin,198,परिवार,pərɪvaːr,validate
+hin,199,दादा,daːdaː,validate
+hin,200,नानी,naːniː,validate
+hin,201,माँ-बाप,mãːbaːp,validate
+hin,201,माता-पिता,maːtaːpɪtaː,validate
+hin,202,बाप,baːp,validate
+hin,202,पिता,pɪtaː,validate
+hin,203,माँ,mãː,validate
+hin,203,माता,maːtaː,validate
+hin,204,बेटा,beːʈaː,validate
+hin,204,पुत्र,pʊtr,validate
+hin,205,बेटी,beːʈiː,validate
+hin,205,पुत्री,pʊtriː,validate
+hin,206,भाई,bʰaːiː,validate
+hin,206,भ्राता,bʰraːtaː,validate
+hin,207,बहन,bəhən,validate
+hin,207,भगिनी,bʰəɡɪniː,validate
+hin,208,ताऊ,taːuː,validate
+hin,208,काका,kaːkaː,validate
+hin,209,बूआ,buːaː,validate
+hin,209,फूफी,pʰuːpʰiː,validate
+hin,209,ख़ाला,xaːlaː,validate
+hin,210,पति,pətɪ,validate
+hin,210,शौहर,ɕɔːhər,validate
+hin,211,बीवी,biːviː,validate
+hin,212,आनंद,aːnənd,validate
+hin,212,प्रसन्नता,prəsənːtaː,validate
+hin,213,हँसी,hə̃siː,validate
+hin,213,क़हक़हा,qəhqəhaː,validate
+hin,214,आनंद,aːnənd,validate
+hin,214,ख़ुशी,xʊɕiː,validate
+hin,215,शोक,ɕoːk,validate
+hin,215,दुःख,dʊxkʰ,validate
+hin,216,इच्छा,ɪtt͡ʃʰaː,validate
+hin,216,अभिलाषा,əbʰɪlaːʂaː,validate
+hin,217,चाह,t͡ʃaːh,validate
+hin,217,कामना,kaːmnaː,validate
+hin,218,जान,d͡ʒaːn,review
+hin,218,प्राण,praːɳ,review
+hin,219,विचार,wɪt͡ʃaːr,validate
+hin,220,याददाश्त,jaːddaːɕt,validate
+hin,220,स्मरण-शक्ति,smərəɳəɕəktɪ,validate
+hin,221,समझ,səməd͡ʒʰ,validate
+hin,221,अक़्ल,əql,validate
+hin,221,बुद्धि,bʊdʰːɪ,validate
+hin,222,अर्थ,ərtʰ,validate
+hin,223,वजह,vəd͡ʒəh,validate
+hin,223,कारण,kaːrəɳ,validate
+hin,224,सत्य,sətj,validate
+hin,224,सच्चाई,sətt͡ʃaːiː,validate
+hin,225,चर्चा,t͡ʃərt͡ʃaː,validate
+hin,225,वार्ता,vaːrtaː,validate
+hin,225,बात-चीत,baːtət͡ʃiːt,validate
+hin,226,क़िस्सा,qɪsːaː,validate
+hin,227,कथा,kətʰaː,validate
+hin,227,कहानी,kəhaːniː,validate
+hin,228,सूचना,suːt͡ʃənaː,validate
+hin,228,समाचार,səmaːt͡ʃaːr,validate
+hin,229,ख़बर,xəbər,validate
+hin,229,समाचार,səmaːt͡ʃaːr,validate
+hin,230,नाम,naːm,validate
+hin,231,पहेली,pəheːliː,validate
+hin,232,वचन,wət͡ʃən,validate
+hin,232,भाषण,bʰaːʂəɳ,validate
+hin,233,भाषा,bʰaːʂaː,validate
+hin,233,ज़बान,zəbaːn,validate
+hin,234,स्वर,swər,validate
+hin,234,आवाज़,aːvaːz,validate
+hin,235,शब्द,ɕəbd,validate
+hin,235,लफ़्ज़,ləfz,validate
+hin,236,निशान,nɪɕaːn,validate
+hin,237,पुकार,pʊkaːr,validate
+hin,237,आह्वान,aːhvaːn,validate
+hin,238,शोर,ɕoːr,validate
+hin,238,हुल्लड़,hʊlːəɽ,validate
+hin,239,स्वर,swər,validate
+hin,239,ध्वनि,dʰwənɪ,validate
+hin,240,सुर,sʊr,validate
+hin,240,स्वर,swər,validate
+hin,241,गीत,ɡiːt,validate
+hin,242,आराम,aːraːm,validate
+hin,242,ख़ामोशी,xaːmoːɕiː,validate
+hin,243,लोग,loːɡ,validate
+hin,244,क़ौम,qɔːm,validate
+hin,244,प्रजा,prd͡ʒaː,validate
+hin,245,काम,kaːm,validate
+hin,246,अतिथि,ətɪtʰɪ,validate
+hin,246,मेहमान,meːhmaːn,validate
+hin,247,उपहार,ʊphaːr,validate
+hin,247,तोहफ़ा,toːhəfaː,validate
+hin,248,खेल,kʰeːl,validate
+hin,248,क्रीड़ा,kriːɽaː,validate
+hin,249,साथ,saːtʰ,validate
+hin,250,मदद,mədəd,validate
+hin,250,सहायता,səhaːjtaː,validate
+hin,251,मित्र,mɪtr,validate
+hin,252,साथी,saːtʰiː,validate
+hin,252,कामरेड,kaːməreːɖ,validate
+hin,253,बात,baːt,validate
+hin,253,मामला,maːmlaː,validate
+hin,254,तादाद,taːdaːd,validate
+hin,254,संख्या,səŋkʰjaː,validate
+hin,255,तरह,tərəh,validate
+hin,255,क़िस्म,qɪsm,validate
+hin,256,फाँक,pãːk,validate
+hin,256,टुकड़ा,ʈʊkɽaː,validate
+hin,257,भाग,bʰaːɡ,validate
+hin,257,हिस्सा,hɪsːaː,validate
+hin,258,अर्धभाग,ərdʰbʰaːɡ,validate
+hin,259,चक्कर,t͡ʃəkːər,validate
+hin,260,सलीब,səliːb,validate
+hin,260,क्रूस,kruːs,validate
+hin,261,लाइन,laːɪn,validate
+hin,262,लकीर,ləkiːr,validate
+hin,263,अंतर,əntər,validate
+hin,263,फ़ासला,faːsəlaː,validate
+hin,264,दूरी,duːriː,validate
+hin,264,फ़ासला,faːsəlaː,validate
+hin,265,इलाक़ा,ɪlaːqaː,validate
+hin,266,जगह,d͡ʒəɡəh,validate
+hin,266,स्थान,stʰaːn,validate
+hin,267,स्थल,stʰəl,validate
+hin,267,स्थान,stʰaːn,validate
+hin,268,ओर,oːr,validate
+hin,268,तरफ़,tərəf,validate
+hin,269,बीच,biːt͡ʃ,validate
+hin,269,मध्य,mədʰj,validate
+hin,270,चीज़,t͡ʃiːz,validate
+hin,270,पदार्थ,pədaːrtʰ,validate
+hin,271,चीज़,t͡ʃiːz,validate
+hin,271,वस्तु,vəstʊ,validate
+hin,272,छोर,t͡ʃʰoːr,validate
+hin,272,उपांत,ʊpaːnt,validate
+hin,273,कोर,koːr,validate
+hin,273,किनारा,kɪnaːraː,validate
+hin,274,कोना,koːnaː,review
+hin,274,नुक्कड़,nʊkːəɽ,review
+hin,275,नोक,noːk,validate
+hin,276,छोर,t͡ʃʰoːr,validate
+hin,276,सिरा,sɪraː,validate
+hin,277,छेद,t͡ʃʰeːd,validate
+hin,277,सूराख़,suːraːx,validate
+hin,278,कोण,koːɳ,review
+hin,278,कोना,koːnaː,review
+hin,279,नमूना,nəmuːnaː,validate
+hin,279,डिज़ाइन,ɖɪzaːɪn,validate
+hin,280,परिमाण,pərɪmaːɳ,validate
+hin,280,विस्तार,vɪstaːr,validate
+hin,281,लंबाई,ləmbaːiː,validate
+hin,282,ऊँचाई,ʊ̄̃ t͡ʃaːiː,validate
+hin,282,उच्चता,ʊtt͡ʃətaː,validate
+hin,283,भार,bʰaːr,validate
+hin,283,वज़न,vəzən,validate
+hin,284,मात्रा,maːtraː,validate
+hin,285,ढेर,ɖʰeːr,validate
+hin,285,अंबार,əmbaːr,validate
+hin,286,क़तार,qətaːr,validate
+hin,286,पंक्ति,pəŋktɪ,validate
+hin,287,नाव,naːw,validate
+hin,287,नौका,nɔːkaː,validate
+hin,288,चप्पू,t͡ʃəpːuː,validate
+hin,289,बर्फ़-गाड़ी,bərfɡaːɽiː,validate
+hin,290,स्की,skiː,validate
+hin,291,अलाव,əlaːv,validate
+hin,291,कैंप-फ़ायर,kɛːmpfaːjər,validate
+hin,292,भार,bʰaːr,validate
+hin,293,चाल,t͡ʃaːl,validate
+hin,294,डग,ɖəɡ,validate
+hin,294,क़दम,qədəm,validate
+hin,295,उत्तर,ʊtːər,validate
+hin,296,दक्खिन,dəkʰːɪn,validate
+hin,297,पश्चिम,pəɕt͡ʃɪm,validate
+hin,298,पूरब,puːrəb,validate
+hin,299,काठ,kaːʈʰ,validate
+hin,299,काष्ठ,kaːʂʈʰ,validate
+hin,300,पटरा,pəʈraː,validate
+hin,300,तख़्ता,təxtaː,validate
+hin,301,फलक,pʰələk,validate
+hin,301,तख़्ता,təxtaː,validate
+hin,302,टेक,ʈeːk,review
+hin,302,थूनी,tʰuːniː,review
+hin,303,छड़,t͡ʃʰəɽ,review
+hin,303,बाँस,bãːs,review
+hin,304,लाठी,laːʈʰiː,validate
+hin,305,लग्गा,ləɡːaː,validate
+hin,306,नल,nəl,validate
+hin,307,घर,ɡʰər,validate
+hin,307,मकान,məkaːn,validate
+hin,308,घर,ɡʰər,validate
+hin,308,गृह,ɡɽʰ,validate
+hin,309,चूल्हा,t͡ʃuːlhaː,validate
+hin,310,फ़र्श,fərɕ,validate
+hin,311,मेज़,meːz,validate
+hin,312,कुरसी,kʊrsiː,validate
+hin,313,पालना,paːlnaː,validate
+hin,313,हिंडोला,hɪɳɖoːlaː,validate
+hin,314,खाट,kʰaːʈ,validate
+hin,314,पलंग,pələnɡ,validate
+hin,315,शेल्फ़,sélf,validate
+hin,316,पेटी,peːʈiː,review
+hin,316,डिब्बा,ɖɪbːaː,review
+hin,317,खिड़की,kʰɪɽkiː,validate
+hin,318,द्वार,dwaːr,validate
+hin,318,दरवाज़ा,dərvaːzaː,validate
+hin,319,फाटक,pʰaːʈək,validate
+hin,320,बाड़ा,baːɽaː,validate
+hin,321,छत,t͡ʃʰət,validate
+hin,321,छप्पर,t͡ʃʰəpːər,validate
+hin,322,सीढ़ी,siːɽʰiː,validate
+hin,323,झाड़ू,d͡ʒʰaːɽuː,validate
+hin,323,बुहारी,bʊhaːriː,validate
+hin,324,कुदाल,kʊdaːl,validate
+hin,325,बेलचा,beːlət͡ʃaː,validate
+hin,325,फावड़ा,faːwəɽaː,validate
+hin,326,काँटा,kãːʈaː,validate
+hin,327,चम्मच,t͡ʃəmːət͡ʃ,validate
+hin,328,छुरा,t͡ʃʰʊraː,validate
+hin,328,चाक़ू,t͡ʃaːquː,validate
+hin,329,कील,kiːl,validate
+hin,329,मेख़,meːx,validate
+hin,330,जाल,d͡ʒaːl,validate
+hin,331,अंकुश,əŋkʊɕ,validate
+hin,332,मूठ,muːʈʰ,validate
+hin,332,हत्था,hətʰːaː,validate
+hin,333,ताला,taːlaː,validate
+hin,334,चित्र,t͡ʃɪtr,validate
+hin,335,मूर्ति,muːrtɪ,validate
+hin,336,पुतली,pʊtliː,validate
+hin,336,गुड़िया,ɡʊɽɪjaː,validate
+hin,337,झोला,d͡ʒʰoːlaː,validate
+hin,338,पुलिंदा,pʊlɪndaː,validate
+hin,339,बेग,beːɡ,validate
+hin,339,बस्ता,bəstaː,validate
+hin,340,बाल्टी,baːlʈiː,validate
+hin,341,ढक्कन,ɖʰəkːən,validate
+hin,342,बरतन-भाँड़े,bərtənbʰãːɽeː,validate
+hin,343,बोरा,boːraː,validate
+hin,344,प्याला,pjaːlaː,validate
+hin,345,देग़चा,deːɣt͡ʃaː,validate
+hin,346,देग़,deːɣ,validate
+hin,346,बटलोई,bəʈloːiː,validate
+hin,347,खाना,kʰaːnaː,validate
+hin,348,भोजन,bʰoːd͡ʒən,validate
+hin,349,खाना,kʰaːnaː,validate
+hin,349,व्यंजन,vjəɲd͡ʒən,validate
+hin,350,मांस,maːns,validate
+hin,350,गोश्त,ɡoːɕt,validate
+hin,351,अनाज,ənaːd͡ʒ,validate
+hin,352,भरता,bʰərtaː,validate
+hin,352,दलिया,dəlɪjaː,validate
+hin,353,रोटी,roːʈiː,validate
+hin,354,कतला,kətəlaː,validate
+hin,355,वसा,vəsaː,validate
+hin,355,चरबी,t͡ʃərbiː,validate
+hin,356,मक्खन,məkʰːən,validate
+hin,357,तेल,teːl,validate
+hin,358,नमक,nəmək,validate
+hin,359,सूप,suːp,validate
+hin,359,शोरबा,ɕoːrəbaː,validate
+hin,360,शहद,ɕəhəd,validate
+hin,361,दूध,duːdʰ,validate
+hin,362,चाय,t͡ʃaːj,validate
+hin,363,चमड़ा,t͡ʃəməɽaː,validate
+hin,364,ऊन,uːn,validate
+hin,365,कपड़ा,kəpɽaː,validate
+hin,366,सूई,suːiː,validate
+hin,367,डोरा,ɖoːraː,validate
+hin,368,बटन,bəʈən,validate
+hin,368,घुंडी,ɡʰũɖiː,validate
+hin,369,गाँठ,ɡãːʈʰ,validate
+hin,369,गुत्थी,ɡʊtʰːiː,validate
+hin,370,रंग,rənɡ,validate
+hin,370,वर्ण,wərɳ,validate
+hin,371,पहनावा,pəhnaːvaː,validate
+hin,372,कुरता,kʊrtaː,validate
+hin,372,क़मीज़,qəmiːz,validate
+hin,373,गरदनी,ɡərdəniː,validate
+hin,373,गरेबान,ɡəreːbaːn,validate
+hin,374,आस्तीन,aːstiːn,validate
+hin,375,पैंट,pɛːɳʈ,validate
+hin,375,पतलून,pətəluːn,validate
+hin,376,पेटी,peːʈiː,validate
+hin,376,मेखला,meːkʰlaː,validate
+hin,377,टोपी,ʈoːpiː,validate
+hin,378,जूता,d͡ʒuːtaː,validate
+hin,379,बूट,buːʈ,validate
+hin,380,अँगूठी,ãːɡuːʈʰiː,validate
+hin,381,पट्टी,pəʈːiː,validate
+hin,382,कंघी,kəŋɡʰiː,validate
+hin,383,आईना,aːiːnaː,validate
+hin,383,दर्पण,dərpəɳ,validate
+hin,384,तसमा,təsmaː,review
+hin,384,पट्टा,pəʈːaː,review
+hin,385,डोरी,ɖoːriː,validate
+hin,385,सुतली,sʊtliː,validate
+hin,386,रस्सी,rəsːiː,review
+hin,387,रज़ाई,rəzaːiː,validate
+hin,388,तकिया,təkɪjaː,validate
+hin,388,गाद्दा,ɡədːaː,validate
+hin,389,रूमाल,ruːmaːl,validate
+hin,389,वस्त्र,wəstr,validate
+hin,390,अँगोछा,ãɡoːt͡ʃʰaː,validate
+hin,391,ज़ोर,zoːr,review
+hin,391,शक्ति,ɕəktɪ,review
+hin,392,बल,bəl,review
+hin,392,ताक़त,taːqət,review
+hin,393,स्वास्थ्य,svaːstʰj,validate
+hin,393,तंदुरुस्ती,təndʊrʊstiː,validate
+hin,394,रोग,roːɡ,validate
+hin,394,बीमारी,biːmaːriː,validate
+hin,395,दर्द,dərd,validate
+hin,395,पीड़ा,piːɽaː,validate
+hin,396,घाव,ɡʰaːw,validate
+hin,396,ज़ख़्म,zəxm,validate
+hin,397,ज्वर,d͡ʒvər,validate
+hin,397,बुख़ार,bʊxaːr,validate
+hin,398,दवा,dəvaː,validate
+hin,398,औषाधि,ɔːʂaːdʰɪ,validate
+hin,399,पुल,pʊl,validate
+hin,399,सेतु,seːtʊ,validate
+hin,400,कुआँ,kʊãː,validate
+hin,401,चरागाह,t͡ʃəraːɡaːh,validate
+hin,402,पथ,pətʰ,validate
+hin,402,पगडंडी,pəɡəɖəɳɖiː,validate
+hin,403,मार्ग,maːrɡ,validate
+hin,404,राह,raːh,validate
+hin,404,रास्ता,raːstaː,validate
+hin,405,गाँव,ɡãːv,validate
+hin,405,ग्राम,ɡraːm,validate
+hin,406,शहर,ɕəhər,validate
+hin,407,ख़त,xət,validate
+hin,407,पत्र,pətr,validate
+hin,407,चिट्ठी,t͡ʃɪʈʰːiː,validate
+hin,408,किताब,kɪtaːb,validate
+hin,408,पुस्तक,pʊstək,validate
+hin,409,अक्षर,əkʂər,validate
+hin,410,अख़बार,əxbaːr,validate
+hin,410,समाचार-पत्र,səmaːt͡ʃaːrpətr,validate
+hin,411,जीवन,d͡ʒiːvən,validate
+hin,411,ज़िंदगी,zɪndəɡiː,validate
+hin,412,मौत,mɔːt,validate
+hin,412,मृत्यु,mr̥tjʊ,validate
+hin,413,क़ब्र,qəbr,validate
+hin,414,चर्च,t͡ʃərt͡ʃ,validate
+hin,414,गिरजा,ɡɪrəd͡ʒaː,validate
+hin,415,पाप,paːp,validate
+hin,415,गुनाह,ɡʊnaːh,validate
+hin,416,देव,deːv,validate
+hin,416,ईश्वर,iːɕwər,validate
+hin,417,मज़दूर,məzduːr,validate
+hin,418,अध्यक्ष,ədʰjəkʂ,validate
+hin,419,शिल्पज्ञ,ɕɪlpəɡj,validate
+hin,420,वैद्य,vɛːdj,validate
+hin,420,डॉक्टर,ɖəkʈər,validate
+hin,420,चिकित्सक,t͡ʃɪkɪtsək,validate
+hin,421,शिक्षक,ɕɪkʂək,validate
+hin,421,अध्यापक,ədʰjaːpək,validate
+hin,422,धन,dʰən,validate
+hin,422,पैसा,pɛːsaː,validate
+hin,423,सौदा,sɔːdaː,validate
+hin,423,व्यापार,wjaːpaːr,validate
+hin,424,दुकान,dʊkaːn,validate
+hin,425,दाम,daːm,validate
+hin,425,मूल्य,muːlj,validate
+hin,426,माल,maːl,validate
+hin,426,पण्य,pəɳj,validate
+hin,427,लाभ,laːbʰ,validate
+hin,427,फ़ायदा,faːjdaː,validate
+hin,428,धन,dʰən,validate
+hin,428,दौलत,dɔːlət,validate
+hin,429,विश्व,wɪɕw,validate
+hin,429,दुनिया,dʊnɪjaː,validate
+hin,430,देश,deːɕ,validate
+hin,430,मुल्क,mʊlk,validate
+hin,431,राज्य,raːd͡ʒj,validate
+hin,431,राष्ट्र,raːʂʈr,validate
+hin,432,राजा,raːd͡ʒaː,validate
+hin,432,बादशाह,baːdɕaːh,validate
+hin,433,शासन,ɕaːsən,review
+hin,433,सत्ता,sətːaː,review
+hin,434,सरहद,sərhəd,validate
+hin,435,जंग,d͡ʒəŋɡ,validate
+hin,435,युद्ध,jʊdʰː,validate
+hin,436,शत्रु,ɕətrʊ,validate
+hin,436,दुश्मन,dʊɕmən,validate
+hin,437,हिंसा,hɪɲsaː,validate
+hin,438,लड़ाई,ləɽaːiː,validate
+hin,438,संघर्ष,səŋɡʰərʂ,validate
+hin,439,कमान,kəmaːn,validate
+hin,440,बान,baːn,validate
+hin,441,बंदूक़,bənduːq,validate
+hin,442,भूल,bʰuːl,validate
+hin,442,ग़लती,ɣəltiː,validate
+hin,443,झूठ,d͡ʒʰuːʈʰ,validate
+hin,443,असत्य,əsətj,validate
+hin,444,हानि,haːnɪ,validate
+hin,444,नुक़सान,nʊqsaːn,validate
+hin,445,मुसीबत,mʊsiːbət,validate
+hin,445,विपात्ति,wɪpaːtːɪ,validate
+hin,446,दोष,doːʂ,validate
+hin,446,क़सूर,qəsuːr,validate
+hin,447,आयु,aːjʊ,validate
+hin,447,उम्र,ʊmr,validate
+hin,448,अंत,ənt,validate
+hin,448,समाप्ति,səmaːptɪ,validate
+hin,449,काल,kaːl,validate
+hin,449,वक़्त,vəqt,validate
+hin,450,दिन,dɪn,validate
+hin,450,रोज़,roːz,validate
+hin,451,सुबह,sʊbəh,validate
+hin,452,दोपहर,doːpəhər,validate
+hin,452,मध्याह्न,mədʰjaːhn,validate
+hin,453,शाम,ɕaːm,validate
+hin,453,संध्या,səndʰjaː,validate
+hin,454,रात,raːt,validate
+hin,454,रात्रि,raːtrɪ,validate
+hin,455,हफ़्ता,həftaː,validate
+hin,456,मास,maːs,validate
+hin,456,महीना,məhiːnaː,validate
+hin,457,बरस,bərəs,validate
+hin,457,वर्ष,vərʂ,validate
+hin,458,वसंत,wəsənt,validate
+hin,459,गरमी,ɡərmiː,validate
+hin,459,ग्रीष्म,ɡriːʂm,validate
+hin,460,शरत्,ɕərət,validate
+hin,460,पतझड़,pətəd͡ʒʰəɽ,validate
+hin,461,जाड़ा,d͡ʒaːɽaː,validate
+hin,461,सर्दियाँ,sərdɪjãː,validate
+hin,462,जनवरी,d͡ʒənvəriː,validate
+hin,463,फ़रवरी,fərvəriː,validate
+hin,464,मार्च,maːrt͡ʃ,validate
+hin,465,अप्रैल,əprɛːl,validate
+hin,466,मई,məiː,validate
+hin,467,जून,d͡ʒuːn,validate
+hin,468,जुलाई,d͡ʒʊlaːiː,validate
+hin,469,अगस्त,əɡəst,validate
+hin,470,सितंबर,sɪtəmbər,validate
+hin,471,अक्तूबर,əktuːbər,validate
+hin,472,नवंबर,nəvəmbər,validate
+hin,473,दिसंबर,dɪsəmbər,validate
+hin,474,पीर,piːr,validate
+hin,474,सोमवार,soːmvaːr,validate
+hin,475,मंगलवार,mənɡəlvaːr,validate
+hin,476,बुधवार,bʊdʰvaːr,validate
+hin,477,गुरुवार,ɡʊrʊvaːr,validate
+hin,477,बृहस्पतिवार,bɽʰəspətɪvaːr,validate
+hin,478,शुक्रवार,ɕʊkrəwaːr,validate
+hin,479,सनीचर,səniːt͡ʃər,validate
+hin,479,शनिवार,ɕənɪwaːr,validate
+hin,480,इतवार,ɪtəwaːr,validate
+hin,480,रविवार,rəvɪvaːr,validate
+hin,481,बड़ा,bəɽaː,validate
+hin,482,कम,kəm,validate
+hin,482,छोटा,t͡ʃʰoːʈaː,validate
+hin,483,लंबा,ləmbaː,validate
+hin,483,दीर्घ,diːrɡʰ,validate
+hin,484,लधु,lədʰʊ,validate
+hin,484,छोटा,t͡ʃʰoːʈaː,validate
+hin,485,चौड़ा,t͡ʃɔːɽaː,validate
+hin,486,तंग,tənɡ,validate
+hin,486,सँकरा,sãkraː,validate
+hin,487,सघन,səɡʰən,validate
+hin,488,मोटा,moːʈaː,validate
+hin,489,महीन,məhiːn,validate
+hin,489,बारीक,baːriːk,validate
+hin,490,कोमल,koːməl,validate
+hin,490,सूक्ष्म,suːkʂm,validate
+hin,491,दृढ़,dr̥ɽʰ,validate
+hin,491,मज़बूत,məzəbuːt,validate
+hin,492,चपटा,t͡ʃəpʈaː,validate
+hin,493,चौरस,t͡ʃɔːrəs,validate
+hin,493,चिकना,t͡ʃɪknaː,validate
+hin,494,कठोर,kəʈʰoːr,validate
+hin,494,सख़्त,səxt,validate
+hin,495,नरम,nərm,validate
+hin,495,मुलायम,mʊlaːjəm,validate
+hin,496,गोल,ɡoːl,validate
+hin,496,वर्तुल,wərtʊl,validate
+hin,497,नुकीला,nʊkiːlaː,validate
+hin,498,पैना,pɛːnaː,validate
+hin,499,भोथरा,bʰoːtʰraː,validate
+hin,500,भारी,bʰaːriː,validate
+hin,500,वज़नी,wəzəniː,validate
+hin,501,सुंदर,sʊndər,validate
+hin,502,उष्ण,ʊʂɳ,validate
+hin,503,गरम,ɡərəm,validate
+hin,504,सर्द,sərd,validate
+hin,505,ठंडा,ʈʰəɳɖaː,validate
+hin,506,तर,tər,review
+hin,506,ताज़ा,taːzaː,review
+hin,507,नम,nəm,validate
+hin,507,भीगा,bʰiːɡaː,validate
+hin,508,गीला,ɡiːlaː,validate
+hin,509,सूखा,suːkʰaː,validate
+hin,509,ख़ुश्क,xʊɕk,validate
+hin,510,भरा,bʰəraː,validate
+hin,510,पूरा,puːraː,validate
+hin,511,ख़ाली,xaːliː,validate
+hin,512,खुला,kʰʊlaː,validate
+hin,513,बंद,bənd,validate
+hin,514,साफ़,saːf,validate
+hin,514,सुथरा,sʊtʰraː,validate
+hin,515,गंदा,ɡəndaː,validate
+hin,516,कच्चा,kətt͡ʃaː,validate
+hin,517,पक्व,pəkw,validate
+hin,517,पक्का,pəkːaː,validate
+hin,518,मज़ेदार,məzeːdaːr,validate
+hin,518,स्वादिष्ट,swaːdɪʂʈ,validate
+hin,519,मीठा,miːʈʰaː,validate
+hin,520,कटु,kəʈʊ,validate
+hin,520,कड़वा,kəɽəwaː,validate
+hin,521,खट्टा,kʰəʈːaː,validate
+hin,522,रोशन,roːɕən,validate
+hin,523,अँधेरा,ãːdʰeːraː,validate
+hin,524,काला,kaːlaː,validate
+hin,524,स्याह,sjaːh,validate
+hin,525,सफ़ेद,səfeːd,validate
+hin,526,लाल,laːl,validate
+hin,526,सुर्ख़,sʊrx,validate
+hin,527,पीला,piːlaː,validate
+hin,527,ज़र्द,zərd,validate
+hin,528,नीला,niːlaː,validate
+hin,528,आसमानी,aːsmaːnɪ,validate
+hin,529,हरा,həraː,validate
+hin,530,धूसर,dʰuːsər,validate
+hin,531,रंगीन,rəŋɡiːn,validate
+hin,531,बहुरंगा,bəhʊrəŋɡaː,validate
+hin,532,सस्ता,səstaː,validate
+hin,533,महँगा,məhãːɡaː,validate
+hin,534,क़ीमती,qiːmətiː,validate
+hin,534,मूल्यवान्,muːljvaːn,validate
+hin,535,अंधा,əndʰaː,validate
+hin,536,बहरा,bəhraː,validate
+hin,537,ताक़तवर,taːqətvər,review
+hin,537,शक्तिशाली,ɕəktɪɕaːliː,review
+hin,538,प्रबल,prəbəl,validate
+hin,538,बलवान्,bələwaːn,validate
+hin,539,कमज़ोर,kəməzoːr,validate
+hin,540,मोटा,moːʈaː,validate
+hin,540,मांसल,maːnsəl,validate
+hin,541,पतला,pətlaː,validate
+hin,541,छरहरा,t͡ʃʰərəhəraː,validate
+hin,542,सुंदर,sʊndər,validate
+hin,542,ख़ूबसूरत,xuːbəsuːrət,validate
+hin,543,पापी,paːpiː,validate
+hin,543,दुष्ट,dʊʂʈ,validate
+hin,544,मूर्ख,muːrkʰ,validate
+hin,544,बुद्धू,bʊdʰːuː,validate
+hin,545,आलसी,aːlsiː,validate
+hin,545,सुस्त,sʊst,validate
+hin,546,मेहनती,meːhnətiː,validate
+hin,546,परिश्रमी,pərɪɕrəmiː,validate
+hin,547,कृपण,kɽpəɳ,validate
+hin,547,कंजूस,kə̃d͡ʒuːs,validate
+hin,548,समझदार,səməd͡ʒʰədaːr,validate
+hin,548,होशियार,hoːɕɪjaːr,validate
+hin,548,अक़्लमंद,əqləmənd,validate
+hin,549,किशल,kɪɕəl,validate
+hin,550,प्रिय,prɪj,review
+hin,550,प्यारा,pjaːraː,review
+hin,551,हँसमुख,hãsmʊkʰ,validate
+hin,551,ख़ुशदिल,xʊɕdɪl,validate
+hin,552,नम्र,nəmr,validate
+hin,553,भूखा,bʰuːkʰaː,validate
+hin,554,बीमार,biːmaːr,validate
+hin,554,अस्वस्थ,əswəstʰ,validate
+hin,555,नग्न,nəɡn,validate
+hin,556,उदास,ʊdaːs,validate
+hin,556,रंजीदा,rə̃d͡ʒiːdaː,validate
+hin,557,जीता,d͡ʒiːtaː,validate
+hin,557,ज़िंदा,zɪndaː,validate
+hin,558,अच्छा,ətt͡ʃʰaː,validate
+hin,559,बुरा,bʊraː,validate
+hin,559,ख़राब,xəraːb,validate
+hin,560,ठीक,ʈʰiːk,validate
+hin,561,बुरा,bʊraː,validate
+hin,561,अप्रिय,əprɪj,validate
+hin,562,सच,sət͡ʃ,validate
+hin,563,पुराना,pʊraːnaː,validate
+hin,564,नया,nəjaː,validate
+hin,565,भूतपूर्व,bʰuːtpuːrv,validate
+hin,566,बूढ़ा,buːɽʰaː,validate
+hin,566,वृद्ध,wr̥dʰː,validate
+hin,567,जवान,d͡ʒəvaːn,validate
+hin,568,ग़रीब,ɣəriːb,validate
+hin,569,धनी,dʰəniː,validate
+hin,569,अमीर,əmiːr,validate
+hin,570,मालूम,maːluːm,validate
+hin,571,मशहूर,məɕhuːr,validate
+hin,571,प्रसिद्ध,prəsɪdʰː,validate
+hin,572,विदेशी,wɪdeːɕiː,review
+hin,572,अपरिचित,əpərɪt͡ʃɪt,review
+hin,573,अलग,ələɡ,validate
+hin,573,भिन्न,bʰɪnː,validate
+hin,574,नज़दीकी,nəzdiːkiː,validate
+hin,575,दूर,duːr,validate
+hin,575,दूरस्थ,duːrəstʰ,validate
+hin,576,बायाँ,baːjãː,validate
+hin,577,दायाँ,daːjãː,validate
+hin,577,दाहिना,daːhɪnaː,validate
+hin,578,अन्य,ənj,validate
+hin,578,दूसरा,duːsraː,validate
+hin,579,पहला,pəhlaː,validate
+hin,579,प्रथम,prətʰəm,validate
+hin,580,दूसरा,duːsəraː,validate
+hin,580,द्वितीय,dvɪtiːj,validate
+hin,581,तीसरा,tiːsraː,validate
+hin,582,अंतिम,əntɪm,validate
+hin,582,आख़िरी,aːxɪriː,validate
+hin,583,तनहा,tənhaː,validate
+hin,583,अकेले,əkeːleː,validate
+hin,584,वक़्त में,vəqt mẽː,validate
+hin,585,एक साथ,eːk saːtʰ,validate
+hin,585,साथ साथ,saːtʰ saːtʰ,validate
+hin,586,देर तक,deːr tək,validate
+hin,587,सहसा,səhsaː,validate
+hin,587,अचानक,ət͡ʃaːnək,validate
+hin,588,तुरंत,tʊrənt,validate
+hin,589,बाद को,baːd koː,validate
+hin,589,बाद में,baːd mẽː,validate
+hin,590,अब,əb,validate
+hin,590,अभी,əbʰiː,validate
+hin,591,आज,aːd͡ʒ,validate
+hin,592,कल,kəl,validate
+hin,593,जल्दी,d͡ʒəldiː,validate
+hin,594,तब,təb,validate
+hin,595,कल,kəl,validate
+hin,596,एक दिन,eːk dɪn,validate
+hin,596,पहले कभी,pəhleː kəbʰiː,validate
+hin,597,उस समय,ʊs səməj,validate
+hin,597,उन दिनों,ʊn dɪnõː,validate
+hin,598,इसके बाद,ɪskeː baːd,validate
+hin,598,इसके पश्चात्,ɪskeː pəɕt͡ʃaːt,validate
+hin,599,पहले,pəhleː,validate
+hin,599,पेशतर,peːɕtər,validate
+hin,600,पहले,pəhleː,validate
+hin,601,एक बार,eːk baːr,validate
+hin,601,एक दफ़ा,eːk dəfaː,validate
+hin,602,कभी कभी,kəbʰiː kəbʰiː,validate
+hin,603,अक्सर,əksər,validate
+hin,604,सदा,sədaː,validate
+hin,604,हमेशा,həmeːɕaː,validate
+hin,605,कभी नहीं,kəbʰiː nəhĩː,validate
+hin,605,कदापि नहीं,kədaːpɪ nəhĩː,validate
+hin,606,इधर,ɪdʰər,validate
+hin,606,यहाँ,jəhãː,validate
+hin,607,इधर को,ɪdʰərə koː,validate
+hin,607,यहाँ को,jəhãː koː,validate
+hin,608,यहाँ से,jəhãː seː,validate
+hin,609,उधर,ʊdʰər,validate
+hin,609,वहाँ,vəhãː,validate
+hin,610,उधर को,ʊdʰər koː,validate
+hin,610,वहाँ को,vəhãː koː,validate
+hin,611,सीधे,siːdʰeː,validate
+hin,612,आगे,aːɡeː,validate
+hin,612,आगे को,aːɡeː koː,validate
+hin,613,पीछे को,piːt͡ʃʰeː koː,validate
+hin,614,वापस,vaːpəs,validate
+hin,615,नीचे,niːt͡ʃeː,validate
+hin,616,नीचे को,niːt͡ʃeː koː,validate
+hin,617,ऊपर,uːpər,validate
+hin,618,ऊपर को,uːpər koː,validate
+hin,619,हर जगह,hər d͡ʒəɡəh,validate
+hin,619,हर स्थान,hər stʰaːn,validate
+hin,620,न,nə,validate
+hin,620,नहीं,nəhɪ̄̃,validate
+hin,621,कुछ,kʊt͡ʃʰ,validate
+hin,621,ज़रा,zəraː,validate
+hin,621,थोड़ा,tʰoːɽaː,validate
+hin,622,लगभग नहीं,ləɡbʰəɡ nəhĩː,review
+hin,622,बराबर नहीं,bəraːbər nəhɪ̃,review
+hin,623,बहुत,bəhʊt,validate
+hin,624,ऐसा,ɛːsaː,validate
+hin,625,अभी तक,əbʰiː tək,validate
+hin,626,केवल,keːvəl,validate
+hin,626,सिर्फ़,sɪrf,validate
+hin,627,चुकना,t͡ʃʊknaː,validate
+hin,628,फिर,pʰɪr,validate
+hin,628,दुबारा,dʊbaːraː,validate
+hin,629,व्यर्थ,wjərtʰ,validate
+hin,630,के आगे,keː aːɡeː,validate
+hin,630,के सामने,keː saːməneː,validate
+hin,631,के पीछे,keː piːt͡ʃʰeː,validate
+hin,632,के तले,keː təleː,validate
+hin,632,के नीचे,keː niːt͡ʃeː,validate
+hin,633,के पार,keː paːr,review
+hin,634,के पास,keː paːs,validate
+hin,634,की बग़ल में,kiː bəɣəl mẽː,validate
+hin,635,के बीच,keː biːt͡ʃ,validate
+hin,636,के कारण,keː kaːrəɳ,validate
+hin,636,की वजह से,kiː wəd͡ʒəhə seː,validate
+hin,637,यह,jəh,validate
+hin,638,वह,vəh,validate
+hin,639,सब,səb,validate
+hin,639,सब कुछ,səb kʊt͡ʃʰ,validate
+hin,640,मैं,mɛ̃ː,validate
+hin,641,तू,tuː,validate
+hin,642,यह,jəh,validate
+hin,643,हम,həm,validate
+hin,644,तुम,tʊm,validate
+hin,645,ये,jeː,validate
+hin,646,क्या,kjaː,validate
+hin,647,कौन,kɔːn,validate
+hin,648,किधर,kɪdʰər,validate
+hin,649,किधर,kɪdʰər,validate
+hin,650,कैसे,kɛːseː,validate
+hin,651,क्यों,kjõː,validate
+hin,652,कितना,kɪtnaː,validate
+hin,653,एक,eːk,validate
+hin,654,दो,doː,validate
+hin,655,तीन,tiːn,validate
+hin,656,चार,t͡ʃaːr,validate
+hin,657,पाँच,pãːt͡ʃ,validate
+hin,658,छह,t͡ʃʰəh,validate
+hin,659,सात,saːt,validate
+hin,660,आठ,aːʈʰ,validate
+hin,661,नौ,nɔː,validate
+hin,662,दस,dəs,validate
+hin,663,ग्यारह,ɡjaːrəh,validate
+hin,664,बारह,baːrəh,validate
+hin,665,बीस,biːs,validate
+hin,666,तीस,tiːs,validate
+hin,667,चालीस,t͡ʃaːliːs,validate
+hin,668,पचास,pət͡ʃaːs,validate
+hin,669,साठ,saːʈʰ,validate
+hin,670,सत्तर,sətːər,validate
+hin,671,अस्सी,əsːiː,validate
+hin,672,नव्वे,nəwweː,validate
+hin,673,सौ,sɔː,validate
+hin,674,हज़ार,həzaːr,validate
+hin,675,और,ɔːr,validate
+hin,676,या,jaː,validate
+hin,677,खड़ा होना,kʰəɽaː hoːnə,validate
+hin,678,बैठना,bɛːʈʰnaː,validate
+hin,679,लेटना,leːʈnaː,validate
+hin,680,लटकना,ləʈəknaː,validate
+hin,681,बनना,bənːaː,validate
+hin,682,होना,hoːnaː,validate
+hin,683,आरंभ होना,aːrəmbʰə hoːnaː,validate
+hin,683,प्रारंभ होना,praːrəmbʰə hoːnaː,validate
+hin,684,अंत होना,ənt hoːnaː,validate
+hin,684,ख़तम होना,xətm hoːnaː,validate
+hin,685,बदलना,bədəlnaː,validate
+hin,686,चढ़ना,t͡ʃəɽʰnaː,validate
+hin,686,उदित होना,ʊdɪt hoːnaː,validate
+hin,687,अस्त हो जाना,əst hoː d͡ʒaːnaː,validate
+hin,688,रोशनी देना,roːɕniː deːnaː,validate
+hin,689,गरजना,ɡərəd͡ʒnaː,validate
+hin,690,चलना,t͡ʃələnaː,validate
+hin,691,बहना,bəhnaː,validate
+hin,691,प्रवाहित होना,prəvaːhɪt hoːnaː,validate
+hin,692,बहना,bəhənaː,validate
+hin,692,प्रवाहित होना,prəwaːhɪtə hoːnaː,validate
+hin,693,घूमना,ɡʰuːmnə,validate
+hin,694,हिलना,hɪlnaː,validate
+hin,695,हिलना,hɪlnaː,validate
+hin,696,गिरना,ɡɪrnaː,validate
+hin,697,जलना,d͡ʒəlnaː,validate
+hin,698,धुआँ उड़ाना,dʰʊãː ʊɽaːnaː,validate
+hin,699,बरसना,bərəsnaː,validate
+hin,700,जमना,d͡ʒəmnaː,validate
+hin,701,गलना,ɡələnaː,validate
+hin,701,पिघलना,pɪɡʰələnaː,validate
+hin,702,गलना,ɡələnaː,validate
+hin,702,पिघलना,pɪɡʰələnaː,validate
+hin,703,सूखना,suːkʰənaː,validate
+hin,704,उबलना,ʊbəlnaː,validate
+hin,705,गलना,ɡələnaː,validate
+hin,705,सड़ना,səɽənaː,validate
+hin,706,गलना,ɡəlnaː,validate
+hin,706,सड़ना,səɽnaː,validate
+hin,707,फटना,pʰəʈnaː,validate
+hin,708,डूबना,ɖuːbənaː,validate
+hin,709,बीतना,biːtnaː,validate
+hin,709,गुज़रना,ɡʊzərənaː,validate
+hin,710,दिखाई देना,dɪkʰaːiː deːnaː,validate
+hin,711,ग़ायब होना,ɣaːjəb hoːnaː,validate
+hin,712,घटना,ɡʰəʈnaː,validate
+hin,712,उतरना,ʊtərənaː,validate
+hin,713,घटना,ɡʰəʈnaː,validate
+hin,714,बढ़ना,bəɽʰənaː,validate
+hin,715,बढ़ना,bəɽʰənaː,validate
+hin,716,उगना,ʊɡənaː,validate
+hin,717,चमकना,t͡ʃəməknaː,validate
+hin,718,जगमगाना,d͡ʒəɡməɡaːnaː,validate
+hin,718,टिमटिमाना,ʈɪmʈɪmaːnaː,validate
+hin,719,शोर मचाना,ɕoːrə mət͡ʃaːnaː,validate
+hin,720,बजना,bəd͡ʒnaː,validate
+hin,721,बजना,bəd͡ʒnaː,validate
+hin,722,झनझनाना,d͡ʒʰənəd͡ʒʰənaːnaː,review
+hin,723,साँय-साँय करना,sãːjsãːj kərnaː,review
+hin,724,सरसराना,sərəsəraːnaː,validate
+hin,725,बजना,bəd͡ʒnaː,validate
+hin,726,भौंकना,bʰəũknaː,validate
+hin,727,गुर्राना,ɡʊrraːnaː,review
+hin,728,फूँकना,pʰũːknaː,validate
+hin,729,सीटी देना,siːʈiː deːnaː,validate
+hin,730,चिल्लाना,t͡ʃɪlːaːnaː,validate
+hin,731,कराहना,kəraːhnaː,validate
+hin,731,आहें भरना,aːheː̃ bʰərənaː,validate
+hin,732,काँपना,kãːpnaː,validate
+hin,733,जीना,d͡ʒiːnaː,validate
+hin,734,पैदा होना,pɛːdaː hoːnaː,validate
+hin,735,साँस लेना,sãːs leːnaː,validate
+hin,736,पीना,piːnaː,validate
+hin,737,खाना,kʰaːnaː,validate
+hin,738,निगलना,nɪɡələnaː,validate
+hin,739,थकना,tʰəknaː,validate
+hin,739,उकताना,ʊktaːnaː,validate
+hin,740,सो जाना,soː d͡ʒaːnaː,validate
+hin,741,सोना,soːnaː,validate
+hin,742,जागना,d͡ʒaːɡnaː,validate
+hin,743,उठना,ʊʈʰnaː,validate
+hin,744,सुस्ताना,sʊstaːnaː,validate
+hin,744,आराम करना,aːraːm kərnaː,validate
+hin,745,बीमार पड़ना,biːmaːr pəɽnaː,validate
+hin,746,बीमार होना,biːmaːr hoːnaː,validate
+hin,747,दुखना,dʊkʰənaː,validate
+hin,747,दर्द करना,dərd kərnaː,validate
+hin,748,खाँसना,kʰãːsənaː,validate
+hin,749,ठीक हो जाना,ʈʰiːk hoː d͡ʒaːnaː,validate
+hin,749,स्वस्थ हो जाना,svəstʰ hoː d͡ʒaːnaː,validate
+hin,750,मरना,mərənaː,validate
+hin,751,मरना,mərənaː,validate
+hin,752,चलना,t͡ʃəlnaː,validate
+hin,752,हिलना,hɪlnaː,validate
+hin,753,हिलना,hɪlnaː,validate
+hin,754,उठना,ʊʈʰnaː,validate
+hin,755,बैठना,bɛːʈʰnaː,validate
+hin,756,गिरना,ɡɪrnaː,validate
+hin,757,चलना,t͡ʃəlnaː,validate
+hin,758,क़दम जाना,qədəm d͡ʒaːnaː,validate
+hin,759,सैर करना,sɛːrə kərənaː,validate
+hin,760,तेज़ी से जाना,teːziː seː d͡ʒaːnaː,validate
+hin,760,शीघ्रता से चलना,ɕiːɡʰrətaː seː t͡ʃələnaː,validate
+hin,761,जल्दी करना,d͡ʒəldiː kərnaː,validate
+hin,761,शीघ्रता करना,ɕiːɡʰrtaː kərnaː,validate
+hin,762,बड़ी तेज़ी से चलना,bəɽiː teːziː seː t͡ʃələnaː,review
+hin,763,भागना,bʰaːɡnaː,validate
+hin,763,दौड़ना,dɔːɽənaː,validate
+hin,764,उछलना,ʊt͡ʃʰəlnaː,validate
+hin,765,चढ़ना,t͡ʃəɽʰənaː,validate
+hin,766,झूलना,d͡ʒʰuːlnaː,validate
+hin,767,रेंगना,rẽːɡnaː,validate
+hin,768,तैरना,tɛːrnaː,validate
+hin,769,डूबना,ɖuːbənaː,validate
+hin,770,खेना,kʰeːnaː,validate
+hin,770,चप्पू चलाना,t͡ʃəpːuː t͡ʃəlaːnaː,validate
+hin,771,चलना,t͡ʃələnaː,validate
+hin,771,यात्रा करना,jaːtraː kərənaː,validate
+hin,772,उड़ना,ʊɽnaː,validate
+hin,773,जाना,d͡ʒaːnaː,validate
+hin,774,चला जाना,t͡ʃəlaː d͡ʒaːnaː,validate
+hin,774,बाहर जाना,baːhər d͡ʒaːnaː,validate
+hin,775,छूटना,t͡ʃʰuːʈnaː,validate
+hin,775,रवाना होना,rəwaːnaː hoːnaː,validate
+hin,776,रुकना,rʊknaː,validate
+hin,776,खड़ा होना,kʰəɽaː hoːnə,validate
+hin,777,घुसना,ɡʰʊsənaː,validate
+hin,777,अंदर जाना,əndərə d͡ʒaːnaː,validate
+hin,778,प्रवेश करना,prəweːɕə kərənaː,validate
+hin,779,आना,aːnaː,validate
+hin,780,पहुँचना,pəhũt͡ʃnaː,validate
+hin,781,लौटना,lɔːʈənaː,validate
+hin,781,वापस आना,vaːpəs aːnaː,validate
+hin,782,रहना,rəhnaː,validate
+hin,782,रुकना,rʊknaː,validate
+hin,783,इंतज़ार करना,ɪntəzaːrə kərənaː,validate
+hin,784,प्रतीक्षा करना,prətiːkʂaː kərnaː,validate
+hin,785,ढूँढ़ना,ɖʰʊ̄̃ɽʰənaː,validate
+hin,786,पाना,paːnaː,validate
+hin,786,ढूँढ़ निकालना,dʰũːɽ nɪkaːlnaː,validate
+hin,787,कोशिश करना,koːɕɪɕə kərənaː,validate
+hin,788,तैयार करना,tɛːjaːr kərnaː,validate
+hin,789,प्यार करना,pjaːr kərnaː,validate
+hin,790,पसंद होना,pəsəndə hoːnaː,validate
+hin,791,हँसना,hãsnaː,validate
+hin,792,छूना,t͡ʃʰuːnaː,validate
+hin,793,रोना,roːnaː,validate
+hin,794,गाली देना,ɡaːliː deːnaː,validate
+hin,795,चिढ़ना,t͡ʃɪɽʰnaː,validate
+hin,795,नाराज़ होना,naːraːz hoːnaː,validate
+hin,796,डरना,ɖərnaː,validate
+hin,796,भय खाना,bʰəj kʰaːnaː,validate
+hin,797,डरना से,ɖərnaː seː,validate
+hin,797,भय खाना से,bʰəj kʰaːnaː seː,validate
+hin,798,भागना,bʰaːɡnaː,validate
+hin,799,निकल भागना,nɪkəl bʰaːɡnaː,validate
+hin,800,देखना,deːkʰnaː,validate
+hin,801,देखना,deːkʰənaː,validate
+hin,802,दृष्टि डालना पर,dɽʂʈɪ ɖaːlnaː pər,validate
+hin,803,सुनना,sʊnːaː,validate
+hin,804,सुनना,sʊnːaː,validate
+hin,805,चखना,t͡ʃəkʰnaː,validate
+hin,806,सूँघना,sũːɡʰnaː,validate
+hin,807,महसूस करना,məhsuːs kərnaː,validate
+hin,808,लगना,ləɡənaː,validate
+hin,809,दिखाई देना,dɪkʰaːiː deːnaː,validate
+hin,810,सुनना,sʊnːaː,validate
+hin,811,ठंड लगना,ʈʰəɳɖ ləɡnaː,validate
+hin,811,सर्दी लगना,sərdiː ləɡnaː,validate
+hin,812,करना,kərnaː,validate
+hin,813,सकना,səknaː,validate
+hin,813,जानना,d͡ʒaːnːaː,validate
+hin,814,चाहना,t͡ʃaːhnaː,validate
+hin,815,शुरू करना,ɕʊruː kərnaː,validate
+hin,816,ख़त्म करना,xətm kərnaː,validate
+hin,816,समाप्त करना,səmaːpt kərnaː,validate
+hin,817,बंद जाना,bəndə d͡ʒaːnaː,review
+hin,817,समाप्त जाना,səmaːptə d͡ʒaːnaː,review
+hin,818,बनना,bənːaː,validate
+hin,818,अच्छा होना,ətt͡ʃʰaː hoːnaː,validate
+hin,819,बन पड़ना,bənə pəɽənaː,validate
+hin,820,खोलना,kʰoːlnaː,validate
+hin,821,बंद करना,bənd kərnaː,validate
+hin,822,रखना,rəkʰnaː,validate
+hin,823,रखना,rəkʰnaː,validate
+hin,823,बिठाना,bɪʈʰaːnaː,validate
+hin,824,रखना,rəkʰənaː,validate
+hin,824,लिटाना,lɪʈaːnaː,validate
+hin,825,छूना,t͡ʃʰuːnaː,validate
+hin,825,स्पर्श करना,spərɕə kərənaː,validate
+hin,826,बाँधना,bãːdʰnaː,validate
+hin,827,ढकना,ɖʰəkənaː,validate
+hin,828,लटकाना,ləʈkaːnaː,validate
+hin,829,जलाना,d͡ʒəlaːnaː,validate
+hin,830,उठाना,ʊʈʰaːnaː,validate
+hin,831,पीछे छोड़ना,piːt͡ʃʰeː t͡ʃʰoːɽənaː,validate
+hin,832,खोना,kʰoːnaː,validate
+hin,832,गँवाना,ɡãːvaːnaː,validate
+hin,833,गिराना,ɡɪraːnaː,validate
+hin,834,करना,kərnaː,validate
+hin,834,बनाना,bənaːnaː,validate
+hin,835,बनाना,bənaːnaː,validate
+hin,835,तैयार करना,tɛːjaːr kərnaː,validate
+hin,836,बनाना,bənaːnaː,validate
+hin,836,निर्माण करना,nɪrmaːɳə kərənaː,validate
+hin,837,मरम्मत करना,mərəmːət kərnaː,validate
+hin,838,सुधारना,sʊdʰaːrnaː,validate
+hin,839,बदलना,bədəlnaː,validate
+hin,839,परीवर्तन करना,pəriːwərtənə kərənaː,validate
+hin,840,खोदना,kʰoːdnaː,validate
+hin,841,झुकाना,d͡ʒʰʊkaːnaː,validate
+hin,842,झुकाना,d͡ʒʰʊkaːnaː,validate
+hin,843,फेरना,pʰeːrnaː,validate
+hin,843,घुमाना,ɡʰʊmaːnaː,validate
+hin,844,पलटना,pələʈnaː,validate
+hin,844,मोड़ना,moːɽnaː,validate
+hin,845,घुमाना,ɡʰʊmaːnaː,validate
+hin,846,उठाना,ʊʈʰaːnaː,validate
+hin,846,ऊँचा करना,ʊ̄̃t͡ʃaː kərnaː,validate
+hin,847,उठाना,ʊʈʰaːnaː,validate
+hin,847,ऊपर को उठाना,uːpər koː ʊʈʰaːnaː,validate
+hin,848,पकड़ना,pəkəɽnaː,validate
+hin,848,हाथ में लेना,haːtʰə meː̃ leːnaː,validate
+hin,849,धरना,dʰərnaː,validate
+hin,849,पकड़ना,pəkəɽnaː,validate
+hin,850,दबाना,dəbaːnaː,validate
+hin,851,सरकाना,sərkaːnaː,validate
+hin,851,खिसकाना,kʰɪsəkaːnaː,validate
+hin,852,खुरचना,kʰʊrət͡ʃnaː,validate
+hin,852,खुजलाना,kʰʊd͡ʒlaːnaː,validate
+hin,853,चाटना,t͡ʃaːʈənaː,validate
+hin,854,काटना,kaːʈnaː,validate
+hin,855,तोड़ना,toːɽənaː,validate
+hin,856,काट करना,kaːʈə kərənaː,validate
+hin,857,बाँधना,bãːdʰnaː,validate
+hin,858,खोंसना,kʰõːsnaː,validate
+hin,859,तोड़ना,toːɽnaː,validate
+hin,860,खटखटाना,kʰəʈəkʰəʈaːnaː,validate
+hin,861,ठोकना,ʈʰoːknaː,validate
+hin,862,चिपकाना,t͡ʃɪpkaːnaː,validate
+hin,863,घिसना,ɡʰɪsənaː,validate
+hin,863,रगड़ना,rəɡəɽnaː,validate
+hin,864,लगाना,ləɡaːnaː,validate
+hin,865,तेज़ करना,teːzə kərənaː,validate
+hin,866,कतरना,kətərnaː,validate
+hin,867,झकझोरना,d͡ʒʰəkəd͡ʒʰoːrənaː,validate
+hin,868,हिलाना,hɪlaːnaː,validate
+hin,869,घुमाना,ɡʰʊmaːnaː,validate
+hin,870,उँडेलना,ũɖeːlənaː,validate
+hin,871,भरना,bʰərənaː,validate
+hin,871,ठूसना,ʈʰuːsənaː,validate
+hin,872,लपेटना,ləpeːʈənaː,validate
+hin,873,ढोना,ɖʰoːnaː,validate
+hin,874,घसीटना,ɡʰəsiːʈnaː,validate
+hin,875,खींचना,kʰɪ̄̃t͡ʃnaː,validate
+hin,876,रखना,rəkʰnaː,validate
+hin,877,फेंकना,pʰẽːknaː,validate
+hin,878,पकड़ना,pəkəɽnaː,validate
+hin,879,पकड़ना,pəkəɽnaː,review
+hin,880,छिपाना,t͡ʃʰɪpaːnaː,validate
+hin,881,बाँटना,bãːʈnaː,validate
+hin,882,भेजना,bʰeːd͡ʒnaː,validate
+hin,883,लाना,laːnaː,validate
+hin,884,जोड़ना,d͡ʒoːɽnaː,validate
+hin,885,पाना,paːnaː,validate
+hin,886,पाना,paːnaː,validate
+hin,886,मिलना,mɪlnaː,validate
+hin,887,लेना,leːnaː,validate
+hin,888,चुनना,t͡ʃʊnːaː,validate
+hin,889,चुनना,t͡ʃʊnːaː,validate
+hin,890,बनाए रखना,bənaːeː rəkʰənaː,validate
+hin,891,रोकना,roːkənaː,validate
+hin,892,ख़राब करना,xəraːbə kərənaː,validate
+hin,893,नुक़सान पहुँचाना,nʊqəsaːnə pəhũt͡ʃaːnaː,validate
+hin,894,तोड़ना,toːɽnaː,validate
+hin,895,तोड़ना,toːɽnaː,validate
+hin,896,नष्ट करना,nəʂʈ kərnaː,validate
+hin,896,बरबाद करना,bərbaːd kərnaː,validate
+hin,897,जलाना,d͡ʒəlaːnaː,validate
+hin,898,देना,deːnaː,validate
+hin,899,थमाना,tʰəmaːnaː,validate
+hin,900,भेंट देना,bʰẽːʈ deːnaː,validate
+hin,901,वादा करना,waːdaː kərənaː,validate
+hin,902,कामना करना,kaːmənaː kərənaː,validate
+hin,903,तारीफ़ करना,taːriːf kərnaː,validate
+hin,904,चूमना,t͡ʃuːmnaː,validate
+hin,905,झुलाना,d͡ʒʰʊlaːnaː,validate
+hin,906,ढकना,ɖʰəkənaː,validate
+hin,907,जगाना,d͡ʒəɡaːnaː,validate
+hin,908,दिखाना,dɪkʰaːnaː,validate
+hin,909,रास्ता दिखाना,raːstaː dɪkʰaːnaː,validate
+hin,910,पढ़ाना,pəɽʰaːnaː,validate
+hin,911,सिखाना,sɪkʰaːnaː,validate
+hin,912,पालना,paːlnaː,validate
+hin,913,संचालन करना,sə̃t͡ʃaːlənə kərənaː,validate
+hin,914,हड़बड़ाना,həɽbəɽaːnaː,validate
+hin,915,-आना,aːnaː,validate
+hin,915,कराना,kəraːnaː,validate
+hin,916,बुलाना,bʊlaːnaː,validate
+hin,917,मिलाना,mɪlaːnaː,validate
+hin,917,संयुक्त करना,səɲjʊkt kərnaː,validate
+hin,918,मिलना से,mɪlnaː seː,validate
+hin,918,मिलने जाना से,mɪlneː d͡ʒaːnaː seː,validate
+hin,919,मिलना,mɪlənaː,validate
+hin,920,इकट्ठा होना,ɪkəʈʰːaː hoːnaː,validate
+hin,921,खेलना,kʰeːlnaː,validate
+hin,922,गाना,ɡaːnaː,validate
+hin,923,नाचना,naːt͡ʃnaː,validate
+hin,924,अलग होना,ələɡ hoːnaː,validate
+hin,925,छोड़ना,t͡ʃʰoːɽnaː,validate
+hin,926,बचाना,bət͡ʃaːnaː,validate
+hin,927,आँख रखना पर,ãːkʰə rəkʰənaː pər,validate
+hin,928,रक्षा करना,rəkʂaː kərənaː,validate
+hin,929,रक्षा करना,rəkʂaː kərənaː,validate
+hin,930,हाथापाई करना,haːtʰaːpaːiː kərnaː,validate
+hin,931,गोली मारना,ɡoːliː maːrnaː,validate
+hin,932,जीतना,d͡ʒiːtnaː,validate
+hin,932,विजय पाना,wɪd͡ʒəjə paːnaː,validate
+hin,933,चिढ़ाना,t͡ʃɪɽʰaːnaː,validate
+hin,934,मारना,maːrənaː,validate
+hin,935,ठोकर मारना,ʈʰoːkərə maːrənaː,validate
+hin,936,भेदना,bʰeːdʰnaː,validate
+hin,936,भोंकना,bʰõːknaː,validate
+hin,937,धक्का देना,dʰəkːaː deːnaː,validate
+hin,937,झटका देना,d͡ʒʰəʈəkaː deːnaː,validate
+hin,938,चोरी करना,t͡ʃoːriː kərnaː,validate
+hin,939,बुरा लगना,bʊraː ləɡənaː,validate
+hin,940,तंग करना,təŋɡ kərnaː,validate
+hin,941,लुकाना,lʊkaːnaː,validate
+hin,942,धोखा देना,dʰoːkʰaː deːnaː,validate
+hin,943,धोखा देना,dʰoːkʰaː deːnaː,validate
+hin,944,मारना,maːrnaː,validate
+hin,944,मार डालना,maːrə ɖaːlənaː,validate
+hin,945,रहना,rəhnaː,validate
+hin,946,काम करना,kaːm kərnaː,validate
+hin,947,जमा करना,d͡ʒəmaː kərənaː,validate
+hin,948,चुनना,t͡ʃʊnːaː,validate
+hin,948,तोड़ना,toːɽnaː,validate
+hin,949,आखेट करना,aːkʰeːʈ kərnaː,validate
+hin,949,शिकार करना,ɕɪkaːr kərnaː,validate
+hin,950,मछली पकड़ना,mət͡ʃʰliː pəkəɽnaː,validate
+hin,951,पकड़ना,pəkəɽnaː,validate
+hin,952,चराना,t͡ʃəraːnaː,validate
+hin,953,हाँकना,hãːknaː,validate
+hin,954,बाँधना,bãːdʰnaː,validate
+hin,955,खिलाना,kʰɪlaːnaː,validate
+hin,956,दुहना,dʊhnaː,validate
+hin,957,काटना,kaːʈnaː,review
+hin,958,सींचना,sĩːt͡ʃənaː,validate
+hin,959,पकना,pəkənaː,validate
+hin,960,पकाना,pəkaːnaː,validate
+hin,961,पकाना,pəkaːnaː,validate
+hin,961,राँधना,rãːdʰnaː,validate
+hin,962,पकाना,pəkaːnaː,validate
+hin,963,तलना,təlnaː,validate
+hin,963,भूनना,bʰuːnənaː,validate
+hin,964,फेंटना,pʰẽːʈnaː,validate
+hin,965,बुनना,bʊnənaː,validate
+hin,966,सीना,siːnaː,validate
+hin,967,रँगना,rə̃ɡənaː,validate
+hin,968,साफ़ करना,saːf kərnaː,validate
+hin,968,शुद्ध करना,ɕʊdʰːə kərənaː,validate
+hin,969,धोना,dʰoːnaː,validate
+hin,970,पोंछ्ना,põːt͡ʃʰnaː,validate
+hin,971,माँजना,mãːd͡ʒnaː,validate
+hin,971,खँगालना,kʰãɡaːlnaː,validate
+hin,972,बुहारना,bʊhaːrnaː,validate
+hin,973,झाड़ना,d͡ʒʰaːɽnaː,validate
+hin,974,स्नान करना,snaːn kərnaː,validate
+hin,975,नहाना,nəhaːnaː,validate
+hin,975,हाथ-मुँह धोना,haːtʰmũkʰ dʰoːnaː,validate
+hin,976,उतारना,ʊtaːrnaː,validate
+hin,977,पहनना,pəhənːaː,validate
+hin,978,कपड़े पहनना,kəpɽeː pəhənːaː,validate
+hin,979,कंघी करना,kəɳɡʰiː kərnaː,validate
+hin,980,सजाना,səd͡ʒaːnaː,validate
+hin,980,सँवारना,sə̃waːrənaː,validate
+hin,981,कहना,kəhnaː,validate
+hin,981,बताना,bətaːnaː,validate
+hin,982,बोलना,boːlnaː,validate
+hin,983,बोलना,boːlnaː,validate
+hin,983,बात करना,baːt kərnaː,validate
+hin,984,बात करना,baːt kərnaː,validate
+hin,984,बातचीत करना,baːtt͡ʃiːt kərnaː,validate
+hin,985,पूछ्ना,puːt͡ʃʰnaː,validate
+hin,985,प्रश्न करना,prəɕnə kərənaː,validate
+hin,986,माँगना से,mãːɡnaː seː,validate
+hin,987,बताना,bətaːnaː,validate
+hin,988,ख़बर देना,xəbərə deːnaː,validate
+hin,988,सूचना देना,suːt͡ʃənaː deːnaː,validate
+hin,989,नाम देना,naːmə deːnaː,validate
+hin,990,बुलाना,bʊlaːnaː,validate
+hin,991,शेख़ी बघारना,ɕeːxiː bədʰaːrnaː,validate
+hin,992,अनुवाद करना,ənʊwaːdə kərənaː,validate
+hin,993,सोचना,soːt͡ʃnaː,validate
+hin,994,विश्वास करना,vɪɕvaːs kərnaː,validate
+hin,995,ध्यान देना पर,dʰjaːnə deːnaː pər,validate
+hin,996,पहचानना,pəht͡ʃaːnːaː,validate
+hin,997,समझना,səməd͡ʒʰənaː,validate
+hin,998,सुनना,sʊnːaː,validate
+hin,999,पढ़ना,pəɽʰnaː,validate
+hin,1000,जानना,d͡ʒaːnːaː,validate
+hin,1000,मालूम होना,maːluːm hoːnaː,validate
+hin,1001,याद करना,jaːd kərnaː,validate
+hin,1002,भूलना,bʰuːlnaː,validate
+hin,1002,बिसारना,bɪsaːrnaː,validate
+hin,1003,नापना,naːpənaː,validate
+hin,1004,गिनना,ɡɪnənaː,validate
+hin,1005,गणना करना,ɡəɳənaː kərənaː,validate
+hin,1005,हिसाब करना,hɪsaːb kərnaː,validate
+hin,1006,पढ़ना,pəɽʰnaː,validate
+hin,1007,कींचना,kĩːt͡ʃənaː,validate
+hin,1008,चित्र कींचना,t͡ʃɪtrə kĩːt͡ʃənaː,review
+hin,1009,लिखना,lɪkʰnaː,validate
+hin,1010,मालिक होना,maːlɪkə hoːnaː,validate
+hin,1010,स्वामी होना,swaːmiː hoːnaː,validate
+hin,1011,ख़रीदना,xəriːdnaː,validate
+hin,1012,बेचना,beːt͡ʃənaː,validate
+hin,1013,चुकाना,t͡ʃʊkaːnaː,validate
+hin,1013,अदा करना,ədaː kərənaː,validate
+hin,1014,अदा करना,ədaː kərənaː,validate
+hin,1015,शासन करना पर,ɕaːsən kərnaː pər,validate
+hin,1016,सहना,səhnaː,validate
