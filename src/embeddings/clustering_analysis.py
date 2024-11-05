@@ -12,7 +12,7 @@ sys.path.append('src/')
 from emb_utils import get_lang_clusters
 from config import langs
 
-langs = ['de', 'en']
+langs = ['de', 'en', 'fr','hi','ja','ru', 'et']
 
 def load_model(lang_code: str, model_source: str, model_name: str =f"Meta-Llama-3-1-70B-Instruct-htzs"):
     """
@@ -25,7 +25,7 @@ def load_model(lang_code: str, model_source: str, model_name: str =f"Meta-Llama-
 
     """
     if model_source == 'synthetic':
-        model_path = f"embeddings/{model_name}_{lang_code}/fasttext.model"
+        model_path = f"embeddings/synthetic/{model_name}_{lang_code}/fasttext.model"
         try:
             logging.info(f"Loading custom model for language '{lang_code}' from '{model_path}'.")
             model = FastText.load(model_path)
@@ -202,6 +202,6 @@ if __name__ == '__main__':
         logging.info("Processing both custom and pretrained models.")
         main(model_source='synthetic')
         main(model_source='real')
-        main(model_source='wikipedia')
+        # main(model_source='wikipedia')
     else:
         main(model_source=args.model_source)

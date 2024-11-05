@@ -8,8 +8,8 @@ from tqdm import tqdm
 logger = logging.getLogger(__name__)
 logging.basicConfig(level=logging.INFO, format="%(levelname)-8s : %(message)s")
 
-langs = ['en', 'de', 'fr', 'et', 'ja', 'hi']  # Add other language codes as needed
-# langs = ['ru']
+# langs = ['en', 'de', 'fr', 'et', 'ja', 'hi']  # Add other language codes as needed
+langs = ['ru']
 
 def get_most_edited_wikipedia_titles(year: str, month: str, lang: str, day: str = "all-days"):
     a = requests.get(
