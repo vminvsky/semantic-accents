@@ -1,0 +1,1090 @@
+lang_iso_code,concept_id,ortho_form,raw_ipa,next_step
+jpn,1,目,me̞,validate
+jpn,2,耳,mʲimʲi,validate
+jpn,3,鼻,hänä,validate
+jpn,4,口,kɯt͡ɕi,validate
+jpn,5,歯,hä,validate
+jpn,6,舌,ɕitä,validate
+jpn,7,唇,kɯt͡ɕibʲiɾɯ,validate
+jpn,8,頬,ho̞ː,validate
+jpn,9,顔,käo̞,validate
+jpn,10,額,çitäi,validate
+jpn,11,髪,kämʲi,validate
+jpn,12,口髭,kɯt͡ɕiçiɡʲe̞,validate
+jpn,13,髭,çiɡʲe̞,validate
+jpn,14,顎,äɡo̞,validate
+jpn,15,顎,äɡo̞,validate
+jpn,16,喉,no̞do̞,validate
+jpn,17,首,kɯbʲi,validate
+jpn,18,首,kɯbʲi,validate
+jpn,19,頭,ätämä,validate
+jpn,20,背中,se̞näkä,validate
+jpn,21,腹,häɾä,validate
+jpn,21,お腹,o̞näkä,validate
+jpn,22,へそ,he̞so̞,validate
+jpn,23,乳房,t͡ɕibɯsä,validate
+jpn,24,胸,mɯne̞,validate
+jpn,25,肩,kätä,validate
+jpn,26,腕,ɯde̞,validate
+jpn,27,肘,çid͡ʑi,validate
+jpn,28,手,te̞,validate
+jpn,29,手のひら,te̞no̞çiɾä,validate
+jpn,30,指,jɯbʲi,validate
+jpn,31,爪,t͡sɯme̞,validate
+jpn,32,爪,t͡sɯme̞,validate
+jpn,33,足の指,äɕi no̞ jɯbʲi,validate
+jpn,34,足,äɕi,validate
+jpn,35,かかと,käkäto̞,validate
+jpn,36,膝,çizä,validate
+jpn,37,上腿,d͡ʑo̞ːtäi,validate
+jpn,38,足,äɕi,validate
+jpn,39,体,käɾädä,validate
+jpn,40,皮膚,çifɯ,validate
+jpn,41,血,t͡ɕi,validate
+jpn,42,血管,kʲe̞k̚kã̈ɴ,validate
+jpn,43,腱,kʲẽ̞ɴ,validate
+jpn,44,骨,ho̞ne̞,validate
+jpn,45,脳,no̞ː,validate
+jpn,46,心,ko̞ko̞ɾo̞,validate
+jpn,46,心臓,ɕinzo̞ː,validate
+jpn,47,胃,i,validate
+jpn,48,肝臓,känzo̞ː,validate
+jpn,49,息,ikʲi,validate
+jpn,49,呼吸,ko̞kʲjɯː,validate
+jpn,50,空腹,kɯːfɯkɯ,validate
+jpn,51,涙,nämʲidä,validate
+jpn,52,味,äd͡ʑi,validate
+jpn,53,匂い,nʲio̞i,validate
+jpn,54,睡眠,sɯimʲĩɴ,validate
+jpn,55,夢,jɯme̞,validate
+jpn,56,空,so̞ɾä,validate
+jpn,57,太陽,täijo̞ː,validate
+jpn,58,月,t͡sɯkʲi,validate
+jpn,59,星,ho̞ɕi,validate
+jpn,60,空気,kɯːkʲi,validate
+jpn,61,風,käze̞,validate
+jpn,62,波,nämʲi,validate
+jpn,63,水,mʲizɯ,validate
+jpn,64,石,iɕi,validate
+jpn,65,土地,to̞t͡ɕi,validate
+jpn,66,土,t͡sɯt͡ɕi,validate
+jpn,67,埃,ho̞ko̞ɾi,validate
+jpn,68,煙,kʲe̞mɯɾi,validate
+jpn,69,火花,çibänä,validate
+jpn,70,火,çi,validate
+jpn,71,光,çikäɾi,validate
+jpn,72,陰,käɡʲe̞,validate
+jpn,73,天気,te̞nkʲi,validate
+jpn,74,霧,kʲiɾi,validate
+jpn,75,雲,kɯmo̞,validate
+jpn,76,雨,äme̞,validate
+jpn,77,雪,jɯkʲi,validate
+jpn,78,氷,ko̞ːɾi,validate
+jpn,79,霜,ɕimo̞,validate
+jpn,80,寒さ,sämɯsä,validate
+jpn,81,暑さ,ät͡sɯsä,validate
+jpn,82,霧氷,mɯhjo̞ː,validate
+jpn,83,虹,nʲid͡ʑi,validate
+jpn,84,雷,kämʲinäɾi,validate
+jpn,85,流れ,näɡäɾe̞,validate
+jpn,86,滴,ɕizɯkɯ,validate
+jpn,87,泡,äwä,validate
+jpn,88,汚れ,jo̞ɡo̞ɾe̞,validate
+jpn,89,湖,mʲizɯːmʲi,validate
+jpn,90,沼,nɯmä,validate
+jpn,91,湿原,ɕit͡sɯɡʲẽ̞ɴ,validate
+jpn,92,草原,so̞ːɡʲẽ̞ɴ,validate
+jpn,93,森,mo̞ɾi,validate
+jpn,94,丘,o̞kä,validate
+jpn,95,高み,täkämʲi,validate
+jpn,96,山,jämä,validate
+jpn,97,頂上,t͡ɕo̞ːd͡ʑo̞ː,validate
+jpn,98,洞窟,do̞ːkɯt͡sɯ,validate
+jpn,99,斜面,ɕämẽ̞ɴ,validate
+jpn,100,泉,izɯmʲi,validate
+jpn,101,小川,o̞ɡäwä,validate
+jpn,102,川,käwä,validate
+jpn,103,岸,kʲiɕi,validate
+jpn,104,海岸,käiɡã̈ɴ,validate
+jpn,105,陸,ɾikɯ,review
+jpn,106,海,ɯmʲi,validate
+jpn,107,湾,wã̈ɴ,validate
+jpn,108,島,ɕimä,validate
+jpn,109,花,hänä,validate
+jpn,110,草,kɯsä,validate
+jpn,111,根,ne̞,validate
+jpn,112,木,kʲi,validate
+jpn,113,幹,mʲikʲi,validate
+jpn,114,皮層,çiso̞ː,review
+jpn,115,枝,e̞dä,validate
+jpn,116,小枝,ko̞e̞dä,validate
+jpn,117,葉,hä,validate
+jpn,118,樺,käbä,validate
+jpn,119,松,mät͡sɯ,validate
+jpn,120,柳,jänäɡʲi,validate
+jpn,121,樅,mo̞mʲi,validate
+jpn,122,角,t͡sɯno̞,validate
+jpn,123,羽根,häne̞,validate
+jpn,124,毛皮,kʲe̞ɡäwä,validate
+jpn,125,羽,häne̞,validate
+jpn,126,鉤爪,käɡʲizɯme̞,review
+jpn,127,爪,t͡sɯme̞,validate
+jpn,128,尻尾,ɕip̚po̞,validate
+jpn,129,卵,tämäɡo̞,validate
+jpn,130,巣,sɯ,validate
+jpn,131,穴,änä,validate
+jpn,132,動物,do̞ːbɯt͡sɯ,validate
+jpn,133,群れ,mɯɾe̞,validate
+jpn,134,牛,ɯɕi,validate
+jpn,135,雄牛,o̞ːɕi,validate
+jpn,136,馬,ɯmä,validate
+jpn,137,羊,çit͡sɯd͡ʑi,validate
+jpn,138,豚,bɯtä,validate
+jpn,139,犬,inɯ,validate
+jpn,140,猫,ne̞ko̞,validate
+jpn,141,熊,kɯmä,validate
+jpn,142,栗鼠,ɾisɯ,validate
+jpn,143,ヘラジカ,he̞ɾäd͡ʑikä,validate
+jpn,144,狐,kʲit͡sɯne̞,validate
+jpn,145,兎,ɯsäɡʲi,validate
+jpn,146,鼠,ne̞zɯmʲi,validate
+jpn,147,狼,o̞ːkämʲi,validate
+jpn,148,鳥,to̞ɾi,validate
+jpn,149,群れ,mɯɾe̞,review
+jpn,150,鶏,nʲiwäto̞ɾi,validate
+jpn,151,雄鶏,o̞ndo̞ɾi,validate
+jpn,152,ガチョウ,ɡät͡ɕo̞ː,validate
+jpn,153,鷲,wäɕi,validate
+jpn,154,鴨,kämo̞,validate
+jpn,155,フクロウ,fɯkɯɾo̞ː,validate
+jpn,156,鶴,t͡sɯɾɯ,validate
+jpn,157,烏,käɾäsɯ,validate
+jpn,158,郭公,käk̚ko̞ː,validate
+jpn,159,白鳥,häkɯt͡ɕo̞ː,validate
+jpn,160,魚,säkänä,validate
+jpn,161,鱸,sɯzɯkʲi,review
+jpn,162,川魳,käwäkämäsɯ,validate
+jpn,163,蛇,he̞bʲi,validate
+jpn,164,虫,mɯɕi,review
+jpn,165,蜘蛛,kɯmo̞,validate
+jpn,166,蟻,äɾi,validate
+jpn,167,虱,ɕiɾämʲi,validate
+jpn,168,蚊,kä,validate
+jpn,169,蝿,häe̞,validate
+jpn,170,蝶,t͡ɕo̞ː,validate
+jpn,171,漿果,ɕo̞ːkä,review
+jpn,172,林檎,ɾinɡo̞,validate
+jpn,173,茸,kʲino̞ko̞,validate
+jpn,174,玉葱,tämäne̞ɡʲi,validate
+jpn,175,種,täne̞,validate
+jpn,176,粒,t͡sɯbɯ,validate
+jpn,177,干し草,ho̞ɕikɯsä,validate
+jpn,178,皮,käwä,review
+jpn,179,穴,änä,validate
+jpn,180,わな,wänä,validate
+jpn,181,輪,wä,validate
+jpn,182,跡,äto̞,validate
+jpn,183,灰,häi,validate
+jpn,184,泥,do̞ɾo̞,review
+jpn,185,鉄,te̞t͡sɯ,validate
+jpn,186,金,kʲĩɴ,validate
+jpn,187,銀,ɡʲĩɴ,validate
+jpn,188,炭,sɯmʲi,validate
+jpn,189,ガラス,ɡäɾäsɯ,validate
+jpn,190,ローム,ɾo̞ːmɯ,validate
+jpn,191,砂,sɯnä,validate
+jpn,192,人,çito̞,validate
+jpn,193,男,o̞to̞ko̞,validate
+jpn,193,男性,dänse̞i,validate
+jpn,194,女,o̞nnä,validate
+jpn,194,女性,ɕo̞se̞i,validate
+jpn,195,子,ko̞,validate
+jpn,195,子供,ko̞do̞mo̞,validate
+jpn,196,男の子,o̞to̞ko̞ no̞ ko̞,validate
+jpn,197,女の子,o̞nnä no̞ ko̞,validate
+jpn,198,家族,käzo̞kɯ,validate
+jpn,199,祖父,so̞fɯ,validate
+jpn,199,おじいさん,o̞d͡ʑiisã̈ɴ,validate
+jpn,200,祖母,so̞bo̞,validate
+jpn,200,おばあさん,o̞bäːsã̈ɴ,validate
+jpn,201,親,o̞jä,validate
+jpn,201,両親,ɾjo̞ːɕĩɴ,validate
+jpn,202,父,t͡ɕit͡ɕi,validate
+jpn,202,お父さん,o̞to̞ːsã̈ɴ,validate
+jpn,203,母,hähä,validate
+jpn,203,お母さん,o̞käːsã̈ɴ,validate
+jpn,204,息子,mɯsɯko̞,validate
+jpn,204,息子さん,mɯsɯko̞sã̈ɴ,validate
+jpn,205,娘,mɯsɯme̞,validate
+jpn,205,お嬢さん,o̞d͡ʑo̞ːsã̈ɴ,validate
+jpn,206,弟,o̞to̞ːto̞,validate
+jpn,207,妹,imo̞ːto̞,validate
+jpn,208,伯父,o̞d͡ʑi,validate
+jpn,208,伯父さん,o̞d͡ʑisã̈ɴ,validate
+jpn,209,叔母,o̞bä,validate
+jpn,209,叔母さん,o̞bäːsã̈ɴ,validate
+jpn,210,夫,o̞t̚to̞,validate
+jpn,210,主人,ɕɯd͡ʑĩɴ,validate
+jpn,211,妻,t͡sɯmä,validate
+jpn,211,奥さん,o̞kɯsã̈ɴ,validate
+jpn,212,喜び,jo̞ɾo̞ko̞bʲi,validate
+jpn,213,笑い,wäɾäi,validate
+jpn,214,幸せ,ɕiäwäse̞,validate
+jpn,215,悩み,näjämʲi,validate
+jpn,216,希望,kʲibo̞ː,validate
+jpn,217,気,kʲi,review
+jpn,218,精神,se̞iɕĩɴ,validate
+jpn,219,考え,känɡäe̞,validate
+jpn,220,記憶,kʲio̞kɯ,validate
+jpn,221,理解力,ɾikäiɾjo̞kɯ,review
+jpn,222,意味,imʲi,validate
+jpn,223,理由,ɾijɯː,validate
+jpn,224,真実,ɕind͡ʑit͡sɯ,validate
+jpn,225,会話,käiwä,validate
+jpn,226,童話,do̞ːwä,validate
+jpn,227,物語,mo̞no̞ɡätäɾi,validate
+jpn,228,報告,ho̞ːko̞kɯ,validate
+jpn,229,ニュース,nʲjɯːsɯ,validate
+jpn,230,名前,nämäe̞,validate
+jpn,231,謎,näzo̞,validate
+jpn,232,演説,e̞nze̞t͡sɯ,validate
+jpn,233,言語,ɡʲe̞nɡo̞,validate
+jpn,234,声,ko̞e̞,validate
+jpn,235,言葉,ko̞to̞bä,validate
+jpn,236,記号,kʲiɡo̞ː,validate
+jpn,237,呼び声,jo̞bʲiɡo̞e̞,validate
+jpn,238,騒音,so̞ːõ̞ɴ,validate
+jpn,239,音,o̞to̞,validate
+jpn,240,音,o̞to̞,validate
+jpn,241,歌,ɯtä,validate
+jpn,242,静けさ,ɕizɯkʲe̞sä,validate
+jpn,243,人々,çito̞bʲito̞,validate
+jpn,244,民族,mʲinzo̞kɯ,validate
+jpn,245,仕事,ɕiɡo̞to̞,validate
+jpn,246,客,kʲjäkɯ,validate
+jpn,247,贈り物,o̞kɯɾimo̞no̞,validate
+jpn,248,遊び,äso̞bʲi,validate
+jpn,249,社会,ɕäkäi,review
+jpn,250,援助,e̞nd͡ʑo̞,validate
+jpn,251,友達,to̞mo̞dät͡ɕi,validate
+jpn,252,同志,do̞ːɕi,review
+jpn,253,件,kʲẽ̞ɴ,validate
+jpn,254,数,käzɯ,validate
+jpn,255,種類,ɕɯɾɯi,validate
+jpn,256,部分,bɯbɯ̃ɴ,review
+jpn,257,部分,bɯbɯ̃ɴ,validate
+jpn,258,半分,hänbɯ̃ɴ,validate
+jpn,259,円,ẽ̞ɴ,validate
+jpn,260,十字,d͡ʑɯːd͡ʑi,validate
+jpn,261,線,sẽ̞ɴ,validate
+jpn,262,線,sẽ̞ɴ,review
+jpn,263,距離,kʲjo̞ɾi,review
+jpn,264,距離,kʲjo̞ɾi,validate
+jpn,265,辺,hẽ̞ɴ,validate
+jpn,265,地域,t͡ɕiikʲi,validate
+jpn,266,ゆとり,jɯto̞ɾi,review
+jpn,267,所,to̞ko̞ɾo̞,validate
+jpn,267,場所,bäɕo̞,validate
+jpn,268,横,jo̞ko̞,validate
+jpn,269,真ん中,männäkä,validate
+jpn,270,物件,bɯk̚kʲẽ̞ɴ,validate
+jpn,271,物,mo̞no̞,validate
+jpn,272,端,häɕi,validate
+jpn,273,縁,fɯt͡ɕi,validate
+jpn,274,角,kädo̞,validate
+jpn,275,先頭,se̞nto̞ː,validate
+jpn,276,端,häɕi,review
+jpn,277,穴,änä,validate
+jpn,278,片隅,he̞nɡɯː,validate
+jpn,279,模様,mo̞jo̞ː,validate
+jpn,280,大きさ,o̞ːkʲisä,validate
+jpn,281,長さ,näɡäsä,validate
+jpn,282,高さ,täkäsä,validate
+jpn,283,重さ,o̞mo̞sä,validate
+jpn,284,量,ɾjo̞ː,review
+jpn,285,堆積,täise̞kʲi,validate
+jpn,286,並び,näɾäbʲi,validate
+jpn,287,ボート,bo̞ːto̞,validate
+jpn,288,オール,o̞ːɾɯ,validate
+jpn,289,そり,so̞ɾi,validate
+jpn,290,スキー,sɯkʲiː,validate
+jpn,291,篝火,käɡäɾibʲi,validate
+jpn,292,荷物,nʲimo̞t͡sɯ,validate
+jpn,293,歩み,äjɯmʲi,validate
+jpn,294,歩,ho̞,review
+jpn,295,北,kʲitä,validate
+jpn,296,南,mʲinämʲi,validate
+jpn,297,西,nʲiɕi,validate
+jpn,298,東,çiɡäɕi,validate
+jpn,299,木,kʲi,validate
+jpn,299,木材,mo̞kɯzäi,validate
+jpn,300,板,itä,validate
+jpn,301,盤,bã̈ɴ,review
+jpn,302,支柱,ɕit͡ɕɯː,validate
+jpn,303,棒,bo̞ː,review
+jpn,304,杖,t͡sɯe̞,validate
+jpn,305,棒,bo̞ː,validate
+jpn,306,管,kɯdä,validate
+jpn,307,家,ie̞,validate
+jpn,308,家,ɯt͡ɕi,validate
+jpn,309,ストーブ,sɯto̞ːbɯ,validate
+jpn,310,床,jɯkä,validate
+jpn,311,机,t͡sɯkɯe̞,validate
+jpn,312,椅子,isɯ,validate
+jpn,313,揺籃,jo̞ːɾã̈ɴ,validate
+jpn,314,ベッド,be̞d̚do̞,validate
+jpn,315,棚,tänä,validate
+jpn,316,箱,häko̞,validate
+jpn,317,窓,mädo̞,validate
+jpn,318,戸,to̞,validate
+jpn,318,ドア,do̞ä,validate
+jpn,319,門,mõ̞ɴ,validate
+jpn,320,垣根,käkʲine̞,validate
+jpn,321,屋根,jäne̞,validate
+jpn,322,梯子,häɕiɡo̞,validate
+jpn,323,ほうき,ho̞ːkʲi,validate
+jpn,324,スコップ,sɯko̞p̚pɯ,validate
+jpn,325,シャベル,ɕäbe̞ɾɯ,validate
+jpn,326,フォーク,fo̞ːkɯ,validate
+jpn,327,スプーン,sɯpɯːn,validate
+jpn,328,ナイフ,näifɯ,validate
+jpn,329,釘,kɯɡʲi,validate
+jpn,330,網,ämʲi,validate
+jpn,331,鉤,häɾi,validate
+jpn,331,フック,fɯk̚kɯ,validate
+jpn,332,取っ手,to̞t̚te̞,validate
+jpn,333,錠,d͡ʑo̞ː,validate
+jpn,334,絵,e̞,validate
+jpn,335,像,zo̞ː,validate
+jpn,336,人形,nʲinɡʲjo̞ː,validate
+jpn,337,袋,fɯkɯɾo̞,validate
+jpn,338,束,täbä,validate
+jpn,338,包み,t͡sɯt͡sɯmʲi,validate
+jpn,339,かばん,käbã̈ɴ,validate
+jpn,340,バケツ,bäkʲe̞t͡sɯ,validate
+jpn,341,蓋,fɯtä,validate
+jpn,342,食器,ɕo̞k̚kʲi,validate
+jpn,343,袋,fɯkɯɾo̞,validate
+jpn,344,カップ,käp̚pɯ,validate
+jpn,345,鍋,näbe̞,validate
+jpn,346,釜,kämä,validate
+jpn,347,食事,ɕo̞kɯd͡ʑi,validate
+jpn,348,食物,täbe̞mo̞no̞,validate
+jpn,349,料理,ɾjo̞ːɾi,validate
+jpn,350,肉,nʲikɯ,validate
+jpn,351,麦,mɯɡʲi,validate
+jpn,351,穀物,ko̞kɯmo̞t͡sɯ,validate
+jpn,352,粥,käjɯ,validate
+jpn,353,パン,pã̈ɴ,validate
+jpn,354,枚,mäi,review
+jpn,354,切れ,kʲiɾe̞,review
+jpn,355,脂肪,ɕibo̞ː,validate
+jpn,356,バター,bätäː,validate
+jpn,357,油,äbɯɾä,validate
+jpn,358,塩,ɕio̞,validate
+jpn,359,スープ,sɯːpɯ,validate
+jpn,360,蜂蜜,hät͡ɕimʲit͡sɯ,validate
+jpn,361,牛乳,ɡʲjɯːnʲjɯː,validate
+jpn,362,茶,t͡ɕä,validate
+jpn,362,お茶,o̞t͡ɕä,validate
+jpn,363,革,käwä,validate
+jpn,364,毛糸,kʲe̞ito̞,validate
+jpn,365,布,nɯno̞,validate
+jpn,366,針,häɾi,validate
+jpn,367,糸,ito̞,validate
+jpn,368,ボタン,bo̞tã̈ɴ,validate
+jpn,369,結び目,mɯsɯbʲime̞,validate
+jpn,370,ペンキ,pe̞nkʲi,validate
+jpn,371,衣服,ifɯkɯ,validate
+jpn,372,シャツ,ɕät͡sɯ,validate
+jpn,373,襟,e̞ɾi,validate
+jpn,374,袖,so̞de̞,validate
+jpn,375,ズボン,zɯbõ̞ɴ,validate
+jpn,376,帯,o̞bʲi,validate
+jpn,376,ベルト,be̞ɾɯto̞,validate
+jpn,377,帽子,bo̞ːɕi,validate
+jpn,378,靴,kɯt͡sɯ,validate
+jpn,379,ブーツ,bɯːt͡sɯ,validate
+jpn,380,輪,wä,validate
+jpn,381,リボン,ɾibõ̞ɴ,validate
+jpn,382,櫛,kɯɕi,validate
+jpn,383,鏡,käɡämʲi,validate
+jpn,384,緒,o̞,validate
+jpn,385,紐,çimo̞,validate
+jpn,386,綱,t͡sɯnä,validate
+jpn,387,掛け布団,käkʲe̞bɯtõ̞ɴ,validate
+jpn,388,枕,mäkɯɾä,validate
+jpn,389,スカーフ,sɯkäːfɯ,review
+jpn,390,タオル,täo̞ɾɯ,validate
+jpn,391,力,t͡ɕikäɾä,validate
+jpn,392,強さ,t͡sɯjo̞sä,validate
+jpn,393,健康,kʲe̞nko̞ː,validate
+jpn,394,病気,bʲjo̞ːkʲi,validate
+jpn,395,痛み,itämʲi,validate
+jpn,396,傷,kʲizɯ,validate
+jpn,397,熱,ne̞t͡sɯ,validate
+jpn,398,薬,kɯsɯɾi,validate
+jpn,399,橋,häɕi,validate
+jpn,400,井戸,ido̞,validate
+jpn,401,牧場,bo̞kɯd͡ʑo̞ː,validate
+jpn,402,小路,ko̞mʲit͡ɕi,validate
+jpn,403,道,mʲit͡ɕi,validate
+jpn,404,街道,käido̞ː,validate
+jpn,405,村,mɯɾä,validate
+jpn,406,町,mät͡ɕi,validate
+jpn,406,都市,to̞ɕi,validate
+jpn,407,手紙,te̞ɡämʲi,validate
+jpn,408,本,hõ̞ɴ,validate
+jpn,409,文字,mo̞d͡ʑi,validate
+jpn,410,新聞,ɕinbɯ̃ɴ,validate
+jpn,411,生活,se̞ikät͡sɯ,validate
+jpn,412,死,ɕi,validate
+jpn,413,墓,häkä,validate
+jpn,414,教会,kʲjo̞ːkäi,validate
+jpn,415,罪,t͡sɯmʲi,validate
+jpn,416,神,kämʲi,validate
+jpn,417,労働者,ɾo̞ːdo̞ːɕä,validate
+jpn,418,上司,d͡ʑo̞ːɕi,validate
+jpn,419,達人,tät͡sɯd͡ʑĩɴ,validate
+jpn,419,マイスター,mäisɯtäː,validate
+jpn,420,医者,iɕä,validate
+jpn,421,先生,se̞nse̞i,validate
+jpn,422,金,käne̞,validate
+jpn,423,取り引き,to̞ɾiçikʲi,validate
+jpn,424,店,mʲise̞,validate
+jpn,425,値段,ne̞dã̈ɴ,validate
+jpn,426,商品,ɕo̞ːçĩɴ,validate
+jpn,427,利益,ɾie̞kʲi,validate
+jpn,428,豊かさ,jɯtäkäsä,validate
+jpn,429,世界,se̞käi,validate
+jpn,430,国,kɯnʲi,validate
+jpn,431,国家,käk̚ko̞,validate
+jpn,432,国王,ko̞kɯo̞ː,validate
+jpn,433,権力,kʲe̞nɾjo̞kɯ,validate
+jpn,434,国境,ko̞k̚kʲjo̞ː,validate
+jpn,435,戦争,se̞nso̞ː,validate
+jpn,436,敵,te̞kʲi,validate
+jpn,437,暴力,bo̞ːɾjo̞kɯ,validate
+jpn,438,戦い,tätäkäi,validate
+jpn,439,弓,jɯmʲi,validate
+jpn,440,矢,jä,validate
+jpn,441,銃,d͡ʑɯː,validate
+jpn,442,間違い,mät͡ɕiɡäi,validate
+jpn,443,嘘,ɯso̞,validate
+jpn,444,損害,so̞nɡäi,validate
+jpn,445,不幸,fɯko̞ː,validate
+jpn,446,罪,t͡sɯmʲi,validate
+jpn,447,年,to̞ɕi,validate
+jpn,447,年齢,ne̞nɾe̞i,validate
+jpn,448,終わり,o̞wäɾi,validate
+jpn,449,時,to̞kʲi,validate
+jpn,449,時間,d͡ʑikã̈ɴ,validate
+jpn,450,日,nʲi,validate
+jpn,451,朝,äsä,validate
+jpn,452,昼,çiɾɯ,validate
+jpn,453,晩,bã̈ɴ,validate
+jpn,453,夕方,jɯːɡätä,validate
+jpn,454,夜,jo̞,validate
+jpn,455,週,ɕɯː,validate
+jpn,456,月,t͡sɯkʲi,validate
+jpn,457,年,to̞ɕi,validate
+jpn,458,春,häɾɯ,validate
+jpn,459,夏,nät͡sɯ,validate
+jpn,460,秋,äkʲi,validate
+jpn,461,冬,fɯjɯ,validate
+jpn,462,一月,it͡ɕiɡät͡sɯ,validate
+jpn,463,二月,nʲiɡät͡sɯ,validate
+jpn,464,三月,sänɡät͡sɯ,validate
+jpn,465,四月,ɕiɡät͡sɯ,validate
+jpn,466,五月,ɡo̞ɡät͡sɯ,validate
+jpn,467,六月,ɾo̞kɯɡät͡sɯ,validate
+jpn,468,七月,ɕit͡ɕiɡät͡sɯ,validate
+jpn,469,八月,hät͡ɕiɡät͡sɯ,validate
+jpn,470,九月,kɯɡät͡sɯ,validate
+jpn,471,十月,d͡ʑɯːɡät͡sɯ,validate
+jpn,472,十一月,d͡ʑɯːit͡ɕiɡät͡sɯ,validate
+jpn,473,十二月,d͡ʑɯːnʲiɡät͡sɯ,validate
+jpn,474,月曜日,ɡʲe̞t͡sɯjo̞ːbʲi,validate
+jpn,475,火曜日,käjo̞ːbʲi,validate
+jpn,476,水曜日,sɯijo̞ːbʲi,validate
+jpn,477,木曜日,mo̞kɯjo̞ːbʲi,validate
+jpn,478,金曜日,kʲinˈjo̞ːbʲi,validate
+jpn,479,土曜日,do̞jo̞ːbʲi,validate
+jpn,480,日曜日,nʲit͡ɕijo̞ːbʲi,validate
+jpn,481,大きい,o̞ːkʲii,validate
+jpn,482,小さい,t͡ɕiːsäi,validate
+jpn,483,長い,näɡäi,validate
+jpn,484,短い,mʲid͡ʑikäi,validate
+jpn,485,広い,çiɾo̞i,validate
+jpn,486,狭い,se̞mäi,validate
+jpn,487,密な,mʲit͡sɯnä,validate
+jpn,488,厚い,ät͡sɯi,validate
+jpn,489,薄い,ɯsɯi,review
+jpn,490,細い,ho̞so̞i,review
+jpn,491,硬い,kätäi,review
+jpn,492,平らな,täiɾänä,validate
+jpn,493,滑らかな,näme̞ɾäkänä,validate
+jpn,494,堅い,kätäi,validate
+jpn,495,柔らかい,jäwäɾäkäi,validate
+jpn,496,丸い,mäɾɯi,validate
+jpn,497,尖った,to̞ɡät̚tä,validate
+jpn,498,鋭い,sɯɾɯdo̞i,validate
+jpn,499,鈍い,nʲibɯi,validate
+jpn,500,重い,o̞mo̞i,validate
+jpn,501,綺麗な,kʲiɾe̞inä,validate
+jpn,502,熱い,ät͡sɯi,validate
+jpn,503,温かい,ätätäkäi,validate
+jpn,504,寒い,sämɯi,validate
+jpn,504,冷たい,t͡sɯme̞täi,validate
+jpn,505,涼しい,sɯzɯɕii,validate
+jpn,506,ひんやりした,çinʲjäɾiɕitä,review
+jpn,507,湿った,ɕime̞t̚tä,validate
+jpn,508,濡れた,nɯɾe̞tä,validate
+jpn,509,乾いた,käwäitä,validate
+jpn,510,いっぱいの,ip̚päi no̞,validate
+jpn,511,空の,käɾä no̞,validate
+jpn,512,開いた,äitä,validate
+jpn,513,閉まった,ɕimät̚tä,validate
+jpn,514,清潔な,se̞ikʲe̞t͡sɯnä,validate
+jpn,515,汚い,kʲitänäi,validate
+jpn,516,生の,nämä no̞,validate
+jpn,517,熟した,d͡ʑɯkɯɕitä,validate
+jpn,518,美味しい,o̞iɕii,validate
+jpn,519,甘い,ämäi,validate
+jpn,520,苦い,nʲiɡäi,validate
+jpn,521,酸っぱい,sɯp̚päi,validate
+jpn,522,明るい,äkäɾɯi,validate
+jpn,523,暗い,kɯɾäi,validate
+jpn,524,黒い,kɯɾo̞i,validate
+jpn,525,白い,ɕiɾo̞i,validate
+jpn,526,赤い,äkäi,validate
+jpn,527,黄色い,kʲiiɾo̞i,validate
+jpn,528,青い,äo̞i,validate
+jpn,529,緑の,mʲido̞ɾi no̞,validate
+jpn,530,灰色の,häiiɾo̞ no̞,validate
+jpn,531,色取り取りの,iɾo̞to̞ɾido̞ɾi no̞,validate
+jpn,532,安い,jäsɯi,validate
+jpn,533,高い,täkäi,validate
+jpn,534,貴重な,kʲit͡ɕo̞ːnä,validate
+jpn,535,盲目の,mo̞ːmo̞kɯ no̞,validate
+jpn,536,耳が聞こえない,mʲimʲi ɡä kʲiko̞e̞näi,validate
+jpn,537,強力な,kʲjo̞ːɾjo̞kɯnä,validate
+jpn,538,強い,t͡sɯjo̞i,validate
+jpn,539,弱い,jo̞wäi,validate
+jpn,540,太った,fɯto̞t̚tä,validate
+jpn,541,ほっそりした,ho̞sso̞ɾi ɕitä,validate
+jpn,542,素敵な,sɯte̞kʲinä,review
+jpn,543,悪い,wäɾɯi,validate
+jpn,544,馬鹿な,bäkänä,validate
+jpn,545,怠惰な,täidänä,validate
+jpn,546,勤勉な,kʲinbe̞nnä,validate
+jpn,547,けちな,kʲe̞t͡ɕinä,validate
+jpn,548,賢い,käɕiko̞i,validate
+jpn,548,頭のいい,ätämä no̞ ii,validate
+jpn,549,器用な,kʲijo̞ːnä,validate
+jpn,550,愛らしい,äiɾäɕii,validate
+jpn,551,楽しい,täno̞ɕii,review
+jpn,552,温和な,o̞nwänä,review
+jpn,553,空腹の,kɯːfɯkɯ no̞,validate
+jpn,554,病気の,bʲjo̞ːkʲi no̞,validate
+jpn,555,裸の,hädäkä no̞,validate
+jpn,556,悲しい,känäɕii,validate
+jpn,557,生きた,ikʲitä,validate
+jpn,558,良い,jo̞i,validate
+jpn,559,悪い,wäɾɯi,validate
+jpn,559,駄目な,däme̞nä,validate
+jpn,560,正しい,tädäɕii,validate
+jpn,561,ひどい,çido̞i,review
+jpn,562,本当の,ho̞nto̞ː no̞,validate
+jpn,563,古い,fɯɾɯi,validate
+jpn,564,新しい,ätäɾäɕii,validate
+jpn,565,以前の,ize̞n no̞,validate
+jpn,566,年を取った,to̞ɕi o̞ to̞t̚tä,validate
+jpn,567,若い,wäkäi,validate
+jpn,568,貧乏な,bʲinbo̞ːnä,validate
+jpn,569,裕福な,jɯːfɯkɯnä,validate
+jpn,570,有名な,jɯːme̞inä,review
+jpn,571,有名な,jɯːme̞inä,validate
+jpn,572,見知らぬ,mʲiɕiɾänɯ,validate
+jpn,573,色々な,iɾo̞iɾo̞nä,validate
+jpn,574,近い,t͡ɕikäi,validate
+jpn,575,遠い,to̞ːi,validate
+jpn,576,左の,çidäɾi no̞,validate
+jpn,577,右の,mʲiɡʲi no̞,validate
+jpn,578,別の,be̞t͡sɯ no̞,validate
+jpn,579,一番目,it͡ɕibänme̞,validate
+jpn,580,二番目,nʲibänme̞,validate
+jpn,581,三番目,sänbänme̞,validate
+jpn,582,最後の,säiɡo̞ no̞,validate
+jpn,583,一人で,çito̞ɾi de̞,validate
+jpn,584,同時に,do̞ːd͡ʑi nʲi,validate
+jpn,585,一緒に,iɕɕo̞ nʲi,validate
+jpn,586,長い間,näɡäi äidä,validate
+jpn,587,急に,kʲjɯː nʲi,validate
+jpn,588,すぐに,sɯɡʲi nʲi,validate
+jpn,589,後で,äto̞ de̞,validate
+jpn,590,今,imä,validate
+jpn,591,今日,ko̞nnʲit͡ɕi,validate
+jpn,592,明日,äɕitä,validate
+jpn,593,間もなく,mämo̞näkɯ,validate
+jpn,594,それから,so̞ɾe̞ käɾä,validate
+jpn,595,昨日,säkɯd͡ʑit͡sɯ,validate
+jpn,596,過去に,käko̞ nʲi,validate
+jpn,597,あの時,äno̞ to̞kʲi,validate
+jpn,598,その後で,so̞no̞ äto̞ de̞,validate
+jpn,599,以前に,ize̞n nʲi,validate
+jpn,600,まず,mäzɯ,validate
+jpn,600,最初に,säiɕo̞ nʲi,validate
+jpn,601,一回,ik̚käi,validate
+jpn,602,時々,to̞kʲido̞kʲi,validate
+jpn,603,よく,jo̞kɯ,validate
+jpn,604,いつも,it͡sɯmo̞,validate
+jpn,605,一度も...ない,it͡ɕido̞ mo̞ ... näi,validate
+jpn,606,こちら,ko̞t͡ɕiɾä,validate
+jpn,607,ここへ,ko̞ko̞ e̞,review
+jpn,607,こちらへ,kʲit͡ɕiɾä e̞,review
+jpn,608,ここから,ko̞ko̞ käɾä,validate
+jpn,609,そちら,so̞t͡ɕiɾä,validate
+jpn,610,そこへ,so̞ko̞ e̞,review
+jpn,610,そちらへ,so̞t͡ɕiɾä e̞,review
+jpn,611,真っ直ぐに,mässɯɡɯ nʲi,validate
+jpn,612,前へ,mäe̞ e̞,validate
+jpn,613,後ろへ,ɯɕiɾo̞ e̞,validate
+jpn,614,後ろへ,ɯɕiɾo̞ e̞,review
+jpn,615,下に,ɕitä nʲi,validate
+jpn,616,下へ,ɕitä e̞,validate
+jpn,617,上に,ɯe̞ nʲi,validate
+jpn,618,上へ,ɯe̞ e̞,validate
+jpn,619,どこでも,do̞ko̞ de̞ mo̞,validate
+jpn,620,ない,näi,review
+jpn,621,少し,sɯko̞ɕi,validate
+jpn,621,ちょっと,t͡ɕo̞t̚to̞,validate
+jpn,622,ほとんど～ない,ho̞to̞ndo̞ ... näi,validate
+jpn,623,とても,to̞te̞mo̞,validate
+jpn,624,こう,ko̞ː,validate
+jpn,625,まだ,mädä,validate
+jpn,626,～だけ,däkʲe̞,review
+jpn,627,もう,mo̞ː,validate
+jpn,628,再び,fɯtätäbʲi,validate
+jpn,629,無駄に,mɯdä nʲi,validate
+jpn,630,前に,mäe̞ nʲi,validate
+jpn,631,後ろに,ɯɕiɾo̞ nʲi,validate
+jpn,632,下に,ɕitä nʲi,validate
+jpn,633,通して,to̞ːɕite̞,validate
+jpn,634,横に,jo̞ko̞ nʲi,validate
+jpn,635,間に,äidä nʲi,validate
+jpn,636,為に,täme̞ nʲi,validate
+jpn,636,せいで,se̞i de̞,validate
+jpn,637,これ,ko̞ɾe̞,validate
+jpn,638,それ,so̞ɾe̞,validate
+jpn,639,全部,ze̞nbɯ,validate
+jpn,640,私,wätäkɯɕi,validate
+jpn,641,あなた,änätä,validate
+jpn,642,彼,käɾe̞,validate
+jpn,643,私達,wätäɕität͡ɕi,validate
+jpn,644,あなた達,änätätät͡ɕi,validate
+jpn,645,彼ら,käɾe̞ɾä,validate
+jpn,646,何,nänʲi,validate
+jpn,647,誰,däɾe̞,validate
+jpn,647,どなた,do̞nätä,validate
+jpn,648,どこ,do̞ko̞,validate
+jpn,648,どこに,do̞ko̞ nʲi,validate
+jpn,649,どこへ,do̞ko̞ e̞,validate
+jpn,650,どう,do̞ː,validate
+jpn,651,何故,näze̞,validate
+jpn,651,どうして,do̞ː ɕite̞,validate
+jpn,652,どのくらい,do̞no̞ kɯɾäi,validate
+jpn,653,一,it͡ɕi,validate
+jpn,654,二,nʲi,validate
+jpn,654,二つ,fɯtät͡sɯ,validate
+jpn,655,三,sã̈ɴ,validate
+jpn,655,三つ,mʲit̚tsɯ,validate
+jpn,656,四,jõ̞ɴ,validate
+jpn,656,四つ,jo̞t̚tsɯ,validate
+jpn,657,五,ɡo̞,validate
+jpn,657,五つ,it͡sɯt͡sɯ,validate
+jpn,658,六,ɾo̞kɯ,validate
+jpn,658,六つ,mɯt̚tsɯ,validate
+jpn,659,七,ɕit͡ɕi,validate
+jpn,659,七つ,nänät͡sɯ,validate
+jpn,660,八,hät͡ɕi,validate
+jpn,660,八つ,jät̚tsɯ,validate
+jpn,661,九,kʲjɯː,validate
+jpn,661,九つ,ko̞ko̞no̞t͡sɯ,validate
+jpn,662,十,to̞ː,validate
+jpn,663,十一,d͡ʑɯːit͡ɕi,validate
+jpn,664,十二,d͡ʑɯːnʲi,validate
+jpn,665,二十,nʲid͡ʑɯː,validate
+jpn,666,三十,sänd͡ʑɯː,validate
+jpn,667,四十,jo̞nd͡ʑɯː,validate
+jpn,668,五十,ɡo̞d͡ʑɯː,validate
+jpn,669,六十,ɾo̞kɯd͡ʑɯː,validate
+jpn,670,七十,nänäd͡ʑɯː,validate
+jpn,671,八十,hät͡ɕid͡ʑɯː,validate
+jpn,672,九十,kʲjɯːd͡ʑɯː,validate
+jpn,673,百,hjäkɯ,validate
+jpn,674,千,sẽ̞ɴ,validate
+jpn,675,-と,to̞,validate
+jpn,675,そして,so̞ɕite̞,validate
+jpn,676,或いは,äɾɯi wä,validate
+jpn,677,立っている,tät̚te̞iɾɯ,validate
+jpn,678,座っている,sɯwät̚te̞ iɾɯ,validate
+jpn,679,横になっている,jo̞ko̞ nʲi nät̚te̞iɾɯ,validate
+jpn,680,掛かっている,käkät̚te̞iɾɯ,validate
+jpn,681,なる,näɾɯ,validate
+jpn,682,起こる,o̞ko̞ɾɯ,validate
+jpn,683,始まる,häd͡ʑimäɾɯ,validate
+jpn,684,終わる,o̞wäɾɯ,validate
+jpn,685,変わる,käwäɾɯ,validate
+jpn,686,出る,de̞ɾɯ,validate
+jpn,687,沈む,ɕizɯmɯ,validate
+jpn,688,輝く,käɡäjäkɯ,validate
+jpn,689,雷が鳴る,kämʲinäɾi ɡä näɾɯ,validate
+jpn,690,吹く,fɯkɯ,validate
+jpn,691,流れる,näɡäɾe̞ɾɯ,review
+jpn,692,流れる,näɡäɾe̞ɾɯ,validate
+jpn,693,回転する,käite̞n sɯɾɯ,validate
+jpn,694,揺れる,jɯɾe̞ɾɯ,validate
+jpn,695,振動する,ɕindo̞ː sɯɾɯ,validate
+jpn,696,落ちる,o̞t͡ɕiɾɯ,validate
+jpn,697,燃える,mo̞e̞ɾɯ,validate
+jpn,698,煙を出す,kʲe̞mɯɾi o̞ däsɯ,validate
+jpn,699,雨が降る,äme̞ ɡä fɯɾɯ,validate
+jpn,700,凍る,ko̞ːɾɯ,validate
+jpn,701,溶ける,to̞kʲe̞ɾɯ,validate
+jpn,702,溶ける,to̞kʲe̞ɾɯ,validate
+jpn,703,乾く,käwäkɯ,validate
+jpn,704,沸く,wäkɯ,validate
+jpn,705,腐る,kɯsäɾɯ,validate
+jpn,706,朽ちる,kɯt͡ɕiɾɯ,validate
+jpn,707,切れる,kʲiɾe̞ɾɯ,validate
+jpn,708,沈む,ɕizɯmɯ,validate
+jpn,709,経つ,tät͡sɯ,validate
+jpn,710,現れる,äɾäwäɾe̞ɾɯ,validate
+jpn,711,消える,kʲie̞ɾɯ,validate
+jpn,712,下がる,säɡäɾɯ,validate
+jpn,713,減る,he̞ɾɯ,validate
+jpn,714,増える,fɯe̞ɾɯ,validate
+jpn,715,上がる,äɡäɾɯ,validate
+jpn,716,伸びる,no̞bʲiɾɯ,validate
+jpn,717,輝く,käɡäjäkɯ,validate
+jpn,718,ぴかぴか光る,pʲikäpʲikä çikäɾɯ,validate
+jpn,719,騒ぐ,säwäɡɯ,validate
+jpn,720,鳴る,näɾɯ,validate
+jpn,721,鳴る,näɾɯ,validate
+jpn,722,がらんがらんと鳴る,ɡäɾänɡäɾän to̞ näɾɯ,validate
+jpn,723,逆巻く,säkämäkɯ,validate
+jpn,724,戦ぐ,so̞jo̞ɡɯ,validate
+jpn,725,鳴る,näɾɯ,validate
+jpn,726,吠える,ho̞e̞ɾɯ,validate
+jpn,727,きゃんきゃん鳴く,kʲjänkʲjän näkɯ,review
+jpn,728,吹く,fɯkɯ,validate
+jpn,729,口笛を吹く,kɯt͡ɕibɯe̞ o̞ fɯkɯ,validate
+jpn,730,叫ぶ,säkʲe̞bɯ,validate
+jpn,731,うめく,ɯme̞kɯ,validate
+jpn,732,震える,fɯɾɯe̞ɾɯ,validate
+jpn,733,生きている,ikʲite̞iɾɯ,validate
+jpn,734,生まれる,ɯmäɾe̞ɾɯ,validate
+jpn,735,呼吸する,ko̞kʲjɯː sɯɾɯ,validate
+jpn,736,飲む,no̞mɯ,validate
+jpn,737,食べる,täbe̞ɾɯ,validate
+jpn,738,飲み込む,no̞mʲiko̞mɯ,validate
+jpn,739,眠くなる,ne̞mɯkɯ näɾɯ,review
+jpn,740,寝付く,ne̞t͡sɯkɯ,review
+jpn,741,眠る,ne̞mɯɾɯ,validate
+jpn,742,目が覚める,me̞ ɡä säme̞ɾɯ,validate
+jpn,743,起きる,o̞kʲiɾɯ,validate
+jpn,744,休養する,kʲjɯːjo̞ː sɯɾɯ,validate
+jpn,745,病気になる,bʲjo̞ːkʲi nʲi näɾɯ,validate
+jpn,746,病気である,bʲjo̞ːkʲi de̞ äɾɯ,validate
+jpn,747,痛む,itämɯ,validate
+jpn,748,咳をする,se̞kʲi o̞ sɯɾɯ,validate
+jpn,749,元気になる,ɡʲe̞nkʲi nʲi näɾɯ,validate
+jpn,750,死ぬ,ɕinɯ,validate
+jpn,750,亡くなる,näkɯnäɾɯ,validate
+jpn,751,死亡する,ɕibo̞ː sɯɾɯ,validate
+jpn,752,移動する,ido̞ː sɯɾɯ,validate
+jpn,753,動く,ɯɡo̞kɯ,validate
+jpn,754,立ち上がる,tät͡ɕiäɡäɾɯ,validate
+jpn,755,座る,sɯwäɾɯ,validate
+jpn,756,転ぶ,ko̞ɾo̞bɯ,validate
+jpn,757,歩く,äɾɯkɯ,validate
+jpn,758,跨ぐ,mätäɡɯ,review
+jpn,759,散歩する,sänbo̞ sɯɾɯ,validate
+jpn,760,急ぐ,iso̞ɡɯ,validate
+jpn,761,焦る,äse̞ɾɯ,review
+jpn,762,疾駆する,ɕik̚kɯ sɯɾɯ,validate
+jpn,763,走る,häɕiɾɯ,validate
+jpn,764,跳ぶ,to̞bɯ,validate
+jpn,765,よじ登る,jo̞d͡ʑino̞bo̞ɾɯ,validate
+jpn,766,ぶらんこに乗る,bɯɾänko̞ nʲi no̞ɾɯ,validate
+jpn,767,這う,häɯ,validate
+jpn,768,泳ぐ,o̞jo̞ɡɯ,validate
+jpn,769,潜る,mo̞ɡɯɾɯ,validate
+jpn,770,漕ぐ,ko̞ɡɯ,validate
+jpn,771,行く,ikɯ,validate
+jpn,771,乗車する,d͡ʑo̞ːɕä sɯɾɯ,validate
+jpn,772,飛ぶ,to̞bɯ,validate
+jpn,773,行く,ikɯ,validate
+jpn,774,立ち去る,tät͡ɕisäɾɯ,validate
+jpn,775,出発する,ɕɯp̚pät͡sɯ sɯɾɯ,validate
+jpn,776,止まる,to̞mäɾɯ,validate
+jpn,777,入る,häiɾɯ,validate
+jpn,778,中に入る,näkä nʲi häiɾɯ,review
+jpn,779,来る,kɯɾɯ,validate
+jpn,780,着く,t͡sɯkɯ,validate
+jpn,780,到着する,to̞ːt͡ɕäkɯ sɯɾɯ,validate
+jpn,781,帰る,käe̞ɾɯ,validate
+jpn,782,留まる,to̞do̞mäɾɯ,validate
+jpn,783,待つ,mät͡sɯ,validate
+jpn,784,期待する,kʲitäi sɯɾɯ,validate
+jpn,785,探る,säɡɯɾɯ,validate
+jpn,786,見つける,mʲit͡sɯkʲe̞ɾɯ,validate
+jpn,787,試す,täme̞sɯ,validate
+jpn,788,準備する,d͡ʑɯnbʲi sɯɾɯ,validate
+jpn,789,愛する,äi sɯɾɯ,validate
+jpn,790,好きである,sɯkʲi de̞ äɾɯ,validate
+jpn,791,笑う,wäɾäɯ,validate
+jpn,792,感情を動かす,känd͡ʑo̞ː o̞ ɯɡo̞käsɯ,review
+jpn,793,泣く,näkɯ,validate
+jpn,794,叱る,ɕikäɾɯ,validate
+jpn,795,怒る,o̞ko̞ɾɯ,validate
+jpn,795,腹を立てる,häɾä o̞ täte̞ɾɯ,validate
+jpn,796,怖がる,ko̞wäɡäɾɯ,validate
+jpn,797,恐れる,o̞so̞ɾe̞ɾɯ,review
+jpn,798,逃げる,nʲiɡʲe̞ɾɯ,validate
+jpn,799,逃亡する,to̞ːbo̞ː sɯɾɯ,review
+jpn,800,見る,mʲiɾɯ,validate
+jpn,801,眺める,näɡäme̞ɾɯ,review
+jpn,802,見る,mʲiɾɯ,validate
+jpn,803,聞く,kʲikɯ,validate
+jpn,804,聴く,kʲikɯ,review
+jpn,805,食べてみる,täbe̞te̞mʲiɾɯ,validate
+jpn,806,気取る,kʲe̞do̞ɾɯ,review
+jpn,807,感じる,känd͡ʑiɾɯ,validate
+jpn,808,ように見える,jo̞ː nʲi mʲie̞ɾɯ,validate
+jpn,809,見える,mʲie̞ɾɯ,validate
+jpn,810,承る,ɯkʲe̞tämäwäɾɯ,validate
+jpn,811,寒気がする,sämɯkʲe̞ ɡä sɯɾɯ,review
+jpn,812,する,sɯɾɯ,validate
+jpn,813,出来る,de̞kʲiɾɯ,validate
+jpn,814,-たい,täi,validate
+jpn,815,始める,häd͡ʑime̞ɾɯ,validate
+jpn,816,終える,o̞e̞ɾɯ,validate
+jpn,817,止める,jäme̞ɾɯ,validate
+jpn,818,成功する,se̞iko̞ː sɯɾɯ,validate
+jpn,819,当たる,ätäɾɯ,review
+jpn,820,開く,çiɾäkɯ,validate
+jpn,820,開ける,äkʲe̞ɾɯ,validate
+jpn,821,閉める,ɕime̞ɾɯ,validate
+jpn,822,置く,o̞kɯ,review
+jpn,822,据える,sɯe̞ɾɯ,review
+jpn,823,座らせる,sɯwäɾäse̞ɾɯ,validate
+jpn,824,置く,o̞kɯ,validate
+jpn,825,触る,säwäɾɯ,validate
+jpn,825,触れる,fɯɾe̞ɾɯ,validate
+jpn,826,結びつける,mɯsɯbʲit͡sɯkʲe̞ɾɯ,validate
+jpn,827,覆う,o̞ːɯ,validate
+jpn,828,掛ける,käkʲe̞ɾɯ,validate
+jpn,829,燃やす,mo̞jäsɯ,validate
+jpn,829,火をつける,çi o̞ t͡sɯkʲe̞ɾɯ,validate
+jpn,830,拾う,çiɾo̞ɯ,validate
+jpn,831,残す,no̞ko̞sɯ,validate
+jpn,832,無くす,näkɯsɯ,validate
+jpn,833,落とす,o̞to̞sɯ,validate
+jpn,834,作る,t͡sɯkɯɾɯ,validate
+jpn,835,製造する,se̞izo̞ː sɯɾɯ,validate
+jpn,836,建設する,kʲe̞nse̞t͡sɯ sɯɾɯ,validate
+jpn,837,直す,näo̞sɯ,validate
+jpn,837,修理する,ɕɯːɾi sɯɾɯ,validate
+jpn,838,改良する,käiɾjo̞ː sɯɾɯ,validate
+jpn,839,変える,käe̞ɾɯ,validate
+jpn,840,掘る,ho̞ɾɯ,validate
+jpn,841,折る,o̞ɾɯ,review
+jpn,842,曲げる,mäɡʲe̞ɾɯ,validate
+jpn,843,回す,mäwäsɯ,validate
+jpn,844,裏返す,ɯɾäɡäe̞sɯ,validate
+jpn,845,裏返す,ɯɾäɡäe̞sɯ,review
+jpn,846,挙げる,äɡʲe̞ɾɯ,validate
+jpn,847,持ち上げる,mo̞t͡ɕiäɡʲe̞ɾɯ,validate
+jpn,848,取り上げる,to̞ɾiäɡʲe̞ɾɯ,validate
+jpn,849,持つ,mo̞t͡sɯ,validate
+jpn,850,押す,o̞sɯ,validate
+jpn,851,ずらす,zɯɾäsɯ,validate
+jpn,852,引っ掻く,çik̚käkɯ,validate
+jpn,853,なめる,näme̞ɾɯ,validate
+jpn,854,噛む,kämɯ,validate
+jpn,855,剝ぎ取る,häɡʲito̞ɾɯ,review
+jpn,856,切り取る,kʲiɾito̞ɾɯ,validate
+jpn,857,縛る,ɕibäɾɯ,validate
+jpn,858,差し込む,säɕiko̞mɯ,validate
+jpn,859,破る,jäbɯɾɯ,validate
+jpn,860,とんとん叩く,to̞nto̞n tätäkɯ,validate
+jpn,861,叩く,tätäkɯ,validate
+jpn,862,貼る,häɾɯ,validate
+jpn,862,くっ付ける,kɯt̚tsɯkʲe̞ɾɯ,validate
+jpn,863,擦る,ko̞sɯɾɯ,validate
+jpn,864,塗る,nɯɾɯ,review
+jpn,865,研ぐ,to̞ɡɯ,validate
+jpn,866,切る,kʲiɾɯ,validate
+jpn,867,揺さぶる,jɯsäbɯɾɯ,validate
+jpn,868,振る,fɯɾɯ,review
+jpn,868,揺さぶる,jɯsäbɯɾɯ,review
+jpn,869,振る,fɯɾɯ,validate
+jpn,870,注ぐ,so̞so̞ɡɯ,validate
+jpn,871,いっぱいにする,ip̚päi nʲi sɯɾɯ,review
+jpn,872,包む,t͡sɯt͡sɯmɯ,validate
+jpn,873,運ぶ,häko̞bɯ,validate
+jpn,874,引きずる,çikʲizɯɾɯ,validate
+jpn,875,引く,çikɯ,validate
+jpn,876,預かる,äzɯkäɾɯ,validate
+jpn,877,投げる,näɡʲe̞ɾɯ,validate
+jpn,878,受ける,ɯkʲe̞ɾɯ,review
+jpn,879,掴む,t͡sɯkämɯ,validate
+jpn,880,隠す,käkɯsɯ,validate
+jpn,881,分ける,wäkʲe̞ɾɯ,validate
+jpn,882,送る,o̞kɯɾɯ,validate
+jpn,883,持って行く,mo̞t̚te̞ikɯ,validate
+jpn,884,加える,kɯwäe̞ɾɯ,validate
+jpn,885,得る,e̞ɾɯ,validate
+jpn,886,受ける,ɯkʲe̞ɾɯ,validate
+jpn,887,取る,to̞ɾɯ,validate
+jpn,888,選ぶ,e̞ɾäbɯ,review
+jpn,889,選ぶ,e̞ɾäbɯ,validate
+jpn,890,保存する,ho̞zo̞n sɯɾɯ,validate
+jpn,891,妨害する,bo̞ːɡäi sɯɾɯ,validate
+jpn,892,台無しにする,däinäɕi nʲi sɯɾɯ,validate
+jpn,893,損傷する,so̞nɕo̞ː sɯɾɯ,validate
+jpn,894,割る,wäɾɯ,validate
+jpn,895,引き裂く,çikʲisäkɯ,validate
+jpn,896,破壊する,häkäi sɯɾɯ,validate
+jpn,897,焼く,jäkɯ,validate
+jpn,898,上げる,äɡʲe̞ɾɯ,validate
+jpn,899,渡す,wätäsɯ,validate
+jpn,900,贈る,o̞kɯɾɯ,validate
+jpn,901,約束する,jäkɯso̞kɯ sɯɾɯ,validate
+jpn,902,望む,no̞zo̞mɯ,review
+jpn,903,褒める,ho̞me̞ɾɯ,validate
+jpn,904,キスする,kʲisɯ sɯɾɯ,validate
+jpn,905,揺する,jɯsɯɾɯ,validate
+jpn,906,覆う,o̞ːɯ,validate
+jpn,907,起こす,o̞ko̞sɯ,validate
+jpn,908,見せる,mʲise̞ɾɯ,validate
+jpn,909,案内する,ännäi sɯɾɯ,validate
+jpn,910,教える,o̞ɕie̞ɾɯ,validate
+jpn,911,通知する,t͡sɯːt͡ɕi sɯɾɯ,review
+jpn,912,育てる,so̞däte̞ɾɯ,validate
+jpn,913,導く,mʲit͡ɕibʲikɯ,validate
+jpn,914,励ます,häɡʲe̞mäsɯ,review
+jpn,915,～させる,säse̞ɾɯ,validate
+jpn,916,誘う,säso̞ɯ,validate
+jpn,916,招待する,ɕo̞ːtäi sɯɾɯ,validate
+jpn,917,一つにする,çito̞t͡sɯ nʲi sɯɾɯ,review
+jpn,918,訪ねる,täzɯne̞ɾɯ,validate
+jpn,919,出会う,de̞äɯ,validate
+jpn,920,集まる,ät͡sɯmäɾɯ,validate
+jpn,921,遊ぶ,äso̞bɯ,validate
+jpn,922,歌う,ɯtäɯ,validate
+jpn,923,踊る,o̞do̞ɾɯ,validate
+jpn,924,別れる,wäkäɾe̞ɾɯ,validate
+jpn,925,別れる,wäkäɾe̞ɾɯ,validate
+jpn,926,救う,sɯkɯɯ,validate
+jpn,926,助ける,täsɯkʲe̞ɾɯ,validate
+jpn,927,見張る,mʲihäɾɯ,review
+jpn,927,軽微する,kʲe̞ibʲi sɯɾɯ,review
+jpn,928,保護する,ho̞ɡo̞ sɯɾɯ,validate
+jpn,929,守る,mämo̞ɾɯ,validate
+jpn,930,殴る,näɡɯɾɯ,validate
+jpn,931,撃つ,ɯt͡sɯ,validate
+jpn,932,勝つ,kät͡sɯ,validate
+jpn,933,怒らせる,o̞ko̞ɾäse̞ɾɯ,validate
+jpn,934,殴る,näɡɯɾɯ,validate
+jpn,935,蹴る,kʲe̞ɾɯ,validate
+jpn,936,突く,t͡sɯkɯ,review
+jpn,937,突く,t͡sɯkɯ,validate
+jpn,938,盗る,to̞ɾɯ,validate
+jpn,939,構う,kämäɯ,review
+jpn,940,邪魔する,d͡ʑämä sɯɾɯ,review
+jpn,941,隠す,käkɯsɯ,validate
+jpn,942,だます,dämäsɯ,review
+jpn,943,だます,dämäsɯ,validate
+jpn,944,殺す,ko̞ɾo̞sɯ,validate
+jpn,945,住む,sɯmɯ,validate
+jpn,946,働く,hätäɾäkɯ,validate
+jpn,947,集める,ät͡sɯme̞ɾɯ,validate
+jpn,947,収集する,ɕɯːɕɯː sɯɾɯ,validate
+jpn,948,摘む,t͡sɯmɯ,validate
+jpn,949,狩りをする,käɾi o̞ sɯɾɯ,validate
+jpn,950,釣る,t͡sɯɾɯ,validate
+jpn,951,捕る,to̞ɾɯ,review
+jpn,952,放牧する,ho̞ːbo̞kɯ sɯɾɯ,review
+jpn,953,追う,o̞ɯ,validate
+jpn,954,繋ぐ,t͡sɯnäɡɯ,validate
+jpn,955,餌をやる,e̞sä o̞ jäɾɯ,validate
+jpn,956,搾乳する,säkɯnʲjɯː sɯɾɯ,validate
+jpn,957,刻む,kʲizämɯ,validate
+jpn,958,水をやる,mʲizɯ o̞ jäɾɯ,validate
+jpn,959,熟す,d͡ʑɯkɯsɯ,validate
+jpn,960,調理する,t͡ɕo̞ːɾi sɯɾɯ,validate
+jpn,961,煮る,nʲiɾɯ,validate
+jpn,962,焼く,jäkɯ,validate
+jpn,963,焼く,jäkɯ,validate
+jpn,963,炒める,itäme̞ɾɯ,validate
+jpn,964,混ぜる,mʲize̞ɾɯ,validate
+jpn,965,編む,ämɯ,validate
+jpn,966,縫う,nɯɯ,validate
+jpn,967,染める,so̞me̞ɾɯ,validate
+jpn,968,掃除する,so̞ːd͡ʑi sɯɾɯ,validate
+jpn,969,洗う,äɾäɯ,validate
+jpn,969,洗濯する,se̞ntäkɯ sɯɾɯ,validate
+jpn,970,拭く,fɯkɯ,validate
+jpn,971,洗う,äɾäɯ,validate
+jpn,971,すすぐ,sɯsɯɡɯ,validate
+jpn,972,掃除する,so̞ːd͡ʑi sɯɾɯ,review
+jpn,973,掃く,häkɯ,validate
+jpn,974,入浴する,nʲjɯːjo̞kɯ sɯɾɯ,review
+jpn,975,洗う,äɾäɯ,validate
+jpn,976,脱ぐ,nɯɡɯ,validate
+jpn,977,着る,kʲiɾɯ,validate
+jpn,978,着る,kʲiɾɯ,review
+jpn,979,梳く,sɯkɯ,review
+jpn,980,飾る,käzäɾɯ,validate
+jpn,981,言う,iɯ,validate
+jpn,982,話す,hänäsɯ,validate
+jpn,983,話す,hänäsɯ,review
+jpn,984,話をする,hänäɕi o̞ sɯɾɯ,validate
+jpn,985,聞く,kʲikɯ,validate
+jpn,986,頼む,täno̞mɯ,validate
+jpn,986,お願いする,o̞ne̞ɡäi sɯɾɯ,validate
+jpn,987,物語る,mo̞no̞ɡätäɾɯ,validate
+jpn,988,伝える,t͡sɯtäe̞ɾɯ,validate
+jpn,989,名づける,näzɯkʲe̞ɾɯ,review
+jpn,990,呼ぶ,jo̞bɯ,validate
+jpn,991,自慢する,d͡ʑimän sɯɾɯ,validate
+jpn,992,訳す,jäkɯsɯ,validate
+jpn,993,考える,känɡäe̞ɾɯ,validate
+jpn,994,信じる,ɕind͡ʑiɾɯ,review
+jpn,995,気が付く,kʲi ɡä t͡sɯkɯ,validate
+jpn,996,認識する,nʲinɕikʲi sɯɾɯ,review
+jpn,997,分かる,wäkäɾɯ,validate
+jpn,998,聞き取る,kʲikʲito̞ɾɯ,validate
+jpn,999,学ぶ,mänäbɯ,validate
+jpn,999,勉強する,be̞nkʲjo̞ː sɯɾɯ,validate
+jpn,1000,知っている,ɕit̚te̞iɾɯ,validate
+jpn,1001,思い出す,o̞mo̞idäsɯ,validate
+jpn,1002,忘れる,wäsɯɾe̞ɾɯ,validate
+jpn,1003,計る,häkäɾɯ,review
+jpn,1003,測定する,so̞kɯte̞i sɯɾɯ,review
+jpn,1004,数える,käzo̞e̞ɾɯ,validate
+jpn,1005,計算する,kʲe̞isän sɯɾɯ,validate
+jpn,1006,読む,jo̞mɯ,validate
+jpn,1007,描く,e̞ɡäkɯ,validate
+jpn,1008,写生する,ɕäse̞i sɯɾɯ,review
+jpn,1009,書く,käkɯ,validate
+jpn,1010,所持する,ɕo̞d͡ʑi sɯɾɯ,validate
+jpn,1011,買う,käɯ,validate
+jpn,1012,売る,ɯɾɯ,validate
+jpn,1013,払う,häɾäɯ,validate
+jpn,1014,支払う,ɕihäɾäɯ,review
+jpn,1015,支配する,ɕihäi sɯɾɯ,validate
+jpn,1016,耐える,täe̞ɾɯ,validate

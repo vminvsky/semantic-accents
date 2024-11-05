@@ -1,0 +1,3157 @@
+{
+    "-たい": [
+        "wollen"
+    ],
+    "-と": [
+        "und"
+    ],
+    "あなた": [
+        "du"
+    ],
+    "あなた達": [
+        "ihr"
+    ],
+    "あの時": [
+        "damals"
+    ],
+    "いっぱいにする": [
+        "füllen"
+    ],
+    "いっぱいの": [
+        "voll"
+    ],
+    "いつも": [
+        "immer"
+    ],
+    "うめく": [
+        "stöhnen"
+    ],
+    "おじいさん": [
+        "Großvater"
+    ],
+    "おばあさん": [
+        "Großmutter"
+    ],
+    "お嬢さん": [
+        "Tochter"
+    ],
+    "お母さん": [
+        "Mutter"
+    ],
+    "お父さん": [
+        "Vater"
+    ],
+    "お腹": [
+        "Bauch"
+    ],
+    "お茶": [
+        "Tee"
+    ],
+    "お願いする": [
+        "bitten"
+    ],
+    "かかと": [
+        "Ferse"
+    ],
+    "かばん": [
+        "Tasche"
+    ],
+    "がらんがらんと鳴る": [
+        "klirren"
+    ],
+    "きゃんきゃん鳴く": [
+        "heulen"
+    ],
+    "くっ付ける": [
+        "kleben"
+    ],
+    "けちな": [
+        "geizig"
+    ],
+    "こう": [
+        "so"
+    ],
+    "ここから": [
+        "von hier"
+    ],
+    "ここへ": [
+        "hierhin"
+    ],
+    "こちら": [
+        "hier"
+    ],
+    "こちらへ": [
+        "hierhin"
+    ],
+    "これ": [
+        "dies"
+    ],
+    "すぐに": [
+        "sofort"
+    ],
+    "すすぐ": [
+        "spülen"
+    ],
+    "する": [
+        "tun"
+    ],
+    "ずらす": [
+        "schieben"
+    ],
+    "せいで": [
+        "wegen"
+    ],
+    "そこへ": [
+        "dorthin"
+    ],
+    "そして": [
+        "und"
+    ],
+    "そちら": [
+        "dort"
+    ],
+    "そちらへ": [
+        "dorthin"
+    ],
+    "その後で": [
+        "danach"
+    ],
+    "そり": [
+        "Schlitten"
+    ],
+    "それ": [
+        "das"
+    ],
+    "それから": [
+        "dann"
+    ],
+    "だます": [
+        "täuschen",
+        "betrügen"
+    ],
+    "ちょっと": [
+        "ein wenig"
+    ],
+    "とても": [
+        "sehr"
+    ],
+    "とんとん叩く": [
+        "klopfen"
+    ],
+    "どう": [
+        "wie"
+    ],
+    "どうして": [
+        "warum"
+    ],
+    "どこ": [
+        "wo"
+    ],
+    "どこでも": [
+        "überall"
+    ],
+    "どこに": [
+        "wo"
+    ],
+    "どこへ": [
+        "wohin"
+    ],
+    "どなた": [
+        "wer"
+    ],
+    "どのくらい": [
+        "wieviel"
+    ],
+    "ない": [
+        "nicht"
+    ],
+    "なめる": [
+        "lecken"
+    ],
+    "なる": [
+        "werden"
+    ],
+    "ひどい": [
+        "schlimm"
+    ],
+    "ひんやりした": [
+        "frisch"
+    ],
+    "ぴかぴか光る": [
+        "funkeln"
+    ],
+    "ぶらんこに乗る": [
+        "schaukeln"
+    ],
+    "へそ": [
+        "Nabel"
+    ],
+    "ほうき": [
+        "Besen"
+    ],
+    "ほっそりした": [
+        "schlank"
+    ],
+    "ほとんど～ない": [
+        "kaum"
+    ],
+    "まず": [
+        "zuerst"
+    ],
+    "まだ": [
+        "noch"
+    ],
+    "もう": [
+        "schon"
+    ],
+    "ゆとり": [
+        "Platz"
+    ],
+    "ように見える": [
+        "scheinen"
+    ],
+    "よく": [
+        "oft"
+    ],
+    "よじ登る": [
+        "klettern"
+    ],
+    "わな": [
+        "Falle"
+    ],
+    "オール": [
+        "Ruder"
+    ],
+    "カップ": [
+        "Tasse"
+    ],
+    "ガチョウ": [
+        "Gans"
+    ],
+    "ガラス": [
+        "Glas"
+    ],
+    "キスする": [
+        "küssen"
+    ],
+    "シャツ": [
+        "Hemd"
+    ],
+    "シャベル": [
+        "Schaufel"
+    ],
+    "スカーフ": [
+        "Tuch"
+    ],
+    "スキー": [
+        "Ski"
+    ],
+    "スコップ": [
+        "Spaten"
+    ],
+    "ストーブ": [
+        "Ofen"
+    ],
+    "スプーン": [
+        "Löffel"
+    ],
+    "スープ": [
+        "Suppe"
+    ],
+    "ズボン": [
+        "Hose"
+    ],
+    "タオル": [
+        "Handtuch"
+    ],
+    "ドア": [
+        "Tür"
+    ],
+    "ナイフ": [
+        "Messer"
+    ],
+    "ニュース": [
+        "Neuigkeit"
+    ],
+    "バケツ": [
+        "Eimer"
+    ],
+    "バター": [
+        "Butter"
+    ],
+    "パン": [
+        "Brot"
+    ],
+    "フォーク": [
+        "Gabel"
+    ],
+    "フクロウ": [
+        "Eule"
+    ],
+    "フック": [
+        "Haken"
+    ],
+    "ブーツ": [
+        "Stiefel"
+    ],
+    "ヘラジカ": [
+        "Elch"
+    ],
+    "ベッド": [
+        "Bett"
+    ],
+    "ベルト": [
+        "Gürtel"
+    ],
+    "ペンキ": [
+        "Farbe"
+    ],
+    "ボタン": [
+        "Knopf"
+    ],
+    "ボート": [
+        "Boot"
+    ],
+    "マイスター": [
+        "Meister"
+    ],
+    "リボン": [
+        "Band"
+    ],
+    "ローム": [
+        "Lehm"
+    ],
+    "一": [
+        "eins"
+    ],
+    "一つにする": [
+        "vereinigen"
+    ],
+    "一人で": [
+        "allein"
+    ],
+    "一回": [
+        "einmal"
+    ],
+    "一度も...ない": [
+        "niemals"
+    ],
+    "一月": [
+        "Januar"
+    ],
+    "一番目": [
+        "erster"
+    ],
+    "一緒に": [
+        "zusammen"
+    ],
+    "七": [
+        "sieben"
+    ],
+    "七つ": [
+        "sieben"
+    ],
+    "七十": [
+        "siebzig"
+    ],
+    "七月": [
+        "Juli"
+    ],
+    "三": [
+        "drei"
+    ],
+    "三つ": [
+        "drei"
+    ],
+    "三十": [
+        "dreißig"
+    ],
+    "三月": [
+        "März"
+    ],
+    "三番目": [
+        "dritter"
+    ],
+    "上がる": [
+        "steigen"
+    ],
+    "上げる": [
+        "geben"
+    ],
+    "上に": [
+        "oben"
+    ],
+    "上へ": [
+        "hinauf"
+    ],
+    "上司": [
+        "Chef"
+    ],
+    "上腿": [
+        "Oberschenkel"
+    ],
+    "下がる": [
+        "sinken"
+    ],
+    "下に": [
+        "unten",
+        "unter"
+    ],
+    "下へ": [
+        "hinab"
+    ],
+    "不幸": [
+        "Unglück"
+    ],
+    "世界": [
+        "Welt"
+    ],
+    "丘": [
+        "Hügel"
+    ],
+    "両親": [
+        "Eltern"
+    ],
+    "並び": [
+        "Reihe"
+    ],
+    "中に入る": [
+        "eintreten"
+    ],
+    "丸い": [
+        "rund"
+    ],
+    "主人": [
+        "Ehemann"
+    ],
+    "乗車する": [
+        "fahren"
+    ],
+    "九": [
+        "neun"
+    ],
+    "九つ": [
+        "neun"
+    ],
+    "九十": [
+        "neunzig"
+    ],
+    "九月": [
+        "September"
+    ],
+    "乳房": [
+        "Busen"
+    ],
+    "乾いた": [
+        "trocken"
+    ],
+    "乾く": [
+        "trocknen"
+    ],
+    "二": [
+        "zwei"
+    ],
+    "二つ": [
+        "zwei"
+    ],
+    "二十": [
+        "zwanzig"
+    ],
+    "二月": [
+        "Februar"
+    ],
+    "二番目": [
+        "zweiter"
+    ],
+    "五": [
+        "fünf"
+    ],
+    "五つ": [
+        "fünf"
+    ],
+    "五十": [
+        "fünfzig"
+    ],
+    "五月": [
+        "Mai"
+    ],
+    "井戸": [
+        "Brunnen"
+    ],
+    "亡くなる": [
+        "sterben"
+    ],
+    "人": [
+        "Mensch"
+    ],
+    "人々": [
+        "Leute"
+    ],
+    "人形": [
+        "Puppe"
+    ],
+    "今": [
+        "jetzt"
+    ],
+    "今日": [
+        "heute"
+    ],
+    "仕事": [
+        "Arbeit"
+    ],
+    "以前に": [
+        "vorher"
+    ],
+    "以前の": [
+        "ehemalig"
+    ],
+    "件": [
+        "Angelegenheit"
+    ],
+    "休養する": [
+        "sich erholen"
+    ],
+    "会話": [
+        "Gespräch"
+    ],
+    "伝える": [
+        "mitteilen"
+    ],
+    "伯父": [
+        "Onkel"
+    ],
+    "伯父さん": [
+        "Onkel"
+    ],
+    "伸びる": [
+        "wachsen"
+    ],
+    "住む": [
+        "wohnen"
+    ],
+    "体": [
+        "Körper"
+    ],
+    "何": [
+        "was"
+    ],
+    "何故": [
+        "warum"
+    ],
+    "作る": [
+        "machen"
+    ],
+    "保存する": [
+        "bewahren"
+    ],
+    "保護する": [
+        "schützen"
+    ],
+    "信じる": [
+        "glauben"
+    ],
+    "修理する": [
+        "reparieren"
+    ],
+    "値段": [
+        "Preis"
+    ],
+    "健康": [
+        "Gesundheit"
+    ],
+    "傷": [
+        "Wunde"
+    ],
+    "働く": [
+        "arbeiten"
+    ],
+    "像": [
+        "Figur"
+    ],
+    "元気になる": [
+        "genesen"
+    ],
+    "先生": [
+        "Lehrer"
+    ],
+    "先頭": [
+        "Spitze"
+    ],
+    "光": [
+        "Licht"
+    ],
+    "兎": [
+        "Hase"
+    ],
+    "入る": [
+        "hineingehen"
+    ],
+    "入浴する": [
+        "baden"
+    ],
+    "全部": [
+        "alles"
+    ],
+    "八": [
+        "acht"
+    ],
+    "八つ": [
+        "acht"
+    ],
+    "八十": [
+        "achtzig"
+    ],
+    "八月": [
+        "August"
+    ],
+    "六": [
+        "sechs"
+    ],
+    "六つ": [
+        "sechs"
+    ],
+    "六十": [
+        "sechzig"
+    ],
+    "六月": [
+        "Juni"
+    ],
+    "円": [
+        "Kreis"
+    ],
+    "再び": [
+        "wieder"
+    ],
+    "写生する": [
+        "zeichnen"
+    ],
+    "冬": [
+        "Winter"
+    ],
+    "冷たい": [
+        "kalt"
+    ],
+    "凍る": [
+        "gefrieren"
+    ],
+    "出る": [
+        "aufgehen"
+    ],
+    "出会う": [
+        "treffen"
+    ],
+    "出来る": [
+        "können"
+    ],
+    "出発する": [
+        "abfahren"
+    ],
+    "分かる": [
+        "begreifen"
+    ],
+    "分ける": [
+        "teilen"
+    ],
+    "切り取る": [
+        "abschneiden"
+    ],
+    "切る": [
+        "schneiden"
+    ],
+    "切れ": [
+        "Scheibe"
+    ],
+    "切れる": [
+        "reißen"
+    ],
+    "別の": [
+        "anderer"
+    ],
+    "別れる": [
+        "sich trennen",
+        "verlassen"
+    ],
+    "利益": [
+        "Nutzen"
+    ],
+    "到着する": [
+        "ankommen"
+    ],
+    "刻む": [
+        "hacken"
+    ],
+    "前に": [
+        "vor"
+    ],
+    "前へ": [
+        "vorwärts"
+    ],
+    "剝ぎ取る": [
+        "abreißen"
+    ],
+    "割る": [
+        "zerbrechen"
+    ],
+    "力": [
+        "Kraft"
+    ],
+    "加える": [
+        "hinzufügen"
+    ],
+    "助ける": [
+        "retten"
+    ],
+    "励ます": [
+        "antreiben"
+    ],
+    "労働者": [
+        "Arbeiter"
+    ],
+    "勉強する": [
+        "lernen"
+    ],
+    "動く": [
+        "sich rühren"
+    ],
+    "動物": [
+        "Tier"
+    ],
+    "勝つ": [
+        "siegen"
+    ],
+    "勤勉な": [
+        "fleißig"
+    ],
+    "匂い": [
+        "Geruch"
+    ],
+    "包み": [
+        "Bündel"
+    ],
+    "包む": [
+        "einwickeln"
+    ],
+    "北": [
+        "Norden"
+    ],
+    "医者": [
+        "Arzt"
+    ],
+    "十": [
+        "zehn"
+    ],
+    "十一": [
+        "elf"
+    ],
+    "十一月": [
+        "November"
+    ],
+    "十二": [
+        "zwölf"
+    ],
+    "十二月": [
+        "Dezember"
+    ],
+    "十字": [
+        "Kreuz"
+    ],
+    "十月": [
+        "Oktober"
+    ],
+    "千": [
+        "tausend"
+    ],
+    "半分": [
+        "Hälfte"
+    ],
+    "南": [
+        "Süden"
+    ],
+    "卵": [
+        "Ei"
+    ],
+    "厚い": [
+        "dick"
+    ],
+    "友達": [
+        "Freund"
+    ],
+    "収集する": [
+        "sammeln"
+    ],
+    "叔母": [
+        "Tante"
+    ],
+    "叔母さん": [
+        "Tante"
+    ],
+    "取っ手": [
+        "Griff"
+    ],
+    "取り上げる": [
+        "ergreifen"
+    ],
+    "取り引き": [
+        "Geschäft"
+    ],
+    "取る": [
+        "nehmen"
+    ],
+    "受ける": [
+        "fangen",
+        "erhalten"
+    ],
+    "口": [
+        "Mund"
+    ],
+    "口笛を吹く": [
+        "pfeifen"
+    ],
+    "口髭": [
+        "Schnurrbart"
+    ],
+    "古い": [
+        "alt"
+    ],
+    "叩く": [
+        "hauen"
+    ],
+    "叫ぶ": [
+        "schreien"
+    ],
+    "台無しにする": [
+        "verderben"
+    ],
+    "叱る": [
+        "schimpfen"
+    ],
+    "右の": [
+        "rechter"
+    ],
+    "同志": [
+        "Kamerad"
+    ],
+    "同時に": [
+        "auf einmal"
+    ],
+    "名づける": [
+        "nennen"
+    ],
+    "名前": [
+        "Name"
+    ],
+    "吠える": [
+        "bellen"
+    ],
+    "吹く": [
+        "wehen",
+        "blasen"
+    ],
+    "味": [
+        "Geschmack"
+    ],
+    "呼び声": [
+        "Ruf"
+    ],
+    "呼ぶ": [
+        "rufen"
+    ],
+    "呼吸": [
+        "Atem"
+    ],
+    "呼吸する": [
+        "atmen"
+    ],
+    "咳をする": [
+        "husten"
+    ],
+    "唇": [
+        "Lippe"
+    ],
+    "商品": [
+        "Ware"
+    ],
+    "喉": [
+        "Kehle"
+    ],
+    "喜び": [
+        "Freude"
+    ],
+    "嘘": [
+        "Lüge"
+    ],
+    "噛む": [
+        "beißen"
+    ],
+    "器用な": [
+        "geschickt"
+    ],
+    "四": [
+        "vier"
+    ],
+    "四つ": [
+        "vier"
+    ],
+    "四十": [
+        "vierzig"
+    ],
+    "四月": [
+        "April"
+    ],
+    "回す": [
+        "drehen"
+    ],
+    "回転する": [
+        "sich drehen"
+    ],
+    "国": [
+        "Land"
+    ],
+    "国境": [
+        "Grenze"
+    ],
+    "国家": [
+        "Staat"
+    ],
+    "国王": [
+        "König"
+    ],
+    "土": [
+        "Erde"
+    ],
+    "土地": [
+        "Boden"
+    ],
+    "土曜日": [
+        "Samstag"
+    ],
+    "地域": [
+        "Gegend"
+    ],
+    "垣根": [
+        "Zaun"
+    ],
+    "埃": [
+        "Staub"
+    ],
+    "堅い": [
+        "hart"
+    ],
+    "堆積": [
+        "Haufen"
+    ],
+    "報告": [
+        "Nachricht"
+    ],
+    "場所": [
+        "Ort"
+    ],
+    "塗る": [
+        "streichen"
+    ],
+    "塩": [
+        "Salz"
+    ],
+    "墓": [
+        "Grab"
+    ],
+    "増える": [
+        "zunehmen"
+    ],
+    "声": [
+        "Stimme"
+    ],
+    "売る": [
+        "verkaufen"
+    ],
+    "変える": [
+        "ändern"
+    ],
+    "変わる": [
+        "wechseln"
+    ],
+    "夏": [
+        "Sommer"
+    ],
+    "夕方": [
+        "Abend"
+    ],
+    "夜": [
+        "Nacht"
+    ],
+    "夢": [
+        "Traum"
+    ],
+    "大きい": [
+        "groß"
+    ],
+    "大きさ": [
+        "Größe"
+    ],
+    "天気": [
+        "Wetter"
+    ],
+    "太った": [
+        "fett"
+    ],
+    "太陽": [
+        "Sonne"
+    ],
+    "夫": [
+        "Ehemann"
+    ],
+    "奥さん": [
+        "Ehefrau"
+    ],
+    "女": [
+        "Frau"
+    ],
+    "女の子": [
+        "Mädchen"
+    ],
+    "女性": [
+        "Frau"
+    ],
+    "好きである": [
+        "mögen"
+    ],
+    "妨害する": [
+        "behindern"
+    ],
+    "妹": [
+        "Schwester"
+    ],
+    "妻": [
+        "Ehefrau"
+    ],
+    "始まる": [
+        "beginnen"
+    ],
+    "始める": [
+        "anfangen"
+    ],
+    "娘": [
+        "Tochter"
+    ],
+    "子": [
+        "Kind"
+    ],
+    "子供": [
+        "Kind"
+    ],
+    "学ぶ": [
+        "lernen"
+    ],
+    "守る": [
+        "verteidigen"
+    ],
+    "安い": [
+        "billig"
+    ],
+    "客": [
+        "Gast"
+    ],
+    "家": [
+        "Haus",
+        "Heim"
+    ],
+    "家族": [
+        "Familie"
+    ],
+    "密な": [
+        "dicht"
+    ],
+    "寒い": [
+        "kalt"
+    ],
+    "寒さ": [
+        "Kälte"
+    ],
+    "寒気がする": [
+        "frieren"
+    ],
+    "寝付く": [
+        "einschlafen"
+    ],
+    "導く": [
+        "leiten"
+    ],
+    "小さい": [
+        "klein"
+    ],
+    "小川": [
+        "Bach"
+    ],
+    "小枝": [
+        "Zweig"
+    ],
+    "小路": [
+        "Pfad"
+    ],
+    "少し": [
+        "ein wenig"
+    ],
+    "尖った": [
+        "spitz"
+    ],
+    "尻尾": [
+        "Schwanz"
+    ],
+    "屋根": [
+        "Dach"
+    ],
+    "山": [
+        "Berg"
+    ],
+    "岸": [
+        "Ufer"
+    ],
+    "島": [
+        "Insel"
+    ],
+    "川": [
+        "Fluss"
+    ],
+    "川魳": [
+        "Hecht"
+    ],
+    "巣": [
+        "Nest"
+    ],
+    "左の": [
+        "linker"
+    ],
+    "差し込む": [
+        "stecken"
+    ],
+    "布": [
+        "Stoff"
+    ],
+    "希望": [
+        "Wunsch"
+    ],
+    "帯": [
+        "Gürtel"
+    ],
+    "帰る": [
+        "zurückkommen"
+    ],
+    "帽子": [
+        "Mütze"
+    ],
+    "干し草": [
+        "Heu"
+    ],
+    "平らな": [
+        "flach"
+    ],
+    "年": [
+        "Alter",
+        "Jahr"
+    ],
+    "年を取った": [
+        "alt"
+    ],
+    "年齢": [
+        "Alter"
+    ],
+    "幸せ": [
+        "Glück"
+    ],
+    "幹": [
+        "Stamm"
+    ],
+    "広い": [
+        "breit"
+    ],
+    "床": [
+        "Fußboden"
+    ],
+    "店": [
+        "Laden"
+    ],
+    "座っている": [
+        "sitzen"
+    ],
+    "座らせる": [
+        "setzen"
+    ],
+    "座る": [
+        "sich setzen"
+    ],
+    "建設する": [
+        "bauen"
+    ],
+    "弓": [
+        "Bogen"
+    ],
+    "引きずる": [
+        "schleppen"
+    ],
+    "引き裂く": [
+        "zerreißen"
+    ],
+    "引く": [
+        "ziehen"
+    ],
+    "引っ掻く": [
+        "kratzen"
+    ],
+    "弟": [
+        "Bruder"
+    ],
+    "弱い": [
+        "schwach"
+    ],
+    "強い": [
+        "stark"
+    ],
+    "強さ": [
+        "Stärke"
+    ],
+    "強力な": [
+        "kräftig"
+    ],
+    "当たる": [
+        "geraten"
+    ],
+    "彼": [
+        "er"
+    ],
+    "彼ら": [
+        "sie"
+    ],
+    "待つ": [
+        "warten"
+    ],
+    "後で": [
+        "später"
+    ],
+    "後ろに": [
+        "hinter"
+    ],
+    "後ろへ": [
+        "rückwärts",
+        "zurück"
+    ],
+    "得る": [
+        "bekommen"
+    ],
+    "心": [
+        "Herz"
+    ],
+    "心臓": [
+        "Herz"
+    ],
+    "忘れる": [
+        "vergessen"
+    ],
+    "怒らせる": [
+        "ärgern"
+    ],
+    "怒る": [
+        "sich ärgern"
+    ],
+    "怖がる": [
+        "sich fürchten"
+    ],
+    "思い出す": [
+        "sich erinnern an"
+    ],
+    "怠惰な": [
+        "faul"
+    ],
+    "急ぐ": [
+        "eilen"
+    ],
+    "急に": [
+        "plötzlich"
+    ],
+    "恐れる": [
+        "fürchten"
+    ],
+    "息": [
+        "Atem"
+    ],
+    "息子": [
+        "Sohn"
+    ],
+    "息子さん": [
+        "Sohn"
+    ],
+    "悩み": [
+        "Kummer"
+    ],
+    "悪い": [
+        "böse",
+        "schlecht"
+    ],
+    "悲しい": [
+        "traurig"
+    ],
+    "意味": [
+        "Sinn"
+    ],
+    "愛する": [
+        "lieben"
+    ],
+    "愛らしい": [
+        "lieb"
+    ],
+    "感じる": [
+        "fühlen"
+    ],
+    "感情を動かす": [
+        "rühren"
+    ],
+    "成功する": [
+        "gelingen"
+    ],
+    "或いは": [
+        "oder"
+    ],
+    "戦い": [
+        "Kampf"
+    ],
+    "戦ぐ": [
+        "rauschen"
+    ],
+    "戦争": [
+        "Krieg"
+    ],
+    "戸": [
+        "Tür"
+    ],
+    "所": [
+        "Ort"
+    ],
+    "所持する": [
+        "besitzen"
+    ],
+    "手": [
+        "Hand"
+    ],
+    "手のひら": [
+        "Handfläche"
+    ],
+    "手紙": [
+        "Brief"
+    ],
+    "払う": [
+        "bezahlen"
+    ],
+    "承る": [
+        "vernehmen"
+    ],
+    "投げる": [
+        "werfen"
+    ],
+    "折る": [
+        "beugen"
+    ],
+    "押す": [
+        "drücken"
+    ],
+    "招待する": [
+        "einladen"
+    ],
+    "拭く": [
+        "abwischen"
+    ],
+    "拾う": [
+        "aufheben"
+    ],
+    "持ち上げる": [
+        "hochheben"
+    ],
+    "持って行く": [
+        "bringen"
+    ],
+    "持つ": [
+        "halten"
+    ],
+    "指": [
+        "Finger"
+    ],
+    "挙げる": [
+        "heben"
+    ],
+    "振る": [
+        "schütteln",
+        "schwenken"
+    ],
+    "振動する": [
+        "schwingen"
+    ],
+    "捕る": [
+        "fassen"
+    ],
+    "据える": [
+        "stellen"
+    ],
+    "掃く": [
+        "kehren"
+    ],
+    "掃除する": [
+        "reinigen",
+        "fegen"
+    ],
+    "掘る": [
+        "graben"
+    ],
+    "掛かっている": [
+        "hängen"
+    ],
+    "掛ける": [
+        "aufhängen"
+    ],
+    "掛け布団": [
+        "Decke"
+    ],
+    "探る": [
+        "suchen"
+    ],
+    "掴む": [
+        "packen"
+    ],
+    "描く": [
+        "malen"
+    ],
+    "援助": [
+        "Hilfe"
+    ],
+    "揺さぶる": [
+        "rütteln",
+        "schütteln"
+    ],
+    "揺する": [
+        "wiegen"
+    ],
+    "揺れる": [
+        "schwanken"
+    ],
+    "揺籃": [
+        "Wiege"
+    ],
+    "損傷する": [
+        "beschädigen"
+    ],
+    "損害": [
+        "Schaden"
+    ],
+    "搾乳する": [
+        "melken"
+    ],
+    "摘む": [
+        "pflücken"
+    ],
+    "撃つ": [
+        "schießen"
+    ],
+    "擦る": [
+        "reiben"
+    ],
+    "支払う": [
+        "zahlen"
+    ],
+    "支柱": [
+        "Stütze"
+    ],
+    "支配する": [
+        "beherrschen"
+    ],
+    "改良する": [
+        "verbessern"
+    ],
+    "放牧する": [
+        "hüten"
+    ],
+    "救う": [
+        "retten"
+    ],
+    "教える": [
+        "lehren"
+    ],
+    "教会": [
+        "Kirche"
+    ],
+    "散歩する": [
+        "spazierengehen"
+    ],
+    "数": [
+        "Anzahl"
+    ],
+    "数える": [
+        "zählen"
+    ],
+    "敵": [
+        "Feind"
+    ],
+    "文字": [
+        "Buchstabe"
+    ],
+    "料理": [
+        "Speise"
+    ],
+    "斜面": [
+        "Abhang"
+    ],
+    "新しい": [
+        "neu"
+    ],
+    "新聞": [
+        "Zeitung"
+    ],
+    "日": [
+        "Tag"
+    ],
+    "日曜日": [
+        "Sonntag"
+    ],
+    "明るい": [
+        "hell"
+    ],
+    "明日": [
+        "morgen"
+    ],
+    "星": [
+        "Stern"
+    ],
+    "春": [
+        "Frühling"
+    ],
+    "昨日": [
+        "gestern"
+    ],
+    "昼": [
+        "Mittag"
+    ],
+    "時": [
+        "Zeit"
+    ],
+    "時々": [
+        "manchmal"
+    ],
+    "時間": [
+        "Zeit"
+    ],
+    "晩": [
+        "Abend"
+    ],
+    "暑さ": [
+        "Hitze"
+    ],
+    "暗い": [
+        "dunkel"
+    ],
+    "暴力": [
+        "Gewalt"
+    ],
+    "曲げる": [
+        "biegen"
+    ],
+    "書く": [
+        "schreiben"
+    ],
+    "最初に": [
+        "zuerst"
+    ],
+    "最後の": [
+        "letzter"
+    ],
+    "月": [
+        "Mond",
+        "Monat"
+    ],
+    "月曜日": [
+        "Montag"
+    ],
+    "有名な": [
+        "bekannt",
+        "berühmt"
+    ],
+    "望む": [
+        "wünschen"
+    ],
+    "朝": [
+        "Morgen"
+    ],
+    "期待する": [
+        "erwarten"
+    ],
+    "木": [
+        "Baum",
+        "Holz"
+    ],
+    "木曜日": [
+        "Donnerstag"
+    ],
+    "木材": [
+        "Holz"
+    ],
+    "本": [
+        "Buch"
+    ],
+    "本当の": [
+        "wahr"
+    ],
+    "机": [
+        "Tisch"
+    ],
+    "朽ちる": [
+        "verfaulen"
+    ],
+    "村": [
+        "Dorf"
+    ],
+    "杖": [
+        "Stock"
+    ],
+    "束": [
+        "Bündel"
+    ],
+    "来る": [
+        "kommen"
+    ],
+    "東": [
+        "Osten"
+    ],
+    "松": [
+        "Kiefer"
+    ],
+    "板": [
+        "Brett"
+    ],
+    "枕": [
+        "Kissen"
+    ],
+    "林檎": [
+        "Apfel"
+    ],
+    "枚": [
+        "Scheibe"
+    ],
+    "枝": [
+        "Ast"
+    ],
+    "染める": [
+        "färben"
+    ],
+    "柔らかい": [
+        "weich"
+    ],
+    "柳": [
+        "Weide"
+    ],
+    "栗鼠": [
+        "Eichhörnchen"
+    ],
+    "根": [
+        "Wurzel"
+    ],
+    "案内する": [
+        "führen"
+    ],
+    "梯子": [
+        "Leiter"
+    ],
+    "梳く": [
+        "kämmen"
+    ],
+    "棒": [
+        "Stange",
+        "Stab"
+    ],
+    "棚": [
+        "Regal"
+    ],
+    "森": [
+        "Wald"
+    ],
+    "椅子": [
+        "Stuhl"
+    ],
+    "楽しい": [
+        "lustig"
+    ],
+    "構う": [
+        "stören"
+    ],
+    "樅": [
+        "Tanne"
+    ],
+    "模様": [
+        "Muster"
+    ],
+    "権力": [
+        "Macht"
+    ],
+    "横": [
+        "Seite"
+    ],
+    "横に": [
+        "neben"
+    ],
+    "横になっている": [
+        "liegen"
+    ],
+    "樺": [
+        "Birke"
+    ],
+    "橋": [
+        "Brücke"
+    ],
+    "櫛": [
+        "Kamm"
+    ],
+    "歌": [
+        "Lied"
+    ],
+    "歌う": [
+        "singen"
+    ],
+    "止まる": [
+        "anhalten"
+    ],
+    "止める": [
+        "aufhören"
+    ],
+    "正しい": [
+        "richtig"
+    ],
+    "歩": [
+        "Schritt"
+    ],
+    "歩く": [
+        "laufen"
+    ],
+    "歩み": [
+        "Gang"
+    ],
+    "歯": [
+        "Zahn"
+    ],
+    "死": [
+        "Tod"
+    ],
+    "死ぬ": [
+        "sterben"
+    ],
+    "死亡する": [
+        "umkommen"
+    ],
+    "残す": [
+        "zurücklassen"
+    ],
+    "殴る": [
+        "sich schlagen",
+        "schlagen"
+    ],
+    "殺す": [
+        "töten"
+    ],
+    "母": [
+        "Mutter"
+    ],
+    "毛皮": [
+        "Fell"
+    ],
+    "毛糸": [
+        "Wolle"
+    ],
+    "民族": [
+        "Volk"
+    ],
+    "気": [
+        "Lust"
+    ],
+    "気が付く": [
+        "bemerken"
+    ],
+    "気取る": [
+        "riechen"
+    ],
+    "水": [
+        "Wasser"
+    ],
+    "水をやる": [
+        "gießen"
+    ],
+    "水曜日": [
+        "Mittwoch"
+    ],
+    "氷": [
+        "Eis"
+    ],
+    "汚い": [
+        "schmutzig"
+    ],
+    "汚れ": [
+        "Schmutz"
+    ],
+    "沈む": [
+        "untergehen",
+        "versinken"
+    ],
+    "沸く": [
+        "sieden"
+    ],
+    "油": [
+        "Öl"
+    ],
+    "沼": [
+        "Sumpf"
+    ],
+    "泉": [
+        "Quelle"
+    ],
+    "泡": [
+        "Schaum"
+    ],
+    "波": [
+        "Welle"
+    ],
+    "泣く": [
+        "weinen"
+    ],
+    "泥": [
+        "Dreck"
+    ],
+    "注ぐ": [
+        "schütten"
+    ],
+    "泳ぐ": [
+        "schwimmen"
+    ],
+    "洗う": [
+        "waschen",
+        "spülen",
+        "sich waschen"
+    ],
+    "洗濯する": [
+        "waschen"
+    ],
+    "洞窟": [
+        "Höhle"
+    ],
+    "流れ": [
+        "Strömung"
+    ],
+    "流れる": [
+        "strömen",
+        "fließen"
+    ],
+    "海": [
+        "Meer"
+    ],
+    "海岸": [
+        "Küste"
+    ],
+    "消える": [
+        "verschwinden"
+    ],
+    "涙": [
+        "Träne"
+    ],
+    "涼しい": [
+        "kühl"
+    ],
+    "混ぜる": [
+        "umrühren"
+    ],
+    "清潔な": [
+        "sauber"
+    ],
+    "減る": [
+        "abnehmen"
+    ],
+    "渡す": [
+        "reichen"
+    ],
+    "温かい": [
+        "warm"
+    ],
+    "温和な": [
+        "sanft"
+    ],
+    "測定する": [
+        "messen"
+    ],
+    "湖": [
+        "See"
+    ],
+    "湾": [
+        "Bucht"
+    ],
+    "湿った": [
+        "feucht"
+    ],
+    "湿原": [
+        "Moor"
+    ],
+    "準備する": [
+        "vorbereiten"
+    ],
+    "溶ける": [
+        "tauen",
+        "schmelzen"
+    ],
+    "滑らかな": [
+        "glatt"
+    ],
+    "滴": [
+        "Tropfen"
+    ],
+    "演説": [
+        "Rede"
+    ],
+    "漕ぐ": [
+        "rudern"
+    ],
+    "漿果": [
+        "Beere"
+    ],
+    "潜る": [
+        "tauchen"
+    ],
+    "濡れた": [
+        "nass"
+    ],
+    "火": [
+        "Feuer"
+    ],
+    "火をつける": [
+        "anzünden"
+    ],
+    "火曜日": [
+        "Dienstag"
+    ],
+    "火花": [
+        "Funke"
+    ],
+    "灰": [
+        "Asche"
+    ],
+    "灰色の": [
+        "grau"
+    ],
+    "炒める": [
+        "braten"
+    ],
+    "炭": [
+        "Kohle"
+    ],
+    "為に": [
+        "wegen"
+    ],
+    "烏": [
+        "Krähe"
+    ],
+    "無くす": [
+        "verlieren"
+    ],
+    "無駄に": [
+        "vergebens"
+    ],
+    "焦る": [
+        "sich beeilen"
+    ],
+    "焼く": [
+        "verbrennen",
+        "backen",
+        "braten"
+    ],
+    "煙": [
+        "Rauch"
+    ],
+    "煙を出す": [
+        "rauchen"
+    ],
+    "煮る": [
+        "kochen"
+    ],
+    "熊": [
+        "Bär"
+    ],
+    "熟した": [
+        "reif"
+    ],
+    "熟す": [
+        "reifen"
+    ],
+    "熱": [
+        "Fieber"
+    ],
+    "熱い": [
+        "heiß"
+    ],
+    "燃える": [
+        "brennen"
+    ],
+    "燃やす": [
+        "anzünden"
+    ],
+    "爪": [
+        "Fingernagel",
+        "Nagel",
+        "Kralle"
+    ],
+    "父": [
+        "Vater"
+    ],
+    "片隅": [
+        "Winkel"
+    ],
+    "牛": [
+        "Kuh"
+    ],
+    "牛乳": [
+        "Milch"
+    ],
+    "牧場": [
+        "Weide"
+    ],
+    "物": [
+        "Sache"
+    ],
+    "物件": [
+        "Gegenstand"
+    ],
+    "物語": [
+        "Erzählung"
+    ],
+    "物語る": [
+        "erzählen"
+    ],
+    "犬": [
+        "Hund"
+    ],
+    "狐": [
+        "Fuchs"
+    ],
+    "狩りをする": [
+        "jagen"
+    ],
+    "狭い": [
+        "schmal"
+    ],
+    "狼": [
+        "Wolf"
+    ],
+    "猫": [
+        "Katze"
+    ],
+    "玉葱": [
+        "Zwiebel"
+    ],
+    "現れる": [
+        "erscheinen"
+    ],
+    "理由": [
+        "Grund"
+    ],
+    "理解力": [
+        "Verstand"
+    ],
+    "甘い": [
+        "süß"
+    ],
+    "生きた": [
+        "lebendig"
+    ],
+    "生きている": [
+        "leben"
+    ],
+    "生の": [
+        "roh"
+    ],
+    "生まれる": [
+        "geboren werden"
+    ],
+    "生活": [
+        "Leben"
+    ],
+    "男": [
+        "Mann"
+    ],
+    "男の子": [
+        "Junge"
+    ],
+    "男性": [
+        "Mann"
+    ],
+    "町": [
+        "Stadt"
+    ],
+    "留まる": [
+        "bleiben"
+    ],
+    "疾駆する": [
+        "sausen"
+    ],
+    "病気": [
+        "Krankheit"
+    ],
+    "病気である": [
+        "krank sein"
+    ],
+    "病気になる": [
+        "krank werden"
+    ],
+    "病気の": [
+        "krank"
+    ],
+    "痛み": [
+        "Schmerz"
+    ],
+    "痛む": [
+        "schmerzen"
+    ],
+    "白い": [
+        "weiß"
+    ],
+    "白鳥": [
+        "Schwan"
+    ],
+    "百": [
+        "hundert"
+    ],
+    "皮": [
+        "Schale"
+    ],
+    "皮層": [
+        "Rinde"
+    ],
+    "皮膚": [
+        "Haut"
+    ],
+    "盗る": [
+        "stehlen"
+    ],
+    "盤": [
+        "Platte"
+    ],
+    "目": [
+        "Auge"
+    ],
+    "目が覚める": [
+        "aufwachen"
+    ],
+    "盲目の": [
+        "blind"
+    ],
+    "直す": [
+        "reparieren"
+    ],
+    "真っ直ぐに": [
+        "geradeaus"
+    ],
+    "真ん中": [
+        "Mitte"
+    ],
+    "真実": [
+        "Wahrheit"
+    ],
+    "眠くなる": [
+        "müde werden"
+    ],
+    "眠る": [
+        "schlafen"
+    ],
+    "眺める": [
+        "anschauen"
+    ],
+    "着く": [
+        "ankommen"
+    ],
+    "着る": [
+        "anziehen",
+        "sich anziehen"
+    ],
+    "睡眠": [
+        "Schlaf"
+    ],
+    "矢": [
+        "Pfeil"
+    ],
+    "知っている": [
+        "wissen"
+    ],
+    "短い": [
+        "kurz"
+    ],
+    "石": [
+        "Stein"
+    ],
+    "砂": [
+        "Sand"
+    ],
+    "研ぐ": [
+        "schleifen"
+    ],
+    "破る": [
+        "brechen"
+    ],
+    "破壊する": [
+        "zerstören"
+    ],
+    "硬い": [
+        "fest"
+    ],
+    "社会": [
+        "Gesellschaft"
+    ],
+    "祖母": [
+        "Großmutter"
+    ],
+    "祖父": [
+        "Großvater"
+    ],
+    "神": [
+        "Gott"
+    ],
+    "私": [
+        "ich"
+    ],
+    "私達": [
+        "wir"
+    ],
+    "秋": [
+        "Herbst"
+    ],
+    "移動する": [
+        "sich bewegen"
+    ],
+    "種": [
+        "Saat"
+    ],
+    "種類": [
+        "Art"
+    ],
+    "穀物": [
+        "Getreide"
+    ],
+    "穴": [
+        "Bau",
+        "Grube",
+        "Loch"
+    ],
+    "空": [
+        "Himmel"
+    ],
+    "空の": [
+        "leer"
+    ],
+    "空気": [
+        "Luft"
+    ],
+    "空腹": [
+        "Hunger"
+    ],
+    "空腹の": [
+        "hungrig"
+    ],
+    "突く": [
+        "stechen",
+        "stoßen"
+    ],
+    "窓": [
+        "Fenster"
+    ],
+    "立ち上がる": [
+        "sich erheben"
+    ],
+    "立ち去る": [
+        "weggehen"
+    ],
+    "立っている": [
+        "stehen"
+    ],
+    "童話": [
+        "Märchen"
+    ],
+    "端": [
+        "Rand",
+        "Ende"
+    ],
+    "笑い": [
+        "Gelächter"
+    ],
+    "笑う": [
+        "lachen"
+    ],
+    "管": [
+        "Rohr"
+    ],
+    "箱": [
+        "Kiste"
+    ],
+    "篝火": [
+        "Lagerfeuer"
+    ],
+    "粒": [
+        "Korn"
+    ],
+    "粥": [
+        "Brei"
+    ],
+    "精神": [
+        "Geist"
+    ],
+    "糸": [
+        "Faden"
+    ],
+    "約束する": [
+        "versprechen"
+    ],
+    "紐": [
+        "Schnur"
+    ],
+    "素敵な": [
+        "hübsch"
+    ],
+    "細い": [
+        "fein"
+    ],
+    "終える": [
+        "beenden"
+    ],
+    "終わり": [
+        "Schluss"
+    ],
+    "終わる": [
+        "enden"
+    ],
+    "経つ": [
+        "vergehen"
+    ],
+    "結びつける": [
+        "verbinden"
+    ],
+    "結び目": [
+        "Knoten"
+    ],
+    "絵": [
+        "Bild"
+    ],
+    "綱": [
+        "Leine"
+    ],
+    "網": [
+        "Netz"
+    ],
+    "綺麗な": [
+        "schön"
+    ],
+    "緑の": [
+        "grün"
+    ],
+    "緒": [
+        "Riemen"
+    ],
+    "線": [
+        "Linie",
+        "Strich"
+    ],
+    "編む": [
+        "stricken"
+    ],
+    "縁": [
+        "Kante"
+    ],
+    "縛る": [
+        "binden"
+    ],
+    "縫う": [
+        "nähen"
+    ],
+    "繋ぐ": [
+        "anbinden"
+    ],
+    "罪": [
+        "Sünde",
+        "Schuld"
+    ],
+    "置く": [
+        "stellen",
+        "legen"
+    ],
+    "羊": [
+        "Schaf"
+    ],
+    "美味しい": [
+        "lecker"
+    ],
+    "群れ": [
+        "Herde",
+        "Schwarm"
+    ],
+    "羽": [
+        "Flügel"
+    ],
+    "羽根": [
+        "Feder"
+    ],
+    "考え": [
+        "Gedanke"
+    ],
+    "考える": [
+        "denken"
+    ],
+    "耐える": [
+        "ertragen"
+    ],
+    "耳": [
+        "Ohr"
+    ],
+    "耳が聞こえない": [
+        "taub"
+    ],
+    "聞き取る": [
+        "verstehen"
+    ],
+    "聞く": [
+        "hören",
+        "fragen"
+    ],
+    "聴く": [
+        "zuhören"
+    ],
+    "肉": [
+        "Fleisch"
+    ],
+    "肘": [
+        "Ellenbogen"
+    ],
+    "肝臓": [
+        "Leber"
+    ],
+    "肩": [
+        "Schulter"
+    ],
+    "育てる": [
+        "aufziehen"
+    ],
+    "胃": [
+        "Magen"
+    ],
+    "背中": [
+        "Rücken"
+    ],
+    "胸": [
+        "Brust"
+    ],
+    "脂肪": [
+        "Fett"
+    ],
+    "脱ぐ": [
+        "ausziehen"
+    ],
+    "脳": [
+        "Gehirn"
+    ],
+    "腐る": [
+        "faulen"
+    ],
+    "腕": [
+        "Arm"
+    ],
+    "腱": [
+        "Sehne"
+    ],
+    "腹": [
+        "Bauch"
+    ],
+    "腹を立てる": [
+        "sich ärgern"
+    ],
+    "膝": [
+        "Knie"
+    ],
+    "自慢する": [
+        "prahlen"
+    ],
+    "舌": [
+        "Zunge"
+    ],
+    "良い": [
+        "gut"
+    ],
+    "色々な": [
+        "verschieden"
+    ],
+    "色取り取りの": [
+        "bunt"
+    ],
+    "花": [
+        "Blume"
+    ],
+    "若い": [
+        "jung"
+    ],
+    "苦い": [
+        "bitter"
+    ],
+    "茶": [
+        "Tee"
+    ],
+    "茸": [
+        "Pilz"
+    ],
+    "草": [
+        "Gras"
+    ],
+    "草原": [
+        "Wiese"
+    ],
+    "荷物": [
+        "Last"
+    ],
+    "落ちる": [
+        "fallen"
+    ],
+    "落とす": [
+        "fallen lassen"
+    ],
+    "葉": [
+        "Blatt"
+    ],
+    "蓋": [
+        "Deckel"
+    ],
+    "薄い": [
+        "dünn"
+    ],
+    "薬": [
+        "Arznei"
+    ],
+    "虫": [
+        "Wurm"
+    ],
+    "虱": [
+        "Laus"
+    ],
+    "虹": [
+        "Regenbogen"
+    ],
+    "蚊": [
+        "Mücke"
+    ],
+    "蛇": [
+        "Schlange"
+    ],
+    "蜂蜜": [
+        "Honig"
+    ],
+    "蜘蛛": [
+        "Spinne"
+    ],
+    "蝶": [
+        "Schmetterling"
+    ],
+    "蝿": [
+        "Fliege"
+    ],
+    "蟻": [
+        "Ameise"
+    ],
+    "血": [
+        "Blut"
+    ],
+    "血管": [
+        "Ader"
+    ],
+    "行く": [
+        "fahren",
+        "gehen"
+    ],
+    "街道": [
+        "Straße"
+    ],
+    "衣服": [
+        "Kleidung"
+    ],
+    "袋": [
+        "Beutel",
+        "Sack"
+    ],
+    "袖": [
+        "Ärmel"
+    ],
+    "裏返す": [
+        "wenden",
+        "umdrehen"
+    ],
+    "裕福な": [
+        "reich"
+    ],
+    "裸の": [
+        "nackt"
+    ],
+    "製造する": [
+        "herstellen"
+    ],
+    "褒める": [
+        "loben"
+    ],
+    "襟": [
+        "Kragen"
+    ],
+    "西": [
+        "Westen"
+    ],
+    "覆う": [
+        "bedecken",
+        "zudecken"
+    ],
+    "見える": [
+        "zu sehen sein"
+    ],
+    "見せる": [
+        "zeigen"
+    ],
+    "見つける": [
+        "finden"
+    ],
+    "見る": [
+        "sehen",
+        "ansehen"
+    ],
+    "見張る": [
+        "bewachen"
+    ],
+    "見知らぬ": [
+        "fremd"
+    ],
+    "親": [
+        "Eltern"
+    ],
+    "角": [
+        "Horn",
+        "Ecke"
+    ],
+    "触る": [
+        "berühren"
+    ],
+    "触れる": [
+        "berühren"
+    ],
+    "言う": [
+        "sagen"
+    ],
+    "言葉": [
+        "Wort"
+    ],
+    "言語": [
+        "Sprache"
+    ],
+    "計る": [
+        "messen"
+    ],
+    "計算する": [
+        "rechnen"
+    ],
+    "記号": [
+        "Zeichen"
+    ],
+    "記憶": [
+        "Gedächtnis"
+    ],
+    "訪ねる": [
+        "besuchen"
+    ],
+    "訳す": [
+        "übersetzen"
+    ],
+    "試す": [
+        "versuchen"
+    ],
+    "話す": [
+        "sprechen",
+        "reden"
+    ],
+    "話をする": [
+        "sich unterhalten"
+    ],
+    "認識する": [
+        "erkennen"
+    ],
+    "誘う": [
+        "einladen"
+    ],
+    "読む": [
+        "lesen"
+    ],
+    "誰": [
+        "wer"
+    ],
+    "調理する": [
+        "zubereiten"
+    ],
+    "謎": [
+        "Rätsel"
+    ],
+    "豊かさ": [
+        "Reichtum"
+    ],
+    "豚": [
+        "Schwein"
+    ],
+    "貧乏な": [
+        "arm"
+    ],
+    "貴重な": [
+        "wertvoll"
+    ],
+    "買う": [
+        "kaufen"
+    ],
+    "貼る": [
+        "kleben"
+    ],
+    "賢い": [
+        "klug"
+    ],
+    "贈り物": [
+        "Geschenk"
+    ],
+    "贈る": [
+        "schenken"
+    ],
+    "赤い": [
+        "rot"
+    ],
+    "走る": [
+        "rennen"
+    ],
+    "起きる": [
+        "aufstehen"
+    ],
+    "起こす": [
+        "wecken"
+    ],
+    "起こる": [
+        "passieren"
+    ],
+    "足": [
+        "Fuß",
+        "Bein"
+    ],
+    "足の指": [
+        "Zeh"
+    ],
+    "距離": [
+        "Abstand",
+        "Entfernung"
+    ],
+    "跡": [
+        "Spur"
+    ],
+    "跨ぐ": [
+        "schreiten"
+    ],
+    "跳ぶ": [
+        "springen"
+    ],
+    "踊る": [
+        "tanzen"
+    ],
+    "蹴る": [
+        "treten"
+    ],
+    "転ぶ": [
+        "hinfallen"
+    ],
+    "軽微する": [
+        "bewachen"
+    ],
+    "輝く": [
+        "scheinen",
+        "glänzen"
+    ],
+    "輪": [
+        "Schlinge",
+        "Ring"
+    ],
+    "辺": [
+        "Gegend"
+    ],
+    "近い": [
+        "nah"
+    ],
+    "追う": [
+        "treiben"
+    ],
+    "送る": [
+        "schicken"
+    ],
+    "逃げる": [
+        "fliehen"
+    ],
+    "逃亡する": [
+        "flüchten"
+    ],
+    "逆巻く": [
+        "brausen"
+    ],
+    "這う": [
+        "kriechen"
+    ],
+    "通して": [
+        "durch"
+    ],
+    "通知する": [
+        "unterrichten"
+    ],
+    "週": [
+        "Woche"
+    ],
+    "遊び": [
+        "Spiel"
+    ],
+    "遊ぶ": [
+        "spielen"
+    ],
+    "運ぶ": [
+        "tragen"
+    ],
+    "過去に": [
+        "einst"
+    ],
+    "道": [
+        "Weg"
+    ],
+    "達人": [
+        "Meister"
+    ],
+    "遠い": [
+        "fern"
+    ],
+    "選ぶ": [
+        "wählen",
+        "auswählen"
+    ],
+    "邪魔する": [
+        "belästigen"
+    ],
+    "部分": [
+        "Stück",
+        "Teil"
+    ],
+    "郭公": [
+        "Kuckuck"
+    ],
+    "都市": [
+        "Stadt"
+    ],
+    "酸っぱい": [
+        "sauer"
+    ],
+    "重い": [
+        "schwer"
+    ],
+    "重さ": [
+        "Gewicht"
+    ],
+    "量": [
+        "Menge"
+    ],
+    "金": [
+        "Gold",
+        "Geld"
+    ],
+    "金曜日": [
+        "Freitag"
+    ],
+    "釘": [
+        "Nagel"
+    ],
+    "釜": [
+        "Kessel"
+    ],
+    "針": [
+        "Nadel"
+    ],
+    "釣る": [
+        "fischen"
+    ],
+    "鈍い": [
+        "stumpf"
+    ],
+    "鉄": [
+        "Eisen"
+    ],
+    "鉤": [
+        "Haken"
+    ],
+    "鉤爪": [
+        "Klaue"
+    ],
+    "銀": [
+        "Silber"
+    ],
+    "銃": [
+        "Gewehr"
+    ],
+    "鋭い": [
+        "scharf"
+    ],
+    "錠": [
+        "Schloss"
+    ],
+    "鍋": [
+        "Topf"
+    ],
+    "鏡": [
+        "Spiegel"
+    ],
+    "長い": [
+        "lang"
+    ],
+    "長い間": [
+        "lange"
+    ],
+    "長さ": [
+        "Länge"
+    ],
+    "門": [
+        "Tor"
+    ],
+    "閉まった": [
+        "geschlossen"
+    ],
+    "閉める": [
+        "schließen"
+    ],
+    "開いた": [
+        "offen"
+    ],
+    "開く": [
+        "öffnen"
+    ],
+    "開ける": [
+        "öffnen"
+    ],
+    "間に": [
+        "zwischen"
+    ],
+    "間もなく": [
+        "bald"
+    ],
+    "間違い": [
+        "Fehler"
+    ],
+    "陰": [
+        "Schatten"
+    ],
+    "陸": [
+        "Festland"
+    ],
+    "隠す": [
+        "verstecken",
+        "verbergen"
+    ],
+    "雄牛": [
+        "Bulle"
+    ],
+    "雄鶏": [
+        "Hahn"
+    ],
+    "集まる": [
+        "sich versammeln"
+    ],
+    "集める": [
+        "sammeln"
+    ],
+    "雨": [
+        "Regen"
+    ],
+    "雨が降る": [
+        "regnen"
+    ],
+    "雪": [
+        "Schnee"
+    ],
+    "雲": [
+        "Wolke"
+    ],
+    "雷": [
+        "Donner"
+    ],
+    "雷が鳴る": [
+        "donnern"
+    ],
+    "震える": [
+        "zittern"
+    ],
+    "霜": [
+        "Frost"
+    ],
+    "霧": [
+        "Nebel"
+    ],
+    "霧氷": [
+        "Raureif"
+    ],
+    "青い": [
+        "blau"
+    ],
+    "静けさ": [
+        "Ruhe"
+    ],
+    "革": [
+        "Leder"
+    ],
+    "靴": [
+        "Schuh"
+    ],
+    "音": [
+        "Laut",
+        "Ton"
+    ],
+    "頂上": [
+        "Gipfel"
+    ],
+    "預かる": [
+        "aufbewahren"
+    ],
+    "頬": [
+        "Wange"
+    ],
+    "頭": [
+        "Kopf"
+    ],
+    "頭のいい": [
+        "klug"
+    ],
+    "頼む": [
+        "bitten"
+    ],
+    "額": [
+        "Stirn"
+    ],
+    "顎": [
+        "Kinn",
+        "Kiefer"
+    ],
+    "顔": [
+        "Gesicht"
+    ],
+    "風": [
+        "Wind"
+    ],
+    "飛ぶ": [
+        "fliegen"
+    ],
+    "食べてみる": [
+        "probieren"
+    ],
+    "食べる": [
+        "essen"
+    ],
+    "食事": [
+        "Essen"
+    ],
+    "食器": [
+        "Geschirr"
+    ],
+    "食物": [
+        "Nahrung"
+    ],
+    "飲み込む": [
+        "schlucken"
+    ],
+    "飲む": [
+        "trinken"
+    ],
+    "飾る": [
+        "schmücken"
+    ],
+    "餌をやる": [
+        "füttern"
+    ],
+    "首": [
+        "Hals",
+        "Genick"
+    ],
+    "馬": [
+        "Pferd"
+    ],
+    "馬鹿な": [
+        "dumm"
+    ],
+    "駄目な": [
+        "schlecht"
+    ],
+    "騒ぐ": [
+        "lärmen"
+    ],
+    "騒音": [
+        "Lärm"
+    ],
+    "骨": [
+        "Knochen"
+    ],
+    "高い": [
+        "teuer"
+    ],
+    "高さ": [
+        "Höhe"
+    ],
+    "高み": [
+        "Anhöhe"
+    ],
+    "髪": [
+        "Haar"
+    ],
+    "髭": [
+        "Bart"
+    ],
+    "魚": [
+        "Fisch"
+    ],
+    "鱸": [
+        "Barsch"
+    ],
+    "鳥": [
+        "Vogel"
+    ],
+    "鳴る": [
+        "läuten",
+        "klingeln",
+        "klingen"
+    ],
+    "鴨": [
+        "Ente"
+    ],
+    "鶏": [
+        "Huhn"
+    ],
+    "鶴": [
+        "Kranich"
+    ],
+    "鷲": [
+        "Adler"
+    ],
+    "麦": [
+        "Getreide"
+    ],
+    "黄色い": [
+        "gelb"
+    ],
+    "黒い": [
+        "schwarz"
+    ],
+    "鼠": [
+        "Maus"
+    ],
+    "鼻": [
+        "Nase"
+    ],
+    "～させる": [
+        "lassen"
+    ],
+    "～だけ": [
+        "nur"
+    ]
+}

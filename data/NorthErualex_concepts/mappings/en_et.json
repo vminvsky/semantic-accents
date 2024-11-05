@@ -1,0 +1,3081 @@
+{
+    "April": [
+        "aprill"
+    ],
+    "August": [
+        "august"
+    ],
+    "December": [
+        "detsember"
+    ],
+    "February": [
+        "veebruar"
+    ],
+    "Friday": [
+        "reede"
+    ],
+    "I": [
+        "mina"
+    ],
+    "January": [
+        "jaanuar"
+    ],
+    "July": [
+        "juuli"
+    ],
+    "June": [
+        "juuni"
+    ],
+    "March": [
+        "märts"
+    ],
+    "May": [
+        "mai"
+    ],
+    "Monday": [
+        "esmaspäev"
+    ],
+    "November": [
+        "november"
+    ],
+    "October": [
+        "oktoober"
+    ],
+    "Saturday": [
+        "laupäev"
+    ],
+    "September": [
+        "september"
+    ],
+    "Sunday": [
+        "pühapäev"
+    ],
+    "Thursday": [
+        "neljapäev"
+    ],
+    "Tuesday": [
+        "teisipäev"
+    ],
+    "Wednesday": [
+        "kesknädal"
+    ],
+    "a hundred": [
+        "sada"
+    ],
+    "a little": [
+        "veidi",
+        "natuke"
+    ],
+    "a thousand": [
+        "tuhat"
+    ],
+    "above": [
+        "ülal"
+    ],
+    "ache": [
+        "valutama"
+    ],
+    "add": [
+        "lisama"
+    ],
+    "afterwards": [
+        "seejärel"
+    ],
+    "again": [
+        "jälle"
+    ],
+    "age": [
+        "iga"
+    ],
+    "aged": [
+        "vana"
+    ],
+    "ahead": [
+        "otse edasi"
+    ],
+    "air": [
+        "õhk"
+    ],
+    "alone": [
+        "üksi"
+    ],
+    "already": [
+        "juba"
+    ],
+    "alter": [
+        "muutma",
+        "ümber tegema"
+    ],
+    "always": [
+        "ikka",
+        "alati"
+    ],
+    "amount": [
+        "arv",
+        "hulk"
+    ],
+    "and": [
+        "ja"
+    ],
+    "angle": [
+        "nurk"
+    ],
+    "animal": [
+        "loom"
+    ],
+    "annoy": [
+        "ärritama",
+        "vihastama"
+    ],
+    "ant": [
+        "sipelgas"
+    ],
+    "appear": [
+        "ilmuma"
+    ],
+    "apple": [
+        "õun"
+    ],
+    "area": [
+        "ümbrus"
+    ],
+    "arm": [
+        "käsivars"
+    ],
+    "arrive": [
+        "saabuma"
+    ],
+    "arrow": [
+        "nool"
+    ],
+    "ashes": [
+        "tuhk"
+    ],
+    "ask": [
+        "küsima"
+    ],
+    "assemble": [
+        "kogunema"
+    ],
+    "at first": [
+        "enne",
+        "esmalt"
+    ],
+    "at once": [
+        "korraga",
+        "ühekorraga"
+    ],
+    "at that time": [
+        "tookord"
+    ],
+    "aunt": [
+        "tädi"
+    ],
+    "autumn": [
+        "sügis"
+    ],
+    "back": [
+        "selg",
+        "tagasi"
+    ],
+    "backward": [
+        "tagurpidi"
+    ],
+    "bad": [
+        "halb"
+    ],
+    "bag": [
+        "kott"
+    ],
+    "bake": [
+        "küpsetama"
+    ],
+    "bark": [
+        "koor",
+        "haukuma"
+    ],
+    "bath": [
+        "suplema",
+        "kümblema"
+    ],
+    "be afraid": [
+        "kartma",
+        "hirmu tundma"
+    ],
+    "be afraid of": [
+        "kartma"
+    ],
+    "be alive": [
+        "elama",
+        "elus olema"
+    ],
+    "be annoyed": [
+        "ärrituma",
+        "vihastuma"
+    ],
+    "be born": [
+        "sündima"
+    ],
+    "be cold": [
+        "külmetada"
+    ],
+    "be ill": [
+        "haige olema"
+    ],
+    "be noisy": [
+        "lärmama"
+    ],
+    "bear": [
+        "karu"
+    ],
+    "beard": [
+        "habe"
+    ],
+    "beat": [
+        "lööma"
+    ],
+    "beautiful": [
+        "kena"
+    ],
+    "because of": [
+        "tõttu",
+        "pärast"
+    ],
+    "become": [
+        "saama",
+        "hakkama"
+    ],
+    "bed": [
+        "voodi"
+    ],
+    "before": [
+        "enne"
+    ],
+    "begin": [
+        "algama",
+        "hakkama"
+    ],
+    "behind": [
+        "taha"
+    ],
+    "believe": [
+        "uskuma"
+    ],
+    "belly": [
+        "kõht"
+    ],
+    "below": [
+        "all",
+        "allpool"
+    ],
+    "belt": [
+        "vöö"
+    ],
+    "bend": [
+        "painutama"
+    ],
+    "berry": [
+        "mari"
+    ],
+    "between": [
+        "vahel"
+    ],
+    "big": [
+        "suur"
+    ],
+    "birch": [
+        "kask"
+    ],
+    "bird": [
+        "lind"
+    ],
+    "bite": [
+        "purema",
+        "hammustama"
+    ],
+    "bitter": [
+        "mõru"
+    ],
+    "black": [
+        "must"
+    ],
+    "blanket": [
+        "tekk"
+    ],
+    "blind": [
+        "pime"
+    ],
+    "blood": [
+        "veri"
+    ],
+    "blow": [
+        "puhuma",
+        "puhuma"
+    ],
+    "blue": [
+        "sinine"
+    ],
+    "blunt": [
+        "nüri"
+    ],
+    "board": [
+        "saelaud"
+    ],
+    "boat": [
+        "paat"
+    ],
+    "body": [
+        "ihu",
+        "keha"
+    ],
+    "boil": [
+        "keema",
+        "keetma"
+    ],
+    "bone": [
+        "luu"
+    ],
+    "book": [
+        "raamat"
+    ],
+    "boot": [
+        "saabas"
+    ],
+    "border": [
+        "piir"
+    ],
+    "bosom": [
+        "rind"
+    ],
+    "boss": [
+        "ülemus",
+        "juhataja"
+    ],
+    "bother": [
+        "ahistama"
+    ],
+    "bow": [
+        "vibu",
+        "painutama"
+    ],
+    "box": [
+        "kast"
+    ],
+    "boy": [
+        "poiss"
+    ],
+    "bracket": [
+        "tugi"
+    ],
+    "brag": [
+        "hooplema"
+    ],
+    "brain": [
+        "aju"
+    ],
+    "branch": [
+        "oks"
+    ],
+    "brawl": [
+        "kaklema"
+    ],
+    "bread": [
+        "sai",
+        "leib"
+    ],
+    "break": [
+        "murdma",
+        "katki tegema"
+    ],
+    "breast": [
+        "rind"
+    ],
+    "breath": [
+        "hingeõhk",
+        "hingamine"
+    ],
+    "breathe": [
+        "hingama"
+    ],
+    "bridge": [
+        "sild"
+    ],
+    "bright": [
+        "hele"
+    ],
+    "bring": [
+        "viima"
+    ],
+    "bring up": [
+        "üles kasvatama"
+    ],
+    "brook": [
+        "oja"
+    ],
+    "broom": [
+        "luud"
+    ],
+    "brother": [
+        "vend"
+    ],
+    "bucket": [
+        "pang",
+        "ämber"
+    ],
+    "budge": [
+        "liikuma"
+    ],
+    "build": [
+        "ehitama"
+    ],
+    "bull": [
+        "pull"
+    ],
+    "bundle": [
+        "kimp"
+    ],
+    "burn": [
+        "põlema",
+        "põletama"
+    ],
+    "business": [
+        "äri"
+    ],
+    "butter": [
+        "või"
+    ],
+    "butterfly": [
+        "liblikas"
+    ],
+    "button": [
+        "nööp"
+    ],
+    "buy": [
+        "ostma"
+    ],
+    "calculate": [
+        "arvutama"
+    ],
+    "call": [
+        "hüüe",
+        "kutsuma"
+    ],
+    "calm": [
+        "rahu",
+        "vaikus"
+    ],
+    "campfire": [
+        "lõke"
+    ],
+    "can": [
+        "võima",
+        "oskama"
+    ],
+    "cap": [
+        "müts"
+    ],
+    "carry": [
+        "kandma"
+    ],
+    "cat": [
+        "kass"
+    ],
+    "catch": [
+        "püüdma",
+        "püüdma"
+    ],
+    "cave": [
+        "koobas"
+    ],
+    "chair": [
+        "tool"
+    ],
+    "change": [
+        "vahelduma"
+    ],
+    "character": [
+        "täht"
+    ],
+    "chat": [
+        "vestlema"
+    ],
+    "cheap": [
+        "odav"
+    ],
+    "cheat": [
+        "petma",
+        "tüssama",
+        "truudust murtma"
+    ],
+    "cheek": [
+        "põsk"
+    ],
+    "chest": [
+        "rind"
+    ],
+    "chicken": [
+        "kana"
+    ],
+    "child": [
+        "laps"
+    ],
+    "chill": [
+        "külm",
+        "külmus"
+    ],
+    "chime": [
+        "helisema"
+    ],
+    "chin": [
+        "lõug"
+    ],
+    "choose": [
+        "valima"
+    ],
+    "chop": [
+        "raiuma",
+        "lõhkuma"
+    ],
+    "church": [
+        "kirik"
+    ],
+    "circle": [
+        "ring"
+    ],
+    "claw": [
+        "küüs",
+        "küünis"
+    ],
+    "clay": [
+        "savi"
+    ],
+    "clean": [
+        "puhas",
+        "puhastama"
+    ],
+    "clever": [
+        "tark",
+        "arukas",
+        "mõistlik"
+    ],
+    "climb": [
+        "ronima"
+    ],
+    "close": [
+        "sulgema"
+    ],
+    "closed": [
+        "suletud"
+    ],
+    "cloth": [
+        "kangas"
+    ],
+    "clothes": [
+        "riided",
+        "riietus"
+    ],
+    "cloud": [
+        "pilv"
+    ],
+    "coal": [
+        "süsi"
+    ],
+    "coast": [
+        "rannik"
+    ],
+    "cock": [
+        "kukk"
+    ],
+    "cold": [
+        "külm"
+    ],
+    "collar": [
+        "krae"
+    ],
+    "colourful": [
+        "kirju",
+        "värviline"
+    ],
+    "comb": [
+        "kamm",
+        "kammima"
+    ],
+    "come": [
+        "tulema"
+    ],
+    "come back": [
+        "tagasi tulema"
+    ],
+    "companion": [
+        "sõber"
+    ],
+    "company": [
+        "selts"
+    ],
+    "conceal": [
+        "peitma",
+        "varjama"
+    ],
+    "conclusion": [
+        "lõpp"
+    ],
+    "connect": [
+        "ühendama"
+    ],
+    "convey": [
+        "teatama",
+        "teada andma"
+    ],
+    "cook": [
+        "valmistama"
+    ],
+    "cool": [
+        "jahe"
+    ],
+    "corn": [
+        "teravili"
+    ],
+    "corner": [
+        "nurk"
+    ],
+    "correct": [
+        "õige"
+    ],
+    "cough": [
+        "köhima"
+    ],
+    "count": [
+        "arv",
+        "hulk",
+        "loendama"
+    ],
+    "country": [
+        "maa"
+    ],
+    "cove": [
+        "laht"
+    ],
+    "cover": [
+        "kaas",
+        "katma",
+        "kaanetama",
+        "kinni katma"
+    ],
+    "cow": [
+        "lehm"
+    ],
+    "cradle": [
+        "häll",
+        "kätki"
+    ],
+    "crane": [
+        "kurg"
+    ],
+    "creep": [
+        "roomama"
+    ],
+    "cross": [
+        "rist"
+    ],
+    "crow": [
+        "vares"
+    ],
+    "cuckoo": [
+        "kägu"
+    ],
+    "cup": [
+        "tass"
+    ],
+    "current": [
+        "voolus",
+        "jõevool"
+    ],
+    "cut": [
+        "lõikama"
+    ],
+    "cut off": [
+        "ära lõikama"
+    ],
+    "damage": [
+        "kahju",
+        "rikkuma"
+    ],
+    "damp": [
+        "niiske"
+    ],
+    "dance": [
+        "tantsima"
+    ],
+    "dark": [
+        "pime"
+    ],
+    "dash": [
+        "kihutama",
+        "tormama"
+    ],
+    "daughter": [
+        "tütar"
+    ],
+    "day": [
+        "päev"
+    ],
+    "deaf": [
+        "kurt"
+    ],
+    "dear": [
+        "kallis",
+        "armas"
+    ],
+    "death": [
+        "surm"
+    ],
+    "decay": [
+        "mädanema"
+    ],
+    "deceive": [
+        "petma",
+        "tüssama"
+    ],
+    "decorate": [
+        "kaunistama"
+    ],
+    "decrease": [
+        "vähenema",
+        "kahenema"
+    ],
+    "defend": [
+        "kaitsma"
+    ],
+    "delicate": [
+        "peen",
+        "õhuke"
+    ],
+    "delicious": [
+        "hõrk",
+        "maitsev"
+    ],
+    "dense": [
+        "tihe"
+    ],
+    "depart": [
+        "väljuma",
+        "ära sõitma"
+    ],
+    "desire": [
+        "himu"
+    ],
+    "destroy": [
+        "purustama"
+    ],
+    "die": [
+        "surema"
+    ],
+    "different": [
+        "erinev"
+    ],
+    "dig": [
+        "kaevama"
+    ],
+    "diligent": [
+        "virk",
+        "hoolas"
+    ],
+    "dirt": [
+        "pori",
+        "mustus"
+    ],
+    "dirty": [
+        "räpane",
+        "määrdunud"
+    ],
+    "disappear": [
+        "kaduma"
+    ],
+    "dish": [
+        "roog"
+    ],
+    "dishes": [
+        "nõud"
+    ],
+    "distance": [
+        "kaugus",
+        "vahemaa"
+    ],
+    "disturb": [
+        "segama",
+        "häirima"
+    ],
+    "dive": [
+        "sukelduma"
+    ],
+    "divide": [
+        "jagama",
+        "jaotama"
+    ],
+    "do": [
+        "tegema"
+    ],
+    "doctor": [
+        "arst"
+    ],
+    "dog": [
+        "koer"
+    ],
+    "doll": [
+        "nukk"
+    ],
+    "door": [
+        "uks"
+    ],
+    "down": [
+        "alla"
+    ],
+    "drag": [
+        "tassima",
+        "lohistama"
+    ],
+    "draw": [
+        "joonistama"
+    ],
+    "dream": [
+        "unenägu"
+    ],
+    "drink": [
+        "jooma"
+    ],
+    "drive": [
+        "sõitma",
+        "ajama"
+    ],
+    "drop": [
+        "tilk",
+        "vajuma",
+        "langema",
+        "maha pillama",
+        "kukkuda laskma"
+    ],
+    "dry": [
+        "kuiv",
+        "kuivama"
+    ],
+    "duck": [
+        "part"
+    ],
+    "dust": [
+        "põrm"
+    ],
+    "dwell": [
+        "elama"
+    ],
+    "dye": [
+        "värvima"
+    ],
+    "eagle": [
+        "kotkas"
+    ],
+    "ear": [
+        "kõrv"
+    ],
+    "earth": [
+        "maa"
+    ],
+    "east": [
+        "ida"
+    ],
+    "eat": [
+        "sööma"
+    ],
+    "edge": [
+        "kant"
+    ],
+    "egg": [
+        "muna"
+    ],
+    "eight": [
+        "kaheksa"
+    ],
+    "eighty": [
+        "kaheksakümmend"
+    ],
+    "elbow": [
+        "küünarnukk"
+    ],
+    "elevation": [
+        "küngas"
+    ],
+    "eleven": [
+        "üksteist"
+    ],
+    "elk": [
+        "põder"
+    ],
+    "empty": [
+        "tühi"
+    ],
+    "end": [
+        "ots",
+        "jupp",
+        "lõppema"
+    ],
+    "endure": [
+        "taluma"
+    ],
+    "enemy": [
+        "vaenlane"
+    ],
+    "enter": [
+        "sisenema",
+        "sisse astuma"
+    ],
+    "escape": [
+        "põgenema"
+    ],
+    "evening": [
+        "õhtu"
+    ],
+    "everything": [
+        "kõik"
+    ],
+    "everywhere": [
+        "kõikjal"
+    ],
+    "evil": [
+        "tige"
+    ],
+    "eye": [
+        "silm"
+    ],
+    "face": [
+        "nägu"
+    ],
+    "fairy tale": [
+        "muinasjutt"
+    ],
+    "fall": [
+        "langema"
+    ],
+    "fall asleep": [
+        "uinuma"
+    ],
+    "fall ill": [
+        "haigestuma",
+        "haigeks jääma"
+    ],
+    "familiar": [
+        "teada",
+        "tuttav"
+    ],
+    "family": [
+        "perekond"
+    ],
+    "famous": [
+        "tuntud"
+    ],
+    "far": [
+        "kauge"
+    ],
+    "fat": [
+        "rasv",
+        "rasvane"
+    ],
+    "father": [
+        "isa"
+    ],
+    "fault": [
+        "süü"
+    ],
+    "feather": [
+        "sulg"
+    ],
+    "feed": [
+        "söötma"
+    ],
+    "feel": [
+        "tundma"
+    ],
+    "fence": [
+        "aed",
+        "tara"
+    ],
+    "fever": [
+        "palavik"
+    ],
+    "fifty": [
+        "viiskümmend"
+    ],
+    "fight": [
+        "võitlus"
+    ],
+    "figure": [
+        "kuju",
+        "kujund"
+    ],
+    "fill": [
+        "täitma"
+    ],
+    "filth": [
+        "saast",
+        "mustus"
+    ],
+    "find": [
+        "leidma"
+    ],
+    "finger": [
+        "sõrm"
+    ],
+    "fingernail": [
+        "küüs"
+    ],
+    "finish": [
+        "lõpetama"
+    ],
+    "fir": [
+        "nulg"
+    ],
+    "fire": [
+        "tuli"
+    ],
+    "firm": [
+        "püsiv",
+        "kindel"
+    ],
+    "first": [
+        "esimene"
+    ],
+    "fish": [
+        "kala",
+        "kalastama",
+        "kala püüdma"
+    ],
+    "five": [
+        "viis"
+    ],
+    "flat": [
+        "lame",
+        "tasane"
+    ],
+    "flavour": [
+        "maitse"
+    ],
+    "flee": [
+        "põgenema"
+    ],
+    "flock": [
+        "kari"
+    ],
+    "floor": [
+        "põrand"
+    ],
+    "flow": [
+        "voolama"
+    ],
+    "flower": [
+        "lill"
+    ],
+    "fly": [
+        "kärbes",
+        "lendama"
+    ],
+    "foam": [
+        "vaht"
+    ],
+    "fog": [
+        "udu"
+    ],
+    "food": [
+        "toit"
+    ],
+    "foot": [
+        "jalg"
+    ],
+    "force": [
+        "jõud"
+    ],
+    "forehead": [
+        "otsmik"
+    ],
+    "foreign": [
+        "võõras"
+    ],
+    "forest": [
+        "mets"
+    ],
+    "forget": [
+        "unustama"
+    ],
+    "fork": [
+        "kahvel"
+    ],
+    "former": [
+        "endine"
+    ],
+    "forty": [
+        "nelikümmend"
+    ],
+    "forward": [
+        "edasi"
+    ],
+    "four": [
+        "neli"
+    ],
+    "fox": [
+        "rebane"
+    ],
+    "freeze": [
+        "kinni külmuma"
+    ],
+    "fresh": [
+        "värske"
+    ],
+    "friend": [
+        "sõber"
+    ],
+    "fringe": [
+        "äär",
+        "serv"
+    ],
+    "frost": [
+        "pakane"
+    ],
+    "fry": [
+        "praadima"
+    ],
+    "full": [
+        "täis"
+    ],
+    "fur": [
+        "karvkate",
+        "karusnahk"
+    ],
+    "game": [
+        "mäng"
+    ],
+    "gap": [
+        "vahe"
+    ],
+    "gate": [
+        "värav"
+    ],
+    "gather": [
+        "koguma",
+        "korjama"
+    ],
+    "gentle": [
+        "õrn"
+    ],
+    "get": [
+        "saama"
+    ],
+    "get dressed": [
+        "riietuma"
+    ],
+    "get tired": [
+        "väsima"
+    ],
+    "get up": [
+        "ärkama",
+        "üles tõusma"
+    ],
+    "gift": [
+        "kingitus"
+    ],
+    "girl": [
+        "tüdruk"
+    ],
+    "give": [
+        "andma",
+        "kinkima"
+    ],
+    "glass": [
+        "klaas"
+    ],
+    "glue": [
+        "kleepima"
+    ],
+    "go": [
+        "käima",
+        "minema"
+    ],
+    "go away": [
+        "ära minema",
+        "välja minema"
+    ],
+    "go for a walk": [
+        "jalutama"
+    ],
+    "go in": [
+        "sisenema",
+        "sisse minema"
+    ],
+    "god": [
+        "jumal"
+    ],
+    "gold": [
+        "kuld"
+    ],
+    "good": [
+        "hea"
+    ],
+    "goose": [
+        "hani"
+    ],
+    "grab": [
+        "kinni haarama",
+        "kinni võtma"
+    ],
+    "grain": [
+        "iva",
+        "tera"
+    ],
+    "grandfather": [
+        "vanaisa"
+    ],
+    "grandmother": [
+        "vanaema"
+    ],
+    "grasp": [
+        "aru saama"
+    ],
+    "grass": [
+        "rohi"
+    ],
+    "grave": [
+        "haud"
+    ],
+    "green": [
+        "roheline"
+    ],
+    "grey": [
+        "hall"
+    ],
+    "grief": [
+        "mure",
+        "kurbus"
+    ],
+    "grind": [
+        "lihvima",
+        "teritama"
+    ],
+    "groan": [
+        "oigama"
+    ],
+    "ground": [
+        "maa",
+        "pinnas"
+    ],
+    "grow": [
+        "kasvama"
+    ],
+    "grumble": [
+        "sõimama"
+    ],
+    "guard": [
+        "valvama"
+    ],
+    "guest": [
+        "külaline"
+    ],
+    "guide": [
+        "juhatama"
+    ],
+    "gun": [
+        "püss"
+    ],
+    "hair": [
+        "juus"
+    ],
+    "half": [
+        "pool"
+    ],
+    "hand": [
+        "käsi",
+        "andma",
+        "ulatama"
+    ],
+    "handle": [
+        "sang",
+        "käepide"
+    ],
+    "hang": [
+        "rippuma"
+    ],
+    "hang up": [
+        "riputama"
+    ],
+    "happen": [
+        "juhtuma"
+    ],
+    "happiness": [
+        "õnn"
+    ],
+    "hard": [
+        "kõva"
+    ],
+    "hardly": [
+        "vaevalt"
+    ],
+    "hare": [
+        "jänes"
+    ],
+    "hay": [
+        "hein"
+    ],
+    "he": [
+        "tema"
+    ],
+    "head": [
+        "pea"
+    ],
+    "health": [
+        "tervis"
+    ],
+    "heap": [
+        "hunnik"
+    ],
+    "hear": [
+        "kuulma",
+        "üle kuulama"
+    ],
+    "heart": [
+        "süda"
+    ],
+    "heat": [
+        "kuumus",
+        "palavus"
+    ],
+    "heavy": [
+        "raske"
+    ],
+    "heel": [
+        "kand"
+    ],
+    "height": [
+        "kõrgus"
+    ],
+    "help": [
+        "abi"
+    ],
+    "hence": [
+        "siit"
+    ],
+    "herd": [
+        "karjatama"
+    ],
+    "here": [
+        "siin"
+    ],
+    "hide": [
+        "peitma"
+    ],
+    "hill": [
+        "küngas"
+    ],
+    "hinder": [
+        "takistama"
+    ],
+    "hit": [
+        "lööma"
+    ],
+    "hither": [
+        "siia"
+    ],
+    "hoarfrost": [
+        "härmatis"
+    ],
+    "hold": [
+        "hoidma"
+    ],
+    "hole": [
+        "auk"
+    ],
+    "home": [
+        "kodu"
+    ],
+    "honey": [
+        "mesi"
+    ],
+    "hook": [
+        "haak",
+        "konks"
+    ],
+    "horn": [
+        "sarv"
+    ],
+    "horse": [
+        "hobune"
+    ],
+    "hot": [
+        "kuum",
+        "palav"
+    ],
+    "house": [
+        "maja"
+    ],
+    "how": [
+        "kuidas"
+    ],
+    "how much": [
+        "mitu",
+        "kui palju"
+    ],
+    "howl": [
+        "uluma"
+    ],
+    "human": [
+        "inimene"
+    ],
+    "hunger": [
+        "nälg"
+    ],
+    "hungry": [
+        "näljane"
+    ],
+    "hunt": [
+        "jahtima"
+    ],
+    "hurry": [
+        "ruttama",
+        "kiirustama"
+    ],
+    "husband": [
+        "mees",
+        "abikaasa"
+    ],
+    "husk": [
+        "koor"
+    ],
+    "ice": [
+        "jää"
+    ],
+    "illness": [
+        "haigus"
+    ],
+    "improve": [
+        "parandama"
+    ],
+    "in front of": [
+        "ees"
+    ],
+    "in vain": [
+        "asjata"
+    ],
+    "increase": [
+        "kasvama"
+    ],
+    "instantly": [
+        "kohe"
+    ],
+    "instruct": [
+        "õpetama"
+    ],
+    "invite": [
+        "kutsuma"
+    ],
+    "iron": [
+        "raud"
+    ],
+    "island": [
+        "saar"
+    ],
+    "item": [
+        "ese"
+    ],
+    "jaw": [
+        "lõualuu"
+    ],
+    "jolt": [
+        "raputama"
+    ],
+    "joy": [
+        "rõõm"
+    ],
+    "jump": [
+        "hüppama"
+    ],
+    "keep": [
+        "säilitama",
+        "alal hoidma"
+    ],
+    "kettle": [
+        "pada"
+    ],
+    "kick": [
+        "sõtkuma"
+    ],
+    "kill": [
+        "tapma",
+        "surmama"
+    ],
+    "king": [
+        "kuningas"
+    ],
+    "kiss": [
+        "suudlema"
+    ],
+    "knee": [
+        "põlv"
+    ],
+    "knife": [
+        "nuga"
+    ],
+    "knit": [
+        "kuduma"
+    ],
+    "knock": [
+        "koputama"
+    ],
+    "knot": [
+        "sõlm"
+    ],
+    "know": [
+        "teadma"
+    ],
+    "ladder": [
+        "redel"
+    ],
+    "lair": [
+        "urg"
+    ],
+    "lake": [
+        "järv"
+    ],
+    "land": [
+        "mander",
+        "maismaa"
+    ],
+    "language": [
+        "keel"
+    ],
+    "last": [
+        "viimane"
+    ],
+    "later": [
+        "hiljem"
+    ],
+    "laugh": [
+        "naerma"
+    ],
+    "laughter": [
+        "naer"
+    ],
+    "lay": [
+        "panema",
+        "asetama"
+    ],
+    "lazy": [
+        "laisk"
+    ],
+    "lead": [
+        "juhtima"
+    ],
+    "leaf": [
+        "leht"
+    ],
+    "learn": [
+        "õppima"
+    ],
+    "leash": [
+        "jalutusrihm"
+    ],
+    "leather": [
+        "nahk"
+    ],
+    "leave": [
+        "jätma",
+        "maha jätma"
+    ],
+    "left": [
+        "vasak"
+    ],
+    "leg": [
+        "jalg"
+    ],
+    "length": [
+        "pikkus"
+    ],
+    "let": [
+        "laskma"
+    ],
+    "letter": [
+        "kiri"
+    ],
+    "lick": [
+        "lakkuma"
+    ],
+    "lie": [
+        "vale",
+        "lamama"
+    ],
+    "life": [
+        "elu"
+    ],
+    "lift": [
+        "üles tõstma",
+        "kõrgele tõstma"
+    ],
+    "light": [
+        "valgus",
+        "süütama"
+    ],
+    "like": [
+        "sallima",
+        "meeldima"
+    ],
+    "limb": [
+        "oks"
+    ],
+    "line": [
+        "joon"
+    ],
+    "lip": [
+        "huul"
+    ],
+    "listen": [
+        "kuulama"
+    ],
+    "little": [
+        "väike",
+        "pisike"
+    ],
+    "liver": [
+        "maks"
+    ],
+    "living": [
+        "elus"
+    ],
+    "load": [
+        "koorem"
+    ],
+    "lock": [
+        "lukk"
+    ],
+    "long": [
+        "pikk",
+        "kaua"
+    ],
+    "look at": [
+        "vaatama"
+    ],
+    "look for": [
+        "otsima"
+    ],
+    "lose": [
+        "kaotama"
+    ],
+    "louse": [
+        "täi"
+    ],
+    "love": [
+        "armastama"
+    ],
+    "make": [
+        "tegema"
+    ],
+    "man": [
+        "mees"
+    ],
+    "master": [
+        "meister"
+    ],
+    "matter": [
+        "asi"
+    ],
+    "meadow": [
+        "aas",
+        "nurm"
+    ],
+    "meal": [
+        "söök"
+    ],
+    "meaning": [
+        "tähendus"
+    ],
+    "measure": [
+        "mõõtma"
+    ],
+    "meat": [
+        "liha"
+    ],
+    "medicine": [
+        "ravim"
+    ],
+    "meet": [
+        "kohtama"
+    ],
+    "melt": [
+        "sulama"
+    ],
+    "memory": [
+        "mälu"
+    ],
+    "mend": [
+        "parandama"
+    ],
+    "merry": [
+        "lõbus"
+    ],
+    "message": [
+        "teade"
+    ],
+    "middle": [
+        "keskpaik"
+    ],
+    "midge": [
+        "sääsk"
+    ],
+    "milk": [
+        "piim",
+        "lüpsma"
+    ],
+    "mind": [
+        "aru",
+        "mõistus"
+    ],
+    "mirror": [
+        "peegel"
+    ],
+    "misfortune": [
+        "häda",
+        "õnnetus"
+    ],
+    "mistake": [
+        "viga"
+    ],
+    "money": [
+        "raha"
+    ],
+    "month": [
+        "kuu"
+    ],
+    "moon": [
+        "kuu"
+    ],
+    "moor": [
+        "raba"
+    ],
+    "morning": [
+        "hommik"
+    ],
+    "mother": [
+        "ema"
+    ],
+    "mountain": [
+        "mägi"
+    ],
+    "mouse": [
+        "hiir"
+    ],
+    "moustache": [
+        "vurrud",
+        "vuntsid"
+    ],
+    "mouth": [
+        "suu"
+    ],
+    "move": [
+        "liikuma",
+        "liigutama",
+        "heldima panema"
+    ],
+    "mush": [
+        "puder"
+    ],
+    "mushroom": [
+        "seen"
+    ],
+    "nail": [
+        "küüs",
+        "nael"
+    ],
+    "naked": [
+        "alasti"
+    ],
+    "name": [
+        "nimi",
+        "nimetama"
+    ],
+    "nape": [
+        "kukal"
+    ],
+    "narrow": [
+        "kitsas"
+    ],
+    "nasty": [
+        "paha"
+    ],
+    "nation": [
+        "rahvas"
+    ],
+    "navel": [
+        "naba"
+    ],
+    "near": [
+        "lähedane"
+    ],
+    "neck": [
+        "kael"
+    ],
+    "needle": [
+        "nõel"
+    ],
+    "nest": [
+        "pesa"
+    ],
+    "net": [
+        "võrk"
+    ],
+    "never": [
+        "mitte kunagi"
+    ],
+    "new": [
+        "uus"
+    ],
+    "news": [
+        "uudis"
+    ],
+    "newspaper": [
+        "ajaleht"
+    ],
+    "next to": [
+        "kõrval"
+    ],
+    "night": [
+        "öö"
+    ],
+    "nine": [
+        "üheksa"
+    ],
+    "ninety": [
+        "üheksakümmend"
+    ],
+    "noise": [
+        "müra"
+    ],
+    "noon": [
+        "lõuna",
+        "keskpäev"
+    ],
+    "noose": [
+        "aas"
+    ],
+    "north": [
+        "põhi"
+    ],
+    "nose": [
+        "nina"
+    ],
+    "not": [
+        "ei",
+        "mitte"
+    ],
+    "notice": [
+        "märkama"
+    ],
+    "now": [
+        "nüüd"
+    ],
+    "oar": [
+        "aer"
+    ],
+    "odour": [
+        "lõhn"
+    ],
+    "often": [
+        "tihti",
+        "sageli"
+    ],
+    "oil": [
+        "õli"
+    ],
+    "old": [
+        "vana"
+    ],
+    "once": [
+        "vanasti",
+        "kord",
+        "üks kord"
+    ],
+    "one": [
+        "üks"
+    ],
+    "onion": [
+        "sibul"
+    ],
+    "only": [
+        "ainult"
+    ],
+    "open": [
+        "avatud",
+        "lahtine",
+        "avama"
+    ],
+    "or": [
+        "või"
+    ],
+    "other": [
+        "muu",
+        "teine"
+    ],
+    "owl": [
+        "kakk",
+        "öökull"
+    ],
+    "own": [
+        "omama"
+    ],
+    "pace": [
+        "astuma"
+    ],
+    "pain": [
+        "valu"
+    ],
+    "paint": [
+        "värv",
+        "maalima"
+    ],
+    "palm": [
+        "pihk"
+    ],
+    "parents": [
+        "vanemad"
+    ],
+    "part": [
+        "osa"
+    ],
+    "pass": [
+        "mööduma"
+    ],
+    "pasture": [
+        "karjamaa"
+    ],
+    "path": [
+        "rada"
+    ],
+    "pattern": [
+        "muster"
+    ],
+    "pay": [
+        "maksma"
+    ],
+    "pay for": [
+        "tasuma"
+    ],
+    "people": [
+        "inimesed"
+    ],
+    "perch": [
+        "ahven"
+    ],
+    "perish": [
+        "surma saama"
+    ],
+    "pick": [
+        "noppima"
+    ],
+    "pick up": [
+        "üles tõstma"
+    ],
+    "picture": [
+        "pilt"
+    ],
+    "piece": [
+        "tükk"
+    ],
+    "pig": [
+        "siga"
+    ],
+    "pike": [
+        "haug"
+    ],
+    "pillow": [
+        "padi"
+    ],
+    "pine": [
+        "mänd"
+    ],
+    "pipe": [
+        "toru"
+    ],
+    "pit": [
+        "kaevand"
+    ],
+    "place": [
+        "paik",
+        "panema"
+    ],
+    "play": [
+        "mängima"
+    ],
+    "pointed": [
+        "torkav"
+    ],
+    "pole": [
+        "latt",
+        "teivas"
+    ],
+    "poor": [
+        "vaene"
+    ],
+    "pot": [
+        "pada"
+    ],
+    "pouch": [
+        "paun"
+    ],
+    "pour": [
+        "kallama"
+    ],
+    "power": [
+        "võim"
+    ],
+    "powerful": [
+        "jõuline"
+    ],
+    "praise": [
+        "kiitma"
+    ],
+    "precious": [
+        "väärtuslik"
+    ],
+    "prepare": [
+        "valmistama"
+    ],
+    "preserve": [
+        "hoidma"
+    ],
+    "press": [
+        "pigistama"
+    ],
+    "pretty": [
+        "kena"
+    ],
+    "price": [
+        "hind"
+    ],
+    "produce": [
+        "valmistama"
+    ],
+    "profit": [
+        "tulu",
+        "kasulikkus"
+    ],
+    "promise": [
+        "lubama",
+        "tõotama"
+    ],
+    "protect": [
+        "kaitsma"
+    ],
+    "pull": [
+        "vedama",
+        "tõmbama"
+    ],
+    "push": [
+        "lükkama"
+    ],
+    "put": [
+        "panema",
+        "asetama"
+    ],
+    "put on": [
+        "jalga panema"
+    ],
+    "puzzle": [
+        "mõistatus"
+    ],
+    "rain": [
+        "sadu",
+        "sadama"
+    ],
+    "rainbow": [
+        "vikerkaar"
+    ],
+    "raise": [
+        "tõstma"
+    ],
+    "raw": [
+        "toores"
+    ],
+    "read": [
+        "lugema"
+    ],
+    "reason": [
+        "põhjus"
+    ],
+    "receive": [
+        "saama"
+    ],
+    "recognize": [
+        "ära tundma"
+    ],
+    "recover": [
+        "toibuma"
+    ],
+    "red": [
+        "punane"
+    ],
+    "relax": [
+        "puhkama"
+    ],
+    "remember": [
+        "mäletama"
+    ],
+    "request": [
+        "paluma"
+    ],
+    "rescue": [
+        "päästma"
+    ],
+    "revolve": [
+        "pöörduma"
+    ],
+    "ribbon": [
+        "lint"
+    ],
+    "rich": [
+        "rikas"
+    ],
+    "right": [
+        "parem"
+    ],
+    "ring": [
+        "sõrmus",
+        "helisema"
+    ],
+    "rinse": [
+        "uhtma"
+    ],
+    "ripe": [
+        "küps"
+    ],
+    "ripen": [
+        "valmima"
+    ],
+    "rise": [
+        "tõusma",
+        "tõusma",
+        "üles minema"
+    ],
+    "river": [
+        "jõgi"
+    ],
+    "road": [
+        "tee"
+    ],
+    "roar": [
+        "kohisema"
+    ],
+    "rock": [
+        "hällitama"
+    ],
+    "roof": [
+        "katus"
+    ],
+    "root": [
+        "juur"
+    ],
+    "rot": [
+        "mädanema"
+    ],
+    "round": [
+        "ümar"
+    ],
+    "row": [
+        "rivi",
+        "sõudma"
+    ],
+    "rub": [
+        "hõõruma"
+    ],
+    "rule": [
+        "valitsema"
+    ],
+    "run": [
+        "jooksma",
+        "kihutama"
+    ],
+    "rush": [
+        "ruttama",
+        "kiirustama"
+    ],
+    "rustle": [
+        "kohisema"
+    ],
+    "sack": [
+        "kott"
+    ],
+    "sad": [
+        "kurb"
+    ],
+    "salt": [
+        "sool"
+    ],
+    "sand": [
+        "liiv"
+    ],
+    "say": [
+        "ütlema"
+    ],
+    "scarf": [
+        "kalev"
+    ],
+    "scrape": [
+        "kraapima"
+    ],
+    "sea": [
+        "meri"
+    ],
+    "second": [
+        "teine"
+    ],
+    "see": [
+        "nägema"
+    ],
+    "seed": [
+        "seeme"
+    ],
+    "seek": [
+        "otsima"
+    ],
+    "seem": [
+        "näida",
+        "ilmuda"
+    ],
+    "seesaw": [
+        "kiikuma"
+    ],
+    "seize": [
+        "haarama"
+    ],
+    "select": [
+        "valima"
+    ],
+    "sell": [
+        "müüma"
+    ],
+    "send": [
+        "saatma"
+    ],
+    "separate": [
+        "lahku minema"
+    ],
+    "set": [
+        "loojuma"
+    ],
+    "seven": [
+        "seitse"
+    ],
+    "seventy": [
+        "seitsekümmend"
+    ],
+    "sew": [
+        "õmblema"
+    ],
+    "shadow": [
+        "vari"
+    ],
+    "shake": [
+        "raputama",
+        "loksutama"
+    ],
+    "sharp": [
+        "terav"
+    ],
+    "sheep": [
+        "lammas"
+    ],
+    "shelf": [
+        "riiul"
+    ],
+    "shine": [
+        "paistma",
+        "läikimä"
+    ],
+    "shirt": [
+        "särk"
+    ],
+    "shoe": [
+        "king"
+    ],
+    "shoot": [
+        "tulistama"
+    ],
+    "shop": [
+        "pood",
+        "kauplus"
+    ],
+    "shore": [
+        "kallas"
+    ],
+    "short": [
+        "lühike"
+    ],
+    "shoulder": [
+        "õlg"
+    ],
+    "shout": [
+        "karjuma"
+    ],
+    "shove": [
+        "tõukama"
+    ],
+    "shovel": [
+        "kühvel"
+    ],
+    "show": [
+        "ilmuma",
+        "näitama"
+    ],
+    "sick": [
+        "haige"
+    ],
+    "side": [
+        "pool"
+    ],
+    "sign": [
+        "märk"
+    ],
+    "silver": [
+        "hõbe"
+    ],
+    "sin": [
+        "patt"
+    ],
+    "sinew": [
+        "kõõlus"
+    ],
+    "sing": [
+        "laulma"
+    ],
+    "sink": [
+        "uppuma"
+    ],
+    "sister": [
+        "õde"
+    ],
+    "sit": [
+        "istuma"
+    ],
+    "sit down": [
+        "istet võtma"
+    ],
+    "six": [
+        "kuus"
+    ],
+    "sixty": [
+        "kuuskümmend"
+    ],
+    "size": [
+        "suurus"
+    ],
+    "ski": [
+        "suusk"
+    ],
+    "skilful": [
+        "osav"
+    ],
+    "skin": [
+        "nahk"
+    ],
+    "sky": [
+        "taevas"
+    ],
+    "slab": [
+        "plaat"
+    ],
+    "sleep": [
+        "uni",
+        "magama"
+    ],
+    "sleeve": [
+        "varrukas"
+    ],
+    "sleigh": [
+        "saan"
+    ],
+    "slice": [
+        "viil",
+        "viilukas"
+    ],
+    "slim": [
+        "sale"
+    ],
+    "slope": [
+        "nõlvak"
+    ],
+    "smell": [
+        "nuusutama"
+    ],
+    "smoke": [
+        "suits",
+        "suitsema"
+    ],
+    "smooth": [
+        "sile"
+    ],
+    "snake": [
+        "uss"
+    ],
+    "snap": [
+        "rebenema"
+    ],
+    "snow": [
+        "lumi"
+    ],
+    "so": [
+        "nii"
+    ],
+    "soft": [
+        "pehme"
+    ],
+    "soil": [
+        "maa",
+        "pinnas"
+    ],
+    "sometimes": [
+        "mõnikord"
+    ],
+    "son": [
+        "poeg"
+    ],
+    "song": [
+        "laul"
+    ],
+    "soon": [
+        "pea",
+        "varsti"
+    ],
+    "sort": [
+        "liik"
+    ],
+    "sound": [
+        "hääl",
+        "kõlama"
+    ],
+    "soup": [
+        "supp"
+    ],
+    "sour": [
+        "hapu"
+    ],
+    "source": [
+        "allikas"
+    ],
+    "south": [
+        "lõuna"
+    ],
+    "space": [
+        "ruum"
+    ],
+    "spade": [
+        "labidas"
+    ],
+    "spark": [
+        "säde"
+    ],
+    "sparkle": [
+        "sädelema"
+    ],
+    "speak": [
+        "rääkima",
+        "kõnelema"
+    ],
+    "speech": [
+        "kõne"
+    ],
+    "spider": [
+        "ämblik"
+    ],
+    "spin": [
+        "keerama"
+    ],
+    "spine": [
+        "selg"
+    ],
+    "spirit": [
+        "vaim"
+    ],
+    "spoil": [
+        "rikkuma"
+    ],
+    "spoon": [
+        "lusikas"
+    ],
+    "spread": [
+        "silitama"
+    ],
+    "spring": [
+        "kevad"
+    ],
+    "squirrel": [
+        "orav"
+    ],
+    "staff": [
+        "varras"
+    ],
+    "stand": [
+        "seisma"
+    ],
+    "stand up": [
+        "kerkima"
+    ],
+    "star": [
+        "täht"
+    ],
+    "start": [
+        "hakkama",
+        "alustama"
+    ],
+    "state": [
+        "riik"
+    ],
+    "stay": [
+        "jääma"
+    ],
+    "steal": [
+        "varastama"
+    ],
+    "step": [
+        "samm"
+    ],
+    "stick": [
+        "kepp",
+        "pistma"
+    ],
+    "still": [
+        "veel"
+    ],
+    "sting": [
+        "pistma",
+        "torkama"
+    ],
+    "stingy": [
+        "ihne"
+    ],
+    "stir": [
+        "segama"
+    ],
+    "stomach": [
+        "magu"
+    ],
+    "stone": [
+        "kivi"
+    ],
+    "stop": [
+        "peatuma",
+        "lakkama"
+    ],
+    "story": [
+        "jutustus"
+    ],
+    "stove": [
+        "ahi"
+    ],
+    "strap": [
+        "rihm"
+    ],
+    "stream": [
+        "voolama"
+    ],
+    "strength": [
+        "tugevus"
+    ],
+    "string": [
+        "nöör"
+    ],
+    "stroke": [
+        "joon"
+    ],
+    "strong": [
+        "tugev"
+    ],
+    "stupid": [
+        "juhm",
+        "rumal"
+    ],
+    "succeed": [
+        "õnnestuma"
+    ],
+    "suddenly": [
+        "äkki",
+        "järsku"
+    ],
+    "summer": [
+        "suvi"
+    ],
+    "summit": [
+        "mäetipp"
+    ],
+    "sun": [
+        "päike"
+    ],
+    "swallow": [
+        "neelama"
+    ],
+    "swamp": [
+        "soo"
+    ],
+    "swan": [
+        "luik"
+    ],
+    "swarm": [
+        "parv"
+    ],
+    "sway": [
+        "kõikuma"
+    ],
+    "sweep": [
+        "pühkima",
+        "pühkima"
+    ],
+    "sweet": [
+        "magus"
+    ],
+    "swim": [
+        "ujuma"
+    ],
+    "swing": [
+        "võnkuma",
+        "vehkima",
+        "lehvitama"
+    ],
+    "table": [
+        "laud"
+    ],
+    "tail": [
+        "saba"
+    ],
+    "take": [
+        "võtma"
+    ],
+    "take off": [
+        "käest võtma",
+        "jalast võtma",
+        "seljast võtma"
+    ],
+    "talk": [
+        "kõne",
+        "vestlus",
+        "kõnelema"
+    ],
+    "taste": [
+        "proovima"
+    ],
+    "tea": [
+        "tee"
+    ],
+    "teach": [
+        "õpetama"
+    ],
+    "teacher": [
+        "õpetaja"
+    ],
+    "tear": [
+        "pisar",
+        "katki rebima"
+    ],
+    "tear off": [
+        "rebima",
+        "ära rebima"
+    ],
+    "tell": [
+        "jutustama"
+    ],
+    "ten": [
+        "kümme"
+    ],
+    "that": [
+        "see"
+    ],
+    "thaw": [
+        "sulama"
+    ],
+    "then": [
+        "siis"
+    ],
+    "there": [
+        "seal"
+    ],
+    "they": [
+        "nad"
+    ],
+    "thick": [
+        "jäme"
+    ],
+    "thigh": [
+        "reis"
+    ],
+    "thin": [
+        "õhuke",
+        "peenike"
+    ],
+    "thing": [
+        "ese"
+    ],
+    "think": [
+        "mõtlema"
+    ],
+    "third": [
+        "kolmas"
+    ],
+    "thirty": [
+        "kolmkümmend"
+    ],
+    "this": [
+        "see"
+    ],
+    "thither": [
+        "sinna"
+    ],
+    "thou": [
+        "sina"
+    ],
+    "thought": [
+        "mõte"
+    ],
+    "thread": [
+        "niit"
+    ],
+    "three": [
+        "kolm"
+    ],
+    "throat": [
+        "kõri"
+    ],
+    "through": [
+        "läbi",
+        "kaudu"
+    ],
+    "throw": [
+        "viskama"
+    ],
+    "thunder": [
+        "kõu",
+        "müristamine",
+        "kõmisema"
+    ],
+    "tie": [
+        "siduma"
+    ],
+    "tie up": [
+        "kinni siduma"
+    ],
+    "time": [
+        "aeg"
+    ],
+    "tinkle": [
+        "kõlisema"
+    ],
+    "tip": [
+        "teravik"
+    ],
+    "today": [
+        "täna"
+    ],
+    "toe": [
+        "varvas"
+    ],
+    "together": [
+        "koos",
+        "üheskoos"
+    ],
+    "tomorrow": [
+        "homme"
+    ],
+    "tone": [
+        "toon"
+    ],
+    "tongue": [
+        "keel"
+    ],
+    "tooth": [
+        "hammas"
+    ],
+    "touch": [
+        "riivama",
+        "puudutama"
+    ],
+    "towel": [
+        "käterätik"
+    ],
+    "town": [
+        "linn"
+    ],
+    "track": [
+        "jälg"
+    ],
+    "translate": [
+        "tõlkima"
+    ],
+    "trap": [
+        "lõks",
+        "püünis"
+    ],
+    "tree": [
+        "puu"
+    ],
+    "tremble": [
+        "värisema"
+    ],
+    "trousers": [
+        "püksid"
+    ],
+    "true": [
+        "tõene"
+    ],
+    "trunk": [
+        "tüvi"
+    ],
+    "truth": [
+        "tõde"
+    ],
+    "try": [
+        "püüdma",
+        "üritama",
+        "katsetama"
+    ],
+    "tumble": [
+        "kukkuma",
+        "maha kukkuma"
+    ],
+    "turn": [
+        "ümber pöörama"
+    ],
+    "turn around": [
+        "ümber keerama"
+    ],
+    "turn out": [
+        "jõudma"
+    ],
+    "twelve": [
+        "kaksteist"
+    ],
+    "twenty": [
+        "kakskümmend"
+    ],
+    "two": [
+        "kaks"
+    ],
+    "uncle": [
+        "onu"
+    ],
+    "under": [
+        "all"
+    ],
+    "understand": [
+        "mõistma"
+    ],
+    "unite": [
+        "ühendama"
+    ],
+    "up": [
+        "üles"
+    ],
+    "urge": [
+        "ergutama"
+    ],
+    "vein": [
+        "veen"
+    ],
+    "very": [
+        "väga"
+    ],
+    "village": [
+        "küla"
+    ],
+    "violence": [
+        "väevõim"
+    ],
+    "visit": [
+        "külastama"
+    ],
+    "voice": [
+        "hääl"
+    ],
+    "wait": [
+        "ootama"
+    ],
+    "wait for": [
+        "ootama",
+        "lootma"
+    ],
+    "wake": [
+        "äratama"
+    ],
+    "wake up": [
+        "ärkama"
+    ],
+    "walk": [
+        "käik",
+        "kõndima"
+    ],
+    "want": [
+        "tahtma"
+    ],
+    "war": [
+        "sõda"
+    ],
+    "ware": [
+        "kaup"
+    ],
+    "warm": [
+        "soe"
+    ],
+    "wash": [
+        "pesema",
+        "end pesema"
+    ],
+    "watch": [
+        "vaatama"
+    ],
+    "water": [
+        "vesi",
+        "kastma"
+    ],
+    "wave": [
+        "laine"
+    ],
+    "way": [
+        "tee"
+    ],
+    "we": [
+        "me"
+    ],
+    "weak": [
+        "nõrk",
+        "jõuetu"
+    ],
+    "wealth": [
+        "rikkus"
+    ],
+    "weather": [
+        "ilm"
+    ],
+    "week": [
+        "nädal"
+    ],
+    "weep": [
+        "nutma"
+    ],
+    "weight": [
+        "kaal",
+        "raskus"
+    ],
+    "well": [
+        "kaev"
+    ],
+    "west": [
+        "lääs"
+    ],
+    "wet": [
+        "märg"
+    ],
+    "what": [
+        "mis"
+    ],
+    "where": [
+        "kus"
+    ],
+    "where ... to": [
+        "kuhu"
+    ],
+    "whistle": [
+        "vilistama"
+    ],
+    "white": [
+        "valge"
+    ],
+    "who": [
+        "kes"
+    ],
+    "why": [
+        "miks"
+    ],
+    "wide": [
+        "lai"
+    ],
+    "wife": [
+        "naine",
+        "abikaasa"
+    ],
+    "willow": [
+        "paju"
+    ],
+    "win": [
+        "võitma"
+    ],
+    "wind": [
+        "tuul"
+    ],
+    "window": [
+        "aken"
+    ],
+    "wing": [
+        "tiib",
+        "tiivik"
+    ],
+    "winter": [
+        "talv"
+    ],
+    "wipe": [
+        "puhtaks pühkima"
+    ],
+    "wish": [
+        "soov",
+        "soovima"
+    ],
+    "wolf": [
+        "hunt"
+    ],
+    "woman": [
+        "naine"
+    ],
+    "wood": [
+        "puu"
+    ],
+    "wool": [
+        "vill"
+    ],
+    "word": [
+        "sõna"
+    ],
+    "work": [
+        "töö",
+        "töötama"
+    ],
+    "worker": [
+        "tööline"
+    ],
+    "world": [
+        "maailm"
+    ],
+    "worm": [
+        "uss",
+        "vagel"
+    ],
+    "wound": [
+        "haav"
+    ],
+    "wrap": [
+        "sisse mähkima"
+    ],
+    "write": [
+        "kirjutama"
+    ],
+    "year": [
+        "aasta"
+    ],
+    "yellow": [
+        "kollane"
+    ],
+    "yesterday": [
+        "eile"
+    ],
+    "you": [
+        "sina",
+        "te"
+    ],
+    "young": [
+        "noor"
+    ]
+}

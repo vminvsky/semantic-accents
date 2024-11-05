@@ -1,0 +1,3045 @@
+{
+    "Abend": [
+        "evening"
+    ],
+    "Abhang": [
+        "slope"
+    ],
+    "Abstand": [
+        "gap"
+    ],
+    "Ader": [
+        "vein"
+    ],
+    "Adler": [
+        "eagle"
+    ],
+    "Alter": [
+        "age"
+    ],
+    "Ameise": [
+        "ant"
+    ],
+    "Angelegenheit": [
+        "matter"
+    ],
+    "Anhöhe": [
+        "elevation"
+    ],
+    "Anzahl": [
+        "count"
+    ],
+    "Apfel": [
+        "apple"
+    ],
+    "April": [
+        "April"
+    ],
+    "Arbeit": [
+        "work"
+    ],
+    "Arbeiter": [
+        "worker"
+    ],
+    "Arm": [
+        "arm"
+    ],
+    "Art": [
+        "sort"
+    ],
+    "Arznei": [
+        "medicine"
+    ],
+    "Arzt": [
+        "doctor"
+    ],
+    "Asche": [
+        "ashes"
+    ],
+    "Ast": [
+        "limb"
+    ],
+    "Atem": [
+        "breath"
+    ],
+    "Auge": [
+        "eye"
+    ],
+    "August": [
+        "August"
+    ],
+    "Bach": [
+        "brook"
+    ],
+    "Band": [
+        "ribbon"
+    ],
+    "Barsch": [
+        "perch"
+    ],
+    "Bart": [
+        "beard"
+    ],
+    "Bau": [
+        "lair"
+    ],
+    "Bauch": [
+        "belly"
+    ],
+    "Baum": [
+        "tree"
+    ],
+    "Beere": [
+        "berry"
+    ],
+    "Bein": [
+        "leg"
+    ],
+    "Berg": [
+        "mountain"
+    ],
+    "Besen": [
+        "broom"
+    ],
+    "Bett": [
+        "bed"
+    ],
+    "Beutel": [
+        "pouch"
+    ],
+    "Bild": [
+        "picture"
+    ],
+    "Birke": [
+        "birch"
+    ],
+    "Blatt": [
+        "leaf"
+    ],
+    "Blume": [
+        "flower"
+    ],
+    "Blut": [
+        "blood"
+    ],
+    "Boden": [
+        "soil",
+        "ground"
+    ],
+    "Bogen": [
+        "bow"
+    ],
+    "Boot": [
+        "boat"
+    ],
+    "Brei": [
+        "mush"
+    ],
+    "Brett": [
+        "board"
+    ],
+    "Brief": [
+        "letter"
+    ],
+    "Brot": [
+        "bread"
+    ],
+    "Bruder": [
+        "brother"
+    ],
+    "Brunnen": [
+        "well"
+    ],
+    "Brust": [
+        "chest",
+        "breast"
+    ],
+    "Brücke": [
+        "bridge"
+    ],
+    "Buch": [
+        "book"
+    ],
+    "Buchstabe": [
+        "character"
+    ],
+    "Bucht": [
+        "cove"
+    ],
+    "Bulle": [
+        "bull"
+    ],
+    "Busen": [
+        "bosom"
+    ],
+    "Butter": [
+        "butter"
+    ],
+    "Bär": [
+        "bear"
+    ],
+    "Bündel": [
+        "bundle"
+    ],
+    "Chef": [
+        "boss"
+    ],
+    "Dach": [
+        "roof"
+    ],
+    "Decke": [
+        "blanket"
+    ],
+    "Deckel": [
+        "cover"
+    ],
+    "Dezember": [
+        "December"
+    ],
+    "Dienstag": [
+        "Tuesday"
+    ],
+    "Donner": [
+        "thunder"
+    ],
+    "Donnerstag": [
+        "Thursday"
+    ],
+    "Dorf": [
+        "village"
+    ],
+    "Dreck": [
+        "filth"
+    ],
+    "Ecke": [
+        "corner"
+    ],
+    "Ehefrau": [
+        "wife"
+    ],
+    "Ehemann": [
+        "husband"
+    ],
+    "Ei": [
+        "egg"
+    ],
+    "Eichhörnchen": [
+        "squirrel"
+    ],
+    "Eimer": [
+        "bucket"
+    ],
+    "Eis": [
+        "ice"
+    ],
+    "Eisen": [
+        "iron"
+    ],
+    "Elch": [
+        "elk"
+    ],
+    "Ellenbogen": [
+        "elbow"
+    ],
+    "Eltern": [
+        "parents"
+    ],
+    "Ende": [
+        "end"
+    ],
+    "Ente": [
+        "duck"
+    ],
+    "Entfernung": [
+        "distance"
+    ],
+    "Erde": [
+        "earth"
+    ],
+    "Erzählung": [
+        "story"
+    ],
+    "Essen": [
+        "meal"
+    ],
+    "Eule": [
+        "owl"
+    ],
+    "Faden": [
+        "thread"
+    ],
+    "Falle": [
+        "trap"
+    ],
+    "Familie": [
+        "family"
+    ],
+    "Farbe": [
+        "paint"
+    ],
+    "Februar": [
+        "February"
+    ],
+    "Feder": [
+        "feather"
+    ],
+    "Fehler": [
+        "mistake"
+    ],
+    "Feind": [
+        "enemy"
+    ],
+    "Fell": [
+        "fur"
+    ],
+    "Fenster": [
+        "window"
+    ],
+    "Ferse": [
+        "heel"
+    ],
+    "Festland": [
+        "land"
+    ],
+    "Fett": [
+        "fat"
+    ],
+    "Feuer": [
+        "fire"
+    ],
+    "Fieber": [
+        "fever"
+    ],
+    "Figur": [
+        "figure"
+    ],
+    "Finger": [
+        "finger"
+    ],
+    "Fingernagel": [
+        "fingernail"
+    ],
+    "Fisch": [
+        "fish"
+    ],
+    "Fleisch": [
+        "meat"
+    ],
+    "Fliege": [
+        "fly"
+    ],
+    "Fluss": [
+        "river"
+    ],
+    "Flügel": [
+        "wing"
+    ],
+    "Frau": [
+        "woman"
+    ],
+    "Freitag": [
+        "Friday"
+    ],
+    "Freude": [
+        "joy"
+    ],
+    "Freund": [
+        "friend"
+    ],
+    "Frost": [
+        "frost"
+    ],
+    "Frühling": [
+        "spring"
+    ],
+    "Fuchs": [
+        "fox"
+    ],
+    "Funke": [
+        "spark"
+    ],
+    "Fuß": [
+        "foot"
+    ],
+    "Fußboden": [
+        "floor"
+    ],
+    "Gabel": [
+        "fork"
+    ],
+    "Gang": [
+        "walk"
+    ],
+    "Gans": [
+        "goose"
+    ],
+    "Gast": [
+        "guest"
+    ],
+    "Gedanke": [
+        "thought"
+    ],
+    "Gedächtnis": [
+        "memory"
+    ],
+    "Gegend": [
+        "area"
+    ],
+    "Gegenstand": [
+        "item"
+    ],
+    "Gehirn": [
+        "brain"
+    ],
+    "Geist": [
+        "spirit"
+    ],
+    "Geld": [
+        "money"
+    ],
+    "Gelächter": [
+        "laughter"
+    ],
+    "Genick": [
+        "nape"
+    ],
+    "Geruch": [
+        "odour"
+    ],
+    "Geschenk": [
+        "gift"
+    ],
+    "Geschirr": [
+        "dishes"
+    ],
+    "Geschmack": [
+        "flavour"
+    ],
+    "Geschäft": [
+        "business"
+    ],
+    "Gesellschaft": [
+        "company"
+    ],
+    "Gesicht": [
+        "face"
+    ],
+    "Gespräch": [
+        "talk"
+    ],
+    "Gesundheit": [
+        "health"
+    ],
+    "Getreide": [
+        "corn"
+    ],
+    "Gewalt": [
+        "violence"
+    ],
+    "Gewehr": [
+        "gun"
+    ],
+    "Gewicht": [
+        "weight"
+    ],
+    "Gipfel": [
+        "summit"
+    ],
+    "Glas": [
+        "glass"
+    ],
+    "Glück": [
+        "happiness"
+    ],
+    "Gold": [
+        "gold"
+    ],
+    "Gott": [
+        "god"
+    ],
+    "Grab": [
+        "grave"
+    ],
+    "Gras": [
+        "grass"
+    ],
+    "Grenze": [
+        "border"
+    ],
+    "Griff": [
+        "handle"
+    ],
+    "Großmutter": [
+        "grandmother"
+    ],
+    "Großvater": [
+        "grandfather"
+    ],
+    "Grube": [
+        "pit"
+    ],
+    "Grund": [
+        "reason"
+    ],
+    "Größe": [
+        "size"
+    ],
+    "Gürtel": [
+        "belt"
+    ],
+    "Haar": [
+        "hair"
+    ],
+    "Hahn": [
+        "cock"
+    ],
+    "Haken": [
+        "hook"
+    ],
+    "Hals": [
+        "neck"
+    ],
+    "Hand": [
+        "hand"
+    ],
+    "Handfläche": [
+        "palm"
+    ],
+    "Handtuch": [
+        "towel"
+    ],
+    "Hase": [
+        "hare"
+    ],
+    "Haufen": [
+        "heap"
+    ],
+    "Haus": [
+        "house"
+    ],
+    "Haut": [
+        "skin"
+    ],
+    "Hecht": [
+        "pike"
+    ],
+    "Heim": [
+        "home"
+    ],
+    "Hemd": [
+        "shirt"
+    ],
+    "Herbst": [
+        "autumn"
+    ],
+    "Herde": [
+        "flock"
+    ],
+    "Herz": [
+        "heart"
+    ],
+    "Heu": [
+        "hay"
+    ],
+    "Hilfe": [
+        "help"
+    ],
+    "Himmel": [
+        "sky"
+    ],
+    "Hitze": [
+        "heat"
+    ],
+    "Holz": [
+        "wood"
+    ],
+    "Honig": [
+        "honey"
+    ],
+    "Horn": [
+        "horn"
+    ],
+    "Hose": [
+        "trousers"
+    ],
+    "Huhn": [
+        "chicken"
+    ],
+    "Hund": [
+        "dog"
+    ],
+    "Hunger": [
+        "hunger"
+    ],
+    "Hälfte": [
+        "half"
+    ],
+    "Höhe": [
+        "height"
+    ],
+    "Höhle": [
+        "cave"
+    ],
+    "Hügel": [
+        "hill"
+    ],
+    "Insel": [
+        "island"
+    ],
+    "Jahr": [
+        "year"
+    ],
+    "Januar": [
+        "January"
+    ],
+    "Juli": [
+        "July"
+    ],
+    "Junge": [
+        "boy"
+    ],
+    "Juni": [
+        "June"
+    ],
+    "Kamerad": [
+        "companion"
+    ],
+    "Kamm": [
+        "comb"
+    ],
+    "Kampf": [
+        "fight"
+    ],
+    "Kante": [
+        "edge"
+    ],
+    "Katze": [
+        "cat"
+    ],
+    "Kehle": [
+        "throat"
+    ],
+    "Kessel": [
+        "kettle"
+    ],
+    "Kiefer": [
+        "jaw",
+        "pine"
+    ],
+    "Kind": [
+        "child"
+    ],
+    "Kinn": [
+        "chin"
+    ],
+    "Kirche": [
+        "church"
+    ],
+    "Kissen": [
+        "pillow"
+    ],
+    "Kiste": [
+        "box"
+    ],
+    "Klaue": [
+        "claw"
+    ],
+    "Kleidung": [
+        "clothes"
+    ],
+    "Knie": [
+        "knee"
+    ],
+    "Knochen": [
+        "bone"
+    ],
+    "Knopf": [
+        "button"
+    ],
+    "Knoten": [
+        "knot"
+    ],
+    "Kohle": [
+        "coal"
+    ],
+    "Kopf": [
+        "head"
+    ],
+    "Korn": [
+        "grain"
+    ],
+    "Kraft": [
+        "force"
+    ],
+    "Kragen": [
+        "collar"
+    ],
+    "Kralle": [
+        "claw"
+    ],
+    "Kranich": [
+        "crane"
+    ],
+    "Krankheit": [
+        "illness"
+    ],
+    "Kreis": [
+        "circle"
+    ],
+    "Kreuz": [
+        "cross"
+    ],
+    "Krieg": [
+        "war"
+    ],
+    "Krähe": [
+        "crow"
+    ],
+    "Kuckuck": [
+        "cuckoo"
+    ],
+    "Kuh": [
+        "cow"
+    ],
+    "Kummer": [
+        "grief"
+    ],
+    "Kälte": [
+        "chill"
+    ],
+    "König": [
+        "king"
+    ],
+    "Körper": [
+        "body"
+    ],
+    "Küste": [
+        "coast"
+    ],
+    "Laden": [
+        "shop"
+    ],
+    "Lagerfeuer": [
+        "campfire"
+    ],
+    "Land": [
+        "country"
+    ],
+    "Last": [
+        "load"
+    ],
+    "Laus": [
+        "louse"
+    ],
+    "Laut": [
+        "sound"
+    ],
+    "Leben": [
+        "life"
+    ],
+    "Leber": [
+        "liver"
+    ],
+    "Leder": [
+        "leather"
+    ],
+    "Lehm": [
+        "clay"
+    ],
+    "Lehrer": [
+        "teacher"
+    ],
+    "Leine": [
+        "leash"
+    ],
+    "Leiter": [
+        "ladder"
+    ],
+    "Leute": [
+        "people"
+    ],
+    "Licht": [
+        "light"
+    ],
+    "Lied": [
+        "song"
+    ],
+    "Linie": [
+        "line"
+    ],
+    "Lippe": [
+        "lip"
+    ],
+    "Loch": [
+        "hole"
+    ],
+    "Luft": [
+        "air"
+    ],
+    "Lust": [
+        "desire"
+    ],
+    "Länge": [
+        "length"
+    ],
+    "Lärm": [
+        "noise"
+    ],
+    "Löffel": [
+        "spoon"
+    ],
+    "Lüge": [
+        "lie"
+    ],
+    "Macht": [
+        "power"
+    ],
+    "Magen": [
+        "stomach"
+    ],
+    "Mai": [
+        "May"
+    ],
+    "Mann": [
+        "man"
+    ],
+    "Maus": [
+        "mouse"
+    ],
+    "Meer": [
+        "sea"
+    ],
+    "Meister": [
+        "master"
+    ],
+    "Menge": [
+        "amount"
+    ],
+    "Mensch": [
+        "human"
+    ],
+    "Messer": [
+        "knife"
+    ],
+    "Milch": [
+        "milk"
+    ],
+    "Mittag": [
+        "noon"
+    ],
+    "Mitte": [
+        "middle"
+    ],
+    "Mittwoch": [
+        "Wednesday"
+    ],
+    "Monat": [
+        "month"
+    ],
+    "Mond": [
+        "moon"
+    ],
+    "Montag": [
+        "Monday"
+    ],
+    "Moor": [
+        "moor"
+    ],
+    "Morgen": [
+        "morning"
+    ],
+    "Mund": [
+        "mouth"
+    ],
+    "Muster": [
+        "pattern"
+    ],
+    "Mutter": [
+        "mother"
+    ],
+    "Mädchen": [
+        "girl"
+    ],
+    "Märchen": [
+        "fairy tale"
+    ],
+    "März": [
+        "March"
+    ],
+    "Mücke": [
+        "midge"
+    ],
+    "Mütze": [
+        "cap"
+    ],
+    "Nabel": [
+        "navel"
+    ],
+    "Nachricht": [
+        "message"
+    ],
+    "Nacht": [
+        "night"
+    ],
+    "Nadel": [
+        "needle"
+    ],
+    "Nagel": [
+        "nail",
+        "nail"
+    ],
+    "Nahrung": [
+        "food"
+    ],
+    "Name": [
+        "name"
+    ],
+    "Nase": [
+        "nose"
+    ],
+    "Nebel": [
+        "fog"
+    ],
+    "Nest": [
+        "nest"
+    ],
+    "Netz": [
+        "net"
+    ],
+    "Neuigkeit": [
+        "news"
+    ],
+    "Norden": [
+        "north"
+    ],
+    "November": [
+        "November"
+    ],
+    "Nutzen": [
+        "profit"
+    ],
+    "Oberschenkel": [
+        "thigh"
+    ],
+    "Ofen": [
+        "stove"
+    ],
+    "Ohr": [
+        "ear"
+    ],
+    "Oktober": [
+        "October"
+    ],
+    "Onkel": [
+        "uncle"
+    ],
+    "Ort": [
+        "place"
+    ],
+    "Osten": [
+        "east"
+    ],
+    "Pfad": [
+        "path"
+    ],
+    "Pfeil": [
+        "arrow"
+    ],
+    "Pferd": [
+        "horse"
+    ],
+    "Pilz": [
+        "mushroom"
+    ],
+    "Platte": [
+        "slab"
+    ],
+    "Platz": [
+        "space"
+    ],
+    "Preis": [
+        "price"
+    ],
+    "Puppe": [
+        "doll"
+    ],
+    "Quelle": [
+        "source"
+    ],
+    "Rand": [
+        "fringe"
+    ],
+    "Rauch": [
+        "smoke"
+    ],
+    "Raureif": [
+        "hoarfrost"
+    ],
+    "Rede": [
+        "speech"
+    ],
+    "Regal": [
+        "shelf"
+    ],
+    "Regen": [
+        "rain"
+    ],
+    "Regenbogen": [
+        "rainbow"
+    ],
+    "Reichtum": [
+        "wealth"
+    ],
+    "Reihe": [
+        "row"
+    ],
+    "Riemen": [
+        "strap"
+    ],
+    "Rinde": [
+        "bark"
+    ],
+    "Ring": [
+        "ring"
+    ],
+    "Rohr": [
+        "pipe"
+    ],
+    "Ruder": [
+        "oar"
+    ],
+    "Ruf": [
+        "call"
+    ],
+    "Ruhe": [
+        "calm"
+    ],
+    "Rätsel": [
+        "puzzle"
+    ],
+    "Rücken": [
+        "back",
+        "spine"
+    ],
+    "Saat": [
+        "seed"
+    ],
+    "Sache": [
+        "thing"
+    ],
+    "Sack": [
+        "sack"
+    ],
+    "Salz": [
+        "salt"
+    ],
+    "Samstag": [
+        "Saturday"
+    ],
+    "Sand": [
+        "sand"
+    ],
+    "Schaden": [
+        "damage"
+    ],
+    "Schaf": [
+        "sheep"
+    ],
+    "Schale": [
+        "husk"
+    ],
+    "Schatten": [
+        "shadow"
+    ],
+    "Schaufel": [
+        "shovel"
+    ],
+    "Schaum": [
+        "foam"
+    ],
+    "Scheibe": [
+        "slice"
+    ],
+    "Schlaf": [
+        "sleep"
+    ],
+    "Schlange": [
+        "snake"
+    ],
+    "Schlinge": [
+        "noose"
+    ],
+    "Schlitten": [
+        "sleigh"
+    ],
+    "Schloss": [
+        "lock"
+    ],
+    "Schluss": [
+        "conclusion"
+    ],
+    "Schmerz": [
+        "pain"
+    ],
+    "Schmetterling": [
+        "butterfly"
+    ],
+    "Schmutz": [
+        "dirt"
+    ],
+    "Schnee": [
+        "snow"
+    ],
+    "Schnur": [
+        "string"
+    ],
+    "Schnurrbart": [
+        "moustache"
+    ],
+    "Schritt": [
+        "step"
+    ],
+    "Schuh": [
+        "shoe"
+    ],
+    "Schuld": [
+        "fault"
+    ],
+    "Schulter": [
+        "shoulder"
+    ],
+    "Schwan": [
+        "swan"
+    ],
+    "Schwanz": [
+        "tail"
+    ],
+    "Schwarm": [
+        "swarm"
+    ],
+    "Schwein": [
+        "pig"
+    ],
+    "Schwester": [
+        "sister"
+    ],
+    "See": [
+        "lake"
+    ],
+    "Sehne": [
+        "sinew"
+    ],
+    "Seite": [
+        "side"
+    ],
+    "September": [
+        "September"
+    ],
+    "Silber": [
+        "silver"
+    ],
+    "Sinn": [
+        "meaning"
+    ],
+    "Ski": [
+        "ski"
+    ],
+    "Sohn": [
+        "son"
+    ],
+    "Sommer": [
+        "summer"
+    ],
+    "Sonne": [
+        "sun"
+    ],
+    "Sonntag": [
+        "Sunday"
+    ],
+    "Spaten": [
+        "spade"
+    ],
+    "Speise": [
+        "dish"
+    ],
+    "Spiegel": [
+        "mirror"
+    ],
+    "Spiel": [
+        "game"
+    ],
+    "Spinne": [
+        "spider"
+    ],
+    "Spitze": [
+        "tip"
+    ],
+    "Sprache": [
+        "language"
+    ],
+    "Spur": [
+        "track"
+    ],
+    "Staat": [
+        "state"
+    ],
+    "Stab": [
+        "staff"
+    ],
+    "Stadt": [
+        "town"
+    ],
+    "Stamm": [
+        "trunk"
+    ],
+    "Stange": [
+        "pole"
+    ],
+    "Staub": [
+        "dust"
+    ],
+    "Stein": [
+        "stone"
+    ],
+    "Stern": [
+        "star"
+    ],
+    "Stiefel": [
+        "boot"
+    ],
+    "Stimme": [
+        "voice"
+    ],
+    "Stirn": [
+        "forehead"
+    ],
+    "Stock": [
+        "stick"
+    ],
+    "Stoff": [
+        "cloth"
+    ],
+    "Straße": [
+        "road"
+    ],
+    "Strich": [
+        "stroke"
+    ],
+    "Strömung": [
+        "current"
+    ],
+    "Stuhl": [
+        "chair"
+    ],
+    "Stärke": [
+        "strength"
+    ],
+    "Stück": [
+        "piece"
+    ],
+    "Stütze": [
+        "bracket"
+    ],
+    "Sumpf": [
+        "swamp"
+    ],
+    "Suppe": [
+        "soup"
+    ],
+    "Süden": [
+        "south"
+    ],
+    "Sünde": [
+        "sin"
+    ],
+    "Tag": [
+        "day"
+    ],
+    "Tanne": [
+        "fir"
+    ],
+    "Tante": [
+        "aunt"
+    ],
+    "Tasche": [
+        "bag"
+    ],
+    "Tasse": [
+        "cup"
+    ],
+    "Tee": [
+        "tea"
+    ],
+    "Teil": [
+        "part"
+    ],
+    "Tier": [
+        "animal"
+    ],
+    "Tisch": [
+        "table"
+    ],
+    "Tochter": [
+        "daughter"
+    ],
+    "Tod": [
+        "death"
+    ],
+    "Ton": [
+        "tone"
+    ],
+    "Topf": [
+        "pot"
+    ],
+    "Tor": [
+        "gate"
+    ],
+    "Traum": [
+        "dream"
+    ],
+    "Tropfen": [
+        "drop"
+    ],
+    "Träne": [
+        "tear"
+    ],
+    "Tuch": [
+        "scarf"
+    ],
+    "Tür": [
+        "door"
+    ],
+    "Ufer": [
+        "shore"
+    ],
+    "Unglück": [
+        "misfortune"
+    ],
+    "Vater": [
+        "father"
+    ],
+    "Verstand": [
+        "mind"
+    ],
+    "Vogel": [
+        "bird"
+    ],
+    "Volk": [
+        "nation"
+    ],
+    "Wahrheit": [
+        "truth"
+    ],
+    "Wald": [
+        "forest"
+    ],
+    "Wange": [
+        "cheek"
+    ],
+    "Ware": [
+        "ware"
+    ],
+    "Wasser": [
+        "water"
+    ],
+    "Weg": [
+        "way"
+    ],
+    "Weide": [
+        "willow",
+        "pasture"
+    ],
+    "Welle": [
+        "wave"
+    ],
+    "Welt": [
+        "world"
+    ],
+    "Westen": [
+        "west"
+    ],
+    "Wetter": [
+        "weather"
+    ],
+    "Wiege": [
+        "cradle"
+    ],
+    "Wiese": [
+        "meadow"
+    ],
+    "Wind": [
+        "wind"
+    ],
+    "Winkel": [
+        "angle"
+    ],
+    "Winter": [
+        "winter"
+    ],
+    "Woche": [
+        "week"
+    ],
+    "Wolf": [
+        "wolf"
+    ],
+    "Wolke": [
+        "cloud"
+    ],
+    "Wolle": [
+        "wool"
+    ],
+    "Wort": [
+        "word"
+    ],
+    "Wunde": [
+        "wound"
+    ],
+    "Wunsch": [
+        "wish"
+    ],
+    "Wurm": [
+        "worm"
+    ],
+    "Wurzel": [
+        "root"
+    ],
+    "Zahn": [
+        "tooth"
+    ],
+    "Zaun": [
+        "fence"
+    ],
+    "Zeh": [
+        "toe"
+    ],
+    "Zeichen": [
+        "sign"
+    ],
+    "Zeit": [
+        "time"
+    ],
+    "Zeitung": [
+        "newspaper"
+    ],
+    "Zunge": [
+        "tongue"
+    ],
+    "Zweig": [
+        "branch"
+    ],
+    "Zwiebel": [
+        "onion"
+    ],
+    "abfahren": [
+        "depart"
+    ],
+    "abnehmen": [
+        "decrease"
+    ],
+    "abreißen": [
+        "tear off"
+    ],
+    "abschneiden": [
+        "cut off"
+    ],
+    "abwischen": [
+        "wipe"
+    ],
+    "acht": [
+        "eight"
+    ],
+    "achtzig": [
+        "eighty"
+    ],
+    "allein": [
+        "alone"
+    ],
+    "alles": [
+        "everything"
+    ],
+    "alt": [
+        "old",
+        "aged"
+    ],
+    "anbinden": [
+        "tie up"
+    ],
+    "anderer": [
+        "other"
+    ],
+    "anfangen": [
+        "start"
+    ],
+    "anhalten": [
+        "stop"
+    ],
+    "ankommen": [
+        "arrive"
+    ],
+    "anschauen": [
+        "look at"
+    ],
+    "ansehen": [
+        "watch"
+    ],
+    "antreiben": [
+        "urge"
+    ],
+    "anziehen": [
+        "put on"
+    ],
+    "anzünden": [
+        "light"
+    ],
+    "arbeiten": [
+        "work"
+    ],
+    "arm": [
+        "poor"
+    ],
+    "atmen": [
+        "breathe"
+    ],
+    "auf einmal": [
+        "at once"
+    ],
+    "aufbewahren": [
+        "keep"
+    ],
+    "aufgehen": [
+        "rise"
+    ],
+    "aufheben": [
+        "pick up"
+    ],
+    "aufhängen": [
+        "hang up"
+    ],
+    "aufhören": [
+        "stop"
+    ],
+    "aufstehen": [
+        "get up"
+    ],
+    "aufwachen": [
+        "wake up"
+    ],
+    "aufziehen": [
+        "bring up"
+    ],
+    "auswählen": [
+        "select"
+    ],
+    "ausziehen": [
+        "take off"
+    ],
+    "backen": [
+        "bake"
+    ],
+    "baden": [
+        "bath"
+    ],
+    "bald": [
+        "soon"
+    ],
+    "bauen": [
+        "build"
+    ],
+    "bedecken": [
+        "cover"
+    ],
+    "beenden": [
+        "finish"
+    ],
+    "beginnen": [
+        "begin"
+    ],
+    "begreifen": [
+        "grasp"
+    ],
+    "beherrschen": [
+        "rule"
+    ],
+    "behindern": [
+        "hinder"
+    ],
+    "beißen": [
+        "bite"
+    ],
+    "bekannt": [
+        "familiar"
+    ],
+    "bekommen": [
+        "get"
+    ],
+    "bellen": [
+        "bark"
+    ],
+    "belästigen": [
+        "bother"
+    ],
+    "bemerken": [
+        "notice"
+    ],
+    "berühmt": [
+        "famous"
+    ],
+    "berühren": [
+        "touch"
+    ],
+    "beschädigen": [
+        "damage"
+    ],
+    "besitzen": [
+        "own"
+    ],
+    "besuchen": [
+        "visit"
+    ],
+    "betrügen": [
+        "cheat"
+    ],
+    "beugen": [
+        "bow"
+    ],
+    "bewachen": [
+        "guard"
+    ],
+    "bewahren": [
+        "preserve"
+    ],
+    "bezahlen": [
+        "pay for"
+    ],
+    "biegen": [
+        "bend"
+    ],
+    "billig": [
+        "cheap"
+    ],
+    "binden": [
+        "tie"
+    ],
+    "bitten": [
+        "request"
+    ],
+    "bitter": [
+        "bitter"
+    ],
+    "blasen": [
+        "blow"
+    ],
+    "blau": [
+        "blue"
+    ],
+    "bleiben": [
+        "stay"
+    ],
+    "blind": [
+        "blind"
+    ],
+    "braten": [
+        "fry"
+    ],
+    "brausen": [
+        "roar"
+    ],
+    "brechen": [
+        "break"
+    ],
+    "breit": [
+        "wide"
+    ],
+    "brennen": [
+        "burn"
+    ],
+    "bringen": [
+        "bring"
+    ],
+    "bunt": [
+        "colourful"
+    ],
+    "böse": [
+        "evil"
+    ],
+    "damals": [
+        "at that time"
+    ],
+    "danach": [
+        "afterwards"
+    ],
+    "dann": [
+        "then"
+    ],
+    "das": [
+        "that"
+    ],
+    "denken": [
+        "think"
+    ],
+    "dicht": [
+        "dense"
+    ],
+    "dick": [
+        "thick"
+    ],
+    "dies": [
+        "this"
+    ],
+    "donnern": [
+        "thunder"
+    ],
+    "dort": [
+        "there"
+    ],
+    "dorthin": [
+        "thither"
+    ],
+    "drehen": [
+        "spin"
+    ],
+    "drei": [
+        "three"
+    ],
+    "dreißig": [
+        "thirty"
+    ],
+    "dritter": [
+        "third"
+    ],
+    "drücken": [
+        "press"
+    ],
+    "du": [
+        "you",
+        "thou"
+    ],
+    "dumm": [
+        "stupid"
+    ],
+    "dunkel": [
+        "dark"
+    ],
+    "durch": [
+        "through"
+    ],
+    "dünn": [
+        "thin"
+    ],
+    "ehemalig": [
+        "former"
+    ],
+    "eilen": [
+        "rush"
+    ],
+    "ein wenig": [
+        "a little"
+    ],
+    "einladen": [
+        "invite"
+    ],
+    "einmal": [
+        "once"
+    ],
+    "eins": [
+        "one"
+    ],
+    "einschlafen": [
+        "fall asleep"
+    ],
+    "einst": [
+        "once"
+    ],
+    "eintreten": [
+        "enter"
+    ],
+    "einwickeln": [
+        "wrap"
+    ],
+    "elf": [
+        "eleven"
+    ],
+    "enden": [
+        "end"
+    ],
+    "er": [
+        "he"
+    ],
+    "ergreifen": [
+        "seize"
+    ],
+    "erhalten": [
+        "receive"
+    ],
+    "erkennen": [
+        "recognize"
+    ],
+    "erscheinen": [
+        "appear"
+    ],
+    "erster": [
+        "first"
+    ],
+    "ertragen": [
+        "endure"
+    ],
+    "erwarten": [
+        "wait for"
+    ],
+    "erzählen": [
+        "tell"
+    ],
+    "essen": [
+        "eat"
+    ],
+    "fahren": [
+        "drive"
+    ],
+    "fallen": [
+        "fall"
+    ],
+    "fallen lassen": [
+        "drop"
+    ],
+    "fangen": [
+        "catch"
+    ],
+    "fassen": [
+        "catch"
+    ],
+    "faul": [
+        "lazy"
+    ],
+    "faulen": [
+        "rot"
+    ],
+    "fegen": [
+        "sweep"
+    ],
+    "fein": [
+        "delicate"
+    ],
+    "fern": [
+        "far"
+    ],
+    "fest": [
+        "firm"
+    ],
+    "fett": [
+        "fat"
+    ],
+    "feucht": [
+        "damp"
+    ],
+    "finden": [
+        "find"
+    ],
+    "fischen": [
+        "fish"
+    ],
+    "flach": [
+        "flat"
+    ],
+    "fleißig": [
+        "diligent"
+    ],
+    "fliegen": [
+        "fly"
+    ],
+    "fliehen": [
+        "flee"
+    ],
+    "fließen": [
+        "flow"
+    ],
+    "flüchten": [
+        "escape"
+    ],
+    "fragen": [
+        "ask"
+    ],
+    "fremd": [
+        "foreign"
+    ],
+    "frieren": [
+        "be cold"
+    ],
+    "frisch": [
+        "fresh"
+    ],
+    "funkeln": [
+        "sparkle"
+    ],
+    "färben": [
+        "dye"
+    ],
+    "fühlen": [
+        "feel"
+    ],
+    "führen": [
+        "guide"
+    ],
+    "füllen": [
+        "fill"
+    ],
+    "fünf": [
+        "five"
+    ],
+    "fünfzig": [
+        "fifty"
+    ],
+    "fürchten": [
+        "be afraid of"
+    ],
+    "füttern": [
+        "feed"
+    ],
+    "geben": [
+        "give"
+    ],
+    "geboren werden": [
+        "be born"
+    ],
+    "gefrieren": [
+        "freeze"
+    ],
+    "gehen": [
+        "go"
+    ],
+    "geizig": [
+        "stingy"
+    ],
+    "gelb": [
+        "yellow"
+    ],
+    "gelingen": [
+        "succeed"
+    ],
+    "genesen": [
+        "recover"
+    ],
+    "geradeaus": [
+        "ahead"
+    ],
+    "geraten": [
+        "turn out"
+    ],
+    "geschickt": [
+        "skilful"
+    ],
+    "geschlossen": [
+        "closed"
+    ],
+    "gestern": [
+        "yesterday"
+    ],
+    "gießen": [
+        "water"
+    ],
+    "glatt": [
+        "smooth"
+    ],
+    "glauben": [
+        "believe"
+    ],
+    "glänzen": [
+        "shine"
+    ],
+    "graben": [
+        "dig"
+    ],
+    "grau": [
+        "grey"
+    ],
+    "groß": [
+        "big"
+    ],
+    "grün": [
+        "green"
+    ],
+    "gut": [
+        "good"
+    ],
+    "hacken": [
+        "chop"
+    ],
+    "halten": [
+        "hold"
+    ],
+    "hart": [
+        "hard"
+    ],
+    "hauen": [
+        "hit"
+    ],
+    "heben": [
+        "raise"
+    ],
+    "heiß": [
+        "hot"
+    ],
+    "hell": [
+        "bright"
+    ],
+    "herstellen": [
+        "produce"
+    ],
+    "heulen": [
+        "howl"
+    ],
+    "heute": [
+        "today"
+    ],
+    "hier": [
+        "here"
+    ],
+    "hierhin": [
+        "hither"
+    ],
+    "hinab": [
+        "down"
+    ],
+    "hinauf": [
+        "up"
+    ],
+    "hineingehen": [
+        "go in"
+    ],
+    "hinfallen": [
+        "tumble"
+    ],
+    "hinter": [
+        "behind"
+    ],
+    "hinzufügen": [
+        "add"
+    ],
+    "hochheben": [
+        "lift"
+    ],
+    "hundert": [
+        "a hundred"
+    ],
+    "hungrig": [
+        "hungry"
+    ],
+    "husten": [
+        "cough"
+    ],
+    "hängen": [
+        "hang"
+    ],
+    "hören": [
+        "hear"
+    ],
+    "hübsch": [
+        "pretty"
+    ],
+    "hüten": [
+        "herd"
+    ],
+    "ich": [
+        "I"
+    ],
+    "ihr": [
+        "you"
+    ],
+    "immer": [
+        "always"
+    ],
+    "jagen": [
+        "hunt"
+    ],
+    "jetzt": [
+        "now"
+    ],
+    "jung": [
+        "young"
+    ],
+    "kalt": [
+        "cold"
+    ],
+    "kaufen": [
+        "buy"
+    ],
+    "kaum": [
+        "hardly"
+    ],
+    "kehren": [
+        "sweep"
+    ],
+    "kleben": [
+        "glue"
+    ],
+    "klein": [
+        "little"
+    ],
+    "klettern": [
+        "climb"
+    ],
+    "klingeln": [
+        "ring"
+    ],
+    "klingen": [
+        "sound"
+    ],
+    "klirren": [
+        "tinkle"
+    ],
+    "klopfen": [
+        "knock"
+    ],
+    "klug": [
+        "clever"
+    ],
+    "kochen": [
+        "boil"
+    ],
+    "kommen": [
+        "come"
+    ],
+    "krank": [
+        "sick"
+    ],
+    "krank sein": [
+        "be ill"
+    ],
+    "krank werden": [
+        "fall ill"
+    ],
+    "kratzen": [
+        "scrape"
+    ],
+    "kriechen": [
+        "creep"
+    ],
+    "kräftig": [
+        "powerful"
+    ],
+    "kurz": [
+        "short"
+    ],
+    "kämmen": [
+        "comb"
+    ],
+    "können": [
+        "can"
+    ],
+    "kühl": [
+        "cool"
+    ],
+    "küssen": [
+        "kiss"
+    ],
+    "lachen": [
+        "laugh"
+    ],
+    "lang": [
+        "long"
+    ],
+    "lange": [
+        "long"
+    ],
+    "lassen": [
+        "let"
+    ],
+    "laufen": [
+        "walk"
+    ],
+    "leben": [
+        "be alive"
+    ],
+    "lebendig": [
+        "living"
+    ],
+    "lecken": [
+        "lick"
+    ],
+    "lecker": [
+        "delicious"
+    ],
+    "leer": [
+        "empty"
+    ],
+    "legen": [
+        "lay"
+    ],
+    "lehren": [
+        "teach"
+    ],
+    "leiten": [
+        "lead"
+    ],
+    "lernen": [
+        "learn"
+    ],
+    "lesen": [
+        "read"
+    ],
+    "letzter": [
+        "last"
+    ],
+    "lieb": [
+        "dear"
+    ],
+    "lieben": [
+        "love"
+    ],
+    "liegen": [
+        "lie"
+    ],
+    "linker": [
+        "left"
+    ],
+    "loben": [
+        "praise"
+    ],
+    "lustig": [
+        "merry"
+    ],
+    "lärmen": [
+        "be noisy"
+    ],
+    "läuten": [
+        "chime"
+    ],
+    "machen": [
+        "make"
+    ],
+    "malen": [
+        "paint"
+    ],
+    "manchmal": [
+        "sometimes"
+    ],
+    "melken": [
+        "milk"
+    ],
+    "messen": [
+        "measure"
+    ],
+    "mitteilen": [
+        "convey"
+    ],
+    "morgen": [
+        "tomorrow"
+    ],
+    "mögen": [
+        "like"
+    ],
+    "müde werden": [
+        "get tired"
+    ],
+    "nackt": [
+        "naked"
+    ],
+    "nah": [
+        "near"
+    ],
+    "nass": [
+        "wet"
+    ],
+    "neben": [
+        "next to"
+    ],
+    "nehmen": [
+        "take"
+    ],
+    "nennen": [
+        "name"
+    ],
+    "neu": [
+        "new"
+    ],
+    "neun": [
+        "nine"
+    ],
+    "neunzig": [
+        "ninety"
+    ],
+    "nicht": [
+        "not"
+    ],
+    "niemals": [
+        "never"
+    ],
+    "noch": [
+        "still"
+    ],
+    "nur": [
+        "only"
+    ],
+    "nähen": [
+        "sew"
+    ],
+    "oben": [
+        "above"
+    ],
+    "oder": [
+        "or"
+    ],
+    "offen": [
+        "open"
+    ],
+    "oft": [
+        "often"
+    ],
+    "packen": [
+        "grab"
+    ],
+    "passieren": [
+        "happen"
+    ],
+    "pfeifen": [
+        "whistle"
+    ],
+    "pflücken": [
+        "pick"
+    ],
+    "plötzlich": [
+        "suddenly"
+    ],
+    "prahlen": [
+        "brag"
+    ],
+    "probieren": [
+        "taste"
+    ],
+    "rauchen": [
+        "smoke"
+    ],
+    "rauschen": [
+        "rustle"
+    ],
+    "rechnen": [
+        "calculate"
+    ],
+    "rechter": [
+        "right"
+    ],
+    "reden": [
+        "talk"
+    ],
+    "regnen": [
+        "rain"
+    ],
+    "reiben": [
+        "rub"
+    ],
+    "reich": [
+        "rich"
+    ],
+    "reichen": [
+        "hand"
+    ],
+    "reif": [
+        "ripe"
+    ],
+    "reifen": [
+        "ripen"
+    ],
+    "reinigen": [
+        "clean"
+    ],
+    "reißen": [
+        "snap"
+    ],
+    "rennen": [
+        "run"
+    ],
+    "reparieren": [
+        "mend"
+    ],
+    "retten": [
+        "rescue"
+    ],
+    "richtig": [
+        "correct"
+    ],
+    "riechen": [
+        "smell"
+    ],
+    "roh": [
+        "raw"
+    ],
+    "rot": [
+        "red"
+    ],
+    "rudern": [
+        "row"
+    ],
+    "rufen": [
+        "call"
+    ],
+    "rund": [
+        "round"
+    ],
+    "rückwärts": [
+        "backward"
+    ],
+    "rühren": [
+        "move"
+    ],
+    "rütteln": [
+        "jolt"
+    ],
+    "sagen": [
+        "say"
+    ],
+    "sammeln": [
+        "gather"
+    ],
+    "sanft": [
+        "gentle"
+    ],
+    "sauber": [
+        "clean"
+    ],
+    "sauer": [
+        "sour"
+    ],
+    "sausen": [
+        "dash"
+    ],
+    "scharf": [
+        "sharp"
+    ],
+    "schaukeln": [
+        "seesaw"
+    ],
+    "scheinen": [
+        "shine",
+        "seem"
+    ],
+    "schenken": [
+        "give"
+    ],
+    "schicken": [
+        "send"
+    ],
+    "schieben": [
+        "push"
+    ],
+    "schießen": [
+        "shoot"
+    ],
+    "schimpfen": [
+        "grumble"
+    ],
+    "schlafen": [
+        "sleep"
+    ],
+    "schlagen": [
+        "beat"
+    ],
+    "schlank": [
+        "slim"
+    ],
+    "schlecht": [
+        "bad"
+    ],
+    "schleifen": [
+        "grind"
+    ],
+    "schleppen": [
+        "drag"
+    ],
+    "schließen": [
+        "close"
+    ],
+    "schlimm": [
+        "nasty"
+    ],
+    "schlucken": [
+        "swallow"
+    ],
+    "schmal": [
+        "narrow"
+    ],
+    "schmelzen": [
+        "melt"
+    ],
+    "schmerzen": [
+        "ache"
+    ],
+    "schmutzig": [
+        "dirty"
+    ],
+    "schmücken": [
+        "decorate"
+    ],
+    "schneiden": [
+        "cut"
+    ],
+    "schon": [
+        "already"
+    ],
+    "schreiben": [
+        "write"
+    ],
+    "schreien": [
+        "shout"
+    ],
+    "schreiten": [
+        "pace"
+    ],
+    "schwach": [
+        "weak"
+    ],
+    "schwanken": [
+        "sway"
+    ],
+    "schwarz": [
+        "black"
+    ],
+    "schwenken": [
+        "swing"
+    ],
+    "schwer": [
+        "heavy"
+    ],
+    "schwimmen": [
+        "swim"
+    ],
+    "schwingen": [
+        "swing"
+    ],
+    "schön": [
+        "beautiful"
+    ],
+    "schütteln": [
+        "shake"
+    ],
+    "schütten": [
+        "pour"
+    ],
+    "schützen": [
+        "protect"
+    ],
+    "sechs": [
+        "six"
+    ],
+    "sechzig": [
+        "sixty"
+    ],
+    "sehen": [
+        "see"
+    ],
+    "sehr": [
+        "very"
+    ],
+    "setzen": [
+        "place"
+    ],
+    "sich anziehen": [
+        "get dressed"
+    ],
+    "sich beeilen": [
+        "hurry"
+    ],
+    "sich bewegen": [
+        "move"
+    ],
+    "sich drehen": [
+        "revolve"
+    ],
+    "sich erheben": [
+        "stand up"
+    ],
+    "sich erholen": [
+        "relax"
+    ],
+    "sich erinnern an": [
+        "remember"
+    ],
+    "sich fürchten": [
+        "be afraid"
+    ],
+    "sich rühren": [
+        "budge"
+    ],
+    "sich schlagen": [
+        "brawl"
+    ],
+    "sich setzen": [
+        "sit down"
+    ],
+    "sich trennen": [
+        "separate"
+    ],
+    "sich unterhalten": [
+        "chat"
+    ],
+    "sich versammeln": [
+        "assemble"
+    ],
+    "sich waschen": [
+        "wash"
+    ],
+    "sich ärgern": [
+        "be annoyed"
+    ],
+    "sie": [
+        "they"
+    ],
+    "sieben": [
+        "seven"
+    ],
+    "siebzig": [
+        "seventy"
+    ],
+    "sieden": [
+        "boil"
+    ],
+    "siegen": [
+        "win"
+    ],
+    "singen": [
+        "sing"
+    ],
+    "sinken": [
+        "drop"
+    ],
+    "sitzen": [
+        "sit"
+    ],
+    "so": [
+        "so"
+    ],
+    "sofort": [
+        "instantly"
+    ],
+    "spazierengehen": [
+        "go for a walk"
+    ],
+    "spielen": [
+        "play"
+    ],
+    "spitz": [
+        "pointed"
+    ],
+    "sprechen": [
+        "speak"
+    ],
+    "springen": [
+        "jump"
+    ],
+    "später": [
+        "later"
+    ],
+    "spülen": [
+        "rinse"
+    ],
+    "stark": [
+        "strong"
+    ],
+    "stechen": [
+        "sting"
+    ],
+    "stecken": [
+        "stick"
+    ],
+    "stehen": [
+        "stand"
+    ],
+    "stehlen": [
+        "steal"
+    ],
+    "steigen": [
+        "rise"
+    ],
+    "stellen": [
+        "put"
+    ],
+    "sterben": [
+        "die"
+    ],
+    "stoßen": [
+        "shove"
+    ],
+    "streichen": [
+        "spread"
+    ],
+    "stricken": [
+        "knit"
+    ],
+    "strömen": [
+        "stream"
+    ],
+    "stumpf": [
+        "blunt"
+    ],
+    "stöhnen": [
+        "groan"
+    ],
+    "stören": [
+        "disturb"
+    ],
+    "suchen": [
+        "seek",
+        "look for"
+    ],
+    "süß": [
+        "sweet"
+    ],
+    "tanzen": [
+        "dance"
+    ],
+    "taub": [
+        "deaf"
+    ],
+    "tauchen": [
+        "dive"
+    ],
+    "tauen": [
+        "thaw"
+    ],
+    "tausend": [
+        "a thousand"
+    ],
+    "teilen": [
+        "divide"
+    ],
+    "teuer": [
+        "dear"
+    ],
+    "tragen": [
+        "carry"
+    ],
+    "traurig": [
+        "sad"
+    ],
+    "treffen": [
+        "meet"
+    ],
+    "treiben": [
+        "drive"
+    ],
+    "treten": [
+        "kick"
+    ],
+    "trinken": [
+        "drink"
+    ],
+    "trocken": [
+        "dry"
+    ],
+    "trocknen": [
+        "dry"
+    ],
+    "tun": [
+        "do"
+    ],
+    "täuschen": [
+        "deceive"
+    ],
+    "töten": [
+        "kill"
+    ],
+    "umdrehen": [
+        "turn around"
+    ],
+    "umkommen": [
+        "perish"
+    ],
+    "umrühren": [
+        "stir"
+    ],
+    "und": [
+        "and"
+    ],
+    "unten": [
+        "below"
+    ],
+    "unter": [
+        "under"
+    ],
+    "untergehen": [
+        "set"
+    ],
+    "unterrichten": [
+        "instruct"
+    ],
+    "verbergen": [
+        "conceal"
+    ],
+    "verbessern": [
+        "improve"
+    ],
+    "verbinden": [
+        "connect"
+    ],
+    "verbrennen": [
+        "burn"
+    ],
+    "verderben": [
+        "spoil"
+    ],
+    "vereinigen": [
+        "unite"
+    ],
+    "verfaulen": [
+        "decay"
+    ],
+    "vergebens": [
+        "in vain"
+    ],
+    "vergehen": [
+        "pass"
+    ],
+    "vergessen": [
+        "forget"
+    ],
+    "verkaufen": [
+        "sell"
+    ],
+    "verlassen": [
+        "leave"
+    ],
+    "verlieren": [
+        "lose"
+    ],
+    "vernehmen": [
+        "hear"
+    ],
+    "verschieden": [
+        "different"
+    ],
+    "verschwinden": [
+        "disappear"
+    ],
+    "versinken": [
+        "sink"
+    ],
+    "versprechen": [
+        "promise"
+    ],
+    "verstecken": [
+        "hide"
+    ],
+    "verstehen": [
+        "understand"
+    ],
+    "versuchen": [
+        "try"
+    ],
+    "verteidigen": [
+        "defend"
+    ],
+    "vier": [
+        "four"
+    ],
+    "vierzig": [
+        "forty"
+    ],
+    "voll": [
+        "full"
+    ],
+    "von hier": [
+        "hence"
+    ],
+    "vor": [
+        "in front of"
+    ],
+    "vorbereiten": [
+        "prepare"
+    ],
+    "vorher": [
+        "before"
+    ],
+    "vorwärts": [
+        "forward"
+    ],
+    "wachsen": [
+        "grow"
+    ],
+    "wahr": [
+        "true"
+    ],
+    "warm": [
+        "warm"
+    ],
+    "warten": [
+        "wait"
+    ],
+    "warum": [
+        "why"
+    ],
+    "was": [
+        "what"
+    ],
+    "waschen": [
+        "wash"
+    ],
+    "wechseln": [
+        "change"
+    ],
+    "wecken": [
+        "wake"
+    ],
+    "wegen": [
+        "because of"
+    ],
+    "weggehen": [
+        "go away"
+    ],
+    "wehen": [
+        "blow"
+    ],
+    "weich": [
+        "soft"
+    ],
+    "weinen": [
+        "weep"
+    ],
+    "weiß": [
+        "white"
+    ],
+    "wenden": [
+        "turn"
+    ],
+    "wer": [
+        "who"
+    ],
+    "werden": [
+        "become"
+    ],
+    "werfen": [
+        "throw"
+    ],
+    "wertvoll": [
+        "precious"
+    ],
+    "wie": [
+        "how"
+    ],
+    "wieder": [
+        "again"
+    ],
+    "wiegen": [
+        "rock"
+    ],
+    "wieviel": [
+        "how much"
+    ],
+    "wir": [
+        "we"
+    ],
+    "wissen": [
+        "know"
+    ],
+    "wo": [
+        "where"
+    ],
+    "wohin": [
+        "where ... to"
+    ],
+    "wohnen": [
+        "dwell"
+    ],
+    "wollen": [
+        "want"
+    ],
+    "wählen": [
+        "choose"
+    ],
+    "wünschen": [
+        "wish"
+    ],
+    "zahlen": [
+        "pay"
+    ],
+    "zehn": [
+        "ten"
+    ],
+    "zeichnen": [
+        "draw"
+    ],
+    "zeigen": [
+        "show"
+    ],
+    "zerbrechen": [
+        "break"
+    ],
+    "zerreißen": [
+        "tear"
+    ],
+    "zerstören": [
+        "destroy"
+    ],
+    "ziehen": [
+        "pull"
+    ],
+    "zittern": [
+        "tremble"
+    ],
+    "zu sehen sein": [
+        "show"
+    ],
+    "zubereiten": [
+        "cook"
+    ],
+    "zudecken": [
+        "cover"
+    ],
+    "zuerst": [
+        "at first"
+    ],
+    "zuhören": [
+        "listen"
+    ],
+    "zunehmen": [
+        "increase"
+    ],
+    "zurück": [
+        "back"
+    ],
+    "zurückkommen": [
+        "come back"
+    ],
+    "zurücklassen": [
+        "leave"
+    ],
+    "zusammen": [
+        "together"
+    ],
+    "zwanzig": [
+        "twenty"
+    ],
+    "zwei": [
+        "two"
+    ],
+    "zweiter": [
+        "second"
+    ],
+    "zwischen": [
+        "between"
+    ],
+    "zwölf": [
+        "twelve"
+    ],
+    "zählen": [
+        "count"
+    ],
+    "Ärmel": [
+        "sleeve"
+    ],
+    "Öl": [
+        "oil"
+    ],
+    "ändern": [
+        "alter"
+    ],
+    "ärgern": [
+        "annoy"
+    ],
+    "öffnen": [
+        "open"
+    ],
+    "überall": [
+        "everywhere"
+    ],
+    "übersetzen": [
+        "translate"
+    ]
+}

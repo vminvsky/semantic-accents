@@ -1,0 +1,3248 @@
+{
+    "Abend": [
+        "soir",
+        "soirée"
+    ],
+    "Abhang": [
+        "pente",
+        "versant"
+    ],
+    "Abstand": [
+        "écart"
+    ],
+    "Ader": [
+        "veine"
+    ],
+    "Adler": [
+        "aigle"
+    ],
+    "Alter": [
+        "âge"
+    ],
+    "Ameise": [
+        "fourmi"
+    ],
+    "Angelegenheit": [
+        "affaire"
+    ],
+    "Anhöhe": [
+        "éminence",
+        "élévation"
+    ],
+    "Anzahl": [
+        "nombre"
+    ],
+    "Apfel": [
+        "pomme"
+    ],
+    "April": [
+        "avril"
+    ],
+    "Arbeit": [
+        "travail"
+    ],
+    "Arbeiter": [
+        "ouvrier",
+        "travailleur"
+    ],
+    "Arm": [
+        "bras"
+    ],
+    "Art": [
+        "sorte",
+        "espèce"
+    ],
+    "Arznei": [
+        "remède",
+        "médecine"
+    ],
+    "Arzt": [
+        "médecin"
+    ],
+    "Asche": [
+        "cendre"
+    ],
+    "Ast": [
+        "branche"
+    ],
+    "Atem": [
+        "haleine"
+    ],
+    "Auge": [
+        "œil"
+    ],
+    "August": [
+        "août"
+    ],
+    "Bach": [
+        "ruisseau"
+    ],
+    "Band": [
+        "ruban"
+    ],
+    "Barsch": [
+        "perche"
+    ],
+    "Bart": [
+        "barbe"
+    ],
+    "Bau": [
+        "terrier"
+    ],
+    "Bauch": [
+        "ventre"
+    ],
+    "Baum": [
+        "arbre"
+    ],
+    "Beere": [
+        "baie"
+    ],
+    "Bein": [
+        "jambe"
+    ],
+    "Berg": [
+        "mont",
+        "montagne"
+    ],
+    "Besen": [
+        "balai"
+    ],
+    "Bett": [
+        "lit"
+    ],
+    "Beutel": [
+        "sac",
+        "petit sac"
+    ],
+    "Bild": [
+        "image",
+        "tableau"
+    ],
+    "Birke": [
+        "bouleau"
+    ],
+    "Blatt": [
+        "feuille"
+    ],
+    "Blume": [
+        "fleur"
+    ],
+    "Blut": [
+        "sang"
+    ],
+    "Boden": [
+        "sol",
+        "terrain"
+    ],
+    "Bogen": [
+        "arc"
+    ],
+    "Boot": [
+        "canot",
+        "bateau"
+    ],
+    "Brei": [
+        "purée",
+        "bouillie"
+    ],
+    "Brett": [
+        "planche"
+    ],
+    "Brief": [
+        "lettre"
+    ],
+    "Brot": [
+        "pain"
+    ],
+    "Bruder": [
+        "frère"
+    ],
+    "Brunnen": [
+        "puits"
+    ],
+    "Brust": [
+        "poitrine"
+    ],
+    "Brücke": [
+        "pont"
+    ],
+    "Buch": [
+        "livre"
+    ],
+    "Buchstabe": [
+        "lettre",
+        "caractère"
+    ],
+    "Bucht": [
+        "baie"
+    ],
+    "Bulle": [
+        "taureau"
+    ],
+    "Busen": [
+        "sein"
+    ],
+    "Butter": [
+        "beurre"
+    ],
+    "Bär": [
+        "ours"
+    ],
+    "Bündel": [
+        "paquet",
+        "faisceau"
+    ],
+    "Chef": [
+        "chef",
+        "patron"
+    ],
+    "Dach": [
+        "toit"
+    ],
+    "Decke": [
+        "couverture"
+    ],
+    "Deckel": [
+        "couvercle"
+    ],
+    "Dezember": [
+        "décembre"
+    ],
+    "Dienstag": [
+        "mardi"
+    ],
+    "Donner": [
+        "tonnerre"
+    ],
+    "Donnerstag": [
+        "jeudi"
+    ],
+    "Dorf": [
+        "village"
+    ],
+    "Dreck": [
+        "crotte"
+    ],
+    "Ecke": [
+        "coin",
+        "tournant"
+    ],
+    "Ehefrau": [
+        "femme",
+        "épouse"
+    ],
+    "Ehemann": [
+        "mari",
+        "époux"
+    ],
+    "Ei": [
+        "œuf"
+    ],
+    "Eichhörnchen": [
+        "écureuil"
+    ],
+    "Eimer": [
+        "seau"
+    ],
+    "Eis": [
+        "glace"
+    ],
+    "Eisen": [
+        "fer"
+    ],
+    "Elch": [
+        "élan"
+    ],
+    "Ellenbogen": [
+        "coude"
+    ],
+    "Eltern": [
+        "parents"
+    ],
+    "Ende": [
+        "bout"
+    ],
+    "Ente": [
+        "canard"
+    ],
+    "Entfernung": [
+        "distance"
+    ],
+    "Erde": [
+        "terre"
+    ],
+    "Erzählung": [
+        "conte",
+        "narration"
+    ],
+    "Essen": [
+        "repas",
+        "manger"
+    ],
+    "Eule": [
+        "hibou"
+    ],
+    "Faden": [
+        "fil"
+    ],
+    "Falle": [
+        "piège"
+    ],
+    "Familie": [
+        "famille"
+    ],
+    "Farbe": [
+        "peinture"
+    ],
+    "Februar": [
+        "février"
+    ],
+    "Feder": [
+        "plume"
+    ],
+    "Fehler": [
+        "faute",
+        "erreur"
+    ],
+    "Feind": [
+        "ennemi"
+    ],
+    "Fell": [
+        "peau"
+    ],
+    "Fenster": [
+        "fenêtre"
+    ],
+    "Ferse": [
+        "talon"
+    ],
+    "Festland": [
+        "terre ferme"
+    ],
+    "Fett": [
+        "graisse"
+    ],
+    "Feuer": [
+        "feu"
+    ],
+    "Fieber": [
+        "fièvre"
+    ],
+    "Figur": [
+        "figure"
+    ],
+    "Finger": [
+        "doigt"
+    ],
+    "Fingernagel": [
+        "ongle"
+    ],
+    "Fisch": [
+        "poisson"
+    ],
+    "Fleisch": [
+        "viande"
+    ],
+    "Fliege": [
+        "mouche"
+    ],
+    "Fluss": [
+        "fleuve",
+        "rivière"
+    ],
+    "Flügel": [
+        "aile"
+    ],
+    "Frau": [
+        "femme"
+    ],
+    "Freitag": [
+        "vendredi"
+    ],
+    "Freude": [
+        "joie",
+        "plaisir"
+    ],
+    "Freund": [
+        "ami"
+    ],
+    "Frost": [
+        "gel",
+        "gelée"
+    ],
+    "Frühling": [
+        "printemps"
+    ],
+    "Fuchs": [
+        "renard"
+    ],
+    "Funke": [
+        "étincelle"
+    ],
+    "Fuß": [
+        "pied"
+    ],
+    "Fußboden": [
+        "plancher"
+    ],
+    "Gabel": [
+        "fourchette"
+    ],
+    "Gang": [
+        "tour",
+        "marche"
+    ],
+    "Gans": [
+        "oie"
+    ],
+    "Gast": [
+        "hôte",
+        "invité"
+    ],
+    "Gedanke": [
+        "idée",
+        "pensée"
+    ],
+    "Gedächtnis": [
+        "mémoire"
+    ],
+    "Gegend": [
+        "région",
+        "contrée"
+    ],
+    "Gegenstand": [
+        "objet"
+    ],
+    "Gehirn": [
+        "cerveau"
+    ],
+    "Geist": [
+        "esprit"
+    ],
+    "Geld": [
+        "argent"
+    ],
+    "Gelächter": [
+        "rires"
+    ],
+    "Genick": [
+        "nuque"
+    ],
+    "Geruch": [
+        "odeur"
+    ],
+    "Geschenk": [
+        "cadeau",
+        "présent"
+    ],
+    "Geschirr": [
+        "vaisselle"
+    ],
+    "Geschmack": [
+        "goût",
+        "saveur"
+    ],
+    "Geschäft": [
+        "affaire",
+        "commerce"
+    ],
+    "Gesellschaft": [
+        "compagnie"
+    ],
+    "Gesicht": [
+        "face",
+        "visage"
+    ],
+    "Gespräch": [
+        "conversation"
+    ],
+    "Gesundheit": [
+        "santé"
+    ],
+    "Getreide": [
+        "blé",
+        "céréales"
+    ],
+    "Gewalt": [
+        "violence"
+    ],
+    "Gewehr": [
+        "fusil"
+    ],
+    "Gewicht": [
+        "poids"
+    ],
+    "Gipfel": [
+        "cime",
+        "sommet"
+    ],
+    "Glas": [
+        "verre"
+    ],
+    "Glück": [
+        "bonheur"
+    ],
+    "Gold": [
+        "or"
+    ],
+    "Gott": [
+        "dieu"
+    ],
+    "Grab": [
+        "tombe"
+    ],
+    "Gras": [
+        "herbe"
+    ],
+    "Grenze": [
+        "frontière"
+    ],
+    "Griff": [
+        "prise",
+        "manche"
+    ],
+    "Großmutter": [
+        "grand-mère"
+    ],
+    "Großvater": [
+        "grand-père"
+    ],
+    "Grube": [
+        "fosse"
+    ],
+    "Grund": [
+        "cause",
+        "raison"
+    ],
+    "Größe": [
+        "grandeur"
+    ],
+    "Gürtel": [
+        "ceinture"
+    ],
+    "Haar": [
+        "cheveu"
+    ],
+    "Hahn": [
+        "coq"
+    ],
+    "Haken": [
+        "croc",
+        "crochet"
+    ],
+    "Hals": [
+        "cou"
+    ],
+    "Hand": [
+        "main"
+    ],
+    "Handfläche": [
+        "paume"
+    ],
+    "Handtuch": [
+        "serviette",
+        "essuie-mains"
+    ],
+    "Hase": [
+        "lièvre"
+    ],
+    "Haufen": [
+        "tas"
+    ],
+    "Haus": [
+        "maison"
+    ],
+    "Haut": [
+        "peau"
+    ],
+    "Hecht": [
+        "brochet"
+    ],
+    "Heim": [
+        "maison"
+    ],
+    "Hemd": [
+        "chemise"
+    ],
+    "Herbst": [
+        "automne"
+    ],
+    "Herde": [
+        "troupeau"
+    ],
+    "Herz": [
+        "cœur"
+    ],
+    "Heu": [
+        "foin"
+    ],
+    "Hilfe": [
+        "aide",
+        "secours"
+    ],
+    "Himmel": [
+        "ciel"
+    ],
+    "Hitze": [
+        "chaleur"
+    ],
+    "Holz": [
+        "bois"
+    ],
+    "Honig": [
+        "miel"
+    ],
+    "Horn": [
+        "corne"
+    ],
+    "Hose": [
+        "pantalon"
+    ],
+    "Huhn": [
+        "poule"
+    ],
+    "Hund": [
+        "chien"
+    ],
+    "Hunger": [
+        "faim"
+    ],
+    "Hälfte": [
+        "moitié"
+    ],
+    "Höhe": [
+        "hauteur",
+        "altitude"
+    ],
+    "Höhle": [
+        "caverne"
+    ],
+    "Hügel": [
+        "coteau",
+        "colline"
+    ],
+    "Insel": [
+        "île"
+    ],
+    "Jahr": [
+        "an",
+        "année"
+    ],
+    "Januar": [
+        "janvier"
+    ],
+    "Juli": [
+        "juillet"
+    ],
+    "Junge": [
+        "garçon"
+    ],
+    "Juni": [
+        "juin"
+    ],
+    "Kamerad": [
+        "copain",
+        "camarade"
+    ],
+    "Kamm": [
+        "peigne"
+    ],
+    "Kampf": [
+        "lutte",
+        "combat"
+    ],
+    "Kante": [
+        "arête"
+    ],
+    "Katze": [
+        "chat"
+    ],
+    "Kehle": [
+        "gorge"
+    ],
+    "Kessel": [
+        "chaudron"
+    ],
+    "Kiefer": [
+        "mâchoire",
+        "pin"
+    ],
+    "Kind": [
+        "enfant"
+    ],
+    "Kinn": [
+        "menton"
+    ],
+    "Kirche": [
+        "église"
+    ],
+    "Kissen": [
+        "oreiller"
+    ],
+    "Kiste": [
+        "caisse"
+    ],
+    "Klaue": [
+        "serre"
+    ],
+    "Kleidung": [
+        "vêtements",
+        "habillement"
+    ],
+    "Knie": [
+        "genou"
+    ],
+    "Knochen": [
+        "os"
+    ],
+    "Knopf": [
+        "bouton"
+    ],
+    "Knoten": [
+        "nœud"
+    ],
+    "Kohle": [
+        "charbon"
+    ],
+    "Kopf": [
+        "tête"
+    ],
+    "Korn": [
+        "grain"
+    ],
+    "Kraft": [
+        "force"
+    ],
+    "Kragen": [
+        "col"
+    ],
+    "Kralle": [
+        "ongle",
+        "griffe"
+    ],
+    "Kranich": [
+        "grue"
+    ],
+    "Krankheit": [
+        "maladie"
+    ],
+    "Kreis": [
+        "cercle"
+    ],
+    "Kreuz": [
+        "croix"
+    ],
+    "Krieg": [
+        "guerre"
+    ],
+    "Krähe": [
+        "corneille"
+    ],
+    "Kuckuck": [
+        "coucou"
+    ],
+    "Kuh": [
+        "vache"
+    ],
+    "Kummer": [
+        "peine",
+        "chagrin"
+    ],
+    "Kälte": [
+        "froid"
+    ],
+    "König": [
+        "roi"
+    ],
+    "Körper": [
+        "corps"
+    ],
+    "Küste": [
+        "côte"
+    ],
+    "Laden": [
+        "magasin",
+        "boutique"
+    ],
+    "Lagerfeuer": [
+        "feu de camp"
+    ],
+    "Land": [
+        "pays"
+    ],
+    "Last": [
+        "charge",
+        "fardeau"
+    ],
+    "Laus": [
+        "pou"
+    ],
+    "Laut": [
+        "son"
+    ],
+    "Leben": [
+        "vie"
+    ],
+    "Leber": [
+        "foie"
+    ],
+    "Leder": [
+        "cuir"
+    ],
+    "Lehm": [
+        "glaise"
+    ],
+    "Lehrer": [
+        "professeur",
+        "instituteur"
+    ],
+    "Leine": [
+        "laisse"
+    ],
+    "Leiter": [
+        "échelle"
+    ],
+    "Leute": [
+        "gens"
+    ],
+    "Licht": [
+        "lumière"
+    ],
+    "Lied": [
+        "chant",
+        "chanson"
+    ],
+    "Linie": [
+        "ligne"
+    ],
+    "Lippe": [
+        "lèvre"
+    ],
+    "Loch": [
+        "trou"
+    ],
+    "Luft": [
+        "air"
+    ],
+    "Lust": [
+        "envie"
+    ],
+    "Länge": [
+        "longueur"
+    ],
+    "Lärm": [
+        "bruit"
+    ],
+    "Löffel": [
+        "cuiller"
+    ],
+    "Lüge": [
+        "mensonge"
+    ],
+    "Macht": [
+        "pouvoir",
+        "puissance"
+    ],
+    "Magen": [
+        "estomac"
+    ],
+    "Mai": [
+        "mai"
+    ],
+    "Mann": [
+        "homme"
+    ],
+    "Maus": [
+        "souris"
+    ],
+    "Meer": [
+        "mer"
+    ],
+    "Meister": [
+        "maître"
+    ],
+    "Menge": [
+        "quantité"
+    ],
+    "Mensch": [
+        "homme"
+    ],
+    "Messer": [
+        "couteau"
+    ],
+    "Milch": [
+        "lait"
+    ],
+    "Mittag": [
+        "midi"
+    ],
+    "Mitte": [
+        "milieu"
+    ],
+    "Mittwoch": [
+        "mercredi"
+    ],
+    "Monat": [
+        "mois"
+    ],
+    "Mond": [
+        "lune"
+    ],
+    "Montag": [
+        "lundi"
+    ],
+    "Moor": [
+        "tourbière"
+    ],
+    "Morgen": [
+        "matin",
+        "matinée"
+    ],
+    "Mund": [
+        "bouche"
+    ],
+    "Muster": [
+        "dessin"
+    ],
+    "Mutter": [
+        "mère"
+    ],
+    "Mädchen": [
+        "fille",
+        "jeune fille"
+    ],
+    "Märchen": [
+        "conte",
+        "conte de fées"
+    ],
+    "März": [
+        "mars"
+    ],
+    "Mücke": [
+        "moucheron"
+    ],
+    "Mütze": [
+        "bonnet",
+        "casquette"
+    ],
+    "Nabel": [
+        "nombril"
+    ],
+    "Nachricht": [
+        "message"
+    ],
+    "Nacht": [
+        "nuit"
+    ],
+    "Nadel": [
+        "aiguille"
+    ],
+    "Nagel": [
+        "ongle",
+        "clou"
+    ],
+    "Nahrung": [
+        "nourriture"
+    ],
+    "Name": [
+        "nom"
+    ],
+    "Nase": [
+        "nez"
+    ],
+    "Nebel": [
+        "brume",
+        "brouillard"
+    ],
+    "Nest": [
+        "nid"
+    ],
+    "Netz": [
+        "filet"
+    ],
+    "Neuigkeit": [
+        "nouvelle"
+    ],
+    "Norden": [
+        "nord"
+    ],
+    "November": [
+        "novembre"
+    ],
+    "Nutzen": [
+        "profit"
+    ],
+    "Oberschenkel": [
+        "cuisse"
+    ],
+    "Ofen": [
+        "poêle"
+    ],
+    "Ohr": [
+        "oreille"
+    ],
+    "Oktober": [
+        "octobre"
+    ],
+    "Onkel": [
+        "oncle"
+    ],
+    "Ort": [
+        "lieu",
+        "endroit"
+    ],
+    "Osten": [
+        "est",
+        "orient"
+    ],
+    "Pfad": [
+        "sentier"
+    ],
+    "Pfeil": [
+        "flèche"
+    ],
+    "Pferd": [
+        "cheval"
+    ],
+    "Pilz": [
+        "champignon"
+    ],
+    "Platte": [
+        "plaque"
+    ],
+    "Platz": [
+        "place"
+    ],
+    "Preis": [
+        "prix"
+    ],
+    "Puppe": [
+        "poupée"
+    ],
+    "Quelle": [
+        "source",
+        "fontaine"
+    ],
+    "Rand": [
+        "bord"
+    ],
+    "Rauch": [
+        "fumée"
+    ],
+    "Raureif": [
+        "givre"
+    ],
+    "Rede": [
+        "parole",
+        "discours"
+    ],
+    "Regal": [
+        "étagère"
+    ],
+    "Regen": [
+        "pluie"
+    ],
+    "Regenbogen": [
+        "arc-en-ciel"
+    ],
+    "Reichtum": [
+        "richesse"
+    ],
+    "Reihe": [
+        "file",
+        "rangée"
+    ],
+    "Riemen": [
+        "lanière",
+        "courroie"
+    ],
+    "Rinde": [
+        "écorce"
+    ],
+    "Ring": [
+        "bague"
+    ],
+    "Rohr": [
+        "tube",
+        "tuyau"
+    ],
+    "Ruder": [
+        "rame",
+        "aviron"
+    ],
+    "Ruf": [
+        "cri",
+        "appel"
+    ],
+    "Ruhe": [
+        "calme",
+        "tranquillité"
+    ],
+    "Rätsel": [
+        "énigme",
+        "devinette"
+    ],
+    "Rücken": [
+        "dos"
+    ],
+    "Saat": [
+        "semence"
+    ],
+    "Sache": [
+        "chose"
+    ],
+    "Sack": [
+        "sac"
+    ],
+    "Salz": [
+        "sel"
+    ],
+    "Samstag": [
+        "samedi"
+    ],
+    "Sand": [
+        "sable"
+    ],
+    "Schaden": [
+        "dégât",
+        "dommage"
+    ],
+    "Schaf": [
+        "mouton"
+    ],
+    "Schale": [
+        "pelure"
+    ],
+    "Schatten": [
+        "ombre"
+    ],
+    "Schaufel": [
+        "pelle"
+    ],
+    "Schaum": [
+        "écume",
+        "mousse"
+    ],
+    "Scheibe": [
+        "tranche"
+    ],
+    "Schlaf": [
+        "sommeil"
+    ],
+    "Schlange": [
+        "serpent"
+    ],
+    "Schlinge": [
+        "lacs"
+    ],
+    "Schlitten": [
+        "traîneau"
+    ],
+    "Schloss": [
+        "serrure"
+    ],
+    "Schluss": [
+        "fin"
+    ],
+    "Schmerz": [
+        "douleur"
+    ],
+    "Schmetterling": [
+        "papillon"
+    ],
+    "Schmutz": [
+        "boue",
+        "saleté"
+    ],
+    "Schnee": [
+        "neige"
+    ],
+    "Schnur": [
+        "corde",
+        "ficelle"
+    ],
+    "Schnurrbart": [
+        "moustache"
+    ],
+    "Schritt": [
+        "pas"
+    ],
+    "Schuh": [
+        "soulier",
+        "chaussure"
+    ],
+    "Schuld": [
+        "faute",
+        "culpabilité"
+    ],
+    "Schulter": [
+        "épaule"
+    ],
+    "Schwan": [
+        "cygne"
+    ],
+    "Schwanz": [
+        "queue"
+    ],
+    "Schwarm": [
+        "nuée",
+        "volée"
+    ],
+    "Schwein": [
+        "porc",
+        "cochon"
+    ],
+    "Schwester": [
+        "sœur"
+    ],
+    "See": [
+        "lac"
+    ],
+    "Sehne": [
+        "tendon"
+    ],
+    "Seite": [
+        "côté"
+    ],
+    "September": [
+        "septembre"
+    ],
+    "Silber": [
+        "argent"
+    ],
+    "Sinn": [
+        "sens"
+    ],
+    "Ski": [
+        "ski"
+    ],
+    "Sohn": [
+        "fils"
+    ],
+    "Sommer": [
+        "été"
+    ],
+    "Sonne": [
+        "soleil"
+    ],
+    "Sonntag": [
+        "dimanche"
+    ],
+    "Spaten": [
+        "bêche"
+    ],
+    "Speise": [
+        "plat"
+    ],
+    "Spiegel": [
+        "glace",
+        "miroir"
+    ],
+    "Spiel": [
+        "jeu"
+    ],
+    "Spinne": [
+        "araignée"
+    ],
+    "Spitze": [
+        "cime",
+        "pointe"
+    ],
+    "Sprache": [
+        "langue",
+        "langage"
+    ],
+    "Spur": [
+        "trace"
+    ],
+    "Staat": [
+        "État"
+    ],
+    "Stab": [
+        "bâton"
+    ],
+    "Stadt": [
+        "cité",
+        "ville"
+    ],
+    "Stamm": [
+        "tronc"
+    ],
+    "Stange": [
+        "barre",
+        "perche"
+    ],
+    "Staub": [
+        "poussière"
+    ],
+    "Stein": [
+        "pierre"
+    ],
+    "Stern": [
+        "étoile"
+    ],
+    "Stiefel": [
+        "botte"
+    ],
+    "Stimme": [
+        "voix"
+    ],
+    "Stirn": [
+        "front"
+    ],
+    "Stock": [
+        "canne"
+    ],
+    "Stoff": [
+        "tissu",
+        "étoffe"
+    ],
+    "Straße": [
+        "route"
+    ],
+    "Strich": [
+        "trait"
+    ],
+    "Strömung": [
+        "courant"
+    ],
+    "Stuhl": [
+        "chaise"
+    ],
+    "Stärke": [
+        "vigueur"
+    ],
+    "Stück": [
+        "morceau"
+    ],
+    "Stütze": [
+        "appui",
+        "soutien"
+    ],
+    "Sumpf": [
+        "marais",
+        "marécage"
+    ],
+    "Suppe": [
+        "soupe",
+        "potage"
+    ],
+    "Süden": [
+        "sud"
+    ],
+    "Sünde": [
+        "péché"
+    ],
+    "Tag": [
+        "jour",
+        "journée"
+    ],
+    "Tanne": [
+        "sapin"
+    ],
+    "Tante": [
+        "tante"
+    ],
+    "Tasche": [
+        "sac"
+    ],
+    "Tasse": [
+        "tasse"
+    ],
+    "Tee": [
+        "thé"
+    ],
+    "Teil": [
+        "part",
+        "partie"
+    ],
+    "Tier": [
+        "animal"
+    ],
+    "Tisch": [
+        "table"
+    ],
+    "Tochter": [
+        "fille"
+    ],
+    "Tod": [
+        "mort"
+    ],
+    "Ton": [
+        "ton"
+    ],
+    "Topf": [
+        "pot",
+        "marmite"
+    ],
+    "Tor": [
+        "porte",
+        "portail"
+    ],
+    "Traum": [
+        "songe"
+    ],
+    "Tropfen": [
+        "goutte"
+    ],
+    "Träne": [
+        "larme"
+    ],
+    "Tuch": [
+        "drap",
+        "fichu"
+    ],
+    "Tür": [
+        "porte"
+    ],
+    "Ufer": [
+        "bord",
+        "rivage"
+    ],
+    "Unglück": [
+        "malheur"
+    ],
+    "Vater": [
+        "père"
+    ],
+    "Verstand": [
+        "raison"
+    ],
+    "Vogel": [
+        "oiseau"
+    ],
+    "Volk": [
+        "peuple"
+    ],
+    "Wahrheit": [
+        "vérité"
+    ],
+    "Wald": [
+        "bois",
+        "forêt"
+    ],
+    "Wange": [
+        "joue"
+    ],
+    "Ware": [
+        "marchandise"
+    ],
+    "Wasser": [
+        "eau"
+    ],
+    "Weg": [
+        "voie",
+        "chemin"
+    ],
+    "Weide": [
+        "saule",
+        "pâturage"
+    ],
+    "Welle": [
+        "vague"
+    ],
+    "Welt": [
+        "monde"
+    ],
+    "Westen": [
+        "ouest",
+        "occident"
+    ],
+    "Wetter": [
+        "temps"
+    ],
+    "Wiege": [
+        "berceau"
+    ],
+    "Wiese": [
+        "pré"
+    ],
+    "Wind": [
+        "vent"
+    ],
+    "Winkel": [
+        "coin",
+        "réduit"
+    ],
+    "Winter": [
+        "hiver"
+    ],
+    "Woche": [
+        "semaine"
+    ],
+    "Wolf": [
+        "loup"
+    ],
+    "Wolke": [
+        "nuage"
+    ],
+    "Wolle": [
+        "laine"
+    ],
+    "Wort": [
+        "mot"
+    ],
+    "Wunde": [
+        "plaie",
+        "blessure"
+    ],
+    "Wunsch": [
+        "désir"
+    ],
+    "Wurm": [
+        "ver"
+    ],
+    "Wurzel": [
+        "racine"
+    ],
+    "Zahn": [
+        "dent"
+    ],
+    "Zaun": [
+        "clôture"
+    ],
+    "Zeh": [
+        "orteil",
+        "doigt de pied"
+    ],
+    "Zeichen": [
+        "signe"
+    ],
+    "Zeit": [
+        "temps"
+    ],
+    "Zeitung": [
+        "journal"
+    ],
+    "Zunge": [
+        "langue"
+    ],
+    "Zweig": [
+        "rameau"
+    ],
+    "Zwiebel": [
+        "oignon"
+    ],
+    "abfahren": [
+        "partir"
+    ],
+    "abnehmen": [
+        "diminuer"
+    ],
+    "abreißen": [
+        "arracher"
+    ],
+    "abschneiden": [
+        "couper"
+    ],
+    "abwischen": [
+        "essuyer"
+    ],
+    "acht": [
+        "huit"
+    ],
+    "achtzig": [
+        "quatre-vingt"
+    ],
+    "allein": [
+        "seul"
+    ],
+    "alles": [
+        "tout"
+    ],
+    "alt": [
+        "vieux",
+        "âgé",
+        "vieux"
+    ],
+    "anbinden": [
+        "attacher"
+    ],
+    "anderer": [
+        "autre"
+    ],
+    "anfangen": [
+        "commencer"
+    ],
+    "anhalten": [
+        "s'arrêter"
+    ],
+    "ankommen": [
+        "arriver"
+    ],
+    "anschauen": [
+        "regarder"
+    ],
+    "ansehen": [
+        "regarder"
+    ],
+    "antreiben": [
+        "pousser"
+    ],
+    "anziehen": [
+        "mettre"
+    ],
+    "anzünden": [
+        "allumer"
+    ],
+    "arbeiten": [
+        "travailler"
+    ],
+    "arm": [
+        "pauvre"
+    ],
+    "atmen": [
+        "respirer"
+    ],
+    "auf einmal": [
+        "à la fois"
+    ],
+    "aufbewahren": [
+        "garder",
+        "conserver"
+    ],
+    "aufgehen": [
+        "se lever"
+    ],
+    "aufheben": [
+        "ramasser"
+    ],
+    "aufhängen": [
+        "accrocher"
+    ],
+    "aufhören": [
+        "cesser",
+        "arrêter"
+    ],
+    "aufstehen": [
+        "se lever"
+    ],
+    "aufwachen": [
+        "se réveiller"
+    ],
+    "aufziehen": [
+        "élever"
+    ],
+    "auswählen": [
+        "choisir",
+        "sélectionner"
+    ],
+    "ausziehen": [
+        "ôter",
+        "enlever"
+    ],
+    "backen": [
+        "cuire"
+    ],
+    "baden": [
+        "se baigner"
+    ],
+    "bald": [
+        "bientôt"
+    ],
+    "bauen": [
+        "bâtir",
+        "construire"
+    ],
+    "bedecken": [
+        "couvrir"
+    ],
+    "beenden": [
+        "finir",
+        "terminer"
+    ],
+    "beginnen": [
+        "commencer"
+    ],
+    "begreifen": [
+        "concevoir"
+    ],
+    "beherrschen": [
+        "dominer",
+        "maîtriser"
+    ],
+    "behindern": [
+        "gêner"
+    ],
+    "beißen": [
+        "mordre"
+    ],
+    "bekannt": [
+        "connu"
+    ],
+    "bekommen": [
+        "obtenir"
+    ],
+    "bellen": [
+        "aboyer"
+    ],
+    "belästigen": [
+        "molester",
+        "importuner"
+    ],
+    "bemerken": [
+        "remarquer",
+        "apercevoir"
+    ],
+    "berühmt": [
+        "fameux",
+        "célèbre"
+    ],
+    "berühren": [
+        "toucher"
+    ],
+    "beschädigen": [
+        "endommager"
+    ],
+    "besitzen": [
+        "posséder"
+    ],
+    "besuchen": [
+        "visiter",
+        "aller voir"
+    ],
+    "betrügen": [
+        "duper",
+        "frauder"
+    ],
+    "beugen": [
+        "plier",
+        "ployer"
+    ],
+    "bewachen": [
+        "garder"
+    ],
+    "bewahren": [
+        "préserver"
+    ],
+    "bezahlen": [
+        "payer"
+    ],
+    "biegen": [
+        "courber"
+    ],
+    "billig": [
+        "bon marché"
+    ],
+    "binden": [
+        "lier",
+        "attacher"
+    ],
+    "bitten": [
+        "prier"
+    ],
+    "bitter": [
+        "amer"
+    ],
+    "blasen": [
+        "souffler"
+    ],
+    "blau": [
+        "bleu"
+    ],
+    "bleiben": [
+        "rester",
+        "demeurer"
+    ],
+    "blind": [
+        "aveugle"
+    ],
+    "braten": [
+        "rôtir"
+    ],
+    "brausen": [
+        "mugir"
+    ],
+    "brechen": [
+        "rompre"
+    ],
+    "breit": [
+        "large"
+    ],
+    "brennen": [
+        "brûler",
+        "flamber"
+    ],
+    "bringen": [
+        "apporter"
+    ],
+    "bunt": [
+        "multicolore"
+    ],
+    "böse": [
+        "mauvais"
+    ],
+    "damals": [
+        "alors",
+        "à l'époque"
+    ],
+    "danach": [
+        "après",
+        "ensuite"
+    ],
+    "dann": [
+        "puis",
+        "ensuite"
+    ],
+    "das": [
+        "ce",
+        "cela"
+    ],
+    "denken": [
+        "penser"
+    ],
+    "dicht": [
+        "dense"
+    ],
+    "dick": [
+        "épais"
+    ],
+    "dies": [
+        "ceci"
+    ],
+    "donnern": [
+        "tonner"
+    ],
+    "dort": [
+        "là",
+        "là-bas"
+    ],
+    "dorthin": [
+        "y",
+        "par là"
+    ],
+    "drehen": [
+        "tordre",
+        "tourner"
+    ],
+    "drei": [
+        "trois"
+    ],
+    "dreißig": [
+        "trente"
+    ],
+    "dritter": [
+        "troisième"
+    ],
+    "drücken": [
+        "presser"
+    ],
+    "du": [
+        "tu",
+        "toi"
+    ],
+    "dumm": [
+        "sot",
+        "bête"
+    ],
+    "dunkel": [
+        "sombre"
+    ],
+    "durch": [
+        "par",
+        "à travers"
+    ],
+    "dünn": [
+        "mince"
+    ],
+    "ehemalig": [
+        "ancien"
+    ],
+    "eilen": [
+        "courir"
+    ],
+    "ein wenig": [
+        "un peu"
+    ],
+    "einladen": [
+        "inviter"
+    ],
+    "einmal": [
+        "une fois"
+    ],
+    "eins": [
+        "un"
+    ],
+    "einschlafen": [
+        "s'endormir"
+    ],
+    "einst": [
+        "jadis",
+        "autrefois"
+    ],
+    "eintreten": [
+        "entrer"
+    ],
+    "einwickeln": [
+        "envelopper"
+    ],
+    "elf": [
+        "onze"
+    ],
+    "enden": [
+        "finir",
+        "se terminer"
+    ],
+    "er": [
+        "il",
+        "lui"
+    ],
+    "ergreifen": [
+        "saisir",
+        "prendre"
+    ],
+    "erhalten": [
+        "recevoir"
+    ],
+    "erkennen": [
+        "reconnaître"
+    ],
+    "erscheinen": [
+        "apparaître"
+    ],
+    "erster": [
+        "premier"
+    ],
+    "ertragen": [
+        "tolérer",
+        "supporter"
+    ],
+    "erwarten": [
+        "attendre"
+    ],
+    "erzählen": [
+        "raconter"
+    ],
+    "essen": [
+        "manger"
+    ],
+    "fahren": [
+        "aller",
+        "rouler"
+    ],
+    "fallen": [
+        "tomber"
+    ],
+    "fallen lassen": [
+        "lâcher",
+        "laisser tomber"
+    ],
+    "fangen": [
+        "attraper"
+    ],
+    "fassen": [
+        "capturer"
+    ],
+    "faul": [
+        "fainéant",
+        "paresseux"
+    ],
+    "faulen": [
+        "pourrir",
+        "se putréfier"
+    ],
+    "fegen": [
+        "balayer"
+    ],
+    "fein": [
+        "fin",
+        "menu"
+    ],
+    "fern": [
+        "éloigné",
+        "lointain"
+    ],
+    "fest": [
+        "ferme",
+        "solide"
+    ],
+    "fett": [
+        "gras"
+    ],
+    "feucht": [
+        "humide"
+    ],
+    "finden": [
+        "trouver"
+    ],
+    "fischen": [
+        "pêcher"
+    ],
+    "flach": [
+        "plat"
+    ],
+    "fleißig": [
+        "appliqué"
+    ],
+    "fliegen": [
+        "voler"
+    ],
+    "fliehen": [
+        "fuir"
+    ],
+    "fließen": [
+        "couler"
+    ],
+    "flüchten": [
+        "s'enfuir"
+    ],
+    "fragen": [
+        "demander"
+    ],
+    "fremd": [
+        "étranger"
+    ],
+    "frieren": [
+        "avoir froid"
+    ],
+    "frisch": [
+        "frais"
+    ],
+    "funkeln": [
+        "étinceler"
+    ],
+    "färben": [
+        "teindre"
+    ],
+    "fühlen": [
+        "sentir"
+    ],
+    "führen": [
+        "guider"
+    ],
+    "füllen": [
+        "remplir"
+    ],
+    "fünf": [
+        "cinq"
+    ],
+    "fünfzig": [
+        "cinquante"
+    ],
+    "fürchten": [
+        "craindre",
+        "avoir peur de"
+    ],
+    "füttern": [
+        "faire manger"
+    ],
+    "geben": [
+        "donner"
+    ],
+    "geboren werden": [
+        "naître"
+    ],
+    "gefrieren": [
+        "geler"
+    ],
+    "gehen": [
+        "aller"
+    ],
+    "geizig": [
+        "avare"
+    ],
+    "gelb": [
+        "jaune"
+    ],
+    "gelingen": [
+        "réussir"
+    ],
+    "genesen": [
+        "guérir",
+        "se remettre"
+    ],
+    "geradeaus": [
+        "tout droit"
+    ],
+    "geraten": [
+        "réussir"
+    ],
+    "geschickt": [
+        "habile"
+    ],
+    "geschlossen": [
+        "clos",
+        "fermé"
+    ],
+    "gestern": [
+        "hier"
+    ],
+    "gießen": [
+        "arroser"
+    ],
+    "glatt": [
+        "poli",
+        "lisse"
+    ],
+    "glauben": [
+        "croire"
+    ],
+    "glänzen": [
+        "briller"
+    ],
+    "graben": [
+        "creuser"
+    ],
+    "grau": [
+        "gris"
+    ],
+    "groß": [
+        "grand"
+    ],
+    "grün": [
+        "vert"
+    ],
+    "gut": [
+        "bon"
+    ],
+    "hacken": [
+        "fendre"
+    ],
+    "halten": [
+        "tenir"
+    ],
+    "hart": [
+        "dur"
+    ],
+    "hauen": [
+        "frapper"
+    ],
+    "heben": [
+        "soulever"
+    ],
+    "heiß": [
+        "chaud",
+        "très chaud"
+    ],
+    "hell": [
+        "clair"
+    ],
+    "herstellen": [
+        "produire",
+        "fabriquer"
+    ],
+    "heulen": [
+        "hurler"
+    ],
+    "heute": [
+        "aujourd'hui"
+    ],
+    "hier": [
+        "ici"
+    ],
+    "hierhin": [
+        "par ici"
+    ],
+    "hinab": [
+        "en bas",
+        "vers le bas"
+    ],
+    "hinauf": [
+        "en haut",
+        "vers le haut"
+    ],
+    "hineingehen": [
+        "entrer"
+    ],
+    "hinfallen": [
+        "tomber"
+    ],
+    "hinter": [
+        "derrière"
+    ],
+    "hinzufügen": [
+        "ajouter"
+    ],
+    "hochheben": [
+        "lever"
+    ],
+    "hundert": [
+        "cent"
+    ],
+    "hungrig": [
+        "affamé"
+    ],
+    "husten": [
+        "tousser"
+    ],
+    "hängen": [
+        "pendre"
+    ],
+    "hören": [
+        "entendre"
+    ],
+    "hübsch": [
+        "joli"
+    ],
+    "hüten": [
+        "garder"
+    ],
+    "ich": [
+        "je",
+        "moi"
+    ],
+    "ihr": [
+        "vous"
+    ],
+    "immer": [
+        "toujours"
+    ],
+    "jagen": [
+        "chasser"
+    ],
+    "jetzt": [
+        "maintenant"
+    ],
+    "jung": [
+        "jeune"
+    ],
+    "kalt": [
+        "froid"
+    ],
+    "kaufen": [
+        "acheter"
+    ],
+    "kaum": [
+        "à peine"
+    ],
+    "kehren": [
+        "balayer"
+    ],
+    "kleben": [
+        "coller"
+    ],
+    "klein": [
+        "petit"
+    ],
+    "klettern": [
+        "grimper"
+    ],
+    "klingeln": [
+        "sonner"
+    ],
+    "klingen": [
+        "sonner"
+    ],
+    "klirren": [
+        "cliqueter"
+    ],
+    "klopfen": [
+        "frapper"
+    ],
+    "klug": [
+        "intelligent"
+    ],
+    "kochen": [
+        "cuire"
+    ],
+    "kommen": [
+        "venir"
+    ],
+    "krank": [
+        "malade"
+    ],
+    "krank sein": [
+        "être malade"
+    ],
+    "krank werden": [
+        "tomber malade"
+    ],
+    "kratzen": [
+        "gratter",
+        "égratigner"
+    ],
+    "kriechen": [
+        "ramper"
+    ],
+    "kräftig": [
+        "fort",
+        "vigoureux"
+    ],
+    "kurz": [
+        "court"
+    ],
+    "kämmen": [
+        "peigner"
+    ],
+    "können": [
+        "savoir",
+        "pouvoir"
+    ],
+    "kühl": [
+        "frais"
+    ],
+    "küssen": [
+        "embrasser"
+    ],
+    "lachen": [
+        "rire"
+    ],
+    "lang": [
+        "long"
+    ],
+    "lange": [
+        "longtemps"
+    ],
+    "lassen": [
+        "faire"
+    ],
+    "laufen": [
+        "marcher",
+        "aller à pied"
+    ],
+    "leben": [
+        "vivre"
+    ],
+    "lebendig": [
+        "vivant"
+    ],
+    "lecken": [
+        "lécher"
+    ],
+    "lecker": [
+        "délicieux",
+        "appétissant"
+    ],
+    "leer": [
+        "vide"
+    ],
+    "legen": [
+        "placer"
+    ],
+    "lehren": [
+        "apprendre"
+    ],
+    "leiten": [
+        "diriger",
+        "conduire"
+    ],
+    "lernen": [
+        "apprendre"
+    ],
+    "lesen": [
+        "lire"
+    ],
+    "letzter": [
+        "dernier"
+    ],
+    "lieb": [
+        "cher",
+        "gentil"
+    ],
+    "lieben": [
+        "aimer"
+    ],
+    "liegen": [
+        "être couché"
+    ],
+    "linker": [
+        "gauche"
+    ],
+    "loben": [
+        "louer"
+    ],
+    "lustig": [
+        "gai",
+        "joyeux"
+    ],
+    "lärmen": [
+        "faire du bruit"
+    ],
+    "läuten": [
+        "sonner"
+    ],
+    "machen": [
+        "faire"
+    ],
+    "malen": [
+        "peindre"
+    ],
+    "manchmal": [
+        "parfois",
+        "quelquefois"
+    ],
+    "melken": [
+        "traire"
+    ],
+    "messen": [
+        "mesurer"
+    ],
+    "mitteilen": [
+        "communiquer"
+    ],
+    "morgen": [
+        "demain"
+    ],
+    "mögen": [
+        "aimer",
+        "vouloir"
+    ],
+    "müde werden": [
+        "se lasser",
+        "se fatiguer"
+    ],
+    "nackt": [
+        "nu"
+    ],
+    "nah": [
+        "lié",
+        "proche"
+    ],
+    "nass": [
+        "mouillé"
+    ],
+    "neben": [
+        "à côté de"
+    ],
+    "nehmen": [
+        "prendre"
+    ],
+    "nennen": [
+        "nommer",
+        "appeler"
+    ],
+    "neu": [
+        "neuf",
+        "nouveau"
+    ],
+    "neun": [
+        "neuf"
+    ],
+    "neunzig": [
+        "quatre-vingt-dix"
+    ],
+    "nicht": [
+        "ne ... pas"
+    ],
+    "niemals": [
+        "ne ... jamais"
+    ],
+    "noch": [
+        "encore"
+    ],
+    "nur": [
+        "seulement",
+        "ne ... que"
+    ],
+    "nähen": [
+        "coudre"
+    ],
+    "oben": [
+        "dessus",
+        "en haut"
+    ],
+    "oder": [
+        "ou"
+    ],
+    "offen": [
+        "ouvert"
+    ],
+    "oft": [
+        "souvent"
+    ],
+    "packen": [
+        "agripper"
+    ],
+    "passieren": [
+        "se passer"
+    ],
+    "pfeifen": [
+        "siffler"
+    ],
+    "pflücken": [
+        "cueillir"
+    ],
+    "plötzlich": [
+        "tout à coup"
+    ],
+    "prahlen": [
+        "se vanter"
+    ],
+    "probieren": [
+        "goûter"
+    ],
+    "rauchen": [
+        "fumer"
+    ],
+    "rauschen": [
+        "bruire"
+    ],
+    "rechnen": [
+        "calculer"
+    ],
+    "rechter": [
+        "droit"
+    ],
+    "reden": [
+        "parler"
+    ],
+    "regnen": [
+        "pleuvoir"
+    ],
+    "reiben": [
+        "frotter"
+    ],
+    "reich": [
+        "riche"
+    ],
+    "reichen": [
+        "tendre"
+    ],
+    "reif": [
+        "mûr"
+    ],
+    "reifen": [
+        "mûrir"
+    ],
+    "reinigen": [
+        "nettoyer"
+    ],
+    "reißen": [
+        "rompre",
+        "se déchirer"
+    ],
+    "rennen": [
+        "courir"
+    ],
+    "reparieren": [
+        "réparer"
+    ],
+    "retten": [
+        "sauver"
+    ],
+    "richtig": [
+        "juste",
+        "correct"
+    ],
+    "riechen": [
+        "sentir"
+    ],
+    "roh": [
+        "cru",
+        "brut"
+    ],
+    "rot": [
+        "rouge"
+    ],
+    "rudern": [
+        "ramer"
+    ],
+    "rufen": [
+        "appeler"
+    ],
+    "rund": [
+        "rond"
+    ],
+    "rückwärts": [
+        "en arrière"
+    ],
+    "rühren": [
+        "toucher",
+        "attendrir"
+    ],
+    "rütteln": [
+        "cahoter"
+    ],
+    "sagen": [
+        "dire"
+    ],
+    "sammeln": [
+        "collectionner"
+    ],
+    "sanft": [
+        "doux"
+    ],
+    "sauber": [
+        "net",
+        "propre"
+    ],
+    "sauer": [
+        "aigre"
+    ],
+    "sausen": [
+        "filer"
+    ],
+    "scharf": [
+        "tranchant"
+    ],
+    "schaukeln": [
+        "se balancer"
+    ],
+    "scheinen": [
+        "briller",
+        "sembler",
+        "paraître"
+    ],
+    "schenken": [
+        "offrir"
+    ],
+    "schicken": [
+        "envoyer"
+    ],
+    "schieben": [
+        "pousser"
+    ],
+    "schießen": [
+        "tirer"
+    ],
+    "schimpfen": [
+        "gronder"
+    ],
+    "schlafen": [
+        "dormir"
+    ],
+    "schlagen": [
+        "battre",
+        "frapper"
+    ],
+    "schlank": [
+        "svelte"
+    ],
+    "schlecht": [
+        "mauvais"
+    ],
+    "schleifen": [
+        "affiler",
+        "aiguiser"
+    ],
+    "schleppen": [
+        "traîner"
+    ],
+    "schließen": [
+        "fermer"
+    ],
+    "schlimm": [
+        "grave",
+        "mauvais"
+    ],
+    "schlucken": [
+        "avaler"
+    ],
+    "schmal": [
+        "étroit"
+    ],
+    "schmelzen": [
+        "fondre"
+    ],
+    "schmerzen": [
+        "faire mal"
+    ],
+    "schmutzig": [
+        "sale",
+        "crasseux"
+    ],
+    "schmücken": [
+        "orner",
+        "décorer"
+    ],
+    "schneiden": [
+        "couper",
+        "trancher"
+    ],
+    "schon": [
+        "déjà"
+    ],
+    "schreiben": [
+        "écrire"
+    ],
+    "schreien": [
+        "crier"
+    ],
+    "schreiten": [
+        "marcher"
+    ],
+    "schwach": [
+        "faible"
+    ],
+    "schwanken": [
+        "osciller",
+        "chanceler"
+    ],
+    "schwarz": [
+        "noir"
+    ],
+    "schwenken": [
+        "agiter"
+    ],
+    "schwer": [
+        "lourd",
+        "pesant"
+    ],
+    "schwimmen": [
+        "nager"
+    ],
+    "schwingen": [
+        "vibrer",
+        "osciller"
+    ],
+    "schön": [
+        "beau"
+    ],
+    "schütteln": [
+        "secouer"
+    ],
+    "schütten": [
+        "verser"
+    ],
+    "schützen": [
+        "protéger"
+    ],
+    "sechs": [
+        "six"
+    ],
+    "sechzig": [
+        "soixante"
+    ],
+    "sehen": [
+        "voir"
+    ],
+    "sehr": [
+        "très"
+    ],
+    "setzen": [
+        "placer"
+    ],
+    "sich anziehen": [
+        "s'habiller"
+    ],
+    "sich beeilen": [
+        "se hâter",
+        "se dépêcher"
+    ],
+    "sich bewegen": [
+        "bouger"
+    ],
+    "sich drehen": [
+        "tourner"
+    ],
+    "sich erheben": [
+        "se lever"
+    ],
+    "sich erholen": [
+        "se reposer",
+        "se détendre"
+    ],
+    "sich erinnern an": [
+        "se souvenir de"
+    ],
+    "sich fürchten": [
+        "avoir peur"
+    ],
+    "sich rühren": [
+        "broncher"
+    ],
+    "sich schlagen": [
+        "se taper"
+    ],
+    "sich setzen": [
+        "s'asseoir"
+    ],
+    "sich trennen": [
+        "se séparer"
+    ],
+    "sich unterhalten": [
+        "bavarder",
+        "s'entretenir"
+    ],
+    "sich versammeln": [
+        "s'assembler"
+    ],
+    "sich waschen": [
+        "se laver"
+    ],
+    "sich ärgern": [
+        "se fâcher"
+    ],
+    "sie": [
+        "ils",
+        "elles"
+    ],
+    "sieben": [
+        "sept"
+    ],
+    "siebzig": [
+        "soixante-dix"
+    ],
+    "sieden": [
+        "bouillir"
+    ],
+    "siegen": [
+        "vaincre"
+    ],
+    "singen": [
+        "chanter"
+    ],
+    "sinken": [
+        "descendre",
+        "s'abaisser"
+    ],
+    "sitzen": [
+        "être assis"
+    ],
+    "so": [
+        "si",
+        "ainsi"
+    ],
+    "sofort": [
+        "immédiatement"
+    ],
+    "spazierengehen": [
+        "se promener"
+    ],
+    "spielen": [
+        "jouer"
+    ],
+    "spitz": [
+        "aigu",
+        "pointu"
+    ],
+    "sprechen": [
+        "parler"
+    ],
+    "springen": [
+        "sauter"
+    ],
+    "später": [
+        "plus tard"
+    ],
+    "spülen": [
+        "rincer"
+    ],
+    "stark": [
+        "fort",
+        "puissant"
+    ],
+    "stechen": [
+        "piquer"
+    ],
+    "stecken": [
+        "enfoncer"
+    ],
+    "stehen": [
+        "être debout"
+    ],
+    "stehlen": [
+        "voler"
+    ],
+    "steigen": [
+        "monter"
+    ],
+    "stellen": [
+        "poser",
+        "mettre"
+    ],
+    "sterben": [
+        "mourir"
+    ],
+    "stoßen": [
+        "heurter"
+    ],
+    "streichen": [
+        "empâter"
+    ],
+    "stricken": [
+        "tricoter"
+    ],
+    "strömen": [
+        "affluer"
+    ],
+    "stumpf": [
+        "mousse",
+        "émoussé"
+    ],
+    "stöhnen": [
+        "gémir"
+    ],
+    "stören": [
+        "gêner",
+        "déranger"
+    ],
+    "suchen": [
+        "chercher"
+    ],
+    "süß": [
+        "doux"
+    ],
+    "tanzen": [
+        "danser"
+    ],
+    "taub": [
+        "sourd"
+    ],
+    "tauchen": [
+        "plonger"
+    ],
+    "tauen": [
+        "dégeler"
+    ],
+    "tausend": [
+        "mille"
+    ],
+    "teilen": [
+        "diviser"
+    ],
+    "teuer": [
+        "cher"
+    ],
+    "tragen": [
+        "porter"
+    ],
+    "traurig": [
+        "triste"
+    ],
+    "treffen": [
+        "rencontrer"
+    ],
+    "treiben": [
+        "mener"
+    ],
+    "treten": [
+        "botter",
+        "donner un coup de pied à"
+    ],
+    "trinken": [
+        "boire"
+    ],
+    "trocken": [
+        "sec"
+    ],
+    "trocknen": [
+        "sécher"
+    ],
+    "tun": [
+        "faire"
+    ],
+    "täuschen": [
+        "abuser",
+        "tromper"
+    ],
+    "töten": [
+        "tuer"
+    ],
+    "umdrehen": [
+        "tourner"
+    ],
+    "umkommen": [
+        "périr"
+    ],
+    "umrühren": [
+        "remuer"
+    ],
+    "und": [
+        "et"
+    ],
+    "unten": [
+        "en bas",
+        "au-dessous"
+    ],
+    "unter": [
+        "sous",
+        "au-dessous de"
+    ],
+    "untergehen": [
+        "se coucher"
+    ],
+    "unterrichten": [
+        "instruire"
+    ],
+    "verbergen": [
+        "cacher",
+        "dissimuler"
+    ],
+    "verbessern": [
+        "améliorer"
+    ],
+    "verbinden": [
+        "lier"
+    ],
+    "verbrennen": [
+        "brûler"
+    ],
+    "verderben": [
+        "gâter",
+        "corrompre"
+    ],
+    "vereinigen": [
+        "unir",
+        "réunir"
+    ],
+    "verfaulen": [
+        "pourrir"
+    ],
+    "vergebens": [
+        "en vain"
+    ],
+    "vergehen": [
+        "passer"
+    ],
+    "vergessen": [
+        "oublier"
+    ],
+    "verkaufen": [
+        "vendre"
+    ],
+    "verlassen": [
+        "quitter"
+    ],
+    "verlieren": [
+        "perdre"
+    ],
+    "vernehmen": [
+        "entendre",
+        "percevoir"
+    ],
+    "verschieden": [
+        "différent"
+    ],
+    "verschwinden": [
+        "disparaître"
+    ],
+    "versinken": [
+        "s'enfoncer"
+    ],
+    "versprechen": [
+        "promettre"
+    ],
+    "verstecken": [
+        "cacher"
+    ],
+    "verstehen": [
+        "entendre",
+        "comprendre"
+    ],
+    "versuchen": [
+        "essayer"
+    ],
+    "verteidigen": [
+        "défendre"
+    ],
+    "vier": [
+        "quatre"
+    ],
+    "vierzig": [
+        "quarante"
+    ],
+    "voll": [
+        "plein",
+        "rempli"
+    ],
+    "von hier": [
+        "d'ici"
+    ],
+    "vor": [
+        "devant"
+    ],
+    "vorbereiten": [
+        "préparer"
+    ],
+    "vorher": [
+        "auparavant"
+    ],
+    "vorwärts": [
+        "en avant"
+    ],
+    "wachsen": [
+        "croître"
+    ],
+    "wahr": [
+        "vrai",
+        "véritable"
+    ],
+    "warm": [
+        "chaud"
+    ],
+    "warten": [
+        "attendre"
+    ],
+    "warum": [
+        "pourquoi"
+    ],
+    "was": [
+        "que",
+        "quoi"
+    ],
+    "waschen": [
+        "laver"
+    ],
+    "wechseln": [
+        "changer",
+        "alterner"
+    ],
+    "wecken": [
+        "éveiller",
+        "réveiller"
+    ],
+    "wegen": [
+        "à cause de"
+    ],
+    "weggehen": [
+        "s'en aller"
+    ],
+    "wehen": [
+        "souffler"
+    ],
+    "weich": [
+        "mou"
+    ],
+    "weinen": [
+        "pleurer"
+    ],
+    "weiß": [
+        "blanc"
+    ],
+    "wenden": [
+        "retourner"
+    ],
+    "wer": [
+        "qui"
+    ],
+    "werden": [
+        "devenir"
+    ],
+    "werfen": [
+        "jeter",
+        "lancer"
+    ],
+    "wertvoll": [
+        "précieux"
+    ],
+    "wie": [
+        "comment"
+    ],
+    "wieder": [
+        "de nouveau"
+    ],
+    "wiegen": [
+        "bercer"
+    ],
+    "wieviel": [
+        "combien"
+    ],
+    "wir": [
+        "nous"
+    ],
+    "wissen": [
+        "savoir"
+    ],
+    "wo": [
+        "où"
+    ],
+    "wohin": [
+        "où"
+    ],
+    "wohnen": [
+        "habiter",
+        "demeurer"
+    ],
+    "wollen": [
+        "vouloir"
+    ],
+    "wählen": [
+        "choisir"
+    ],
+    "wünschen": [
+        "souhaiter"
+    ],
+    "zahlen": [
+        "payer"
+    ],
+    "zehn": [
+        "dix"
+    ],
+    "zeichnen": [
+        "dessiner"
+    ],
+    "zeigen": [
+        "montrer",
+        "faire voir"
+    ],
+    "zerbrechen": [
+        "casser"
+    ],
+    "zerreißen": [
+        "déchirer"
+    ],
+    "zerstören": [
+        "détruire"
+    ],
+    "ziehen": [
+        "tirer"
+    ],
+    "zittern": [
+        "trembler"
+    ],
+    "zu sehen sein": [
+        "se voir",
+        "être visible"
+    ],
+    "zubereiten": [
+        "préparer"
+    ],
+    "zudecken": [
+        "couvrir"
+    ],
+    "zuerst": [
+        "d'abord",
+        "premièrement"
+    ],
+    "zuhören": [
+        "écouter"
+    ],
+    "zunehmen": [
+        "augmenter"
+    ],
+    "zurück": [
+        "de retour"
+    ],
+    "zurückkommen": [
+        "revenir"
+    ],
+    "zurücklassen": [
+        "laisser"
+    ],
+    "zusammen": [
+        "ensemble"
+    ],
+    "zwanzig": [
+        "vingt"
+    ],
+    "zwei": [
+        "deux"
+    ],
+    "zweiter": [
+        "second",
+        "deuxième"
+    ],
+    "zwischen": [
+        "entre"
+    ],
+    "zwölf": [
+        "douze"
+    ],
+    "zählen": [
+        "compter"
+    ],
+    "Ärmel": [
+        "manche"
+    ],
+    "Öl": [
+        "huile"
+    ],
+    "ändern": [
+        "changer",
+        "modifier"
+    ],
+    "ärgern": [
+        "agacer"
+    ],
+    "öffnen": [
+        "ouvrir"
+    ],
+    "überall": [
+        "partout"
+    ],
+    "übersetzen": [
+        "traduire"
+    ]
+}

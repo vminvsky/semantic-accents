@@ -1,0 +1,3179 @@
+{
+    "Abend": [
+        "õhtu"
+    ],
+    "Abhang": [
+        "nõlvak"
+    ],
+    "Abstand": [
+        "vahe"
+    ],
+    "Ader": [
+        "veen"
+    ],
+    "Adler": [
+        "kotkas"
+    ],
+    "Alter": [
+        "iga"
+    ],
+    "Ameise": [
+        "sipelgas"
+    ],
+    "Angelegenheit": [
+        "asi"
+    ],
+    "Anhöhe": [
+        "küngas"
+    ],
+    "Anzahl": [
+        "arv",
+        "hulk"
+    ],
+    "Apfel": [
+        "õun"
+    ],
+    "April": [
+        "aprill"
+    ],
+    "Arbeit": [
+        "töö"
+    ],
+    "Arbeiter": [
+        "tööline"
+    ],
+    "Arm": [
+        "käsivars"
+    ],
+    "Art": [
+        "liik"
+    ],
+    "Arznei": [
+        "ravim"
+    ],
+    "Arzt": [
+        "arst"
+    ],
+    "Asche": [
+        "tuhk"
+    ],
+    "Ast": [
+        "oks"
+    ],
+    "Atem": [
+        "hingeõhk",
+        "hingamine"
+    ],
+    "Auge": [
+        "silm"
+    ],
+    "August": [
+        "august"
+    ],
+    "Bach": [
+        "oja"
+    ],
+    "Band": [
+        "lint"
+    ],
+    "Barsch": [
+        "ahven"
+    ],
+    "Bart": [
+        "habe"
+    ],
+    "Bau": [
+        "urg"
+    ],
+    "Bauch": [
+        "kõht"
+    ],
+    "Baum": [
+        "puu"
+    ],
+    "Beere": [
+        "mari"
+    ],
+    "Bein": [
+        "jalg"
+    ],
+    "Berg": [
+        "mägi"
+    ],
+    "Besen": [
+        "luud"
+    ],
+    "Bett": [
+        "voodi"
+    ],
+    "Beutel": [
+        "paun"
+    ],
+    "Bild": [
+        "pilt"
+    ],
+    "Birke": [
+        "kask"
+    ],
+    "Blatt": [
+        "leht"
+    ],
+    "Blume": [
+        "lill"
+    ],
+    "Blut": [
+        "veri"
+    ],
+    "Boden": [
+        "maa",
+        "pinnas"
+    ],
+    "Bogen": [
+        "vibu"
+    ],
+    "Boot": [
+        "paat"
+    ],
+    "Brei": [
+        "puder"
+    ],
+    "Brett": [
+        "saelaud"
+    ],
+    "Brief": [
+        "kiri"
+    ],
+    "Brot": [
+        "sai",
+        "leib"
+    ],
+    "Bruder": [
+        "vend"
+    ],
+    "Brunnen": [
+        "kaev"
+    ],
+    "Brust": [
+        "rind"
+    ],
+    "Brücke": [
+        "sild"
+    ],
+    "Buch": [
+        "raamat"
+    ],
+    "Buchstabe": [
+        "täht"
+    ],
+    "Bucht": [
+        "laht"
+    ],
+    "Bulle": [
+        "pull"
+    ],
+    "Busen": [
+        "rind"
+    ],
+    "Butter": [
+        "või"
+    ],
+    "Bär": [
+        "karu"
+    ],
+    "Bündel": [
+        "kimp"
+    ],
+    "Chef": [
+        "ülemus",
+        "juhataja"
+    ],
+    "Dach": [
+        "katus"
+    ],
+    "Decke": [
+        "tekk"
+    ],
+    "Deckel": [
+        "kaas"
+    ],
+    "Dezember": [
+        "detsember"
+    ],
+    "Dienstag": [
+        "teisipäev"
+    ],
+    "Donner": [
+        "kõu",
+        "müristamine"
+    ],
+    "Donnerstag": [
+        "neljapäev"
+    ],
+    "Dorf": [
+        "küla"
+    ],
+    "Dreck": [
+        "saast",
+        "mustus"
+    ],
+    "Ecke": [
+        "nurk"
+    ],
+    "Ehefrau": [
+        "naine",
+        "abikaasa"
+    ],
+    "Ehemann": [
+        "mees",
+        "abikaasa"
+    ],
+    "Ei": [
+        "muna"
+    ],
+    "Eichhörnchen": [
+        "orav"
+    ],
+    "Eimer": [
+        "pang",
+        "ämber"
+    ],
+    "Eis": [
+        "jää"
+    ],
+    "Eisen": [
+        "raud"
+    ],
+    "Elch": [
+        "põder"
+    ],
+    "Ellenbogen": [
+        "küünarnukk"
+    ],
+    "Eltern": [
+        "vanemad"
+    ],
+    "Ende": [
+        "ots",
+        "jupp"
+    ],
+    "Ente": [
+        "part"
+    ],
+    "Entfernung": [
+        "kaugus",
+        "vahemaa"
+    ],
+    "Erde": [
+        "maa"
+    ],
+    "Erzählung": [
+        "jutustus"
+    ],
+    "Essen": [
+        "söök"
+    ],
+    "Eule": [
+        "kakk",
+        "öökull"
+    ],
+    "Faden": [
+        "niit"
+    ],
+    "Falle": [
+        "lõks",
+        "püünis"
+    ],
+    "Familie": [
+        "perekond"
+    ],
+    "Farbe": [
+        "värv"
+    ],
+    "Februar": [
+        "veebruar"
+    ],
+    "Feder": [
+        "sulg"
+    ],
+    "Fehler": [
+        "viga"
+    ],
+    "Feind": [
+        "vaenlane"
+    ],
+    "Fell": [
+        "karvkate",
+        "karusnahk"
+    ],
+    "Fenster": [
+        "aken"
+    ],
+    "Ferse": [
+        "kand"
+    ],
+    "Festland": [
+        "mander",
+        "maismaa"
+    ],
+    "Fett": [
+        "rasv"
+    ],
+    "Feuer": [
+        "tuli"
+    ],
+    "Fieber": [
+        "palavik"
+    ],
+    "Figur": [
+        "kuju",
+        "kujund"
+    ],
+    "Finger": [
+        "sõrm"
+    ],
+    "Fingernagel": [
+        "küüs"
+    ],
+    "Fisch": [
+        "kala"
+    ],
+    "Fleisch": [
+        "liha"
+    ],
+    "Fliege": [
+        "kärbes"
+    ],
+    "Fluss": [
+        "jõgi"
+    ],
+    "Flügel": [
+        "tiib",
+        "tiivik"
+    ],
+    "Frau": [
+        "naine"
+    ],
+    "Freitag": [
+        "reede"
+    ],
+    "Freude": [
+        "rõõm"
+    ],
+    "Freund": [
+        "sõber"
+    ],
+    "Frost": [
+        "pakane"
+    ],
+    "Frühling": [
+        "kevad"
+    ],
+    "Fuchs": [
+        "rebane"
+    ],
+    "Funke": [
+        "säde"
+    ],
+    "Fuß": [
+        "jalg"
+    ],
+    "Fußboden": [
+        "põrand"
+    ],
+    "Gabel": [
+        "kahvel"
+    ],
+    "Gang": [
+        "käik"
+    ],
+    "Gans": [
+        "hani"
+    ],
+    "Gast": [
+        "külaline"
+    ],
+    "Gedanke": [
+        "mõte"
+    ],
+    "Gedächtnis": [
+        "mälu"
+    ],
+    "Gegend": [
+        "ümbrus"
+    ],
+    "Gegenstand": [
+        "ese"
+    ],
+    "Gehirn": [
+        "aju"
+    ],
+    "Geist": [
+        "vaim"
+    ],
+    "Geld": [
+        "raha"
+    ],
+    "Gelächter": [
+        "naer"
+    ],
+    "Genick": [
+        "kukal"
+    ],
+    "Geruch": [
+        "lõhn"
+    ],
+    "Geschenk": [
+        "kingitus"
+    ],
+    "Geschirr": [
+        "nõud"
+    ],
+    "Geschmack": [
+        "maitse"
+    ],
+    "Geschäft": [
+        "äri"
+    ],
+    "Gesellschaft": [
+        "selts"
+    ],
+    "Gesicht": [
+        "nägu"
+    ],
+    "Gespräch": [
+        "kõne",
+        "vestlus"
+    ],
+    "Gesundheit": [
+        "tervis"
+    ],
+    "Getreide": [
+        "teravili"
+    ],
+    "Gewalt": [
+        "väevõim"
+    ],
+    "Gewehr": [
+        "püss"
+    ],
+    "Gewicht": [
+        "kaal",
+        "raskus"
+    ],
+    "Gipfel": [
+        "mäetipp"
+    ],
+    "Glas": [
+        "klaas"
+    ],
+    "Glück": [
+        "õnn"
+    ],
+    "Gold": [
+        "kuld"
+    ],
+    "Gott": [
+        "jumal"
+    ],
+    "Grab": [
+        "haud"
+    ],
+    "Gras": [
+        "rohi"
+    ],
+    "Grenze": [
+        "piir"
+    ],
+    "Griff": [
+        "sang",
+        "käepide"
+    ],
+    "Großmutter": [
+        "vanaema"
+    ],
+    "Großvater": [
+        "vanaisa"
+    ],
+    "Grube": [
+        "kaevand"
+    ],
+    "Grund": [
+        "põhjus"
+    ],
+    "Größe": [
+        "suurus"
+    ],
+    "Gürtel": [
+        "vöö"
+    ],
+    "Haar": [
+        "juus"
+    ],
+    "Hahn": [
+        "kukk"
+    ],
+    "Haken": [
+        "haak",
+        "konks"
+    ],
+    "Hals": [
+        "kael"
+    ],
+    "Hand": [
+        "käsi"
+    ],
+    "Handfläche": [
+        "pihk"
+    ],
+    "Handtuch": [
+        "käterätik"
+    ],
+    "Hase": [
+        "jänes"
+    ],
+    "Haufen": [
+        "hunnik"
+    ],
+    "Haus": [
+        "maja"
+    ],
+    "Haut": [
+        "nahk"
+    ],
+    "Hecht": [
+        "haug"
+    ],
+    "Heim": [
+        "kodu"
+    ],
+    "Hemd": [
+        "särk"
+    ],
+    "Herbst": [
+        "sügis"
+    ],
+    "Herde": [
+        "kari"
+    ],
+    "Herz": [
+        "süda"
+    ],
+    "Heu": [
+        "hein"
+    ],
+    "Hilfe": [
+        "abi"
+    ],
+    "Himmel": [
+        "taevas"
+    ],
+    "Hitze": [
+        "kuumus",
+        "palavus"
+    ],
+    "Holz": [
+        "puu"
+    ],
+    "Honig": [
+        "mesi"
+    ],
+    "Horn": [
+        "sarv"
+    ],
+    "Hose": [
+        "püksid"
+    ],
+    "Huhn": [
+        "kana"
+    ],
+    "Hund": [
+        "koer"
+    ],
+    "Hunger": [
+        "nälg"
+    ],
+    "Hälfte": [
+        "pool"
+    ],
+    "Höhe": [
+        "kõrgus"
+    ],
+    "Höhle": [
+        "koobas"
+    ],
+    "Hügel": [
+        "küngas"
+    ],
+    "Insel": [
+        "saar"
+    ],
+    "Jahr": [
+        "aasta"
+    ],
+    "Januar": [
+        "jaanuar"
+    ],
+    "Juli": [
+        "juuli"
+    ],
+    "Junge": [
+        "poiss"
+    ],
+    "Juni": [
+        "juuni"
+    ],
+    "Kamerad": [
+        "sõber"
+    ],
+    "Kamm": [
+        "kamm"
+    ],
+    "Kampf": [
+        "võitlus"
+    ],
+    "Kante": [
+        "kant"
+    ],
+    "Katze": [
+        "kass"
+    ],
+    "Kehle": [
+        "kõri"
+    ],
+    "Kessel": [
+        "pada"
+    ],
+    "Kiefer": [
+        "lõualuu",
+        "mänd"
+    ],
+    "Kind": [
+        "laps"
+    ],
+    "Kinn": [
+        "lõug"
+    ],
+    "Kirche": [
+        "kirik"
+    ],
+    "Kissen": [
+        "padi"
+    ],
+    "Kiste": [
+        "kast"
+    ],
+    "Klaue": [
+        "küüs"
+    ],
+    "Kleidung": [
+        "riided",
+        "riietus"
+    ],
+    "Knie": [
+        "põlv"
+    ],
+    "Knochen": [
+        "luu"
+    ],
+    "Knopf": [
+        "nööp"
+    ],
+    "Knoten": [
+        "sõlm"
+    ],
+    "Kohle": [
+        "süsi"
+    ],
+    "Kopf": [
+        "pea"
+    ],
+    "Korn": [
+        "iva",
+        "tera"
+    ],
+    "Kraft": [
+        "jõud"
+    ],
+    "Kragen": [
+        "krae"
+    ],
+    "Kralle": [
+        "küünis"
+    ],
+    "Kranich": [
+        "kurg"
+    ],
+    "Krankheit": [
+        "haigus"
+    ],
+    "Kreis": [
+        "ring"
+    ],
+    "Kreuz": [
+        "rist"
+    ],
+    "Krieg": [
+        "sõda"
+    ],
+    "Krähe": [
+        "vares"
+    ],
+    "Kuckuck": [
+        "kägu"
+    ],
+    "Kuh": [
+        "lehm"
+    ],
+    "Kummer": [
+        "mure",
+        "kurbus"
+    ],
+    "Kälte": [
+        "külm",
+        "külmus"
+    ],
+    "König": [
+        "kuningas"
+    ],
+    "Körper": [
+        "ihu",
+        "keha"
+    ],
+    "Küste": [
+        "rannik"
+    ],
+    "Laden": [
+        "pood",
+        "kauplus"
+    ],
+    "Lagerfeuer": [
+        "lõke"
+    ],
+    "Land": [
+        "maa"
+    ],
+    "Last": [
+        "koorem"
+    ],
+    "Laus": [
+        "täi"
+    ],
+    "Laut": [
+        "hääl"
+    ],
+    "Leben": [
+        "elu"
+    ],
+    "Leber": [
+        "maks"
+    ],
+    "Leder": [
+        "nahk"
+    ],
+    "Lehm": [
+        "savi"
+    ],
+    "Lehrer": [
+        "õpetaja"
+    ],
+    "Leine": [
+        "jalutusrihm"
+    ],
+    "Leiter": [
+        "redel"
+    ],
+    "Leute": [
+        "inimesed"
+    ],
+    "Licht": [
+        "valgus"
+    ],
+    "Lied": [
+        "laul"
+    ],
+    "Linie": [
+        "joon"
+    ],
+    "Lippe": [
+        "huul"
+    ],
+    "Loch": [
+        "auk"
+    ],
+    "Luft": [
+        "õhk"
+    ],
+    "Lust": [
+        "himu"
+    ],
+    "Länge": [
+        "pikkus"
+    ],
+    "Lärm": [
+        "müra"
+    ],
+    "Löffel": [
+        "lusikas"
+    ],
+    "Lüge": [
+        "vale"
+    ],
+    "Macht": [
+        "võim"
+    ],
+    "Magen": [
+        "magu"
+    ],
+    "Mai": [
+        "mai"
+    ],
+    "Mann": [
+        "mees"
+    ],
+    "Maus": [
+        "hiir"
+    ],
+    "Meer": [
+        "meri"
+    ],
+    "Meister": [
+        "meister"
+    ],
+    "Menge": [
+        "arv",
+        "hulk"
+    ],
+    "Mensch": [
+        "inimene"
+    ],
+    "Messer": [
+        "nuga"
+    ],
+    "Milch": [
+        "piim"
+    ],
+    "Mittag": [
+        "lõuna",
+        "keskpäev"
+    ],
+    "Mitte": [
+        "keskpaik"
+    ],
+    "Mittwoch": [
+        "kesknädal"
+    ],
+    "Monat": [
+        "kuu"
+    ],
+    "Mond": [
+        "kuu"
+    ],
+    "Montag": [
+        "esmaspäev"
+    ],
+    "Moor": [
+        "raba"
+    ],
+    "Morgen": [
+        "hommik"
+    ],
+    "Mund": [
+        "suu"
+    ],
+    "Muster": [
+        "muster"
+    ],
+    "Mutter": [
+        "ema"
+    ],
+    "Mädchen": [
+        "tüdruk"
+    ],
+    "Märchen": [
+        "muinasjutt"
+    ],
+    "März": [
+        "märts"
+    ],
+    "Mücke": [
+        "sääsk"
+    ],
+    "Mütze": [
+        "müts"
+    ],
+    "Nabel": [
+        "naba"
+    ],
+    "Nachricht": [
+        "teade"
+    ],
+    "Nacht": [
+        "öö"
+    ],
+    "Nadel": [
+        "nõel"
+    ],
+    "Nagel": [
+        "küüs",
+        "nael"
+    ],
+    "Nahrung": [
+        "toit"
+    ],
+    "Name": [
+        "nimi"
+    ],
+    "Nase": [
+        "nina"
+    ],
+    "Nebel": [
+        "udu"
+    ],
+    "Nest": [
+        "pesa"
+    ],
+    "Netz": [
+        "võrk"
+    ],
+    "Neuigkeit": [
+        "uudis"
+    ],
+    "Norden": [
+        "põhi"
+    ],
+    "November": [
+        "november"
+    ],
+    "Nutzen": [
+        "tulu",
+        "kasulikkus"
+    ],
+    "Oberschenkel": [
+        "reis"
+    ],
+    "Ofen": [
+        "ahi"
+    ],
+    "Ohr": [
+        "kõrv"
+    ],
+    "Oktober": [
+        "oktoober"
+    ],
+    "Onkel": [
+        "onu"
+    ],
+    "Ort": [
+        "paik"
+    ],
+    "Osten": [
+        "ida"
+    ],
+    "Pfad": [
+        "rada"
+    ],
+    "Pfeil": [
+        "nool"
+    ],
+    "Pferd": [
+        "hobune"
+    ],
+    "Pilz": [
+        "seen"
+    ],
+    "Platte": [
+        "plaat"
+    ],
+    "Platz": [
+        "ruum"
+    ],
+    "Preis": [
+        "hind"
+    ],
+    "Puppe": [
+        "nukk"
+    ],
+    "Quelle": [
+        "allikas"
+    ],
+    "Rand": [
+        "äär",
+        "serv"
+    ],
+    "Rauch": [
+        "suits"
+    ],
+    "Raureif": [
+        "härmatis"
+    ],
+    "Rede": [
+        "kõne"
+    ],
+    "Regal": [
+        "riiul"
+    ],
+    "Regen": [
+        "sadu"
+    ],
+    "Regenbogen": [
+        "vikerkaar"
+    ],
+    "Reichtum": [
+        "rikkus"
+    ],
+    "Reihe": [
+        "rivi"
+    ],
+    "Riemen": [
+        "rihm"
+    ],
+    "Rinde": [
+        "koor"
+    ],
+    "Ring": [
+        "sõrmus"
+    ],
+    "Rohr": [
+        "toru"
+    ],
+    "Ruder": [
+        "aer"
+    ],
+    "Ruf": [
+        "hüüe"
+    ],
+    "Ruhe": [
+        "rahu",
+        "vaikus"
+    ],
+    "Rätsel": [
+        "mõistatus"
+    ],
+    "Rücken": [
+        "selg"
+    ],
+    "Saat": [
+        "seeme"
+    ],
+    "Sache": [
+        "ese"
+    ],
+    "Sack": [
+        "kott"
+    ],
+    "Salz": [
+        "sool"
+    ],
+    "Samstag": [
+        "laupäev"
+    ],
+    "Sand": [
+        "liiv"
+    ],
+    "Schaden": [
+        "kahju"
+    ],
+    "Schaf": [
+        "lammas"
+    ],
+    "Schale": [
+        "koor"
+    ],
+    "Schatten": [
+        "vari"
+    ],
+    "Schaufel": [
+        "kühvel"
+    ],
+    "Schaum": [
+        "vaht"
+    ],
+    "Scheibe": [
+        "viil",
+        "viilukas"
+    ],
+    "Schlaf": [
+        "uni"
+    ],
+    "Schlange": [
+        "uss"
+    ],
+    "Schlinge": [
+        "aas"
+    ],
+    "Schlitten": [
+        "saan"
+    ],
+    "Schloss": [
+        "lukk"
+    ],
+    "Schluss": [
+        "lõpp"
+    ],
+    "Schmerz": [
+        "valu"
+    ],
+    "Schmetterling": [
+        "liblikas"
+    ],
+    "Schmutz": [
+        "pori",
+        "mustus"
+    ],
+    "Schnee": [
+        "lumi"
+    ],
+    "Schnur": [
+        "nöör"
+    ],
+    "Schnurrbart": [
+        "vurrud",
+        "vuntsid"
+    ],
+    "Schritt": [
+        "samm"
+    ],
+    "Schuh": [
+        "king"
+    ],
+    "Schuld": [
+        "süü"
+    ],
+    "Schulter": [
+        "õlg"
+    ],
+    "Schwan": [
+        "luik"
+    ],
+    "Schwanz": [
+        "saba"
+    ],
+    "Schwarm": [
+        "parv"
+    ],
+    "Schwein": [
+        "siga"
+    ],
+    "Schwester": [
+        "õde"
+    ],
+    "See": [
+        "järv"
+    ],
+    "Sehne": [
+        "kõõlus"
+    ],
+    "Seite": [
+        "pool"
+    ],
+    "September": [
+        "september"
+    ],
+    "Silber": [
+        "hõbe"
+    ],
+    "Sinn": [
+        "tähendus"
+    ],
+    "Ski": [
+        "suusk"
+    ],
+    "Sohn": [
+        "poeg"
+    ],
+    "Sommer": [
+        "suvi"
+    ],
+    "Sonne": [
+        "päike"
+    ],
+    "Sonntag": [
+        "pühapäev"
+    ],
+    "Spaten": [
+        "labidas"
+    ],
+    "Speise": [
+        "roog"
+    ],
+    "Spiegel": [
+        "peegel"
+    ],
+    "Spiel": [
+        "mäng"
+    ],
+    "Spinne": [
+        "ämblik"
+    ],
+    "Spitze": [
+        "teravik"
+    ],
+    "Sprache": [
+        "keel"
+    ],
+    "Spur": [
+        "jälg"
+    ],
+    "Staat": [
+        "riik"
+    ],
+    "Stab": [
+        "varras"
+    ],
+    "Stadt": [
+        "linn"
+    ],
+    "Stamm": [
+        "tüvi"
+    ],
+    "Stange": [
+        "latt",
+        "teivas"
+    ],
+    "Staub": [
+        "põrm"
+    ],
+    "Stein": [
+        "kivi"
+    ],
+    "Stern": [
+        "täht"
+    ],
+    "Stiefel": [
+        "saabas"
+    ],
+    "Stimme": [
+        "hääl"
+    ],
+    "Stirn": [
+        "otsmik"
+    ],
+    "Stock": [
+        "kepp"
+    ],
+    "Stoff": [
+        "kangas"
+    ],
+    "Straße": [
+        "tee"
+    ],
+    "Strich": [
+        "joon"
+    ],
+    "Strömung": [
+        "voolus",
+        "jõevool"
+    ],
+    "Stuhl": [
+        "tool"
+    ],
+    "Stärke": [
+        "tugevus"
+    ],
+    "Stück": [
+        "tükk"
+    ],
+    "Stütze": [
+        "tugi"
+    ],
+    "Sumpf": [
+        "soo"
+    ],
+    "Suppe": [
+        "supp"
+    ],
+    "Süden": [
+        "lõuna"
+    ],
+    "Sünde": [
+        "patt"
+    ],
+    "Tag": [
+        "päev"
+    ],
+    "Tanne": [
+        "nulg"
+    ],
+    "Tante": [
+        "tädi"
+    ],
+    "Tasche": [
+        "kott"
+    ],
+    "Tasse": [
+        "tass"
+    ],
+    "Tee": [
+        "tee"
+    ],
+    "Teil": [
+        "osa"
+    ],
+    "Tier": [
+        "loom"
+    ],
+    "Tisch": [
+        "laud"
+    ],
+    "Tochter": [
+        "tütar"
+    ],
+    "Tod": [
+        "surm"
+    ],
+    "Ton": [
+        "toon"
+    ],
+    "Topf": [
+        "pada"
+    ],
+    "Tor": [
+        "värav"
+    ],
+    "Traum": [
+        "unenägu"
+    ],
+    "Tropfen": [
+        "tilk"
+    ],
+    "Träne": [
+        "pisar"
+    ],
+    "Tuch": [
+        "kalev"
+    ],
+    "Tür": [
+        "uks"
+    ],
+    "Ufer": [
+        "kallas"
+    ],
+    "Unglück": [
+        "häda",
+        "õnnetus"
+    ],
+    "Vater": [
+        "isa"
+    ],
+    "Verstand": [
+        "aru",
+        "mõistus"
+    ],
+    "Vogel": [
+        "lind"
+    ],
+    "Volk": [
+        "rahvas"
+    ],
+    "Wahrheit": [
+        "tõde"
+    ],
+    "Wald": [
+        "mets"
+    ],
+    "Wange": [
+        "põsk"
+    ],
+    "Ware": [
+        "kaup"
+    ],
+    "Wasser": [
+        "vesi"
+    ],
+    "Weg": [
+        "tee"
+    ],
+    "Weide": [
+        "paju",
+        "karjamaa"
+    ],
+    "Welle": [
+        "laine"
+    ],
+    "Welt": [
+        "maailm"
+    ],
+    "Westen": [
+        "lääs"
+    ],
+    "Wetter": [
+        "ilm"
+    ],
+    "Wiege": [
+        "häll",
+        "kätki"
+    ],
+    "Wiese": [
+        "aas",
+        "nurm"
+    ],
+    "Wind": [
+        "tuul"
+    ],
+    "Winkel": [
+        "nurk"
+    ],
+    "Winter": [
+        "talv"
+    ],
+    "Woche": [
+        "nädal"
+    ],
+    "Wolf": [
+        "hunt"
+    ],
+    "Wolke": [
+        "pilv"
+    ],
+    "Wolle": [
+        "vill"
+    ],
+    "Wort": [
+        "sõna"
+    ],
+    "Wunde": [
+        "haav"
+    ],
+    "Wunsch": [
+        "soov"
+    ],
+    "Wurm": [
+        "uss",
+        "vagel"
+    ],
+    "Wurzel": [
+        "juur"
+    ],
+    "Zahn": [
+        "hammas"
+    ],
+    "Zaun": [
+        "aed",
+        "tara"
+    ],
+    "Zeh": [
+        "varvas"
+    ],
+    "Zeichen": [
+        "märk"
+    ],
+    "Zeit": [
+        "aeg"
+    ],
+    "Zeitung": [
+        "ajaleht"
+    ],
+    "Zunge": [
+        "keel"
+    ],
+    "Zweig": [
+        "oks"
+    ],
+    "Zwiebel": [
+        "sibul"
+    ],
+    "abfahren": [
+        "väljuma",
+        "ära sõitma"
+    ],
+    "abnehmen": [
+        "vähenema",
+        "kahenema"
+    ],
+    "abreißen": [
+        "rebima",
+        "ära rebima"
+    ],
+    "abschneiden": [
+        "ära lõikama"
+    ],
+    "abwischen": [
+        "puhtaks pühkima"
+    ],
+    "acht": [
+        "kaheksa"
+    ],
+    "achtzig": [
+        "kaheksakümmend"
+    ],
+    "allein": [
+        "üksi"
+    ],
+    "alles": [
+        "kõik"
+    ],
+    "alt": [
+        "vana",
+        "vana"
+    ],
+    "anbinden": [
+        "kinni siduma"
+    ],
+    "anderer": [
+        "muu",
+        "teine"
+    ],
+    "anfangen": [
+        "hakkama",
+        "alustama"
+    ],
+    "anhalten": [
+        "peatuma"
+    ],
+    "ankommen": [
+        "saabuma"
+    ],
+    "anschauen": [
+        "vaatama"
+    ],
+    "ansehen": [
+        "vaatama"
+    ],
+    "antreiben": [
+        "ergutama"
+    ],
+    "anziehen": [
+        "jalga panema"
+    ],
+    "anzünden": [
+        "süütama"
+    ],
+    "arbeiten": [
+        "töötama"
+    ],
+    "arm": [
+        "vaene"
+    ],
+    "atmen": [
+        "hingama"
+    ],
+    "auf einmal": [
+        "korraga",
+        "ühekorraga"
+    ],
+    "aufbewahren": [
+        "säilitama",
+        "alal hoidma"
+    ],
+    "aufgehen": [
+        "tõusma"
+    ],
+    "aufheben": [
+        "üles tõstma"
+    ],
+    "aufhängen": [
+        "riputama"
+    ],
+    "aufhören": [
+        "lakkama"
+    ],
+    "aufstehen": [
+        "ärkama",
+        "üles tõusma"
+    ],
+    "aufwachen": [
+        "ärkama"
+    ],
+    "aufziehen": [
+        "üles kasvatama"
+    ],
+    "auswählen": [
+        "valima"
+    ],
+    "ausziehen": [
+        "käest võtma",
+        "jalast võtma",
+        "seljast võtma"
+    ],
+    "backen": [
+        "küpsetama"
+    ],
+    "baden": [
+        "suplema",
+        "kümblema"
+    ],
+    "bald": [
+        "pea",
+        "varsti"
+    ],
+    "bauen": [
+        "ehitama"
+    ],
+    "bedecken": [
+        "katma"
+    ],
+    "beenden": [
+        "lõpetama"
+    ],
+    "beginnen": [
+        "algama",
+        "hakkama"
+    ],
+    "begreifen": [
+        "aru saama"
+    ],
+    "beherrschen": [
+        "valitsema"
+    ],
+    "behindern": [
+        "takistama"
+    ],
+    "beißen": [
+        "purema",
+        "hammustama"
+    ],
+    "bekannt": [
+        "teada",
+        "tuttav"
+    ],
+    "bekommen": [
+        "saama"
+    ],
+    "bellen": [
+        "haukuma"
+    ],
+    "belästigen": [
+        "ahistama"
+    ],
+    "bemerken": [
+        "märkama"
+    ],
+    "berühmt": [
+        "tuntud"
+    ],
+    "berühren": [
+        "riivama",
+        "puudutama"
+    ],
+    "beschädigen": [
+        "rikkuma"
+    ],
+    "besitzen": [
+        "omama"
+    ],
+    "besuchen": [
+        "külastama"
+    ],
+    "betrügen": [
+        "petma",
+        "tüssama",
+        "truudust murtma"
+    ],
+    "beugen": [
+        "painutama"
+    ],
+    "bewachen": [
+        "valvama"
+    ],
+    "bewahren": [
+        "hoidma"
+    ],
+    "bezahlen": [
+        "tasuma"
+    ],
+    "biegen": [
+        "painutama"
+    ],
+    "billig": [
+        "odav"
+    ],
+    "binden": [
+        "siduma"
+    ],
+    "bitten": [
+        "paluma"
+    ],
+    "bitter": [
+        "mõru"
+    ],
+    "blasen": [
+        "puhuma"
+    ],
+    "blau": [
+        "sinine"
+    ],
+    "bleiben": [
+        "jääma"
+    ],
+    "blind": [
+        "pime"
+    ],
+    "braten": [
+        "praadima"
+    ],
+    "brausen": [
+        "kohisema"
+    ],
+    "brechen": [
+        "murdma"
+    ],
+    "breit": [
+        "lai"
+    ],
+    "brennen": [
+        "põlema"
+    ],
+    "bringen": [
+        "viima"
+    ],
+    "bunt": [
+        "kirju",
+        "värviline"
+    ],
+    "böse": [
+        "tige"
+    ],
+    "damals": [
+        "tookord"
+    ],
+    "danach": [
+        "seejärel"
+    ],
+    "dann": [
+        "siis"
+    ],
+    "das": [
+        "see"
+    ],
+    "denken": [
+        "mõtlema"
+    ],
+    "dicht": [
+        "tihe"
+    ],
+    "dick": [
+        "jäme"
+    ],
+    "dies": [
+        "see"
+    ],
+    "donnern": [
+        "kõmisema"
+    ],
+    "dort": [
+        "seal"
+    ],
+    "dorthin": [
+        "sinna"
+    ],
+    "drehen": [
+        "keerama"
+    ],
+    "drei": [
+        "kolm"
+    ],
+    "dreißig": [
+        "kolmkümmend"
+    ],
+    "dritter": [
+        "kolmas"
+    ],
+    "drücken": [
+        "pigistama"
+    ],
+    "du": [
+        "sina"
+    ],
+    "dumm": [
+        "juhm",
+        "rumal"
+    ],
+    "dunkel": [
+        "pime"
+    ],
+    "durch": [
+        "läbi",
+        "kaudu"
+    ],
+    "dünn": [
+        "õhuke",
+        "peenike"
+    ],
+    "ehemalig": [
+        "endine"
+    ],
+    "eilen": [
+        "ruttama",
+        "kiirustama"
+    ],
+    "ein wenig": [
+        "veidi",
+        "natuke"
+    ],
+    "einladen": [
+        "kutsuma"
+    ],
+    "einmal": [
+        "kord",
+        "üks kord"
+    ],
+    "eins": [
+        "üks"
+    ],
+    "einschlafen": [
+        "uinuma"
+    ],
+    "einst": [
+        "vanasti"
+    ],
+    "eintreten": [
+        "sisenema",
+        "sisse astuma"
+    ],
+    "einwickeln": [
+        "sisse mähkima"
+    ],
+    "elf": [
+        "üksteist"
+    ],
+    "enden": [
+        "lõppema"
+    ],
+    "er": [
+        "tema"
+    ],
+    "ergreifen": [
+        "haarama"
+    ],
+    "erhalten": [
+        "saama"
+    ],
+    "erkennen": [
+        "ära tundma"
+    ],
+    "erscheinen": [
+        "ilmuma"
+    ],
+    "erster": [
+        "esimene"
+    ],
+    "ertragen": [
+        "taluma"
+    ],
+    "erwarten": [
+        "ootama",
+        "lootma"
+    ],
+    "erzählen": [
+        "jutustama"
+    ],
+    "essen": [
+        "sööma"
+    ],
+    "fahren": [
+        "sõitma"
+    ],
+    "fallen": [
+        "langema"
+    ],
+    "fallen lassen": [
+        "maha pillama",
+        "kukkuda laskma"
+    ],
+    "fangen": [
+        "püüdma"
+    ],
+    "fassen": [
+        "püüdma"
+    ],
+    "faul": [
+        "laisk"
+    ],
+    "faulen": [
+        "mädanema"
+    ],
+    "fegen": [
+        "pühkima"
+    ],
+    "fein": [
+        "peen",
+        "õhuke"
+    ],
+    "fern": [
+        "kauge"
+    ],
+    "fest": [
+        "püsiv",
+        "kindel"
+    ],
+    "fett": [
+        "rasvane"
+    ],
+    "feucht": [
+        "niiske"
+    ],
+    "finden": [
+        "leidma"
+    ],
+    "fischen": [
+        "kalastama",
+        "kala püüdma"
+    ],
+    "flach": [
+        "lame",
+        "tasane"
+    ],
+    "fleißig": [
+        "virk",
+        "hoolas"
+    ],
+    "fliegen": [
+        "lendama"
+    ],
+    "fliehen": [
+        "põgenema"
+    ],
+    "fließen": [
+        "voolama"
+    ],
+    "flüchten": [
+        "põgenema"
+    ],
+    "fragen": [
+        "küsima"
+    ],
+    "fremd": [
+        "võõras"
+    ],
+    "frieren": [
+        "külmetada"
+    ],
+    "frisch": [
+        "värske"
+    ],
+    "funkeln": [
+        "sädelema"
+    ],
+    "färben": [
+        "värvima"
+    ],
+    "fühlen": [
+        "tundma"
+    ],
+    "führen": [
+        "juhatama"
+    ],
+    "füllen": [
+        "täitma"
+    ],
+    "fünf": [
+        "viis"
+    ],
+    "fünfzig": [
+        "viiskümmend"
+    ],
+    "fürchten": [
+        "kartma"
+    ],
+    "füttern": [
+        "söötma"
+    ],
+    "geben": [
+        "andma"
+    ],
+    "geboren werden": [
+        "sündima"
+    ],
+    "gefrieren": [
+        "kinni külmuma"
+    ],
+    "gehen": [
+        "käima",
+        "minema"
+    ],
+    "geizig": [
+        "ihne"
+    ],
+    "gelb": [
+        "kollane"
+    ],
+    "gelingen": [
+        "õnnestuma"
+    ],
+    "genesen": [
+        "toibuma"
+    ],
+    "geradeaus": [
+        "otse edasi"
+    ],
+    "geraten": [
+        "jõudma"
+    ],
+    "geschickt": [
+        "osav"
+    ],
+    "geschlossen": [
+        "suletud"
+    ],
+    "gestern": [
+        "eile"
+    ],
+    "gießen": [
+        "kastma"
+    ],
+    "glatt": [
+        "sile"
+    ],
+    "glauben": [
+        "uskuma"
+    ],
+    "glänzen": [
+        "läikimä"
+    ],
+    "graben": [
+        "kaevama"
+    ],
+    "grau": [
+        "hall"
+    ],
+    "groß": [
+        "suur"
+    ],
+    "grün": [
+        "roheline"
+    ],
+    "gut": [
+        "hea"
+    ],
+    "hacken": [
+        "raiuma",
+        "lõhkuma"
+    ],
+    "halten": [
+        "hoidma"
+    ],
+    "hart": [
+        "kõva"
+    ],
+    "hauen": [
+        "lööma"
+    ],
+    "heben": [
+        "tõstma"
+    ],
+    "heiß": [
+        "kuum",
+        "palav"
+    ],
+    "hell": [
+        "hele"
+    ],
+    "herstellen": [
+        "valmistama"
+    ],
+    "heulen": [
+        "uluma"
+    ],
+    "heute": [
+        "täna"
+    ],
+    "hier": [
+        "siin"
+    ],
+    "hierhin": [
+        "siia"
+    ],
+    "hinab": [
+        "alla"
+    ],
+    "hinauf": [
+        "üles"
+    ],
+    "hineingehen": [
+        "sisenema",
+        "sisse minema"
+    ],
+    "hinfallen": [
+        "kukkuma",
+        "maha kukkuma"
+    ],
+    "hinter": [
+        "taha"
+    ],
+    "hinzufügen": [
+        "lisama"
+    ],
+    "hochheben": [
+        "üles tõstma",
+        "kõrgele tõstma"
+    ],
+    "hundert": [
+        "sada"
+    ],
+    "hungrig": [
+        "näljane"
+    ],
+    "husten": [
+        "köhima"
+    ],
+    "hängen": [
+        "rippuma"
+    ],
+    "hören": [
+        "kuulma"
+    ],
+    "hübsch": [
+        "kena"
+    ],
+    "hüten": [
+        "karjatama"
+    ],
+    "ich": [
+        "mina"
+    ],
+    "ihr": [
+        "te"
+    ],
+    "immer": [
+        "ikka",
+        "alati"
+    ],
+    "jagen": [
+        "jahtima"
+    ],
+    "jetzt": [
+        "nüüd"
+    ],
+    "jung": [
+        "noor"
+    ],
+    "kalt": [
+        "külm"
+    ],
+    "kaufen": [
+        "ostma"
+    ],
+    "kaum": [
+        "vaevalt"
+    ],
+    "kehren": [
+        "pühkima"
+    ],
+    "kleben": [
+        "kleepima"
+    ],
+    "klein": [
+        "väike",
+        "pisike"
+    ],
+    "klettern": [
+        "ronima"
+    ],
+    "klingeln": [
+        "helisema"
+    ],
+    "klingen": [
+        "kõlama"
+    ],
+    "klirren": [
+        "kõlisema"
+    ],
+    "klopfen": [
+        "koputama"
+    ],
+    "klug": [
+        "tark",
+        "arukas",
+        "mõistlik"
+    ],
+    "kochen": [
+        "keetma"
+    ],
+    "kommen": [
+        "tulema"
+    ],
+    "krank": [
+        "haige"
+    ],
+    "krank sein": [
+        "haige olema"
+    ],
+    "krank werden": [
+        "haigestuma",
+        "haigeks jääma"
+    ],
+    "kratzen": [
+        "kraapima"
+    ],
+    "kriechen": [
+        "roomama"
+    ],
+    "kräftig": [
+        "jõuline"
+    ],
+    "kurz": [
+        "lühike"
+    ],
+    "kämmen": [
+        "kammima"
+    ],
+    "können": [
+        "võima",
+        "oskama"
+    ],
+    "kühl": [
+        "jahe"
+    ],
+    "küssen": [
+        "suudlema"
+    ],
+    "lachen": [
+        "naerma"
+    ],
+    "lang": [
+        "pikk"
+    ],
+    "lange": [
+        "kaua"
+    ],
+    "lassen": [
+        "laskma"
+    ],
+    "laufen": [
+        "kõndima"
+    ],
+    "leben": [
+        "elama",
+        "elus olema"
+    ],
+    "lebendig": [
+        "elus"
+    ],
+    "lecken": [
+        "lakkuma"
+    ],
+    "lecker": [
+        "hõrk",
+        "maitsev"
+    ],
+    "leer": [
+        "tühi"
+    ],
+    "legen": [
+        "panema",
+        "asetama"
+    ],
+    "lehren": [
+        "õpetama"
+    ],
+    "leiten": [
+        "juhtima"
+    ],
+    "lernen": [
+        "õppima"
+    ],
+    "lesen": [
+        "lugema"
+    ],
+    "letzter": [
+        "viimane"
+    ],
+    "lieb": [
+        "armas"
+    ],
+    "lieben": [
+        "armastama"
+    ],
+    "liegen": [
+        "lamama"
+    ],
+    "linker": [
+        "vasak"
+    ],
+    "loben": [
+        "kiitma"
+    ],
+    "lustig": [
+        "lõbus"
+    ],
+    "lärmen": [
+        "lärmama"
+    ],
+    "läuten": [
+        "helisema"
+    ],
+    "machen": [
+        "tegema"
+    ],
+    "malen": [
+        "maalima"
+    ],
+    "manchmal": [
+        "mõnikord"
+    ],
+    "melken": [
+        "lüpsma"
+    ],
+    "messen": [
+        "mõõtma"
+    ],
+    "mitteilen": [
+        "teatama",
+        "teada andma"
+    ],
+    "morgen": [
+        "homme"
+    ],
+    "mögen": [
+        "sallima",
+        "meeldima"
+    ],
+    "müde werden": [
+        "väsima"
+    ],
+    "nackt": [
+        "alasti"
+    ],
+    "nah": [
+        "lähedane"
+    ],
+    "nass": [
+        "märg"
+    ],
+    "neben": [
+        "kõrval"
+    ],
+    "nehmen": [
+        "võtma"
+    ],
+    "nennen": [
+        "nimetama"
+    ],
+    "neu": [
+        "uus"
+    ],
+    "neun": [
+        "üheksa"
+    ],
+    "neunzig": [
+        "üheksakümmend"
+    ],
+    "nicht": [
+        "ei",
+        "mitte"
+    ],
+    "niemals": [
+        "mitte kunagi"
+    ],
+    "noch": [
+        "veel"
+    ],
+    "nur": [
+        "ainult"
+    ],
+    "nähen": [
+        "õmblema"
+    ],
+    "oben": [
+        "ülal"
+    ],
+    "oder": [
+        "või"
+    ],
+    "offen": [
+        "avatud",
+        "lahtine"
+    ],
+    "oft": [
+        "tihti",
+        "sageli"
+    ],
+    "packen": [
+        "kinni haarama",
+        "kinni võtma"
+    ],
+    "passieren": [
+        "juhtuma"
+    ],
+    "pfeifen": [
+        "vilistama"
+    ],
+    "pflücken": [
+        "noppima"
+    ],
+    "plötzlich": [
+        "äkki",
+        "järsku"
+    ],
+    "prahlen": [
+        "hooplema"
+    ],
+    "probieren": [
+        "proovima"
+    ],
+    "rauchen": [
+        "suitsema"
+    ],
+    "rauschen": [
+        "kohisema"
+    ],
+    "rechnen": [
+        "arvutama"
+    ],
+    "rechter": [
+        "parem"
+    ],
+    "reden": [
+        "kõnelema"
+    ],
+    "regnen": [
+        "sadama"
+    ],
+    "reiben": [
+        "hõõruma"
+    ],
+    "reich": [
+        "rikas"
+    ],
+    "reichen": [
+        "andma",
+        "ulatama"
+    ],
+    "reif": [
+        "küps"
+    ],
+    "reifen": [
+        "valmima"
+    ],
+    "reinigen": [
+        "puhastama"
+    ],
+    "reißen": [
+        "rebenema"
+    ],
+    "rennen": [
+        "jooksma",
+        "kihutama"
+    ],
+    "reparieren": [
+        "parandama"
+    ],
+    "retten": [
+        "päästma"
+    ],
+    "richtig": [
+        "õige"
+    ],
+    "riechen": [
+        "nuusutama"
+    ],
+    "roh": [
+        "toores"
+    ],
+    "rot": [
+        "punane"
+    ],
+    "rudern": [
+        "sõudma"
+    ],
+    "rufen": [
+        "kutsuma"
+    ],
+    "rund": [
+        "ümar"
+    ],
+    "rückwärts": [
+        "tagurpidi"
+    ],
+    "rühren": [
+        "liigutama",
+        "heldima panema"
+    ],
+    "rütteln": [
+        "raputama"
+    ],
+    "sagen": [
+        "ütlema"
+    ],
+    "sammeln": [
+        "koguma",
+        "korjama"
+    ],
+    "sanft": [
+        "õrn"
+    ],
+    "sauber": [
+        "puhas"
+    ],
+    "sauer": [
+        "hapu"
+    ],
+    "sausen": [
+        "kihutama",
+        "tormama"
+    ],
+    "scharf": [
+        "terav"
+    ],
+    "schaukeln": [
+        "kiikuma"
+    ],
+    "scheinen": [
+        "paistma",
+        "näida",
+        "ilmuda"
+    ],
+    "schenken": [
+        "kinkima"
+    ],
+    "schicken": [
+        "saatma"
+    ],
+    "schieben": [
+        "lükkama"
+    ],
+    "schießen": [
+        "tulistama"
+    ],
+    "schimpfen": [
+        "sõimama"
+    ],
+    "schlafen": [
+        "magama"
+    ],
+    "schlagen": [
+        "lööma"
+    ],
+    "schlank": [
+        "sale"
+    ],
+    "schlecht": [
+        "halb"
+    ],
+    "schleifen": [
+        "lihvima",
+        "teritama"
+    ],
+    "schleppen": [
+        "tassima",
+        "lohistama"
+    ],
+    "schließen": [
+        "sulgema"
+    ],
+    "schlimm": [
+        "paha"
+    ],
+    "schlucken": [
+        "neelama"
+    ],
+    "schmal": [
+        "kitsas"
+    ],
+    "schmelzen": [
+        "sulama"
+    ],
+    "schmerzen": [
+        "valutama"
+    ],
+    "schmutzig": [
+        "räpane",
+        "määrdunud"
+    ],
+    "schmücken": [
+        "kaunistama"
+    ],
+    "schneiden": [
+        "lõikama"
+    ],
+    "schon": [
+        "juba"
+    ],
+    "schreiben": [
+        "kirjutama"
+    ],
+    "schreien": [
+        "karjuma"
+    ],
+    "schreiten": [
+        "astuma"
+    ],
+    "schwach": [
+        "nõrk",
+        "jõuetu"
+    ],
+    "schwanken": [
+        "kõikuma"
+    ],
+    "schwarz": [
+        "must"
+    ],
+    "schwenken": [
+        "vehkima",
+        "lehvitama"
+    ],
+    "schwer": [
+        "raske"
+    ],
+    "schwimmen": [
+        "ujuma"
+    ],
+    "schwingen": [
+        "võnkuma"
+    ],
+    "schön": [
+        "kena"
+    ],
+    "schütteln": [
+        "raputama",
+        "loksutama"
+    ],
+    "schütten": [
+        "kallama"
+    ],
+    "schützen": [
+        "kaitsma"
+    ],
+    "sechs": [
+        "kuus"
+    ],
+    "sechzig": [
+        "kuuskümmend"
+    ],
+    "sehen": [
+        "nägema"
+    ],
+    "sehr": [
+        "väga"
+    ],
+    "setzen": [
+        "panema"
+    ],
+    "sich anziehen": [
+        "riietuma"
+    ],
+    "sich beeilen": [
+        "ruttama",
+        "kiirustama"
+    ],
+    "sich bewegen": [
+        "liikuma"
+    ],
+    "sich drehen": [
+        "pöörduma"
+    ],
+    "sich erheben": [
+        "kerkima"
+    ],
+    "sich erholen": [
+        "puhkama"
+    ],
+    "sich erinnern an": [
+        "mäletama"
+    ],
+    "sich fürchten": [
+        "kartma",
+        "hirmu tundma"
+    ],
+    "sich rühren": [
+        "liikuma"
+    ],
+    "sich schlagen": [
+        "kaklema"
+    ],
+    "sich setzen": [
+        "istet võtma"
+    ],
+    "sich trennen": [
+        "lahku minema"
+    ],
+    "sich unterhalten": [
+        "vestlema"
+    ],
+    "sich versammeln": [
+        "kogunema"
+    ],
+    "sich waschen": [
+        "end pesema"
+    ],
+    "sich ärgern": [
+        "ärrituma",
+        "vihastuma"
+    ],
+    "sie": [
+        "nad"
+    ],
+    "sieben": [
+        "seitse"
+    ],
+    "siebzig": [
+        "seitsekümmend"
+    ],
+    "sieden": [
+        "keema"
+    ],
+    "siegen": [
+        "võitma"
+    ],
+    "singen": [
+        "laulma"
+    ],
+    "sinken": [
+        "vajuma",
+        "langema"
+    ],
+    "sitzen": [
+        "istuma"
+    ],
+    "so": [
+        "nii"
+    ],
+    "sofort": [
+        "kohe"
+    ],
+    "spazierengehen": [
+        "jalutama"
+    ],
+    "spielen": [
+        "mängima"
+    ],
+    "spitz": [
+        "torkav"
+    ],
+    "sprechen": [
+        "rääkima",
+        "kõnelema"
+    ],
+    "springen": [
+        "hüppama"
+    ],
+    "später": [
+        "hiljem"
+    ],
+    "spülen": [
+        "uhtma"
+    ],
+    "stark": [
+        "tugev"
+    ],
+    "stechen": [
+        "pistma",
+        "torkama"
+    ],
+    "stecken": [
+        "pistma"
+    ],
+    "stehen": [
+        "seisma"
+    ],
+    "stehlen": [
+        "varastama"
+    ],
+    "steigen": [
+        "tõusma",
+        "üles minema"
+    ],
+    "stellen": [
+        "panema",
+        "asetama"
+    ],
+    "sterben": [
+        "surema"
+    ],
+    "stoßen": [
+        "tõukama"
+    ],
+    "streichen": [
+        "silitama"
+    ],
+    "stricken": [
+        "kuduma"
+    ],
+    "strömen": [
+        "voolama"
+    ],
+    "stumpf": [
+        "nüri"
+    ],
+    "stöhnen": [
+        "oigama"
+    ],
+    "stören": [
+        "segama",
+        "häirima"
+    ],
+    "suchen": [
+        "otsima"
+    ],
+    "süß": [
+        "magus"
+    ],
+    "tanzen": [
+        "tantsima"
+    ],
+    "taub": [
+        "kurt"
+    ],
+    "tauchen": [
+        "sukelduma"
+    ],
+    "tauen": [
+        "sulama"
+    ],
+    "tausend": [
+        "tuhat"
+    ],
+    "teilen": [
+        "jagama",
+        "jaotama"
+    ],
+    "teuer": [
+        "kallis"
+    ],
+    "tragen": [
+        "kandma"
+    ],
+    "traurig": [
+        "kurb"
+    ],
+    "treffen": [
+        "kohtama"
+    ],
+    "treiben": [
+        "ajama"
+    ],
+    "treten": [
+        "sõtkuma"
+    ],
+    "trinken": [
+        "jooma"
+    ],
+    "trocken": [
+        "kuiv"
+    ],
+    "trocknen": [
+        "kuivama"
+    ],
+    "tun": [
+        "tegema"
+    ],
+    "täuschen": [
+        "petma",
+        "tüssama"
+    ],
+    "töten": [
+        "tapma",
+        "surmama"
+    ],
+    "umdrehen": [
+        "ümber keerama"
+    ],
+    "umkommen": [
+        "surma saama"
+    ],
+    "umrühren": [
+        "segama"
+    ],
+    "und": [
+        "ja"
+    ],
+    "unten": [
+        "all",
+        "allpool"
+    ],
+    "unter": [
+        "all"
+    ],
+    "untergehen": [
+        "loojuma"
+    ],
+    "unterrichten": [
+        "õpetama"
+    ],
+    "verbergen": [
+        "peitma",
+        "varjama"
+    ],
+    "verbessern": [
+        "parandama"
+    ],
+    "verbinden": [
+        "ühendama"
+    ],
+    "verbrennen": [
+        "põletama"
+    ],
+    "verderben": [
+        "rikkuma"
+    ],
+    "vereinigen": [
+        "ühendama"
+    ],
+    "verfaulen": [
+        "mädanema"
+    ],
+    "vergebens": [
+        "asjata"
+    ],
+    "vergehen": [
+        "mööduma"
+    ],
+    "vergessen": [
+        "unustama"
+    ],
+    "verkaufen": [
+        "müüma"
+    ],
+    "verlassen": [
+        "maha jätma"
+    ],
+    "verlieren": [
+        "kaotama"
+    ],
+    "vernehmen": [
+        "üle kuulama"
+    ],
+    "verschieden": [
+        "erinev"
+    ],
+    "verschwinden": [
+        "kaduma"
+    ],
+    "versinken": [
+        "uppuma"
+    ],
+    "versprechen": [
+        "lubama",
+        "tõotama"
+    ],
+    "verstecken": [
+        "peitma"
+    ],
+    "verstehen": [
+        "mõistma"
+    ],
+    "versuchen": [
+        "püüdma",
+        "üritama",
+        "katsetama"
+    ],
+    "verteidigen": [
+        "kaitsma"
+    ],
+    "vier": [
+        "neli"
+    ],
+    "vierzig": [
+        "nelikümmend"
+    ],
+    "voll": [
+        "täis"
+    ],
+    "von hier": [
+        "siit"
+    ],
+    "vor": [
+        "ees"
+    ],
+    "vorbereiten": [
+        "valmistama"
+    ],
+    "vorher": [
+        "enne"
+    ],
+    "vorwärts": [
+        "edasi"
+    ],
+    "wachsen": [
+        "kasvama"
+    ],
+    "wahr": [
+        "tõene"
+    ],
+    "warm": [
+        "soe"
+    ],
+    "warten": [
+        "ootama"
+    ],
+    "warum": [
+        "miks"
+    ],
+    "was": [
+        "mis"
+    ],
+    "waschen": [
+        "pesema"
+    ],
+    "wechseln": [
+        "vahelduma"
+    ],
+    "wecken": [
+        "äratama"
+    ],
+    "wegen": [
+        "tõttu",
+        "pärast"
+    ],
+    "weggehen": [
+        "ära minema",
+        "välja minema"
+    ],
+    "wehen": [
+        "puhuma"
+    ],
+    "weich": [
+        "pehme"
+    ],
+    "weinen": [
+        "nutma"
+    ],
+    "weiß": [
+        "valge"
+    ],
+    "wenden": [
+        "ümber pöörama"
+    ],
+    "wer": [
+        "kes"
+    ],
+    "werden": [
+        "saama",
+        "hakkama"
+    ],
+    "werfen": [
+        "viskama"
+    ],
+    "wertvoll": [
+        "väärtuslik"
+    ],
+    "wie": [
+        "kuidas"
+    ],
+    "wieder": [
+        "jälle"
+    ],
+    "wiegen": [
+        "hällitama"
+    ],
+    "wieviel": [
+        "mitu",
+        "kui palju"
+    ],
+    "wir": [
+        "me"
+    ],
+    "wissen": [
+        "teadma"
+    ],
+    "wo": [
+        "kus"
+    ],
+    "wohin": [
+        "kuhu"
+    ],
+    "wohnen": [
+        "elama"
+    ],
+    "wollen": [
+        "tahtma"
+    ],
+    "wählen": [
+        "valima"
+    ],
+    "wünschen": [
+        "soovima"
+    ],
+    "zahlen": [
+        "maksma"
+    ],
+    "zehn": [
+        "kümme"
+    ],
+    "zeichnen": [
+        "joonistama"
+    ],
+    "zeigen": [
+        "näitama"
+    ],
+    "zerbrechen": [
+        "katki tegema"
+    ],
+    "zerreißen": [
+        "katki rebima"
+    ],
+    "zerstören": [
+        "purustama"
+    ],
+    "ziehen": [
+        "vedama",
+        "tõmbama"
+    ],
+    "zittern": [
+        "värisema"
+    ],
+    "zu sehen sein": [
+        "ilmuma"
+    ],
+    "zubereiten": [
+        "valmistama"
+    ],
+    "zudecken": [
+        "kaanetama",
+        "kinni katma"
+    ],
+    "zuerst": [
+        "enne",
+        "esmalt"
+    ],
+    "zuhören": [
+        "kuulama"
+    ],
+    "zunehmen": [
+        "kasvama"
+    ],
+    "zurück": [
+        "tagasi"
+    ],
+    "zurückkommen": [
+        "tagasi tulema"
+    ],
+    "zurücklassen": [
+        "jätma"
+    ],
+    "zusammen": [
+        "koos",
+        "üheskoos"
+    ],
+    "zwanzig": [
+        "kakskümmend"
+    ],
+    "zwei": [
+        "kaks"
+    ],
+    "zweiter": [
+        "teine"
+    ],
+    "zwischen": [
+        "vahel"
+    ],
+    "zwölf": [
+        "kaksteist"
+    ],
+    "zählen": [
+        "loendama"
+    ],
+    "Ärmel": [
+        "varrukas"
+    ],
+    "Öl": [
+        "õli"
+    ],
+    "ändern": [
+        "muutma",
+        "ümber tegema"
+    ],
+    "ärgern": [
+        "ärritama",
+        "vihastama"
+    ],
+    "öffnen": [
+        "avama"
+    ],
+    "überall": [
+        "kõikjal"
+    ],
+    "übersetzen": [
+        "tõlkima"
+    ]
+}
