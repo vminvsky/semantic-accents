@@ -33,7 +33,7 @@ def process_section(article_text: str, section: dict):
 
 def main(lang: str):
     data_path = f'data/wikipedia/sections/json/{lang}/'
-    output_path = f'data/wikipedia/sections/extracted/{lang}/'
+    output_path = f'data/wikipedia/sections/extracted/human/{lang}/'
 
     os.makedirs(output_path, exist_ok=True)
     all_data = []
