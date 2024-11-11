@@ -3722,6 +3722,1037 @@ rus,заплатить,bezahlen::V,1013,pay for,Possession
 rus,платить,zahlen::V,1014,pay,Possession
 rus,владеть,beherrschen::V,1015,rule,Social and political relations
 rus,вытерпеть,ertragen::V,1016,endure,Basic actions and technology
+deu,Auge,Auge::N,1,eye,The body
+deu,Ohr,Ohr::N,2,ear,The body
+deu,Nase,Nase::N,3,nose,The body
+deu,Mund,Mund::N,4,mouth,The body
+deu,Zahn,Zahn::N,5,tooth,The body
+deu,Zunge,Zunge::N,6,tongue,The body
+deu,Lippe,Lippe::N,7,lip,The body
+deu,Wange,Wange::N,8,cheek,The body
+deu,Gesicht,Gesicht::N,9,face,The body
+deu,Stirn,Stirn::N,10,forehead,The body
+deu,Haar,Haar::N,11,hair,The body
+deu,Schnurrbart,Schnurrbart::N,12,moustache,The body
+deu,Bart,Bart::N,13,beard,The body
+deu,Kinn,Kinn::N,14,chin,The body
+deu,Kiefer,Kiefer[Anatomie]::N,15,jaw,The body
+deu,Kehle,Kehle::N,16,throat,The body
+deu,Hals,Hals::N,17,neck,The body
+deu,Genick,Genick::N,18,nape,The body
+deu,Kopf,Kopf::N,19,head,The body
+deu,Rücken,Rücken::N,20,back,The body
+deu,Rücken,Rücken::N,20,spine,The body
+deu,Bauch,Bauch::N,21,belly,The body
+deu,Nabel,Nabel::N,22,navel,The body
+deu,Busen,Busen::N,23,bosom,The body
+deu,Brust,Brust::N,24,chest,The body
+deu,Brust,Brust::N,24,breast,The body
+deu,Schulter,Schulter::N,25,shoulder,The body
+deu,Arm,Arm::N,26,arm,The body
+deu,Ellenbogen,Ellenbogen::N,27,elbow,The body
+deu,Hand,Hand::N,28,hand,The body
+deu,Handfläche,Handfläche::N,29,palm,The body
+deu,Finger,Finger::N,30,finger,The body
+deu,Fingernagel,Fingernagel::N,31,fingernail,The body
+deu,Nagel,Nagel[Anatomie]::N,32,nail,The body
+deu,Zeh,Zeh::N,33,toe,The body
+deu,Fuß,Fuß::N,34,foot,The body
+deu,Ferse,Ferse::N,35,heel,The body
+deu,Knie,Knie::N,36,knee,The body
+deu,Oberschenkel,Oberschenkel::N,37,thigh,The body
+deu,Bein,Bein::N,38,leg,The body
+deu,Körper,Körper::N,39,body,The body
+deu,Haut,Haut::N,40,skin,The body
+deu,Blut,Blut::N,41,blood,The body
+deu,Ader,Ader::N,42,vein,The body
+deu,Sehne,Sehne::N,43,sinew,The body
+deu,Knochen,Knochen::N,44,bone,The body
+deu,Gehirn,Gehirn::N,45,brain,The body
+deu,Herz,Herz::N,46,heart,The body
+deu,Magen,Magen::N,47,stomach,The body
+deu,Leber,Leber::N,48,liver,The body
+deu,Atem,Atem::N,49,breath,The body
+deu,Hunger,Hunger::N,50,hunger,Food and drink
+deu,Träne,Träne::N,51,tear,Emotions and values
+deu,Geschmack,Geschmack::N,52,flavour,Food and drink
+deu,Geschmack,Geschmack::N,52,flavor,Food and drink
+deu,Geruch,Geruch::N,53,odor,Sense perception
+deu,Geruch,Geruch::N,53,odour,Sense perception
+deu,Schlaf,Schlaf::N,54,sleep,Basic actions and technology
+deu,Traum,Traum::N,55,dream,The body
+deu,Himmel,Himmel::N,56,sky,The physical world
+deu,Sonne,Sonne::N,57,sun,The physical world
+deu,Mond,Mond::N,58,moon,The physical world
+deu,Stern,Stern::N,59,star,The physical world
+deu,Luft,Luft::N,60,air,The physical world
+deu,Wind,Wind::N,61,wind,The physical world
+deu,Welle,Welle::N,62,wave,The physical world
+deu,Wasser,Wasser::N,63,water,The physical world
+deu,Stein,Stein::N,64,stone,The physical world
+deu,Boden,Boden::N,65,ground,The physical world
+deu,Boden,Boden::N,65,soil,The physical world
+deu,Erde,Erde::N,66,earth,The physical world
+deu,Staub,Staub::N,67,dust,The physical world
+deu,Rauch,Rauch::N,68,smoke,The physical world
+deu,Funke,Funke::N,69,spark,The physical world
+deu,Feuer,Feuer::N,70,fire,The physical world
+deu,Licht,Licht::N,71,light,The physical world
+deu,Schatten,Schatten::N,72,shadow,The physical world
+deu,Wetter,Wetter::N,73,weather,The physical world
+deu,Nebel,Nebel::N,74,fog,The physical world
+deu,Wolke,Wolke::N,75,cloud,The physical world
+deu,Regen,Regen::N,76,rain,The physical world
+deu,Schnee,Schnee::N,77,snow,The physical world
+deu,Eis,Eis::N,78,ice,The physical world
+deu,Frost,Frost::N,79,frost,Sense perception
+deu,Kälte,Kälte::N,80,chill,Sense perception
+deu,Hitze,Hitze::N,81,heat,The physical world
+deu,Raureif,Raureif::N,82,hoarfrost,Sense perception
+deu,Regenbogen,Regenbogen::N,83,rainbow,The physical world
+deu,Donner,Donner::N,84,thunder,The physical world
+deu,Strömung,Strömung::N,85,current,The physical world
+deu,Tropfen,Tropfen::N,86,drop,Quantity
+deu,Schaum,Schaum::N,87,foam,The physical world
+deu,Schmutz,Schmutz::N,88,dirt,Sense perception
+deu,See,See::N,89,lake,The physical world
+deu,Sumpf,Sumpf::N,90,swamp,The physical world
+deu,Moor,Moor::N,91,moor,The physical world
+deu,Wiese,Wiese::N,92,meadow,The physical world
+deu,Wald,Wald::N,93,forest,The physical world
+deu,Hügel,Hügel::N,94,hill,The physical world
+deu,Anhöhe,Anhöhe::N,95,elevation,The physical world
+deu,Berg,Berg::N,96,mountain,The physical world
+deu,Gipfel,Gipfel::N,97,summit,The physical world
+deu,Höhle,Höhle::N,98,cave,The physical world
+deu,Abhang,Abhang::N,99,slope,The physical world
+deu,Quelle,Quelle::N,100,source,The physical world
+deu,Bach,Bach::N,101,brook,The physical world
+deu,Fluss,Fluss::N,102,river,The physical world
+deu,Ufer,Ufer::N,103,shore,The physical world
+deu,Küste,Küste::N,104,coast,The physical world
+deu,Festland,Festland::N,105,land,The physical world
+deu,Meer,Meer::N,106,sea,The physical world
+deu,Bucht,Bucht::N,107,cove,The physical world
+deu,Insel,Insel::N,108,island,The physical world
+deu,Blume,Blume::N,109,flower,Agriculture and vegetation
+deu,Gras,Gras::N,110,grass,Agriculture and vegetation
+deu,Wurzel,Wurzel::N,111,root,Agriculture and vegetation
+deu,Baum,Baum::N,112,tree,Agriculture and vegetation
+deu,Stamm,Stamm::N,113,trunk,Agriculture and vegetation
+deu,Rinde,Rinde::N,114,bark,Agriculture and vegetation
+deu,Ast,Ast::N,115,limb,The physical world
+deu,Zweig,Zweig::N,116,branch,Agriculture and vegetation
+deu,Blatt,Blatt::N,117,leaf,Agriculture and vegetation
+deu,Birke,Birke::N,118,birch,Agriculture and vegetation
+deu,Kiefer,Kiefer[Baum]::N,119,pine,Agriculture and vegetation
+deu,Weide,Weide[Baum]::N,120,willow,Agriculture and vegetation
+deu,Tanne,Tanne::N,121,fir,Agriculture and vegetation
+deu,Horn,Horn::N,122,horn,The body
+deu,Feder,Feder::N,123,feather,The body
+deu,Fell,Fell::N,124,fur,Clothing and grooming
+deu,Flügel,Flügel::N,125,wing,The body
+deu,Klaue,Klaue::N,126,claw,Animals
+deu,Kralle,Kralle::N,127,claw,Animals
+deu,Schwanz,Schwanz::N,128,tail,The body
+deu,Ei,Ei::N,129,egg,Food and drink
+deu,Nest,Nest::N,130,nest,Animals
+deu,Bau,Bau::N,131,lair,Animals
+deu,Tier,Tier::N,132,animal,Animals
+deu,Herde,Herde::N,133,flock,Animals
+deu,Kuh,Kuh::N,134,cow,Animals
+deu,Bulle,Bulle::N,135,bull,Animals
+deu,Pferd,Pferd::N,136,horse,Animals
+deu,Schaf,Schaf::N,137,sheep,Animals
+deu,Schwein,Schwein::N,138,pig,Animals
+deu,Hund,Hund::N,139,dog,Animals
+deu,Katze,Katze::N,140,cat,Animals
+deu,Bär,Bär::N,141,bear,Animals
+deu,Eichhörnchen,Eichhörnchen::N,142,squirrel,Animals
+deu,Elch,Elch::N,143,elk,Animals
+deu,Fuchs,Fuchs::N,144,fox,Animals
+deu,Hase,Hase::N,145,hare,Animals
+deu,Maus,Maus::N,146,mouse,Animals
+deu,Wolf,Wolf::N,147,wolf,Animals
+deu,Vogel,Vogel::N,148,bird,Animals
+deu,Schwarm,Schwarm::N,149,swarm,Animals
+deu,Huhn,Huhn::N,150,chicken,Animals
+deu,Hahn,Hahn::N,151,cock,Animals
+deu,Gans,Gans::N,152,goose,Animals
+deu,Adler,Adler::N,153,eagle,Animals
+deu,Ente,Ente::N,154,duck,Animals
+deu,Eule,Eule::N,155,owl,Animals
+deu,Kranich,Kranich::N,156,crane,Animals
+deu,Krähe,Krähe::N,157,crow,Animals
+deu,Kuckuck,Kuckuck::N,158,cuckoo,Animals
+deu,Schwan,Schwan::N,159,swan,Animals
+deu,Fisch,Fisch::N,160,fish,Animals
+deu,Barsch,Barsch::N,161,perch,Animals
+deu,Hecht,Hecht::N,162,pike,Animals
+deu,Schlange,Schlange[Tier]::N,163,snake,Animals
+deu,Wurm,Wurm::N,164,worm,Animals
+deu,Spinne,Spinne::N,165,spider,Animals
+deu,Ameise,Ameise::N,166,ant,Animals
+deu,Laus,Laus::N,167,louse,Animals
+deu,Mücke,Mücke::N,168,midge,Animals
+deu,Fliege,Fliege::N,169,fly,Animals
+deu,Schmetterling,Schmetterling::N,170,butterfly,Animals
+deu,Beere,Beere::N,171,berry,Food and drink
+deu,Apfel,Apfel::N,172,apple,Agriculture and vegetation
+deu,Pilz,Pilz::N,173,mushroom,Agriculture and vegetation
+deu,Zwiebel,Zwiebel::N,174,onion,Agriculture and vegetation
+deu,Saat,Saat::N,175,seed,Agriculture and vegetation
+deu,Korn,Korn::N,176,grain,Quantity
+deu,Heu,Heu::N,177,hay,Agriculture and vegetation
+deu,Schale,Schale::N,178,husk,Food and drink
+deu,Grube,Grube::N,179,pit,The physical world
+deu,Falle,Falle::N,180,trap,Basic actions and technology
+deu,Schlinge,Schlinge::N,181,noose,Basic actions and technology
+deu,Spur,Spur::N,182,track,The body
+deu,Asche,Asche::N,183,ashes,The physical world
+deu,Dreck,Dreck::N,184,filth,Sense perception
+deu,Eisen,Eisen::N,185,iron,Basic actions and technology
+deu,Gold,Gold::N,186,gold,Basic actions and technology
+deu,Silber,Silber::N,187,silver,Basic actions and technology
+deu,Kohle,Kohle::N,188,coal,The physical world
+deu,Glas,Glas::N,189,glass,Basic actions and technology
+deu,Lehm,Lehm::N,190,clay,Basic actions and technology
+deu,Sand,Sand::N,191,sand,The physical world
+deu,Mensch,Mensch::N,192,human,Kinship
+deu,Mann,Mann::N,193,man,Kinship
+deu,Frau,Frau::N,194,woman,Kinship
+deu,Kind,Kind::N,195,child,Kinship
+deu,Junge,Junge::N,196,boy,Kinship
+deu,Mädchen,Mädchen::N,197,girl,Kinship
+deu,Familie,Familie::N,198,family,Kinship
+deu,Großvater,Großvater::N,199,grandfather,Kinship
+deu,Großmutter,Großmutter::N,200,grandmother,Kinship
+deu,Eltern,Eltern::N,201,parents,Kinship
+deu,Vater,Vater::N,202,father,Kinship
+deu,Mutter,Mutter::N,203,mother,Kinship
+deu,Sohn,Sohn::N,204,son,Kinship
+deu,Tochter,Tochter::N,205,daughter,Kinship
+deu,Bruder,Bruder::N,206,brother,Kinship
+deu,Schwester,Schwester::N,207,sister,Kinship
+deu,Onkel,Onkel::N,208,uncle,Kinship
+deu,Tante,Tante::N,209,aunt,Kinship
+deu,Ehemann,Ehemann::N,210,husband,Kinship
+deu,Ehefrau,Ehefrau::N,211,wife,Kinship
+deu,Freude,Freude::N,212,joy,Emotions and values
+deu,Gelächter,Gelächter::N,213,laughter,Emotions and values
+deu,Glück,Glück::N,214,happiness,Emotions and values
+deu,Kummer,Kummer::N,215,grief,Emotions and values
+deu,Wunsch,Wunsch::N,216,wish,Emotions and values
+deu,Lust,Lust::N,217,desire,Emotions and values
+deu,Geist,Geist::N,218,spirit,Emotions and values
+deu,Gedanke,Gedanke::N,219,thought,Emotions and values
+deu,Gedächtnis,Gedächtnis::N,220,memory,Cognition
+deu,Verstand,Verstand::N,221,mind,Cognition
+deu,Sinn,Sinn::N,222,meaning,Emotions and values
+deu,Grund,Grund::N,223,reason,Emotions and values
+deu,Wahrheit,Wahrheit::N,224,truth,Emotions and values
+deu,Gespräch,Gespräch::N,225,talk,Basic actions and technology
+deu,Märchen,Märchen::N,226,fairy tale,Modern world
+deu,Erzählung,Erzählung::N,227,story,Speech and language
+deu,Nachricht,Nachricht::N,228,message,Basic actions and technology
+deu,Neuigkeit,Neuigkeit::N,229,news,Basic actions and technology
+deu,Name,Name::N,230,name,Speech and language
+deu,Rätsel,Rätsel::N,231,puzzle,Speech and language
+deu,Rede,Rede::N,232,speech,Speech and language
+deu,Sprache,Sprache::N,233,language,Speech and language
+deu,Stimme,Stimme::N,234,voice,Speech and language
+deu,Wort,Wort::N,235,word,Speech and language
+deu,Zeichen,Zeichen::N,236,sign,Speech and language
+deu,Ruf,Ruf::N,237,call,Basic actions and technology
+deu,Lärm,Lärm::N,238,noise,Sense perception
+deu,Laut,Laut::N,239,sound,Sense perception
+deu,Ton,Ton::N,240,tone,Sense perception
+deu,Lied,Lied::N,241,song,Modern world
+deu,Ruhe,Ruhe::N,242,calm,Sense perception
+deu,Leute,Leute::N,243,people,Social and political relations
+deu,Volk,Volk::N,244,nation,Social and political relations
+deu,Arbeit,Arbeit::N,245,work,Basic actions and technology
+deu,Gast,Gast::N,246,guest,Social and political relations
+deu,Geschenk,Geschenk::N,247,gift,Basic actions and technology
+deu,Spiel,Spiel::N,248,game,Social and political relations
+deu,Gesellschaft,Gesellschaft::N,249,company,Modern world
+deu,Hilfe,Hilfe::N,250,help,Social and political relations
+deu,Freund,Freund::N,251,friend,Social and political relations
+deu,Kamerad,Kamerad::N,252,companion,Social and political relations
+deu,Angelegenheit,Angelegenheit::N,253,matter,Quantity
+deu,Anzahl,Anzahl::N,254,count,Modern world
+deu,Art,Art::N,255,sort,Cognition
+deu,Stück,Stück::N,256,piece,Quantity
+deu,Teil,Teil::N,257,part,Quantity
+deu,Hälfte,Hälfte::N,258,half,Quantity
+deu,Kreis,Kreis::N,259,circle,Spatial relations
+deu,Kreuz,Kreuz::N,260,cross,Spatial relations
+deu,Linie,Linie::N,261,line,Spatial relations
+deu,Strich,Strich::N,262,stroke,Modern world
+deu,Abstand,Abstand::N,263,gap,Spatial relations
+deu,Entfernung,Entfernung::N,264,distance,Spatial relations
+deu,Gegend,Gegend::N,265,area,The physical world
+deu,Platz,Platz::N,266,space,Spatial relations
+deu,Ort,Ort::N,267,place,Spatial relations
+deu,Seite,Seite::N,268,side,Spatial relations
+deu,Mitte,Mitte::N,269,middle,Spatial relations
+deu,Gegenstand,Gegenstand::N,270,item,The physical world
+deu,Sache,Sache::N,271,thing,Possession
+deu,Rand,Rand::N,272,fringe,Spatial relations
+deu,Kante,Kante::N,273,edge,Spatial relations
+deu,Ecke,Ecke::N,274,corner,Spatial relations
+deu,Spitze,Spitze::N,275,tip,Spatial relations
+deu,Ende,Ende::N,276,end,Spatial relations
+deu,Loch,Loch::N,277,hole,Spatial relations
+deu,Winkel,Winkel::N,278,angle,Spatial relations
+deu,Muster,Muster::N,279,pattern,The physical world
+deu,Größe,Größe::N,280,size,Spatial relations
+deu,Länge,Länge::N,281,length,Spatial relations
+deu,Höhe,Höhe::N,282,height,Spatial relations
+deu,Gewicht,Gewicht::N,283,weight,Sense perception
+deu,Menge,Menge::N,284,amount,Basic actions and technology
+deu,Haufen,Haufen::N,285,heap,Basic actions and technology
+deu,Reihe,Reihe::N,286,row,Spatial relations
+deu,Boot,Boot::N,287,boat,Motion
+deu,Ruder,Ruder::N,288,oar,Motion
+deu,Schlitten,Schlitten::N,289,sleigh,Motion
+deu,Ski,Ski::N,290,ski,Modern world
+deu,Lagerfeuer,Lagerfeuer::N,291,campfire,Basic actions and technology
+deu,Last,Last::N,292,load,Basic actions and technology
+deu,Gang,Gang::N,293,walk,Quantity
+deu,Schritt,Schritt::N,294,step,The house
+deu,Norden,Norden::N,295,north,Spatial relations
+deu,Süden,Süden::N,296,south,Spatial relations
+deu,Westen,Westen::N,297,west,Spatial relations
+deu,Osten,Osten::N,298,east,Spatial relations
+deu,Holz,Holz::N,299,wood,The physical world
+deu,Brett,Brett::N,300,board,The house
+deu,Platte,Platte::N,301,slab,Modern world
+deu,Stütze,Stütze::N,302,bracket,Spatial relations
+deu,Stange,Stange::N,303,pole,The house
+deu,Stock,Stock::N,304,stick,The physical world
+deu,Stab,Stab::N,305,staff,Social and political relations
+deu,Rohr,Rohr::N,306,pipe,Modern world
+deu,Haus,Haus::N,307,house,The house
+deu,Heim,Heim::N,308,home,The house
+deu,Ofen,Ofen::N,309,stove,The house
+deu,Fußboden,Fußboden::N,310,floor,The house
+deu,Tisch,Tisch::N,311,table,The house
+deu,Stuhl,Stuhl::N,312,chair,The house
+deu,Wiege,Wiege::N,313,cradle,Modern world
+deu,Bett,Bett::N,314,bed,The house
+deu,Regal,Regal::N,315,shelf,The house
+deu,Kiste,Kiste::N,316,box,Modern world
+deu,Fenster,Fenster::N,317,window,The house
+deu,Tür,Tür::N,318,door,The house
+deu,Tor,Tor::N,319,gate,The house
+deu,Zaun,Zaun::N,320,fence,Agriculture and vegetation
+deu,Dach,Dach::N,321,roof,The house
+deu,Leiter,Leiter::N,322,ladder,The house
+deu,Besen,Besen::N,323,broom,Basic actions and technology
+deu,Spaten,Spaten::N,324,spade,Agriculture and vegetation
+deu,Schaufel,Schaufel::N,325,shovel,Agriculture and vegetation
+deu,Gabel,Gabel::N,326,fork,Food and drink
+deu,Löffel,Löffel::N,327,spoon,Food and drink
+deu,Messer,Messer::N,328,knife,Food and drink
+deu,Nagel,Nagel::N,329,nail,Basic actions and technology
+deu,Netz,Netz::N,330,net,Basic actions and technology
+deu,Haken,Haken::N,331,hook,Spatial relations
+deu,Griff,Griff::N,332,handle,Basic actions and technology
+deu,Schloss,Schloss::N,333,lock,The house
+deu,Bild,Bild::N,334,picture,Modern world
+deu,Figur,Figur::N,335,figure,Social and political relations
+deu,Puppe,Puppe::N,336,doll,Modern world
+deu,Beutel,Beutel::N,337,pouch,Basic actions and technology
+deu,Bündel,Bündel::N,338,bundle,Basic actions and technology
+deu,Tasche,Tasche::N,339,bag,Basic actions and technology
+deu,Eimer,Eimer::N,340,bucket,Basic actions and technology
+deu,Deckel,Deckel::N,341,cover,Basic actions and technology
+deu,Geschirr,Geschirr::N,342,dishes,Food and drink
+deu,Sack,Sack::N,343,sack,Basic actions and technology
+deu,Tasse,Tasse::N,344,cup,Food and drink
+deu,Topf,Topf::N,345,pot,Food and drink
+deu,Kessel,Kessel::N,346,kettle,Food and drink
+deu,Essen,Essen::N,347,meal,Food and drink
+deu,Nahrung,Nahrung::N,348,food,Food and drink
+deu,Speise,Speise::N,349,dish,Food and drink
+deu,Fleisch,Fleisch::N,350,meat,Food and drink
+deu,Getreide,Getreide::N,351,corn,Agriculture and vegetation
+deu,Brei,Brei::N,352,mush,The physical world
+deu,Brot,Brot::N,353,bread,Food and drink
+deu,Scheibe,Scheibe::N,354,slice,Modern world
+deu,Fett,Fett::N,355,fat,The body
+deu,Butter,Butter::N,356,butter,Food and drink
+deu,Öl,Öl::N,357,oil,Food and drink
+deu,Salz,Salz::N,358,salt,Food and drink
+deu,Suppe,Suppe::N,359,soup,Food and drink
+deu,Honig,Honig::N,360,honey,Food and drink
+deu,Milch,Milch::N,361,milk,Food and drink
+deu,Tee,Tee::N,362,tea,Modern world
+deu,Leder,Leder::N,363,leather,Clothing and grooming
+deu,Wolle,Wolle::N,364,wool,Clothing and grooming
+deu,Stoff,Stoff::N,365,cloth,Clothing and grooming
+deu,Nadel,Nadel::N,366,needle,Clothing and grooming
+deu,Faden,Faden::N,367,thread,Clothing and grooming
+deu,Knopf,Knopf::N,368,button,Clothing and grooming
+deu,Knoten,Knoten::N,369,knot,Basic actions and technology
+deu,Farbe,Farbe::N,370,paint,Basic actions and technology
+deu,Kleidung,Kleidung::N,371,clothes,Clothing and grooming
+deu,Hemd,Hemd::N,372,shirt,Clothing and grooming
+deu,Kragen,Kragen::N,373,collar,Clothing and grooming
+deu,Ärmel,Ärmel::N,374,sleeve,Clothing and grooming
+deu,Hose,Hose::N,375,trousers,Clothing and grooming
+deu,Gürtel,Gürtel::N,376,belt,Clothing and grooming
+deu,Mütze,Mütze::N,377,cap,Clothing and grooming
+deu,Schuh,Schuh::N,378,shoe,Clothing and grooming
+deu,Stiefel,Stiefel::N,379,boot,Clothing and grooming
+deu,Ring,Ring::N,380,ring,Clothing and grooming
+deu,Band,Band::N,381,ribbon,Basic actions and technology
+deu,Kamm,Kamm::N,382,comb,Clothing and grooming
+deu,Spiegel,Spiegel::N,383,mirror,Clothing and grooming
+deu,Riemen,Riemen::N,384,strap,Basic actions and technology
+deu,Schnur,Schnur::N,385,string,Basic actions and technology
+deu,Leine,Leine::N,386,leash,Basic actions and technology
+deu,Decke,Decke::N,387,blanket,The house
+deu,Kissen,Kissen::N,388,pillow,The house
+deu,Tuch,Tuch::N,389,scarf,Clothing and grooming
+deu,Handtuch,Handtuch::N,390,towel,Clothing and grooming
+deu,Kraft,Kraft::N,391,force,The body
+deu,Stärke,Stärke::N,392,strength,The body
+deu,Gesundheit,Gesundheit::N,393,health,The body
+deu,Krankheit,Krankheit::N,394,illness,The body
+deu,Schmerz,Schmerz::N,395,pain,Emotions and values
+deu,Wunde,Wunde::N,396,wound,The body
+deu,Fieber,Fieber::N,397,fever,The body
+deu,Arznei,Arznei::N,398,medicine,The body
+deu,Brücke,Brücke::N,399,bridge,Motion
+deu,Brunnen,Brunnen::N,400,well,The physical world
+deu,Weide,Weide::N,401,pasture,Animals
+deu,Pfad,Pfad::N,402,path,Motion
+deu,Weg,Weg::N,403,way,Motion
+deu,Straße,Straße::N,404,road,Motion
+deu,Dorf,Dorf::N,405,village,Social and political relations
+deu,Stadt,Stadt::N,406,town,Social and political relations
+deu,Brief,Brief::N,407,letter,Modern world
+deu,Buch,Buch::N,408,book,Speech and language
+deu,Buchstabe,Buchstabe::N,409,character,Speech and language
+deu,Zeitung,Zeitung::N,410,newspaper,Modern world
+deu,Leben,Leben::N,411,life,The body
+deu,Tod,Tod::N,412,death,The body
+deu,Grab,Grab::N,413,grave,The body
+deu,Kirche,Kirche::N,414,church,Social and political relations
+deu,Sünde,Sünde::N,415,sin,Emotions and values
+deu,Gott,Gott::N,416,god,Social and political relations
+deu,Arbeiter,Arbeiter::N,417,worker,Modern world
+deu,Chef,Chef::N,418,boss,Modern world
+deu,Meister,Meister::N,419,master,Social and political relations
+deu,Arzt,Arzt::N,420,doctor,The body
+deu,Lehrer,Lehrer::N,421,teacher,Cognition
+deu,Geld,Geld::N,422,money,Animals
+deu,Geschäft,Geschäft::N,423,business,Modern world
+deu,Laden,Laden::N,424,shop,Possession
+deu,Preis,Preis::N,425,price,Possession
+deu,Ware,Ware::N,426,ware,Modern world
+deu,Nutzen,Nutzen::N,427,profit,Modern world
+deu,Reichtum,Reichtum::N,428,wealth,Modern world
+deu,Welt,Welt::N,429,world,The physical world
+deu,Land,Land::N,430,country,Social and political relations
+deu,Staat,Staat::N,431,state,Modern world
+deu,König,König::N,432,king,Social and political relations
+deu,Macht,Macht::N,433,power,Social and political relations
+deu,Grenze,Grenze::N,434,border,Social and political relations
+deu,Krieg,Krieg::N,435,war,Social and political relations
+deu,Feind,Feind::N,436,enemy,Social and political relations
+deu,Gewalt,Gewalt::N,437,violence,Emotions and values
+deu,Kampf,Kampf::N,438,fight,Basic actions and technology
+deu,Bogen,Bogen[Waffe]::N,439,bow,Basic actions and technology
+deu,Pfeil,Pfeil::N,440,arrow,Basic actions and technology
+deu,Gewehr,Gewehr::N,441,gun,Basic actions and technology
+deu,Fehler,Fehler::N,442,mistake,Emotions and values
+deu,Lüge,Lüge::N,443,lie,Emotions and values
+deu,Schaden,Schaden::N,444,damage,Modern world
+deu,Unglück,Unglück::N,445,misfortune,Emotions and values
+deu,Schuld,Schuld::N,446,fault,Emotions and values
+deu,Alter,Alter::N,447,age,Time
+deu,Schluss,Schluss::N,448,conclusion,Time
+deu,Zeit,Zeit::N,449,time,Time
+deu,Tag,Tag::N,450,day,Time
+deu,Morgen,Morgen::N,451,morning,Time
+deu,Mittag,Mittag::N,452,noon,Time
+deu,Abend,Abend::N,453,evening,Time
+deu,Nacht,Nacht::N,454,night,Time
+deu,Woche,Woche::N,455,week,Time
+deu,Monat,Monat::N,456,month,Time
+deu,Jahr,Jahr::N,457,year,Time
+deu,Frühling,Frühling::N,458,spring,Time
+deu,Sommer,Sommer::N,459,summer,Time
+deu,Herbst,Herbst::N,460,autumn,Time
+deu,Winter,Winter::N,461,winter,Time
+deu,Januar,Januar::N,462,January,Time
+deu,Februar,Februar::N,463,February,Time
+deu,März,März::N,464,March,Time
+deu,April,April::N,465,April,Time
+deu,Mai,Mai::N,466,May,Time
+deu,Juni,Juni::N,467,June,Time
+deu,Juli,Juli::N,468,July,Time
+deu,August,August::N,469,August,Time
+deu,September,September::N,470,September,Time
+deu,Oktober,Oktober::N,471,October,Time
+deu,November,November::N,472,November,Time
+deu,Dezember,Dezember::N,473,December,Time
+deu,Montag,Montag::N,474,Monday,Time
+deu,Dienstag,Dienstag::N,475,Tuesday,Time
+deu,Mittwoch,Mittwoch::N,476,Wednesday,Time
+deu,Donnerstag,Donnerstag::N,477,Thursday,Time
+deu,Freitag,Freitag::N,478,Friday,Time
+deu,Samstag,Samstag::N,479,Saturday,Time
+deu,Sonntag,Sonntag::N,480,Sunday,Time
+deu,groß,groß::A,481,big,Spatial relations
+deu,klein,klein::A,482,little,Spatial relations
+deu,lang,lang::A,483,long,Spatial relations
+deu,kurz,kurz::A,484,short,Spatial relations
+deu,breit,breit::A,485,wide,Spatial relations
+deu,schmal,schmal::A,486,narrow,Spatial relations
+deu,dicht,dicht::A,487,dense,Spatial relations
+deu,dick,dick[Gegenstand]::A,488,thick,Spatial relations
+deu,dünn,dünn::A,489,thin,Spatial relations
+deu,fein,fein::A,490,delicate,Spatial relations
+deu,fest,fest::A,491,firm,Basic actions and technology
+deu,flach,flach::A,492,flat,Spatial relations
+deu,glatt,glatt::A,493,smooth,Sense perception
+deu,hart,hart::A,494,hard,Sense perception
+deu,weich,weich::A,495,soft,Sense perception
+deu,rund,rund::A,496,round,Spatial relations
+deu,spitz,spitz::A,497,pointed,Spatial relations
+deu,scharf,scharf::A,498,sharp,Sense perception
+deu,stumpf,stumpf::A,499,blunt,Sense perception
+deu,schwer,schwer::A,500,heavy,Sense perception
+deu,schön,schön::A,501,beautiful,Emotions and values
+deu,heiß,heiß::A,502,hot,Sense perception
+deu,warm,warm::A,503,warm,Sense perception
+deu,kalt,kalt::A,504,cold,Sense perception
+deu,kühl,kühl::A,505,cool,The physical world
+deu,frisch,frisch::A,506,fresh,The physical world
+deu,feucht,feucht::A,507,damp,Sense perception
+deu,nass,nass::A,508,wet,Sense perception
+deu,trocken,trocken::A,509,dry,Sense perception
+deu,voll,voll::A,510,full,Quantity
+deu,leer,leer::A,511,empty,Quantity
+deu,offen,offen::A,512,open,Spatial relations
+deu,geschlossen,geschlossen::A,513,closed,Spatial relations
+deu,sauber,sauber::A,514,clean,Sense perception
+deu,schmutzig,schmutzig::A,515,dirty,Sense perception
+deu,roh,roh::A,516,raw,Food and drink
+deu,reif,reif::A,517,ripe,Food and drink
+deu,lecker,lecker::A,518,delicious,Food and drink
+deu,süß,süß::A,519,sweet,Sense perception
+deu,bitter,bitter::A,520,bitter,Sense perception
+deu,sauer,sauer::A,521,sour,Sense perception
+deu,hell,hell::A,522,bright,Sense perception
+deu,dunkel,dunkel::A,523,dark,Sense perception
+deu,schwarz,schwarz::A,524,black,Sense perception
+deu,weiß,weiß::A,525,white,Sense perception
+deu,rot,rot::A,526,red,Sense perception
+deu,gelb,gelb::A,527,yellow,Sense perception
+deu,blau,blau::A,528,blue,Sense perception
+deu,grün,grün::A,529,green,Sense perception
+deu,grau,grau::A,530,grey,Sense perception
+deu,bunt,bunt::A,531,colourful,Sense perception
+deu,bunt,bunt::A,531,colorful,Sense perception
+deu,billig,billig::A,532,cheap,Possession
+deu,teuer,teuer::A,533,dear,Possession
+deu,wertvoll,wertvoll::A,534,precious,Emotions and values
+deu,blind,blind::A,535,blind,The body
+deu,taub,taub::A,536,deaf,The body
+deu,kräftig,kräftig::A,537,powerful,Emotions and values
+deu,stark,stark::A,538,strong,The body
+deu,schwach,schwach::A,539,weak,The body
+deu,fett,fett::A,540,fat,Spatial relations
+deu,schlank,schlank::A,541,slim,Spatial relations
+deu,hübsch,hübsch::A,542,pretty,Sense perception
+deu,böse,böse::A,543,evil,Emotions and values
+deu,dumm,dumm::A,544,stupid,Cognition
+deu,faul,faul::A,545,lazy,The body
+deu,fleißig,fleißig::A,546,diligent,Emotions and values
+deu,geizig,geizig::A,547,stingy,Possession
+deu,klug,klug::A,548,clever,Emotions and values
+deu,geschickt,geschickt::A,549,skilful,Basic actions and technology
+deu,geschickt,geschickt::A,549,skillful,Basic actions and technology
+deu,lieb,lieb::A,550,dear,Emotions and values
+deu,lustig,lustig::A,551,merry,Emotions and values
+deu,sanft,sanft::A,552,gentle,Emotions and values
+deu,hungrig,hungrig::A,553,hungry,Food and drink
+deu,krank,krank::A,554,sick,The body
+deu,nackt,nackt::A,555,naked,The body
+deu,traurig,traurig::A,556,sad,Emotions and values
+deu,lebendig,lebendig::A,557,living,The body
+deu,gut,gut::A,558,good,Emotions and values
+deu,schlecht,schlecht::A,559,bad,Emotions and values
+deu,richtig,richtig::A,560,correct,Emotions and values
+deu,schlimm,schlimm::A,561,nasty,Miscellaneous function words
+deu,wahr,wahr::A,562,true,Emotions and values
+deu,alt,alt::A,563,old,Time
+deu,neu,neu::A,564,new,Time
+deu,ehemalig,ehemalig::A,565,former,Time
+deu,alt,alt[Lebewesen]::A,566,aged,Time
+deu,jung,jung::A,567,young,Time
+deu,arm,arm::A,568,poor,Possession
+deu,reich,reich::A,569,rich,Possession
+deu,bekannt,bekannt::A,570,familiar,Emotions and values
+deu,berühmt,berühmt::A,571,famous,Social and political relations
+deu,fremd,fremd::A,572,foreign,Cognition
+deu,verschieden,verschieden::A,573,different,Social and political relations
+deu,nah,nah::A,574,near,Spatial relations
+deu,fern,fern::A,575,far,Spatial relations
+deu,linker,linker::A,576,left,Spatial relations
+deu,rechter,rechter::A,577,right,Spatial relations
+deu,anderer,anderer::A,578,other,Miscellaneous function words
+deu,erster,erster::A,579,first,Quantity
+deu,zweiter,zweiter::A,580,second,Quantity
+deu,dritter,dritter::A,581,third,Quantity
+deu,letzter,letzter::A,582,last,Quantity
+deu,allein,allein::ADV,583,alone,Quantity
+deu,auf einmal,auf einmal::ADV,584,at once,Time
+deu,zusammen,zusammen::ADV,585,together,Spatial relations
+deu,lange,lange::ADV,586,long,Time
+deu,plötzlich,plötzlich::ADV,587,suddenly,Time
+deu,sofort,sofort::ADV,588,instantly,Time
+deu,später,später::ADV,589,later,Time
+deu,jetzt,jetzt::ADV,590,now,Time
+deu,heute,heute::ADV,591,today,Time
+deu,morgen,morgen::ADV,592,tomorrow,Time
+deu,bald,bald::ADV,593,soon,Time
+deu,dann,dann::ADV,594,then,Time
+deu,gestern,gestern::ADV,595,yesterday,Time
+deu,einst,einst::ADV,596,once,Time
+deu,damals,damals::ADV,597,at that time,Time
+deu,danach,danach::ADV,598,afterwards,Time
+deu,vorher,vorher::ADV,599,before,Time
+deu,zuerst,zuerst::ADV,600,at first,Time
+deu,einmal,einmal::ADV,601,once,Time
+deu,manchmal,manchmal::ADV,602,sometimes,Time
+deu,oft,oft::ADV,603,often,Time
+deu,immer,immer::ADV,604,always,Time
+deu,niemals,niemals::ADV,605,never,Time
+deu,hier,hier::ADV,606,here,Miscellaneous function words
+deu,hierhin,hierhin::ADV,607,hither,Spatial relations
+deu,hierhin,hierhin::ADV,607,to here,Spatial relations
+deu,hierhin,hierhin::ADV,607,here,Spatial relations
+deu,von hier,von hier::ADV,608,hence,Cognition
+deu,dort,dort::ADV,609,there,Miscellaneous function words
+deu,dorthin,dorthin::ADV,610,thither,Spatial relations
+deu,dorthin,dorthin::ADV,610,there,Spatial relations
+deu,dorthin,dorthin::ADV,610,to there,Spatial relations
+deu,geradeaus,geradeaus::ADV,611,ahead,Spatial relations
+deu,vorwärts,vorwärts::ADV,612,forward,Spatial relations
+deu,rückwärts,rückwärts::ADV,613,backward,Spatial relations
+deu,zurück,zurück::ADV,614,back,Spatial relations
+deu,unten,unten::ADV,615,below,Spatial relations
+deu,hinab,hinab::ADV,616,down,Spatial relations
+deu,oben,oben::ADV,617,above,Spatial relations
+deu,hinauf,hinauf::ADV,618,up,Spatial relations
+deu,überall,überall::ADV,619,everywhere,Spatial relations
+deu,nicht,nicht::ADV,620,not,Miscellaneous function words
+deu,ein wenig,ein wenig::ADV,621,a little,Basic actions and technology
+deu,kaum,kaum::ADV,622,hardly,Basic actions and technology
+deu,sehr,sehr::ADV,623,very,Miscellaneous function words
+deu,so,so::ADV,624,so,Miscellaneous function words
+deu,noch,noch::ADV,625,still,Time
+deu,nur,nur::ADV,626,only,Quantity
+deu,schon,schon::ADV,627,already,Time
+deu,wieder,wieder::ADV,628,again,Time
+deu,vergebens,vergebens::ADV,629,in vain,Miscellaneous function words
+deu,vor,vor::PRP,630,in front of,Spatial relations
+deu,hinter,hinter::PRP,631,behind,Spatial relations
+deu,unter,unter::PRP,632,under,Spatial relations
+deu,durch,durch::PRP,633,through,Miscellaneous function words
+deu,neben,neben::PRP,634,next to,Spatial relations
+deu,zwischen,zwischen::PRP,635,between,Spatial relations
+deu,wegen,wegen::PRP,636,because of,Basic actions and technology
+deu,dies,dies::PRN,637,this,Miscellaneous function words
+deu,das,das::PRN,638,that,Miscellaneous function words
+deu,alles,alles::PRN,639,everything,Quantity
+deu,ich,ich::PRN,640,I,Kinship
+deu,du,du::PRN,641,you,Kinship
+deu,du,du::PRN,641,thou,Kinship
+deu,er,er::PRN,642,he,Kinship
+deu,wir,wir::PRN,643,we,Kinship
+deu,ihr,ihr::PRN,644,you,Kinship
+deu,sie,sie::PRN,645,they,Kinship
+deu,was,was::FPRN,646,what,Cognition
+deu,wer,wer::FPRN,647,who,Cognition
+deu,wo,wo::FADV,648,where,Cognition
+deu,wohin,wohin::FADV,649,where,Spatial relations
+deu,wohin,wohin::FADV,649,where to,Spatial relations
+deu,wohin,wohin::FADV,649,where ... to,Spatial relations
+deu,wie,wie::FADV,650,how,Cognition
+deu,warum,warum::FADV,651,why,Cognition
+deu,wieviel,wieviel::FNUM,652,how much,Cognition
+deu,eins,eins::NUM,653,one,Quantity
+deu,zwei,zwei::NUM,654,two,Quantity
+deu,drei,drei::NUM,655,three,Quantity
+deu,vier,vier::NUM,656,four,Quantity
+deu,fünf,fünf::NUM,657,five,Quantity
+deu,sechs,sechs::NUM,658,six,Quantity
+deu,sieben,sieben::NUM,659,seven,Quantity
+deu,acht,acht::NUM,660,eight,Quantity
+deu,neun,neun::NUM,661,nine,Quantity
+deu,zehn,zehn::NUM,662,ten,Quantity
+deu,elf,elf::NUM,663,eleven,Quantity
+deu,zwölf,zwölf::NUM,664,twelve,Quantity
+deu,zwanzig,zwanzig::NUM,665,twenty,Quantity
+deu,dreißig,dreißig::NUM,666,thirty,Quantity
+deu,vierzig,vierzig::NUM,667,forty,Quantity
+deu,fünfzig,fünfzig::NUM,668,fifty,Quantity
+deu,sechzig,sechzig::NUM,669,sixty,Quantity
+deu,siebzig,siebzig::NUM,670,seventy,Quantity
+deu,achtzig,achtzig::NUM,671,eighty,Quantity
+deu,neunzig,neunzig::NUM,672,ninety,Quantity
+deu,hundert,hundert::NUM,673,a hundred,Quantity
+deu,tausend,tausend::NUM,674,a thousand,Quantity
+deu,und,und::CNJ,675,and,Cognition
+deu,oder,oder::CNJ,676,or,Cognition
+deu,stehen,stehen::V,677,stand,Spatial relations
+deu,sitzen,sitzen::V,678,sit,Spatial relations
+deu,liegen,liegen::V,679,lie,Spatial relations
+deu,hängen,hängen::V,680,hang,Basic actions and technology
+deu,werden,werden::V,681,become,Miscellaneous function words
+deu,passieren,passieren::V,682,happen,Basic actions and technology
+deu,beginnen,beginnen::V,683,begin,Time
+deu,enden,enden::V,684,end,Time
+deu,wechseln,wechseln::V,685,change,Spatial relations
+deu,aufgehen,aufgehen[Sonne]::V,686,rise,The physical world
+deu,untergehen,untergehen[Sonne]::V,687,set,The physical world
+deu,scheinen,scheinen[Sonne]::V,688,shine,Sense perception
+deu,donnern,donnern::V,689,thunder,The physical world
+deu,wehen,wehen::V,690,blow,Motion
+deu,strömen,strömen::V,691,stream,Spatial relations
+deu,fließen,fließen::V,692,flow,Motion
+deu,sich drehen,sich drehen::V,693,revolve,Motion
+deu,schwanken,schwanken::V,694,sway,Motion
+deu,schwingen,schwingen::V,695,swing,Basic actions and technology
+deu,fallen,fallen::V,696,fall,Motion
+deu,brennen,brennen::V,697,burn,The physical world
+deu,rauchen,rauchen::V,698,smoke,Basic actions and technology
+deu,regnen,regnen::V,699,rain,The physical world
+deu,gefrieren,gefrieren::V,700,freeze,The physical world
+deu,tauen,tauen::V,701,thaw,Basic actions and technology
+deu,schmelzen,schmelzen::V,702,melt,The physical world
+deu,trocknen,trocknen::V,703,dry,Basic actions and technology
+deu,sieden,sieden::V,704,boil,Food and drink
+deu,faulen,faulen::V,705,rot,Food and drink
+deu,verfaulen,verfaulen::V,706,decay,Food and drink
+deu,reißen,reißen::V,707,snap,Basic actions and technology
+deu,versinken,versinken::V,708,sink,Basic actions and technology
+deu,vergehen,vergehen::V,709,pass,Time
+deu,erscheinen,erscheinen::V,710,appear,Basic actions and technology
+deu,verschwinden,verschwinden::V,711,disappear,Motion
+deu,sinken,sinken::V,712,drop,Motion
+deu,abnehmen,abnehmen::V,713,decrease,Basic actions and technology
+deu,zunehmen,zunehmen::V,714,increase,Basic actions and technology
+deu,steigen,steigen::V,715,rise,The physical world
+deu,wachsen,wachsen::V,716,grow,Spatial relations
+deu,glänzen,glänzen::V,717,shine,The physical world
+deu,funkeln,funkeln::V,718,sparkle,Basic actions and technology
+deu,lärmen,lärmen::V,719,be noisy,Basic actions and technology
+deu,läuten,läuten::V,720,chime,Modern world
+deu,klingeln,klingeln::V,721,ring,Modern world
+deu,klirren,klirren::V,722,tinkle,Basic actions and technology
+deu,brausen,brausen::V,723,roar,Basic actions and technology
+deu,rauschen,rauschen::V,724,rustle,Basic actions and technology
+deu,klingen,klingen::V,725,sound,Basic actions and technology
+deu,bellen,bellen::V,726,bark,Animals
+deu,heulen,heulen::V,727,howl,Speech and language
+deu,blasen,blasen::V,728,blow,Basic actions and technology
+deu,pfeifen,pfeifen::V,729,whistle,Speech and language
+deu,schreien,schreien::V,730,shout,Speech and language
+deu,stöhnen,stöhnen::V,731,groan,Emotions and values
+deu,zittern,zittern::V,732,tremble,The body
+deu,leben,leben::V,733,be alive,The body
+deu,geboren werden,geboren werden::V,734,be born,The body
+deu,atmen,atmen::V,735,breathe,The body
+deu,trinken,trinken::V,736,drink,Food and drink
+deu,essen,essen::V,737,eat,Food and drink
+deu,schlucken,schlucken::V,738,swallow,Food and drink
+deu,müde werden,müde werden::V,739,get tired,The body
+deu,einschlafen,einschlafen::V,740,fall asleep,The body
+deu,schlafen,schlafen::V,741,sleep,The body
+deu,aufwachen,aufwachen::V,742,wake up,The body
+deu,aufstehen,aufstehen::V,743,get up,Motion
+deu,sich erholen,sich erholen::V,744,relax,The body
+deu,krank werden,krank werden::V,745,fall ill,Basic actions and technology
+deu,krank sein,krank sein::V,746,be ill,Basic actions and technology
+deu,schmerzen,schmerzen::V,747,ache,The body
+deu,husten,husten::V,748,cough,The body
+deu,genesen,genesen::V,749,recover,The body
+deu,sterben,sterben::V,750,die,The body
+deu,umkommen,umkommen::V,751,perish,Basic actions and technology
+deu,sich bewegen,sich bewegen::V,752,move,Basic actions and technology
+deu,sich rühren,sich rühren::V,753,budge,Motion
+deu,sich erheben,sich erheben::V,754,stand up,Motion
+deu,sich setzen,sich setzen::V,755,sit down,Motion
+deu,hinfallen,hinfallen::V,756,tumble,Basic actions and technology
+deu,laufen,laufen::V,757,walk,Motion
+deu,schreiten,schreiten::V,758,pace,Basic actions and technology
+deu,spazierengehen,spazierengehen::V,759,go for a walk,Basic actions and technology
+deu,eilen,eilen::V,760,rush,Motion
+deu,sich beeilen,sich beeilen::V,761,hurry,Time
+deu,sausen,sausen::V,762,dash,Motion
+deu,rennen,rennen::V,763,run,Motion
+deu,springen,springen::V,764,jump,Motion
+deu,klettern,klettern::V,765,climb,Motion
+deu,schaukeln,schaukeln::V,766,seesaw,Basic actions and technology
+deu,kriechen,kriechen::V,767,creep,Motion
+deu,schwimmen,schwimmen::V,768,swim,Motion
+deu,tauchen,tauchen::V,769,dive,Motion
+deu,rudern,rudern::V,770,row,Motion
+deu,fahren,fahren::V,771,drive,Motion
+deu,fliegen,fliegen::V,772,fly,Motion
+deu,gehen,gehen::V,773,go,Motion
+deu,weggehen,weggehen::V,774,go away,Motion
+deu,abfahren,abfahren::V,775,depart,Motion
+deu,anhalten,anhalten::V,776,stop,Basic actions and technology
+deu,hineingehen,hineingehen::V,777,go in,Motion
+deu,eintreten,eintreten::V,778,enter,Motion
+deu,kommen,kommen::V,779,come,Motion
+deu,ankommen,ankommen::V,780,arrive,Motion
+deu,zurückkommen,zurückkommen::V,781,come back,Motion
+deu,bleiben,bleiben::V,782,stay,Spatial relations
+deu,warten,warten::V,783,wait,Motion
+deu,erwarten,erwarten::V,784,wait for,Motion
+deu,suchen,suchen::V,785,seek,Possession
+deu,suchen,suchen::V,785,look for,Possession
+deu,finden,finden::V,786,find,Possession
+deu,versuchen,versuchen::V,787,try,Cognition
+deu,vorbereiten,vorbereiten::V,788,prepare,Basic actions and technology
+deu,lieben,lieben::V,789,love,Emotions and values
+deu,mögen,mögen::V,790,like,Emotions and values
+deu,lachen,lachen::V,791,laugh,Emotions and values
+deu,rühren,rühren::V,792,move,Basic actions and technology
+deu,weinen,weinen::V,793,weep,Emotions and values
+deu,schimpfen,schimpfen::V,794,grumble,Emotions and values
+deu,sich ärgern,sich ärgern::V,795,be annoyed,Emotions and values
+deu,sich fürchten,sich fürchten::V,796,be afraid,Emotions and values
+deu,fürchten,fürchten::V,797,be afraid of,Emotions and values
+deu,fliehen,fliehen::V,798,flee,Motion
+deu,flüchten,flüchten::V,799,escape,Basic actions and technology
+deu,sehen,sehen::V,800,see,Sense perception
+deu,anschauen,anschauen::V,801,look at,Sense perception
+deu,ansehen,ansehen::V,802,watch,Basic actions and technology
+deu,hören,hören::V,803,hear,Sense perception
+deu,zuhören,zuhören::V,804,listen,Sense perception
+deu,probieren,probieren::V,805,taste,Sense perception
+deu,riechen,riechen::V,806,smell,Sense perception
+deu,fühlen,fühlen::V,807,feel,Basic actions and technology
+deu,scheinen,scheinen::V,808,seem,Cognition
+deu,zu sehen sein,zu sehen sein::V,809,show,Sense perception
+deu,vernehmen,vernehmen::V,810,hear,Sense perception
+deu,frieren,frieren::V,811,be cold,The body
+deu,tun,tun::V,812,do,Basic actions and technology
+deu,können,können::V,813,can,Basic actions and technology
+deu,wollen,wollen::V,814,want,Emotions and values
+deu,anfangen,anfangen::V,815,start,Time
+deu,beenden,beenden::V,816,finish,Time
+deu,aufhören,aufhören::V,817,stop,Basic actions and technology
+deu,gelingen,gelingen::V,818,succeed,Cognition
+deu,geraten,geraten::V,819,turn out,Cognition
+deu,öffnen,öffnen::V,820,open,Spatial relations
+deu,schließen,schließen::V,821,close,Spatial relations
+deu,stellen,stellen::V,822,put,Spatial relations
+deu,setzen,setzen::V,823,place,Motion
+deu,legen,legen::V,824,lay,Basic actions and technology
+deu,berühren,berühren::V,825,touch,Sense perception
+deu,verbinden,verbinden::V,826,connect,Motion
+deu,bedecken,bedecken::V,827,cover,Spatial relations
+deu,aufhängen,aufhängen::V,828,hang up,Basic actions and technology
+deu,anzünden,anzünden::V,829,light,The physical world
+deu,aufheben,aufheben::V,830,pick up,Spatial relations
+deu,zurücklassen,zurücklassen::V,831,leave,Motion
+deu,verlieren,verlieren::V,832,lose,Basic actions and technology
+deu,fallen lassen,fallen lassen::V,833,drop,Basic actions and technology
+deu,machen,machen::V,834,make,Basic actions and technology
+deu,herstellen,herstellen::V,835,produce,Modern world
+deu,bauen,bauen::V,836,build,Basic actions and technology
+deu,reparieren,reparieren::V,837,mend,Basic actions and technology
+deu,verbessern,verbessern::V,838,improve,Basic actions and technology
+deu,ändern,ändern::V,839,alter,Spatial relations
+deu,graben,graben::V,840,dig,Agriculture and vegetation
+deu,beugen,beugen::V,841,bow,Basic actions and technology
+deu,biegen,biegen::V,842,bend,Basic actions and technology
+deu,drehen,drehen::V,843,spin,Motion
+deu,wenden,wenden::V,844,turn,Motion
+deu,umdrehen,umdrehen::V,845,turn around,Motion
+deu,heben,heben::V,846,raise,Motion
+deu,hochheben,hochheben::V,847,lift,Motion
+deu,ergreifen,ergreifen::V,848,seize,Possession
+deu,halten,halten::V,849,hold,Possession
+deu,drücken,drücken::V,850,press,Basic actions and technology
+deu,schieben,schieben::V,851,push,Motion
+deu,kratzen,kratzen::V,852,scrape,Food and drink
+deu,lecken,lecken::V,853,lick,The body
+deu,beißen,beißen::V,854,bite,The body
+deu,abreißen,abreißen::V,855,tear off,Basic actions and technology
+deu,abschneiden,abschneiden::V,856,cut off,Basic actions and technology
+deu,binden,binden::V,857,tie,Basic actions and technology
+deu,stecken,stecken::V,858,stick,Motion
+deu,brechen,brechen::V,859,break,Basic actions and technology
+deu,klopfen,klopfen::V,860,knock,Motion
+deu,hauen,hauen::V,861,hit,Basic actions and technology
+deu,kleben,kleben::V,862,glue,Motion
+deu,reiben,reiben::V,863,rub,Basic actions and technology
+deu,streichen,streichen::V,864,spread,Basic actions and technology
+deu,schleifen,schleifen::V,865,grind,Basic actions and technology
+deu,schneiden,schneiden::V,866,cut,Basic actions and technology
+deu,rütteln,rütteln::V,867,jolt,Motion
+deu,schütteln,schütteln::V,868,shake,Motion
+deu,schwenken,schwenken::V,869,swing,Basic actions and technology
+deu,schütten,schütten::V,870,pour,Basic actions and technology
+deu,füllen,füllen::V,871,fill,Quantity
+deu,einwickeln,einwickeln::V,872,wrap,Motion
+deu,tragen,tragen::V,873,carry,Motion
+deu,schleppen,schleppen::V,874,drag,Basic actions and technology
+deu,ziehen,ziehen::V,875,pull,Basic actions and technology
+deu,aufbewahren,aufbewahren::V,876,keep,Possession
+deu,werfen,werfen::V,877,throw,Motion
+deu,fangen,fangen::V,878,catch,Motion
+deu,packen,packen::V,879,grab,Possession
+deu,verstecken,verstecken::V,880,hide,Spatial relations
+deu,teilen,teilen::V,881,divide,Spatial relations
+deu,schicken,schicken::V,882,send,Motion
+deu,bringen,bringen::V,883,bring,Motion
+deu,hinzufügen,hinzufügen::V,884,add,Basic actions and technology
+deu,bekommen,bekommen::V,885,get,Possession
+deu,erhalten,erhalten::V,886,receive,Possession
+deu,nehmen,nehmen::V,887,take,Possession
+deu,wählen,wählen::V,888,choose,Emotions and values
+deu,auswählen,auswählen::V,889,select,Emotions and values
+deu,bewahren,bewahren::V,890,preserve,Possession
+deu,behindern,behindern::V,891,hinder,The physical world
+deu,verderben,verderben::V,892,spoil,Social and political relations
+deu,beschädigen,beschädigen::V,893,damage,Possession
+deu,zerbrechen,zerbrechen::V,894,break,Basic actions and technology
+deu,zerreißen,zerreißen::V,895,tear,Basic actions and technology
+deu,zerstören,zerstören::V,896,destroy,Possession
+deu,verbrennen,verbrennen::V,897,burn,The physical world
+deu,geben,geben::V,898,give,Possession
+deu,reichen,reichen::V,899,hand,Basic actions and technology
+deu,schenken,schenken::V,900,give,Social and political relations
+deu,versprechen,versprechen::V,901,promise,Speech and language
+deu,wünschen,wünschen::V,902,wish,Emotions and values
+deu,loben,loben::V,903,praise,Emotions and values
+deu,küssen,küssen::V,904,kiss,Emotions and values
+deu,wiegen,wiegen::V,905,rock,Motion
+deu,zudecken,zudecken::V,906,cover,Spatial relations
+deu,wecken,wecken::V,907,wake,The body
+deu,zeigen,zeigen::V,908,show,Sense perception
+deu,führen,führen::V,909,guide,Motion
+deu,lehren,lehren::V,910,teach,Cognition
+deu,unterrichten,unterrichten::V,911,instruct,Cognition
+deu,aufziehen,aufziehen::V,912,bring up,Basic actions and technology
+deu,leiten,leiten::V,913,lead,Motion
+deu,antreiben,antreiben::V,914,urge,Emotions and values
+deu,lassen,lassen::V,915,let,Basic actions and technology
+deu,einladen,einladen::V,916,invite,Social and political relations
+deu,vereinigen,vereinigen::V,917,unite,Spatial relations
+deu,besuchen,besuchen::V,918,visit,Social and political relations
+deu,treffen,treffen::V,919,meet,Social and political relations
+deu,sich versammeln,sich versammeln::V,920,assemble,Social and political relations
+deu,spielen,spielen::V,921,play,Emotions and values
+deu,singen,singen::V,922,sing,Speech and language
+deu,tanzen,tanzen::V,923,dance,Motion
+deu,sich trennen,sich trennen::V,924,separate,Motion
+deu,verlassen,verlassen::V,925,leave,Motion
+deu,retten,retten::V,926,rescue,Possession
+deu,bewachen,bewachen::V,927,guard,Basic actions and technology
+deu,schützen,schützen::V,928,protect,Basic actions and technology
+deu,verteidigen,verteidigen::V,929,defend,Basic actions and technology
+deu,sich schlagen,sich schlagen::V,930,brawl,Basic actions and technology
+deu,schießen,schießen::V,931,shoot,Basic actions and technology
+deu,siegen,siegen::V,932,win,Social and political relations
+deu,ärgern,ärgern::V,933,annoy,Emotions and values
+deu,schlagen,schlagen::V,934,beat,Basic actions and technology
+deu,treten,treten::V,935,kick,Motion
+deu,stechen,stechen::V,936,sting,The body
+deu,stoßen,stoßen::V,937,shove,Motion
+deu,stehlen,stehlen::V,938,steal,Basic actions and technology
+deu,stören,stören::V,939,disturb,Emotions and values
+deu,belästigen,belästigen::V,940,bother,Emotions and values
+deu,verbergen,verbergen::V,941,conceal,Spatial relations
+deu,täuschen,täuschen::V,942,deceive,Emotions and values
+deu,betrügen,betrügen::V,943,cheat,Cognition
+deu,töten,töten::V,944,kill,The body
+deu,wohnen,wohnen::V,945,dwell,The house
+deu,arbeiten,arbeiten::V,946,work,Basic actions and technology
+deu,sammeln,sammeln::V,947,gather,Spatial relations
+deu,pflücken,pflücken::V,948,pick,Basic actions and technology
+deu,jagen,jagen::V,949,hunt,Basic actions and technology
+deu,fischen,fischen::V,950,fish,Basic actions and technology
+deu,fassen,fassen::V,951,catch,Basic actions and technology
+deu,hüten,hüten::V,952,herd,Basic actions and technology
+deu,treiben,treiben::V,953,drive,Animals
+deu,anbinden,anbinden::V,954,tie up,Basic actions and technology
+deu,füttern,füttern::V,955,feed,Food and drink
+deu,melken,melken::V,956,milk,Food and drink
+deu,hacken,hacken::V,957,chop,Basic actions and technology
+deu,gießen,gießen::V,958,water,Agriculture and vegetation
+deu,reifen,reifen::V,959,ripen,Food and drink
+deu,zubereiten,zubereiten::V,960,cook,Food and drink
+deu,kochen,kochen::V,961,boil,Food and drink
+deu,backen,backen::V,962,bake,Food and drink
+deu,braten,braten::V,963,fry,Food and drink
+deu,umrühren,umrühren::V,964,stir,Food and drink
+deu,stricken,stricken::V,965,knit,Basic actions and technology
+deu,nähen,nähen::V,966,sew,Clothing and grooming
+deu,färben,färben::V,967,dye,Clothing and grooming
+deu,reinigen,reinigen::V,968,clean,Motion
+deu,waschen,waschen::V,969,wash,Basic actions and technology
+deu,abwischen,abwischen::V,970,wipe,Basic actions and technology
+deu,spülen,spülen::V,971,rinse,Basic actions and technology
+deu,fegen,fegen::V,972,sweep,Basic actions and technology
+deu,kehren,kehren::V,973,sweep,Basic actions and technology
+deu,baden,baden::V,974,bath,The body
+deu,sich waschen,sich waschen::V,975,wash,Basic actions and technology
+deu,ausziehen,ausziehen::V,976,take off,Basic actions and technology
+deu,anziehen,anziehen::V,977,put on,Clothing and grooming
+deu,sich anziehen,sich anziehen::V,978,get dressed,Clothing and grooming
+deu,kämmen,kämmen::V,979,comb,Clothing and grooming
+deu,schmücken,schmücken::V,980,decorate,Clothing and grooming
+deu,sagen,sagen::V,981,say,Speech and language
+deu,sprechen,sprechen::V,982,speak,Speech and language
+deu,reden,reden::V,983,talk,Basic actions and technology
+deu,sich unterhalten,sich unterhalten::V,984,chat,Basic actions and technology
+deu,fragen,fragen::V,985,ask,Speech and language
+deu,bitten,bitten::V,986,request,Speech and language
+deu,erzählen,erzählen::V,987,tell,Speech and language
+deu,mitteilen,mitteilen::V,988,convey,Basic actions and technology
+deu,nennen,nennen::V,989,name,Speech and language
+deu,rufen,rufen::V,990,call,Speech and language
+deu,prahlen,prahlen::V,991,brag,Speech and language
+deu,übersetzen,übersetzen::V,992,translate,Basic actions and technology
+deu,denken,denken::V,993,think,Cognition
+deu,glauben,glauben::V,994,believe,Cognition
+deu,bemerken,bemerken::V,995,notice,Basic actions and technology
+deu,erkennen,erkennen::V,996,recognize,Basic actions and technology
+deu,begreifen,begreifen::V,997,grasp,Cognition
+deu,verstehen,verstehen::V,998,understand,Cognition
+deu,lernen,lernen::V,999,learn,Cognition
+deu,wissen,wissen::V,1000,know,Cognition
+deu,sich erinnern an,sich erinnern an::V,1001,remember,Cognition
+deu,vergessen,vergessen::V,1002,forget,Cognition
+deu,messen,messen::V,1003,measure,Spatial relations
+deu,zählen,zählen::V,1004,count,Quantity
+deu,rechnen,rechnen::V,1005,calculate,Modern world
+deu,lesen,lesen::V,1006,read,Speech and language
+deu,malen,malen::V,1007,paint,Basic actions and technology
+deu,zeichnen,zeichnen::V,1008,draw,Basic actions and technology
+deu,schreiben,schreiben::V,1009,write,Speech and language
+deu,besitzen,besitzen::V,1010,own,Possession
+deu,kaufen,kaufen::V,1011,buy,Possession
+deu,verkaufen,verkaufen::V,1012,sell,Possession
+deu,bezahlen,bezahlen::V,1013,pay for,Possession
+deu,zahlen,zahlen::V,1014,pay,Possession
+deu,beherrschen,beherrschen::V,1015,rule,Social and political relations
+deu,ertragen,ertragen::V,1016,endure,Basic actions and technology
 eng,eye,Auge::N,1,eye,The body
 eng,ear,Ohr::N,2,ear,The body
 eng,nose,Nase::N,3,nose,The body
