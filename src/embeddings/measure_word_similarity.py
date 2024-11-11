@@ -5,7 +5,7 @@ import pandas as pd
 import numpy as np
 import os 
 
-def limited_most_similar(model, target_word, specific_words, top_n=10):
+def limited_most_similar(model, target_word, specific_words, top_n=100):
     """
     Computes the most similar words to the target word, limited to a specific list of words.
 
@@ -57,54 +57,56 @@ def limited_most_similar(model, target_word, specific_words, top_n=10):
     return most_similar_words
 
 model_path_mapping = {
-    'synthetic': '/scratch/gpfs/vv7118/projects/semantic-accents/embeddings/synthetic/Meta-Llama-3-1-70B-Instruct-htzs_{lang}/fasttext.model',
+    'synthetic': '/scratch/gpfs/vv7118/projects/semantic-accents/embeddings/synthetic/{model_name}_{lang}/fasttext.model',
     'real': '/scratch/gpfs/vv7118/projects/semantic-accents/embeddings/real/human_{lang}/fasttext.model'
 }
 
 def main():
     langs = ['en', 'fr', 'et', 'hi', 'ja', 'ru', 'de']
     settings = ['synthetic', 'real']
+    model_names = ['Meta-Llama-3-1-70B-Instruct-htzs', 'Meta-Llama-3-1-8B-Instruct-nwxcg']
 
-    for i, setting1 in enumerate(settings):
-        for setting2 in settings[i:]:  # Only consider settings in the upper triangle, including the diagonal
-            for lang1 in tqdm(langs, desc="Processing languages for setting: " + setting1):
-                for lang2 in langs:  # Only consider languages after the current one
-                    print(lang1, lang2)
-                    data_rows = []
-                    if setting1 == setting2 and lang1 == lang2:
-                        continue
-
-                    src_emb = model_path_mapping[setting1].format(lang=lang1)
-                    tgt_emb = model_path_mapping[setting2].format(lang=lang2)
-                    try: 
-                        m1 = FastText.load(src_emb)
-                        m2 = FastText.load(tgt_emb)
-
-                        mapping_path = f'data/NorthErualex_concepts/mappings/{lang1}_{lang2}.json'
-                        with open(mapping_path, 'r') as f:
-                            mapping = json.load(f)
+    for model_name in model_names:
+        for i, setting1 in enumerate(settings):
+            for setting2 in settings[i:]:  # Only consider settings in the upper triangle, including the diagonal
+                for lang1 in tqdm(langs, desc="Processing languages for setting: " + setting1):
+                    for lang2 in langs:  # Only consider languages after the current one
+                        print(lang1, lang2)
+                        data_rows = []
+                        if (lang1 == lang2) & (setting1 == setting2):
+                            continue
                         
-                        # collect all target words
-                        src_words = []
-                        for word, _ in mapping.items():
-                            src_words.append(word)
+                        src_emb = model_path_mapping[setting1].format(lang=lang1, model_name=model_name)
+                        tgt_emb = model_path_mapping[setting2].format(lang=lang2, model_name=model_name)
+                        try: 
+                            m1 = FastText.load(src_emb)
+                            m2 = FastText.load(tgt_emb)
 
-                        # get the embeddings for all words
-                        for word in tqdm(src_words, desc='looping over src words for langs - ' + lang1 + ' ' + lang2):
-                            tr_words = mapping[word]
-                            most_sim = limited_most_similar(m1, word, src_words, top_n=25)
-                            for sim_word, sim_score in most_sim:
-                                tr_sim_words = mapping[sim_word]
-                                for tr_word in tr_words:
-                                    for tr_sim_word in tr_sim_words:
-                                        sim = m2.wv.similarity(tr_word, tr_sim_word)
-                                        data_rows.append({'src_word': word, 'tr_src_word': tr_word, 'tar_word': sim_word, 'tr_tar_word': tr_sim_word, 'sim': sim_score,'tr_sim': sim})
-                        df = pd.DataFrame(data_rows)   
-                        os.makedirs(f'data/NorthErualex_concepts/similarity/{setting1}_{setting2}', exist_ok=True)
-                        df.to_csv(f'data/NorthErualex_concepts/similarity/{setting1}_{setting2}/{lang1}_{lang2}.csv', index=False)
-                    except Exception as e:
-                        print("didnt locate the model for ", lang1, lang2)
-                        print(e)
+                            mapping_path = f'data/NorthErualex_concepts/mappings/{lang1}_{lang2}.json'
+                            with open(mapping_path, 'r') as f:
+                                mapping = json.load(f)
+
+                            # collect all target words
+                            src_words = []
+                            for word, _ in mapping.items():
+                                src_words.append(word)
+
+                            # get the embeddings for all words
+                            for word in tqdm(src_words, desc='looping over src words for langs - ' + lang1 + ' ' + lang2):
+                                tr_words = mapping[word]
+                                most_sim = limited_most_similar(m1, word, src_words, top_n=100)
+                                for sim_word, sim_score in most_sim:
+                                    tr_sim_words = mapping[sim_word]
+                                    for tr_word in tr_words:
+                                        for tr_sim_word in tr_sim_words:
+                                            sim = m2.wv.similarity(tr_word, tr_sim_word)
+                                            data_rows.append({'src_word': word, 'tr_src_word': tr_word, 'tar_word': sim_word, 'tr_tar_word': tr_sim_word, 'sim': sim_score,'tr_sim': sim})
+                            df = pd.DataFrame(data_rows)   
+                            os.makedirs(f'data/NorthErualex_concepts/similarity/{model_name}/{setting1}_{setting2}', exist_ok=True)
+                            df.to_csv(f'data/NorthErualex_concepts/similarity/{model_name}/{setting1}_{setting2}/{lang1}_{lang2}.csv', index=False)
+                        except Exception as e:
+                            print("didnt locate the model for ", lang1, lang2)
+                            print(e)
                     
 
 if __name__ == "__main__":
