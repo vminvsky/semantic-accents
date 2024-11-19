@@ -11,17 +11,19 @@ model_path_mapping = {
 }
 
 def main():
-    langs = ['en', 'fr', 'et', 'hi', 'ja', 'ru', 'de']
+    langs = ['de','en', 'fr', 'hi', 'ja', 'ru']
     settings = ['synthetic', 'real']
     prompt_formats = ['']  # TODO: Add localized suffix if needed
     word_source = 'concreteness'  # 'concreteness' or 'NorthErualex_concepts'
     model_names = ['Meta-Llama-3-1-70B-Instruct-htzs', 'Meta-Llama-3-1-8B-Instruct-nwxcg']
-    top_n = 100
+    top_n = 25
 
     for prompt_format in prompt_formats:
         for model_name in model_names:
             for i, setting1 in enumerate(settings):
+            # for i, setting1 in enumerate(tqdm(['synthetic'], desc="Processing settings")):
                 for setting2 in settings[i:]:  # Upper triangle including diagonal
+                # for setting2 in ['real']:
                     for lang1 in tqdm(langs, desc=f"Processing languages for setting: {setting1}"):
                         for lang2 in langs:
                             if (lang1 == lang2) and (setting1 == setting2):
@@ -55,54 +57,58 @@ def main():
 
                                 # For each word, get top N most similar words
                                 for idx, word in enumerate(tqdm(src_word_list, desc=f'Processing words for {lang1}-{lang2}')):
-                                    tr_words = mapping[word]
-                                    similarities = similarity_matrix[idx]
-                                    similarities[idx] = -np.inf  # Exclude self-similarity
+                                    try: 
+                                        tr_words = mapping[word]
+                                        similarities = similarity_matrix[idx]
+                                        similarities[idx] = -np.inf  # Exclude self-similarity
 
-                                    # Get top N indices
-                                    top_indices = np.argpartition(-similarities, top_n)[:top_n]
-                                    top_similarities = similarities[top_indices]
-                                    top_words = [src_word_list[i] for i in top_indices]
+                                        # Get top N indices
+                                        top_indices = np.argpartition(-similarities, top_n)[:top_n]
+                                        top_similarities = similarities[top_indices]
+                                        top_words = [src_word_list[i] for i in top_indices]
 
-                                    # Prepare translation word vectors
-                                    tr_word_set = set(tr_words)
-                                    tr_word_vectors = {w: m2.wv[w] for w in tr_word_set if w in m2.wv}
+                                        # Prepare translation word vectors
+                                        tr_word_set = set(tr_words)
+                                        tr_word_vectors = {w: m2.wv[w] for w in tr_word_set if w in m2.wv}
 
-                                    # Process each similar word
-                                    for sim_word, sim_score in zip(top_words, top_similarities):
-                                        tr_sim_words = mapping.get(sim_word, [])
-                                        tr_sim_word_set = set(tr_sim_words)
-                                        tr_sim_word_vectors = {w: m2.wv[w] for w in tr_sim_word_set if w in m2.wv}
+                                        # Process each similar word
+                                        for sim_word, sim_score in zip(top_words, top_similarities):
+                                            tr_sim_words = mapping.get(sim_word, [])
+                                            tr_sim_word_set = set(tr_sim_words)
+                                            tr_sim_word_vectors = {w: m2.wv[w] for w in tr_sim_word_set if w in m2.wv}
 
-                                        # Skip if no translation vectors found
-                                        if not tr_word_vectors or not tr_sim_word_vectors:
-                                            continue
+                                            # Skip if no translation vectors found
+                                            if not tr_word_vectors or not tr_sim_word_vectors:
+                                                continue
 
-                                        # Prepare arrays for vectorized computation
-                                        tr_word_vecs = np.array(list(tr_word_vectors.values()))
-                                        tr_sim_word_vecs = np.array(list(tr_sim_word_vectors.values()))
+                                            # Prepare arrays for vectorized computation
+                                            tr_word_vecs = np.array(list(tr_word_vectors.values()))
+                                            tr_sim_word_vecs = np.array(list(tr_sim_word_vectors.values()))
 
-                                        # Normalize vectors
-                                        tr_word_norms = np.linalg.norm(tr_word_vecs, axis=1, keepdims=True)
-                                        tr_sim_word_norms = np.linalg.norm(tr_sim_word_vecs, axis=1, keepdims=True)
-                                        tr_word_vecs_norm = tr_word_vecs / tr_word_norms
-                                        tr_sim_word_vecs_norm = tr_sim_word_vecs / tr_sim_word_norms
+                                            # Normalize vectors
+                                            tr_word_norms = np.linalg.norm(tr_word_vecs, axis=1, keepdims=True)
+                                            tr_sim_word_norms = np.linalg.norm(tr_sim_word_vecs, axis=1, keepdims=True)
+                                            tr_word_vecs_norm = tr_word_vecs / tr_word_norms
+                                            tr_sim_word_vecs_norm = tr_sim_word_vecs / tr_sim_word_norms
 
-                                        # Compute cosine similarity matrix
-                                        tr_similarity_matrix = np.dot(tr_word_vecs_norm, tr_sim_word_vecs_norm.T)
+                                            # Compute cosine similarity matrix
+                                            tr_similarity_matrix = np.dot(tr_word_vecs_norm, tr_sim_word_vecs_norm.T)
 
-                                        # Collect data rows
-                                        for i, tr_word in enumerate(tr_word_vectors.keys()):
-                                            for j, tr_sim_word in enumerate(tr_sim_word_vectors.keys()):
-                                                tr_sim = tr_similarity_matrix[i, j]
-                                                data_rows.append({
-                                                    'src_word': word,
-                                                    'tr_src_word': tr_word,
-                                                    'tar_word': sim_word,
-                                                    'tr_tar_word': tr_sim_word,
-                                                    'sim': sim_score,
-                                                    'tr_sim': tr_sim
-                                                })
+                                            # Collect data rows
+                                            for i, tr_word in enumerate(tr_word_vectors.keys()):
+                                                for j, tr_sim_word in enumerate(tr_sim_word_vectors.keys()):
+                                                    tr_sim = tr_similarity_matrix[i, j]
+                                                    data_rows.append({
+                                                        'src_word': word,
+                                                        'tr_src_word': tr_word,
+                                                        'tar_word': sim_word,
+                                                        'tr_tar_word': tr_sim_word,
+                                                        'sim': sim_score,
+                                                        'tr_sim': tr_sim
+                                                    })
+                                    except Exception as e:
+                                        print(f"Error processing word {word}: {e}")
+                                        continue
 
                                 # Save results
                                 output_dir = f'data/{word_source}/similarity/{model_name}/{setting1}_{setting2}'

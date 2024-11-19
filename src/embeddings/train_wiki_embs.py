@@ -10,6 +10,7 @@ import numpy as np
 from gensim.models import FastText
 from gensim.models.phrases import Phrases, Phraser
 from gensim.utils import simple_preprocess
+from transformers import AutoTokenizer
 import spacy
 # import fugashi
 from datetime import datetime
@@ -25,11 +26,11 @@ from config import langs
 @dataclass
 class TrainingConfig:
     vector_size: int = 100
-    window: int = 5
+    window: int = 10
     negative: int = 5
     min_count: int = 5
     lr: float = 0.025
-    workers: int = 15
+    workers: int = 4
     sg: int = 1  # Skip-gram is better for parallelogram tasks
     epochs: int = 5
     seed: int = 42
@@ -42,11 +43,14 @@ class TrainingConfig:
 config = TrainingConfig()
 
 class WikiEmbeddingTrainer:
-    def __init__(self, config, data_source: str = 'synthetic'):
+    def __init__(self, config, data_source: str = 'synthetic', tokenizer: str = 'hf', overwrite=True):
         """Initialize the embedding trainer."""
         self.data_source = data_source 
+        self.overwrite = overwrite
+        self.tokenizer = tokenizer
+        self.langs = ['bn', 'de', 'en', 'et', 'fr', 'hi', 'ja', 'ru']
         if data_source == 'synthetic':
-            base_dir = Path("data/wiki_gen/")
+            base_dir = Path("data/wiki_gen_cleaned/")
         elif data_source == 'real':
             base_dir = Path("data/wikipedia/sections/extracted/")
         self.base_dir = Path(base_dir)
@@ -70,84 +74,32 @@ class WikiEmbeddingTrainer:
         """Initialize tokenizers for different languages."""
         self.tokenizers = {}
         self.tokenizer_versions = {}
-        try:
-            # English
-            self.tokenizers['en'] = spacy.load('en_core_web_sm')
-            self.tokenizer_versions['en'] = self.tokenizers['en'].meta.get('version', 'unknown')
-        except:
-            self.logger.warning("English SpaCy model not found. Run: python -m spacy download en_core_web_sm")
-            self.tokenizer_versions['en'] = None
-            
-        try:
-            # German
-            self.tokenizers['de'] = spacy.load('de_core_news_sm')
-            self.tokenizer_versions['de'] = self.tokenizers['de'].meta.get('version', 'unknown')
-        except:
-            self.logger.warning("German SpaCy model not found. Run: python -m spacy download de_core_news_sm")
-            self.tokenizer_versions['de'] = None
-            
-        try:
-            # Russian
-            self.tokenizers['ru'] = spacy.load('ru_core_news_sm')
-            self.tokenizer_versions['ru'] = self.tokenizers['ru'].meta.get('version', 'unknown')
-        except:
-            self.logger.warning("Russian SpaCy model not found. Run: python -m spacy download ru_core_news_sm")
-            self.tokenizer_versions['ru'] = None
-
-        try:
-            # Russian
-            self.tokenizers['fr'] = spacy.load('fr_core_news_sm')
-            self.tokenizer_versions['fr'] = self.tokenizers['fr'].meta.get('version', 'unknown')
-        except:
-            self.logger.warning("French SpaCy model not found. Run: python -m spacy download fr_core_news_sm")
-            self.tokenizer_versions['fr'] = None
-            
-        try:
-            # Estonian - using simple tokenizer as spaCy doesn't have Estonian
-            self.tokenizers['et'] = lambda text: simple_preprocess(text, deacc=True)
-            self.tokenizer_versions['et'] = 'simple_preprocess'
-        except:
-            self.logger.warning("Using simple tokenizer for Estonian")
-            self.tokenizer_versions['et'] = None
-            
-        try:
-            # Japanese
-            import fugashi
-            self.tokenizers['ja'] = fugashi.Tagger()
-            self.tokenizer_versions['ja'] = fugashi.__version__
-        except:
-            self.logger.warning("Japanese Fugashi tagger not found. Install fugashi and mecab-python3")
-            self.tokenizer_versions['ja'] = None
+        if self.tokenizer == 'hf':
+            for lang in self.langs:
+                try:
+                    self.tokenizers[lang] = AutoTokenizer.from_pretrained('meta-llama/Meta-Llama-3-8B')
+                    self.tokenizer_versions[lang] = 'meta-llama/Meta-Llama-3-8B'
+                except:
+                    self.logger.warning(f"Tokenizer not found for {lang}")
+                    self.tokenizer_versions[lang] = None
+        elif self.tokenizer == 'spacy':
+            raise NotImplementedError("Spacy tokenizers are not supported yet.")
 
     def tokenize_text(self, text: str, language: str, remove_stopwords: bool = False) -> List[str]:
         """Tokenize text based on language."""
-        if language not in self.tokenizers:
-            self.logger.warning(f"No specific tokenizer for {language}, using simple tokenizer")
-            return simple_preprocess(text, deacc=True)
-            
-        if language in ['ja']:
-            # Special handling for Japanese
-            return [token.surface for token in self.tokenizers[language].parse(text).split()]
-        elif language in ['en', 'de', 'ru', 'fr', 'hi']:
-            # SpaCy-based tokenization
-            doc = self.tokenizers[language](text)
-            if remove_stopwords:
-                return [token.text.lower() for token in doc if not token.is_stop and not token.is_punct]
-            else:
-                return [token.text.lower() for token in doc if not token.is_punct]
-        elif language == 'et':
-            return self.tokenizers[language](text)
-        else:
-            raise ValueError(f"Unsupported language: {language}")
+        # TODO debate creating language-specific tokenizers. will be important for symbol langs like jap
+        return text.split()
 
     def preprocess_articles(self, articles: List[Dict], language: str) -> List[List[str]]:
         """Preprocess articles into tokenized sentences."""
         processed_articles = []
         
+        total_words = 0
         for article in tqdm(articles, desc="formatting articles"):
             tokens = self.tokenize_text(article['article'], language)
+            total_words += len(tokens)
             processed_articles.append(tokens)
-            
+        print('total words', total_words)
         return processed_articles
 
     def train_embeddings(self, articles: List[Dict], language: str, 
@@ -158,7 +110,7 @@ class WikiEmbeddingTrainer:
         # Path to the cached processed articles
         processed_articles_file = lang_dir / "processed_articles.pkl"
 
-        if processed_articles_file.exists():
+        if (processed_articles_file.exists()) and not self.overwrite:
             self.logger.info(f"Loading processed articles from {processed_articles_file}")
             with open(processed_articles_file, "rb") as f:
                 data = pickle.load(f)
@@ -306,9 +258,10 @@ def main():
     parser = argparse.ArgumentParser(description="Train Wiki Embeddings")
     parser.add_argument('--lang', type=parse_languages, required=True, help='Language(s) for training (comma-separated for multiple)')
     parser.add_argument('--data_source', type=str, required=True, help='Which data source to use (`synthetic` or `real`)')
+    parser.add_argument('--overwrite', default=False, help='Overwrite the existing processed articles.')
     args = parser.parse_args()
     config = TrainingConfig()
-    trainer = WikiEmbeddingTrainer(config,data_source=args.data_source)
+    trainer = WikiEmbeddingTrainer(config,data_source=args.data_source, overwrite=args.overwrite)
     trainer.process_all_articles(limit_langs=args.lang)
 
 if __name__ == "__main__":

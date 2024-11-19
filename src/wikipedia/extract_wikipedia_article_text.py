@@ -49,7 +49,7 @@ def main(lang: str):
     output_file = f'{output_path}articles.jsonl'
     with open(output_file, 'w') as f:
         for item in all_data:
-            f.write(json.dumps(item) + '\n')
+            f.write(json.dumps(item) + '\n', ensure_ascii=False)
 
 if __name__ == '__main__':
     for lang in langs:

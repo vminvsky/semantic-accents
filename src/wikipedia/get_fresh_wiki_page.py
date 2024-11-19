@@ -9,12 +9,18 @@ logger = logging.getLogger(__name__)
 logging.basicConfig(level=logging.INFO, format="%(levelname)-8s : %(message)s")
 
 # langs = ['en', 'de', 'fr', 'et', 'ja', 'hi']  # Add other language codes as needed
-langs = ['ru']
+langs = ['bn']
 
-def get_most_edited_wikipedia_titles(year: str, month: str, lang: str, day: str = "all-days"):
-    a = requests.get(
-        f"https://wikimedia.org/api/rest_v1/metrics/edited-pages/top-by-edits/{lang}.wikipedia/all-editor-types/content/{year}/{month}/{day}"
-    )
+def get_most_edited_wikipedia_titles(year: str, month: str, lang: str, day: str = "all-days", metric: str = 'pageviews'):
+    if metric == 'pageviews':
+        a = requests.get(
+            f"https://wikimedia.org/api/rest_v1/metrics/pageviews/top/{lang}.wikipedia/all-access/{year}/{month}/{day}",
+            headers={"accept": "application/json"}
+        )
+    else:
+        a = requests.get(
+            f"https://wikimedia.org/api/rest_v1/metrics/edited-pages/top-by-edits/{lang}.wikipedia/all-editor-types/content/{year}/{month}/{day}"
+        )
     results = a.json()["items"][0]["results"][0]["top"]
     titles = [result["page_title"].replace("_", " ") for result in results]
     return titles
@@ -99,18 +105,19 @@ def main():
         }
         print(f"Processing {lang}...")
         for year, month in tqdm(time_periods):
-            titles = get_most_edited_wikipedia_titles(year, month, lang)
-            date_format = f"{year}-{month}"
-            for title in titles:
-                # predicted_quality = get_predicted_quality(title, lang)
-                # if predicted_quality is None:
-                #     logger.error(f'Fail to include "{title}"')
-                #     continue
-                data['topic'].append(title)
-                data['url'].append(f'https://{lang}.wikipedia.org/wiki/{title.replace(" ", "_")}')
-                data['date'] = date_format
-                # data['predicted_class'].append(predicted_quality['prediction'])
-                # data['predicted_scores'].append(predicted_quality['probability'])
+            for metric in ['edits','pageviews']:
+                titles = get_most_edited_wikipedia_titles(year, month, lang, metric=metric)
+                date_format = f"{year}-{month}"
+                for title in titles:
+                    # predicted_quality = get_predicted_quality(title, lang)
+                    # if predicted_quality is None:
+                    #     logger.error(f'Fail to include "{title}"')
+                    #     continue
+                    data['topic'].append(title)
+                    data['url'].append(f'https://{lang}.wikipedia.org/wiki/{title.replace(" ", "_")}')
+                    data['date'] = date_format
+                    # data['predicted_class'].append(predicted_quality['prediction'])
+                    # data['predicted_scores'].append(predicted_quality['probability'])
 
         df = pd.DataFrame(data)
         df.to_csv(f'data/wikipedia/{lang}_recent_edit_topic.csv')

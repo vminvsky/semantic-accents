@@ -47,17 +47,6 @@ def extract_data(url, reference_dict):
         data[section_title] = section_data
     return data
 
-# def extract_inner_loop(sibling, section_data, reference_dict):
-#     if sibling.name in ['h1', 'h2', 'h3', "h4", "h5", "h6"]:
-#         pass # break the loop
-#     if sibling.name == 'p':
-#         for sentence in sibling.text.replace("[", " [").split('. '):
-#             if sentence:
-#                 sentence, refs = get_references(sentence, reference_dict)
-#                 if sentence:
-#                     section_data.append({"sentence": sentence, "refs": refs})
-#     return section_data
-
 def extract_inner_loop(sibling, section_data, reference_dict):
     try:
         for sentence in sibling.text.replace("[", " [").split('. '):
@@ -208,9 +197,9 @@ def process_url(url, output_dir, lang, username='Knowledge Curation Project'):
     # result['flair_entities'] = extract_entities_flair(clean_txt)
 
     with open(json_file_path, "w") as f:
-        json.dump(result, f, indent=2)
+        json.dump(result, f, indent=2, ensure_ascii=False)
     with open(txt_file_path, "w") as f:
-        f.write(txt)
+        f.write(txt, ensure_ascii=False)
 
 def main(output_dir, file_path, lang):
     pathlib.Path(f'{output_dir}/json/{lang}').mkdir(parents=True, exist_ok=True)
