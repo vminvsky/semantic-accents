@@ -8,21 +8,42 @@ from tqdm import tqdm
 logger = logging.getLogger(__name__)
 logging.basicConfig(level=logging.INFO, format="%(levelname)-8s : %(message)s")
 
-# langs = ['en', 'de', 'fr', 'et', 'ja', 'hi']  # Add other language codes as needed
-langs = ['bn']
+langs = ['bn', 'en', 'de', 'ru']  # Add other language codes as needed
+# langs = ['bn']
+
+LANGS = {
+    'en': "US",
+    'de': "DE",
+    'fr': "FR",
+    'ru': "RU",
+    'es': "ES",
+    'ja': "JP",
+    'bn': "BD",
+}
+
 
 def get_most_edited_wikipedia_titles(year: str, month: str, lang: str, day: str = "all-days", metric: str = 'pageviews'):
+    headers = {
+        "accept": "application/json",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    }
+
     if metric == 'pageviews':
+        # a = requests.get(
+        #     f"https://wikimedia.org/api/rest_v1/metrics/pageviews/top-per-country/{LANGS[lang]}/all-access/{year}/{month}/{day}",
+        #     headers=headers)
         a = requests.get(
-            f"https://wikimedia.org/api/rest_v1/metrics/pageviews/top/{lang}.wikipedia/all-access/{year}/{month}/{day}",
-            headers={"accept": "application/json"}
+            f"https://wikimedia.org/api/rest_v1/metrics/pageviews/top/{lang}.wikipedia.org/all-access/{year}/{month}/{day}",
+            headers=headers
         )
+        results = a.json()['items'][0]['articles']
+        titles = [result['article'].replace("_", " ") for result in results]
     else:
         a = requests.get(
             f"https://wikimedia.org/api/rest_v1/metrics/edited-pages/top-by-edits/{lang}.wikipedia/all-editor-types/content/{year}/{month}/{day}"
         )
-    results = a.json()["items"][0]["results"][0]["top"]
-    titles = [result["page_title"].replace("_", " ") for result in results]
+        results = a.json()["items"][0]["results"][0]["top"]
+        titles = [result["page_title"].replace("_", " ") for result in results]
     return titles
 
 
@@ -100,6 +121,7 @@ def main():
         data = {
             'topic': [],
             'url': [],
+            'date': [],
             # 'predicted_class': [],
             # 'predicted_scores': []
         }
@@ -115,11 +137,12 @@ def main():
                     #     continue
                     data['topic'].append(title)
                     data['url'].append(f'https://{lang}.wikipedia.org/wiki/{title.replace(" ", "_")}')
-                    data['date'] = date_format
+                    data['date'].append(date_format)
                     # data['predicted_class'].append(predicted_quality['prediction'])
                     # data['predicted_scores'].append(predicted_quality['probability'])
 
         df = pd.DataFrame(data)
+        df = df.drop_duplicates(subset=['topic'])
         df.to_csv(f'data/wikipedia/{lang}_recent_edit_topic.csv')
 
 
