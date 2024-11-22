@@ -26,17 +26,17 @@ def convert_to_correct_format(data):
 
     lang1_data.to_csv('data/concreteness/aligned_words.csv', index=False, encoding='utf-8')
 
-def create_prompts(n_words: int = 10, num_samples=10000):
+def create_prompts(n_words: int = 10, num_samples=40000, seed=42):
     data = pd.read_csv('data/concreteness/aligned_words.csv')
     langs = ['de','bn','ru', 'en']
     col_format = '{lang}_word'
     lang_list = defaultdict(list)
     for _ in tqdm(range(num_samples)):
-        data = data.sample(n_words)
+        data_sample = data.sample(n_words)
         for lang in langs:
             col = col_format.format(lang=lang)
             # convert to list of words
-            words = data[col].tolist()
+            words = data_sample[col].tolist()
             lang_list[lang].append(words)
 
     output_dir = 'data/concreteness/random_words'
@@ -44,7 +44,8 @@ def create_prompts(n_words: int = 10, num_samples=10000):
 
     for lang in langs:
         temp_df = pd.DataFrame(lang_list[lang]).apply(list, axis=1)
-        temp_df.to_json(os.path.join(output_dir, f'{lang}.json'), orient='records', force_ascii=False, indent=4)
+        temp_df.to_csv(os.path.join(output_dir, f'{lang}.csv'), index=False, header=False, encoding='utf-8')
+        # temp_df.to_json(os.path.join(output_dir, f'{lang}.json'), orient='index', force_ascii=False, indent=4)
 
 
 if __name__ == '__main__':
