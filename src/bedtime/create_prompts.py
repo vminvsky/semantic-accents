@@ -28,6 +28,7 @@ def convert_to_correct_format(data):
 
 def create_prompts(n_words: int = 10, num_samples=40000, seed=42):
     data = pd.read_csv('data/concreteness/aligned_words.csv')
+    data = data.dropna()
     langs = ['de','bn','ru', 'en']
     col_format = '{lang}_word'
     lang_list = defaultdict(list)
